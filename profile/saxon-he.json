@@ -1,0 +1,300 @@
+{
+  "Name":           "saxon-he",
+  "Title":          "Saxon-HE",
+  "SourceUrl":      "https://sourceforge.net/projects/saxon/files/Saxon-HE/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "1",
+  "Package":        "saxonhe",
+  "ReleasePattern": "\A(\d.*-\d+)[Jj]\Z",
+  "SkipArchives":   [ ".*-(unpack|test).jar" ],
+
+  "Versions": [
+  {
+    "Number":         "9-7-0-4",
+    "Installed":      "installed/saxon-he/9-7-0-4",
+    "Source":         "src/saxon-he/9-7-0-4/SaxonHE9-7-0-4J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-7-0-3",
+    "Installed":      "installed/saxon-he/9-7-0-3",
+    "Source":         "src/saxon-he/9-7-0-3/SaxonHE9-7-0-3J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-7-0-2",
+    "Installed":      "installed/saxon-he/9-7-0-2",
+    "Source":         "src/saxon-he/9-7-0-2/SaxonHE9-7-0-2J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-7-0-1",
+    "Installed":      "installed/saxon-he/9-7-0-1",
+    "Source":         "src/saxon-he/9-7-0-1/SaxonHE9-7-0-1J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-8",
+    "Installed":      "installed/saxon-he/9-6-0-8",
+    "Source":         "src/saxon-he/9-6-0-8/SaxonHE9-6-0-8J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-7",
+    "Installed":      "installed/saxon-he/9-6-0-7",
+    "Source":         "src/saxon-he/9-6-0-7/SaxonHE9-6-0-7J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-6",
+    "Installed":      "installed/saxon-he/9-6-0-6",
+    "Source":         "src/saxon-he/9-6-0-6/SaxonHE9-6-0-6J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-5",
+    "Installed":      "installed/saxon-he/9-6-0-5",
+    "Source":         "src/saxon-he/9-6-0-5/SaxonHE9-6-0-5J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-4",
+    "Installed":      "installed/saxon-he/9-6-0-4",
+    "Source":         "src/saxon-he/9-6-0-4/SaxonHE9-6-0-4J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-3",
+    "Installed":      "installed/saxon-he/9-6-0-3",
+    "Source":         "src/saxon-he/9-6-0-3/SaxonHE9-6-0-3J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-2",
+    "Installed":      "installed/saxon-he/9-6-0-2",
+    "Source":         "src/saxon-he/9-6-0-2/SaxonHE9-6-0-2J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-1",
+    "Installed":      "installed/saxon-he/9-6-0-1",
+    "Source":         "src/saxon-he/9-6-0-1/SaxonHE9-6-0-1J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-10",
+    "Installed":      "installed/saxon-he/9-5-1-10",
+    "Source":         "src/saxon-he/9-5-1-10/SaxonHE9-5-1-10J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-8",
+    "Installed":      "installed/saxon-he/9-5-1-8",
+    "Source":         "src/saxon-he/9-5-1-8/SaxonHE9-5-1-8J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-7",
+    "Installed":      "installed/saxon-he/9-5-1-7",
+    "Source":         "src/saxon-he/9-5-1-7/SaxonHE9-5-1-7J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-6",
+    "Installed":      "installed/saxon-he/9-5-1-6",
+    "Source":         "src/saxon-he/9-5-1-6/SaxonHE9-5-1-6J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-5",
+    "Installed":      "installed/saxon-he/9-5-1-5",
+    "Source":         "src/saxon-he/9-5-1-5/SaxonHE9-5-1-5J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-4",
+    "Installed":      "installed/saxon-he/9-5-1-4",
+    "Source":         "src/saxon-he/9-5-1-4/SaxonHE9-5-1-4J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-3",
+    "Installed":      "installed/saxon-he/9-5-1-3",
+    "Source":         "src/saxon-he/9-5-1-3/SaxonHE9-5-1-3J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-2",
+    "Installed":      "installed/saxon-he/9-5-1-2",
+    "Source":         "src/saxon-he/9-5-1-2/SaxonHE9-5-1-2J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-1-1",
+    "Installed":      "installed/saxon-he/9-5-1-1",
+    "Source":         "src/saxon-he/9-5-1-1/SaxonHE9-5-1-1J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-0-2",
+    "Installed":      "installed/saxon-he/9-5-0-2",
+    "Source":         "src/saxon-he/9-5-0-2/SaxonHE9-5-0-2J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-5-0-1",
+    "Installed":      "installed/saxon-he/9-5-0-1",
+    "Source":         "src/saxon-he/9-5-0-1/SaxonHE9-5-0-1J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-9",
+    "Installed":      "installed/saxon-he/9-4-0-9",
+    "Source":         "src/saxon-he/9-4-0-9/SaxonHE9-4-0-9J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-8",
+    "Installed":      "installed/saxon-he/9-4-0-8",
+    "Source":         "src/saxon-he/9-4-0-8/SaxonHE9-4-0-8J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-7",
+    "Installed":      "installed/saxon-he/9-4-0-7",
+    "Source":         "src/saxon-he/9-4-0-7/SaxonHE9-4-0-7J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-6",
+    "Installed":      "installed/saxon-he/9-4-0-6",
+    "Source":         "src/saxon-he/9-4-0-6/SaxonHE9-4-0-6J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-4",
+    "Installed":      "installed/saxon-he/9-4-0-4",
+    "Source":         "src/saxon-he/9-4-0-4/SaxonHE9-4-0-4J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-3",
+    "Installed":      "installed/saxon-he/9-4-0-3",
+    "Source":         "src/saxon-he/9-4-0-3/SaxonHE9-4-0-3J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-2",
+    "Installed":      "installed/saxon-he/9-4-0-2",
+    "Source":         "src/saxon-he/9-4-0-2/SaxonHE9-4-0-2J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-4-0-1",
+    "Installed":      "installed/saxon-he/9-4-0-1",
+    "Source":         "src/saxon-he/9-4-0-1/SaxonHE9-4-0-1J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-3-0-11",
+    "Installed":      "installed/saxon-he/9-3-0-11",
+    "Source":         "src/saxon-he/9-3-0-11/saxonhe9-3-0-11j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-3-0-8",
+    "Installed":      "installed/saxon-he/9-3-0-8",
+    "Source":         "src/saxon-he/9-3-0-8/saxonhe9-3-0-8j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-3-0-5",
+    "Installed":      "installed/saxon-he/9-3-0-5",
+    "Source":         "src/saxon-he/9-3-0-5/saxonhe9-3-0-5j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-3-0-4",
+    "Installed":      "installed/saxon-he/9-3-0-4",
+    "Source":         "src/saxon-he/9-3-0-4/saxonhe9-3-0-4j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-3-0-2",
+    "Installed":      "installed/saxon-he/9-3-0-2",
+    "Source":         "src/saxon-he/9-3-0-2/saxonhe9-3-0-2j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-3-0-1",
+    "Installed":      "installed/saxon-he/9-3-0-1",
+    "Source":         "src/saxon-he/9-3-0-1/saxonhe9-3-0-1j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-2-1-5",
+    "Installed":      "installed/saxon-he/9-2-1-5",
+    "Source":         "src/saxon-he/9-2-1-5/saxonhe9-2-1-5j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-2-1-2",
+    "Installed":      "installed/saxon-he/9-2-1-2",
+    "Source":         "src/saxon-he/9-2-1-2/saxonhe9-2-1-2j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-2-1-1",
+    "Installed":      "installed/saxon-he/9-2-1-1",
+    "Source":         "src/saxon-he/9-2-1-1/saxonhe9-2-1-1j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-2-0-6",
+    "Installed":      "installed/saxon-he/9-2-0-6",
+    "Source":         "src/saxon-he/9-2-0-6/saxonhe9-2-0-6j.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

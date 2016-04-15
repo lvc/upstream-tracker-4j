@@ -1,0 +1,446 @@
+{
+  "Name":           "lucene",
+  "Title":          "Lucene",
+  "SourceUrl":      "http://archive.apache.org/dist/lucene/java/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "1",
+  "ReportStyle":    "ShortArchive",
+  "SkipArchives":   [ "lib/", "*-(javadoc|examples)\.jar", ".*-(demos|demo)-.*", "lucene-similarity-.*" ],
+
+  "Versions": [
+  {
+    "Number":         "6.0.0",
+    "Installed":      "installed/lucene/6.0.0",
+    "Source":         "src/lucene/6.0.0/lucene-6.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.0",
+    "Installed":      "installed/lucene/5.5.0",
+    "Source":         "src/lucene/5.5.0/lucene-5.5.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.1",
+    "Installed":      "installed/lucene/5.4.1",
+    "Source":         "src/lucene/5.4.1/lucene-5.4.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.0",
+    "Installed":      "installed/lucene/5.4.0",
+    "Source":         "src/lucene/5.4.0/lucene-5.4.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.2",
+    "Installed":      "installed/lucene/5.3.2",
+    "Source":         "src/lucene/5.3.2/lucene-5.3.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.1",
+    "Installed":      "installed/lucene/5.3.1",
+    "Source":         "src/lucene/5.3.1/lucene-5.3.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.0",
+    "Installed":      "installed/lucene/5.3.0",
+    "Source":         "src/lucene/5.3.0/lucene-5.3.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.1",
+    "Installed":      "installed/lucene/5.2.1",
+    "Source":         "src/lucene/5.2.1/lucene-5.2.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.0",
+    "Installed":      "installed/lucene/5.2.0",
+    "Source":         "src/lucene/5.2.0/lucene-5.2.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "installed/lucene/5.1.0",
+    "Source":         "src/lucene/5.1.0/lucene-5.1.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "installed/lucene/5.0.0",
+    "Source":         "src/lucene/5.0.0/lucene-5.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10.4",
+    "Installed":      "installed/lucene/4.10.4",
+    "Source":         "src/lucene/4.10.4/lucene-4.10.4.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10.3",
+    "Installed":      "installed/lucene/4.10.3",
+    "Source":         "src/lucene/4.10.3/lucene-4.10.3.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10.2",
+    "Installed":      "installed/lucene/4.10.2",
+    "Source":         "src/lucene/4.10.2/lucene-4.10.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10.1",
+    "Installed":      "installed/lucene/4.10.1",
+    "Source":         "src/lucene/4.10.1/lucene-4.10.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10.0",
+    "Installed":      "installed/lucene/4.10.0",
+    "Source":         "src/lucene/4.10.0/lucene-4.10.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9.1",
+    "Installed":      "installed/lucene/4.9.1",
+    "Source":         "src/lucene/4.9.1/lucene-4.9.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9.0",
+    "Installed":      "installed/lucene/4.9.0",
+    "Source":         "src/lucene/4.9.0/lucene-4.9.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8.1",
+    "Installed":      "installed/lucene/4.8.1",
+    "Source":         "src/lucene/4.8.1/lucene-4.8.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8.0",
+    "Installed":      "installed/lucene/4.8.0",
+    "Source":         "src/lucene/4.8.0/lucene-4.8.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.2",
+    "Installed":      "installed/lucene/4.7.2",
+    "Source":         "src/lucene/4.7.2/lucene-4.7.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.1",
+    "Installed":      "installed/lucene/4.7.1",
+    "Source":         "src/lucene/4.7.1/lucene-4.7.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.0",
+    "Installed":      "installed/lucene/4.7.0",
+    "Source":         "src/lucene/4.7.0/lucene-4.7.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6.1",
+    "Installed":      "installed/lucene/4.6.1",
+    "Source":         "src/lucene/4.6.1/lucene-4.6.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6.0",
+    "Installed":      "installed/lucene/4.6.0",
+    "Source":         "src/lucene/4.6.0/lucene-4.6.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.1",
+    "Installed":      "installed/lucene/4.5.1",
+    "Source":         "src/lucene/4.5.1/lucene-4.5.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.0",
+    "Installed":      "installed/lucene/4.5.0",
+    "Source":         "src/lucene/4.5.0/lucene-4.5.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.0",
+    "Installed":      "installed/lucene/4.4.0",
+    "Source":         "src/lucene/4.4.0/lucene-4.4.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.1",
+    "Installed":      "installed/lucene/4.3.1",
+    "Source":         "src/lucene/4.3.1/lucene-4.3.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.0",
+    "Installed":      "installed/lucene/4.3.0",
+    "Source":         "src/lucene/4.3.0/lucene-4.3.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.1",
+    "Installed":      "installed/lucene/4.2.1",
+    "Source":         "src/lucene/4.2.1/lucene-4.2.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.0",
+    "Installed":      "installed/lucene/4.2.0",
+    "Source":         "src/lucene/4.2.0/lucene-4.2.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "installed/lucene/4.1.0",
+    "Source":         "src/lucene/4.1.0/lucene-4.1.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "installed/lucene/4.0.0",
+    "Source":         "src/lucene/4.0.0/lucene-4.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.2",
+    "Installed":      "installed/lucene/3.6.2",
+    "Source":         "src/lucene/3.6.2/lucene-3.6.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.1",
+    "Installed":      "installed/lucene/3.6.1",
+    "Source":         "src/lucene/3.6.1/lucene-3.6.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "installed/lucene/3.6.0",
+    "Source":         "src/lucene/3.6.0/lucene-3.6.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "installed/lucene/3.5.0",
+    "Source":         "src/lucene/3.5.0/lucene-3.5.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "installed/lucene/3.4.0",
+    "Source":         "src/lucene/3.4.0/lucene-3.4.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "installed/lucene/3.3.0",
+    "Source":         "src/lucene/3.3.0/lucene-3.3.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "installed/lucene/3.2.0",
+    "Source":         "src/lucene/3.2.0/lucene-3.2.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "installed/lucene/3.1.0",
+    "Source":         "src/lucene/3.1.0/lucene-3.1.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "installed/lucene/3.0.3",
+    "Source":         "src/lucene/3.0.3/lucene-3.0.3.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "installed/lucene/3.0.2",
+    "Source":         "src/lucene/3.0.2/lucene-3.0.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "installed/lucene/3.0.1",
+    "Source":         "src/lucene/3.0.1/lucene-3.0.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "installed/lucene/3.0.0",
+    "Source":         "src/lucene/3.0.0/lucene-3.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.4",
+    "Installed":      "installed/lucene/2.9.4",
+    "Source":         "src/lucene/2.9.4/lucene-2.9.4.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "installed/lucene/2.9.3",
+    "Source":         "src/lucene/2.9.3/lucene-2.9.3.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "installed/lucene/2.9.2",
+    "Source":         "src/lucene/2.9.2/lucene-2.9.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "installed/lucene/2.9.1",
+    "Source":         "src/lucene/2.9.1/lucene-2.9.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "installed/lucene/2.9.0",
+    "Source":         "src/lucene/2.9.0/lucene-2.9.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "installed/lucene/2.4.1",
+    "Source":         "src/lucene/2.4.1/lucene-2.4.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "installed/lucene/2.4.0",
+    "Source":         "src/lucene/2.4.0/lucene-2.4.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "installed/lucene/2.3.2",
+    "Source":         "src/lucene/2.3.2/lucene-2.3.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "installed/lucene/2.3.1",
+    "Source":         "src/lucene/2.3.1/lucene-2.3.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "installed/lucene/2.3.0",
+    "Source":         "src/lucene/2.3.0/lucene-2.3.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "installed/lucene/2.2.0",
+    "Source":         "src/lucene/2.2.0/lucene-2.2.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "installed/lucene/2.1.0",
+    "Source":         "src/lucene/2.1.0/lucene-2.1.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "installed/lucene/2.0.0",
+    "Source":         "src/lucene/2.0.0/lucene-2.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "installed/lucene/1.9.1",
+    "Source":         "src/lucene/1.9.1/lucene-1.9.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "installed/lucene/1.9",
+    "Source":         "src/lucene/1.9/lucene-1.9-final.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "installed/lucene/1.4.3",
+    "Source":         "src/lucene/1.4.3/lucene-1.4.3.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  }]
+}

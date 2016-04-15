@@ -1,0 +1,296 @@
+{
+  "Name":           "icu4j",
+  "Title":          "ICU4J",
+  "SourceUrl":      "http://download.icu-project.org/files/icu4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "57_1",
+    "Installed":      "src/icu4j/57_1",
+    "Source":         "src/icu4j/57_1/icu4j-57_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "56_1",
+    "Installed":      "src/icu4j/56_1",
+    "Source":         "src/icu4j/56_1/icu4j-56_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "55_1",
+    "Installed":      "src/icu4j/55_1",
+    "Source":         "src/icu4j/55_1/icu4j-55_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "54_1_1",
+    "Installed":      "src/icu4j/54_1_1",
+    "Source":         "src/icu4j/54_1_1/icu4j-54_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "54_1",
+    "Installed":      "src/icu4j/54_1",
+    "Source":         "src/icu4j/54_1/icu4j-54_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "53_1",
+    "Installed":      "src/icu4j/53_1",
+    "Source":         "src/icu4j/53_1/icu4j-53_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "52_1",
+    "Installed":      "src/icu4j/52_1",
+    "Source":         "src/icu4j/52_1/icu4j-52_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "51_2",
+    "Installed":      "src/icu4j/51_2",
+    "Source":         "src/icu4j/51_2/icu4j-51_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "51_1",
+    "Installed":      "src/icu4j/51_1",
+    "Source":         "src/icu4j/51_1/icu4j-51_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "50_1_1",
+    "Installed":      "src/icu4j/50_1_1",
+    "Source":         "src/icu4j/50_1_1/icu4j-50_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "50_1",
+    "Installed":      "src/icu4j/50_1",
+    "Source":         "src/icu4j/50_1/icu4j-50_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "49_1",
+    "Installed":      "src/icu4j/49_1",
+    "Source":         "src/icu4j/49_1/icu4j-49_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_8_1_1",
+    "Installed":      "src/icu4j/4_8_1_1",
+    "Source":         "src/icu4j/4_8_1_1/icu4j-4_8_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_8_1",
+    "Installed":      "src/icu4j/4_8_1",
+    "Source":         "src/icu4j/4_8_1/icu4j-4_8_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_8",
+    "Installed":      "src/icu4j/4_8",
+    "Source":         "src/icu4j/4_8/icu4j-4_8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_7_1",
+    "Installed":      "src/icu4j/4_7_1",
+    "Source":         "src/icu4j/4_7_1/icu4j-4_7_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_6_1_1",
+    "Installed":      "src/icu4j/4_6_1_1",
+    "Source":         "src/icu4j/4_6_1_1/icu4j-4_6_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_6_1",
+    "Installed":      "src/icu4j/4_6_1",
+    "Source":         "src/icu4j/4_6_1/icu4j-4_6_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_6",
+    "Installed":      "src/icu4j/4_6",
+    "Source":         "src/icu4j/4_6/icu4j-4_6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_5_2",
+    "Installed":      "src/icu4j/4_5_2",
+    "Source":         "src/icu4j/4_5_2/icu4j-4_5_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_5_1",
+    "Installed":      "src/icu4j/4_5_1",
+    "Source":         "src/icu4j/4_5_1/icu4j-4_5_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_4_2_2",
+    "Installed":      "src/icu4j/4_4_2_2",
+    "Source":         "src/icu4j/4_4_2_2/icu4j-4_4_2_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_4_2_1",
+    "Installed":      "src/icu4j/4_4_2_1",
+    "Source":         "src/icu4j/4_4_2_1/icu4j-4_4_2_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_4_2",
+    "Installed":      "src/icu4j/4_4_2",
+    "Source":         "src/icu4j/4_4_2/icu4j-4_4_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_4_1_1",
+    "Installed":      "src/icu4j/4_4_1_1",
+    "Source":         "src/icu4j/4_4_1_1/icu4j-4_4_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_4_1",
+    "Installed":      "src/icu4j/4_4_1",
+    "Source":         "src/icu4j/4_4_1/icu4j-4_4_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_4",
+    "Installed":      "src/icu4j/4_4",
+    "Source":         "src/icu4j/4_4/icu4j-4_4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_3_4",
+    "Installed":      "src/icu4j/4_3_4",
+    "Source":         "src/icu4j/4_3_4/icu4j-4_3_4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_3_3",
+    "Installed":      "src/icu4j/4_3_3",
+    "Source":         "src/icu4j/4_3_3/icu4j-4_3_3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_3_2",
+    "Installed":      "src/icu4j/4_3_2",
+    "Source":         "src/icu4j/4_3_2/icu4j-4_3_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_3_1",
+    "Installed":      "src/icu4j/4_3_1",
+    "Source":         "src/icu4j/4_3_1/icu4j-4_3_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_2_1_1",
+    "Installed":      "src/icu4j/4_2_1_1",
+    "Source":         "src/icu4j/4_2_1_1/icu4j-4_2_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_2_1",
+    "Installed":      "src/icu4j/4_2_1",
+    "Source":         "src/icu4j/4_2_1/icu4j-4_2_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_2",
+    "Installed":      "src/icu4j/4_2",
+    "Source":         "src/icu4j/4_2/icu4j-4_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_1_1",
+    "Installed":      "src/icu4j/4_1_1",
+    "Source":         "src/icu4j/4_1_1/icu4j-4_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_0_1_1",
+    "Installed":      "src/icu4j/4_0_1_1",
+    "Source":         "src/icu4j/4_0_1_1/icu4j-4_0_1_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_0_1",
+    "Installed":      "src/icu4j/4_0_1",
+    "Source":         "src/icu4j/4_0_1/icu4j-4_0_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4_0",
+    "Installed":      "src/icu4j/4_0",
+    "Source":         "src/icu4j/4_0/icu4j-4_0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3_8_1",
+    "Installed":      "src/icu4j/3_8_1",
+    "Source":         "src/icu4j/3_8_1/icu4j-3_8_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3_8",
+    "Installed":      "src/icu4j/3_8",
+    "Source":         "src/icu4j/3_8/icu4j-3_8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3_6_1",
+    "Installed":      "src/icu4j/3_6_1",
+    "Source":         "src/icu4j/3_6_1/icu4j_3_6_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

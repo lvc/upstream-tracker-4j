@@ -1,0 +1,94 @@
+{
+  "Name":           "axis2",
+  "Title":          "Axis2",
+  "SourceUrl":      "http://www.sai.msu.su/apache//axis/axis2/java/core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckArchives":  [ "axis2-.*" ],
+
+  "Versions": [
+  {
+    "Number":         "1.7.1",
+    "Installed":      "installed/axis2/1.7.1",
+    "Source":         "src/axis2/1.7.1/axis2-1.7.1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "installed/axis2/1.7.0",
+    "Source":         "src/axis2/1.7.0/axis2-1.7.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "installed/axis2/1.6.4",
+    "Source":         "src/axis2/1.6.4/axis2-1.6.4-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "installed/axis2/1.6.3",
+    "Source":         "src/axis2/1.6.3/axis2-1.6.3-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "installed/axis2/1.6.2",
+    "Source":         "src/axis2/1.6.2/axis2-1.6.2-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "installed/axis2/1.6.1",
+    "Source":         "src/axis2/1.6.1/axis2-1.6.1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "installed/axis2/1.6.0",
+    "Source":         "src/axis2/1.6.0/axis2-1.6.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "installed/axis2/1.5.6",
+    "Source":         "src/axis2/1.5.6/axis2-1.5.6-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "installed/axis2/1.5.5",
+    "Source":         "src/axis2/1.5.5/axis2-1.5.5-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "installed/axis2/1.5.4",
+    "Source":         "src/axis2/1.5.4/axis2-1.5.4-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "installed/axis2/1.5.3",
+    "Source":         "src/axis2/1.5.3/axis2-1.5.3-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "installed/axis2/1.5.2",
+    "Source":         "src/axis2/1.5.2/axis2-1.5.2-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,124 @@
+{
+  "Name":           "jmapviewer",
+  "Title":          "JMapViewer",
+  "SourceUrl":      "http://svn.openstreetmap.org/applications/viewer/jmapviewer/releases/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipArchives":   [ "JMapViewer_Demo.jar", "JMapViewer_src.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "1.15",
+    "Installed":      "installed/jmapviewer/1.15",
+    "Source":         "src/jmapviewer/1.15/JMapViewer-1.15.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "installed/jmapviewer/1.14",
+    "Source":         "src/jmapviewer/1.14/JMapViewer-1.14.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "installed/jmapviewer/1.13",
+    "Source":         "src/jmapviewer/1.13/JMapViewer-1.13.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "installed/jmapviewer/1.12",
+    "Source":         "src/jmapviewer/1.12/JMapViewer-1.12.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "installed/jmapviewer/1.11",
+    "Source":         "src/jmapviewer/1.11/JMapViewer-1.11.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "installed/jmapviewer/1.10",
+    "Source":         "src/jmapviewer/1.10/JMapViewer-1.10.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.09",
+    "Installed":      "installed/jmapviewer/1.09",
+    "Source":         "src/jmapviewer/1.09/JMapViewer-1.09.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.08",
+    "Installed":      "installed/jmapviewer/1.08",
+    "Source":         "src/jmapviewer/1.08/JMapViewer-1.08.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.07",
+    "Installed":      "installed/jmapviewer/1.07",
+    "Source":         "src/jmapviewer/1.07/JMapViewer-1.07.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.06",
+    "Installed":      "installed/jmapviewer/1.06",
+    "Source":         "src/jmapviewer/1.06/JMapViewer-1.06.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.05",
+    "Installed":      "installed/jmapviewer/1.05",
+    "Source":         "src/jmapviewer/1.05/JMapViewer-1.05.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.04",
+    "Installed":      "installed/jmapviewer/1.04",
+    "Source":         "src/jmapviewer/1.04/JMapViewer-1.04.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.03",
+    "Source":         "src/jmapviewer/1.03/JMapViewer-1.03.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.02",
+    "Installed":      "installed/jmapviewer/1.02",
+    "Source":         "src/jmapviewer/1.02/JMapViewer-1.02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.01",
+    "Installed":      "installed/jmapviewer/1.01",
+    "Source":         "src/jmapviewer/1.01/JMapViewer-1.01.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "installed/jmapviewer/1.0",
+    "Source":         "src/jmapviewer/1.0/JMapViewer-1.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,815 @@
+{
+  "Name":           "h2",
+  "Title":          "H2",
+  "SourceUrl":      "http://repo2.maven.org/maven2/com/h2database/h2/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*\d\d\d\d\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "1.4.191",
+    "Installed":      "src/h2/1.4.191",
+    "Source":         "src/h2/1.4.191/h2-1.4.191.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.190",
+    "Installed":      "src/h2/1.4.190",
+    "Source":         "src/h2/1.4.190/h2-1.4.190.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.189",
+    "Installed":      "src/h2/1.4.189",
+    "Source":         "src/h2/1.4.189/h2-1.4.189.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.188",
+    "Installed":      "src/h2/1.4.188",
+    "Source":         "src/h2/1.4.188/h2-1.4.188.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.187",
+    "Installed":      "src/h2/1.4.187",
+    "Source":         "src/h2/1.4.187/h2-1.4.187.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.186",
+    "Installed":      "src/h2/1.4.186",
+    "Source":         "src/h2/1.4.186/h2-1.4.186.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.185",
+    "Installed":      "src/h2/1.4.185",
+    "Source":         "src/h2/1.4.185/h2-1.4.185.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.184",
+    "Installed":      "src/h2/1.4.184",
+    "Source":         "src/h2/1.4.184/h2-1.4.184.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.183",
+    "Installed":      "src/h2/1.4.183",
+    "Source":         "src/h2/1.4.183/h2-1.4.183.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.182",
+    "Installed":      "src/h2/1.4.182",
+    "Source":         "src/h2/1.4.182/h2-1.4.182.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.181",
+    "Installed":      "src/h2/1.4.181",
+    "Source":         "src/h2/1.4.181/h2-1.4.181.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.180",
+    "Installed":      "src/h2/1.4.180",
+    "Source":         "src/h2/1.4.180/h2-1.4.180.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.179",
+    "Installed":      "src/h2/1.4.179",
+    "Source":         "src/h2/1.4.179/h2-1.4.179.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.178",
+    "Installed":      "src/h2/1.4.178",
+    "Source":         "src/h2/1.4.178/h2-1.4.178.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.177",
+    "Installed":      "src/h2/1.4.177",
+    "Source":         "src/h2/1.4.177/h2-1.4.177.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.176",
+    "Installed":      "src/h2/1.3.176",
+    "Source":         "src/h2/1.3.176/h2-1.3.176.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.175",
+    "Installed":      "src/h2/1.3.175",
+    "Source":         "src/h2/1.3.175/h2-1.3.175.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.174",
+    "Installed":      "src/h2/1.3.174",
+    "Source":         "src/h2/1.3.174/h2-1.3.174.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.173",
+    "Installed":      "src/h2/1.3.173",
+    "Source":         "src/h2/1.3.173/h2-1.3.173.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.172",
+    "Installed":      "src/h2/1.3.172",
+    "Source":         "src/h2/1.3.172/h2-1.3.172.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.171",
+    "Installed":      "src/h2/1.3.171",
+    "Source":         "src/h2/1.3.171/h2-1.3.171.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.170",
+    "Installed":      "src/h2/1.3.170",
+    "Source":         "src/h2/1.3.170/h2-1.3.170.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.169",
+    "Installed":      "src/h2/1.3.169",
+    "Source":         "src/h2/1.3.169/h2-1.3.169.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.168",
+    "Installed":      "src/h2/1.3.168",
+    "Source":         "src/h2/1.3.168/h2-1.3.168.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.167",
+    "Installed":      "src/h2/1.3.167",
+    "Source":         "src/h2/1.3.167/h2-1.3.167.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.166",
+    "Installed":      "src/h2/1.3.166",
+    "Source":         "src/h2/1.3.166/h2-1.3.166.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.165",
+    "Installed":      "src/h2/1.3.165",
+    "Source":         "src/h2/1.3.165/h2-1.3.165.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.164",
+    "Installed":      "src/h2/1.3.164",
+    "Source":         "src/h2/1.3.164/h2-1.3.164.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.163",
+    "Installed":      "src/h2/1.3.163",
+    "Source":         "src/h2/1.3.163/h2-1.3.163.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.162",
+    "Installed":      "src/h2/1.3.162",
+    "Source":         "src/h2/1.3.162/h2-1.3.162.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.161",
+    "Installed":      "src/h2/1.3.161",
+    "Source":         "src/h2/1.3.161/h2-1.3.161.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.160",
+    "Installed":      "src/h2/1.3.160",
+    "Source":         "src/h2/1.3.160/h2-1.3.160.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.159",
+    "Installed":      "src/h2/1.3.159",
+    "Source":         "src/h2/1.3.159/h2-1.3.159.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.158",
+    "Installed":      "src/h2/1.3.158",
+    "Source":         "src/h2/1.3.158/h2-1.3.158.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.157",
+    "Installed":      "src/h2/1.3.157",
+    "Source":         "src/h2/1.3.157/h2-1.3.157.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.156",
+    "Installed":      "src/h2/1.3.156",
+    "Source":         "src/h2/1.3.156/h2-1.3.156.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.155",
+    "Installed":      "src/h2/1.3.155",
+    "Source":         "src/h2/1.3.155/h2-1.3.155.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.154",
+    "Installed":      "src/h2/1.3.154",
+    "Source":         "src/h2/1.3.154/h2-1.3.154.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.153",
+    "Installed":      "src/h2/1.3.153",
+    "Source":         "src/h2/1.3.153/h2-1.3.153.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.152",
+    "Installed":      "src/h2/1.3.152",
+    "Source":         "src/h2/1.3.152/h2-1.3.152.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.151",
+    "Installed":      "src/h2/1.3.151",
+    "Source":         "src/h2/1.3.151/h2-1.3.151.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.150",
+    "Installed":      "src/h2/1.3.150",
+    "Source":         "src/h2/1.3.150/h2-1.3.150.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.149",
+    "Installed":      "src/h2/1.3.149",
+    "Source":         "src/h2/1.3.149/h2-1.3.149.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.148",
+    "Installed":      "src/h2/1.3.148",
+    "Source":         "src/h2/1.3.148/h2-1.3.148.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.146",
+    "Installed":      "src/h2/1.3.146",
+    "Source":         "src/h2/1.3.146/h2-1.3.146.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.147",
+    "Installed":      "src/h2/1.2.147",
+    "Source":         "src/h2/1.2.147/h2-1.2.147.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.145",
+    "Installed":      "src/h2/1.2.145",
+    "Source":         "src/h2/1.2.145/h2-1.2.145.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.144",
+    "Installed":      "src/h2/1.2.144",
+    "Source":         "src/h2/1.2.144/h2-1.2.144.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.143",
+    "Installed":      "src/h2/1.2.143",
+    "Source":         "src/h2/1.2.143/h2-1.2.143.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.142",
+    "Installed":      "src/h2/1.2.142",
+    "Source":         "src/h2/1.2.142/h2-1.2.142.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.141",
+    "Installed":      "src/h2/1.2.141",
+    "Source":         "src/h2/1.2.141/h2-1.2.141.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.140",
+    "Installed":      "src/h2/1.2.140",
+    "Source":         "src/h2/1.2.140/h2-1.2.140.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.139",
+    "Installed":      "src/h2/1.2.139",
+    "Source":         "src/h2/1.2.139/h2-1.2.139.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.138",
+    "Installed":      "src/h2/1.2.138",
+    "Source":         "src/h2/1.2.138/h2-1.2.138.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.137",
+    "Installed":      "src/h2/1.2.137",
+    "Source":         "src/h2/1.2.137/h2-1.2.137.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.136",
+    "Installed":      "src/h2/1.2.136",
+    "Source":         "src/h2/1.2.136/h2-1.2.136.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.135",
+    "Installed":      "src/h2/1.2.135",
+    "Source":         "src/h2/1.2.135/h2-1.2.135.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.134",
+    "Installed":      "src/h2/1.2.134",
+    "Source":         "src/h2/1.2.134/h2-1.2.134.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.133",
+    "Installed":      "src/h2/1.2.133",
+    "Source":         "src/h2/1.2.133/h2-1.2.133.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.132",
+    "Installed":      "src/h2/1.2.132",
+    "Source":         "src/h2/1.2.132/h2-1.2.132.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.131",
+    "Installed":      "src/h2/1.2.131",
+    "Source":         "src/h2/1.2.131/h2-1.2.131.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.130",
+    "Installed":      "src/h2/1.2.130",
+    "Source":         "src/h2/1.2.130/h2-1.2.130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.129",
+    "Installed":      "src/h2/1.2.129",
+    "Source":         "src/h2/1.2.129/h2-1.2.129.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.128",
+    "Installed":      "src/h2/1.2.128",
+    "Source":         "src/h2/1.2.128/h2-1.2.128.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.127",
+    "Installed":      "src/h2/1.2.127",
+    "Source":         "src/h2/1.2.127/h2-1.2.127.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.126",
+    "Installed":      "src/h2/1.2.126",
+    "Source":         "src/h2/1.2.126/h2-1.2.126.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.125",
+    "Installed":      "src/h2/1.2.125",
+    "Source":         "src/h2/1.2.125/h2-1.2.125.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.124",
+    "Installed":      "src/h2/1.2.124",
+    "Source":         "src/h2/1.2.124/h2-1.2.124.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.123",
+    "Installed":      "src/h2/1.2.123",
+    "Source":         "src/h2/1.2.123/h2-1.2.123.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.122",
+    "Installed":      "src/h2/1.2.122",
+    "Source":         "src/h2/1.2.122/h2-1.2.122.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.121",
+    "Installed":      "src/h2/1.2.121",
+    "Source":         "src/h2/1.2.121/h2-1.2.121.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.120",
+    "Installed":      "src/h2/1.2.120",
+    "Source":         "src/h2/1.2.120/h2-1.2.120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.119",
+    "Installed":      "src/h2/1.1.119",
+    "Source":         "src/h2/1.1.119/h2-1.1.119.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.118",
+    "Installed":      "src/h2/1.1.118",
+    "Source":         "src/h2/1.1.118/h2-1.1.118.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.117",
+    "Installed":      "src/h2/1.1.117",
+    "Source":         "src/h2/1.1.117/h2-1.1.117.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.116",
+    "Installed":      "src/h2/1.1.116",
+    "Source":         "src/h2/1.1.116/h2-1.1.116.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.115",
+    "Installed":      "src/h2/1.1.115",
+    "Source":         "src/h2/1.1.115/h2-1.1.115.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.114",
+    "Installed":      "src/h2/1.1.114",
+    "Source":         "src/h2/1.1.114/h2-1.1.114.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.113",
+    "Installed":      "src/h2/1.1.113",
+    "Source":         "src/h2/1.1.113/h2-1.1.113.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.112",
+    "Installed":      "src/h2/1.1.112",
+    "Source":         "src/h2/1.1.112/h2-1.1.112.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.111",
+    "Installed":      "src/h2/1.1.111",
+    "Source":         "src/h2/1.1.111/h2-1.1.111.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.110",
+    "Installed":      "src/h2/1.1.110",
+    "Source":         "src/h2/1.1.110/h2-1.1.110.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.109",
+    "Installed":      "src/h2/1.1.109",
+    "Source":         "src/h2/1.1.109/h2-1.1.109.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.108",
+    "Installed":      "src/h2/1.1.108",
+    "Source":         "src/h2/1.1.108/h2-1.1.108.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.107",
+    "Installed":      "src/h2/1.1.107",
+    "Source":         "src/h2/1.1.107/h2-1.1.107.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.106",
+    "Installed":      "src/h2/1.1.106",
+    "Source":         "src/h2/1.1.106/h2-1.1.106.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.105",
+    "Installed":      "src/h2/1.1.105",
+    "Source":         "src/h2/1.1.105/h2-1.1.105.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.104",
+    "Installed":      "src/h2/1.1.104",
+    "Source":         "src/h2/1.1.104/h2-1.1.104.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.103",
+    "Installed":      "src/h2/1.1.103",
+    "Source":         "src/h2/1.1.103/h2-1.1.103.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.102",
+    "Installed":      "src/h2/1.1.102",
+    "Source":         "src/h2/1.1.102/h2-1.1.102.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.101",
+    "Installed":      "src/h2/1.1.101",
+    "Source":         "src/h2/1.1.101/h2-1.1.101.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.100",
+    "Installed":      "src/h2/1.1.100",
+    "Source":         "src/h2/1.1.100/h2-1.1.100.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.79",
+    "Installed":      "src/h2/1.0.79",
+    "Source":         "src/h2/1.0.79/h2-1.0.79.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.78",
+    "Installed":      "src/h2/1.0.78",
+    "Source":         "src/h2/1.0.78/h2-1.0.78.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.77",
+    "Installed":      "src/h2/1.0.77",
+    "Source":         "src/h2/1.0.77/h2-1.0.77.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.76",
+    "Installed":      "src/h2/1.0.76",
+    "Source":         "src/h2/1.0.76/h2-1.0.76.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.75",
+    "Installed":      "src/h2/1.0.75",
+    "Source":         "src/h2/1.0.75/h2-1.0.75.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.74",
+    "Installed":      "src/h2/1.0.74",
+    "Source":         "src/h2/1.0.74/h2-1.0.74.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.73",
+    "Installed":      "src/h2/1.0.73",
+    "Source":         "src/h2/1.0.73/h2-1.0.73.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.72",
+    "Installed":      "src/h2/1.0.72",
+    "Source":         "src/h2/1.0.72/h2-1.0.72.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.71",
+    "Installed":      "src/h2/1.0.71",
+    "Source":         "src/h2/1.0.71/h2-1.0.71.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.70",
+    "Installed":      "src/h2/1.0.70",
+    "Source":         "src/h2/1.0.70/h2-1.0.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.69",
+    "Installed":      "src/h2/1.0.69",
+    "Source":         "src/h2/1.0.69/h2-1.0.69.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.68",
+    "Installed":      "src/h2/1.0.68",
+    "Source":         "src/h2/1.0.68/h2-1.0.68.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.67",
+    "Installed":      "src/h2/1.0.67",
+    "Source":         "src/h2/1.0.67/h2-1.0.67.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.66",
+    "Installed":      "src/h2/1.0.66",
+    "Source":         "src/h2/1.0.66/h2-1.0.66.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.65",
+    "Installed":      "src/h2/1.0.65",
+    "Source":         "src/h2/1.0.65/h2-1.0.65.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.64",
+    "Installed":      "src/h2/1.0.64",
+    "Source":         "src/h2/1.0.64/h2-1.0.64.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.63",
+    "Installed":      "src/h2/1.0.63",
+    "Source":         "src/h2/1.0.63/h2-1.0.63.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.62",
+    "Installed":      "src/h2/1.0.62",
+    "Source":         "src/h2/1.0.62/h2-1.0.62.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.61",
+    "Installed":      "src/h2/1.0.61",
+    "Source":         "src/h2/1.0.61/h2-1.0.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.60",
+    "Installed":      "src/h2/1.0.60",
+    "Source":         "src/h2/1.0.60/h2-1.0.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.59",
+    "Installed":      "src/h2/1.0.59",
+    "Source":         "src/h2/1.0.59/h2-1.0.59.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.58",
+    "Installed":      "src/h2/1.0.58",
+    "Source":         "src/h2/1.0.58/h2-1.0.58.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.57",
+    "Installed":      "src/h2/1.0.57",
+    "Source":         "src/h2/1.0.57/h2-1.0.57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

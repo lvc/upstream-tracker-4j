@@ -1,0 +1,230 @@
+{
+  "Name":           "bouncycastle",
+  "Title":          "Bouncy Castle",
+  "SourceUrl":      "http://polydistortion.net/bc/download/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipInternalTypes": "Spi(\.|\Z)",
+  "Package":        "crypto",
+  "SkipArchives":   [ "lib/", "jce-.*", "bctest-.*", "bcprov-ext-.*", ".*-debug-.*", ".*-jdk(12|13|15|15on|16|17|18)-.*" ],
+
+  "Versions": [
+  {
+    "Number":         154,
+    "Installed":      "installed/bouncycastle/154",
+    "Source":         "src/bouncycastle/154/crypto-154.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         153,
+    "Installed":      "installed/bouncycastle/153",
+    "Source":         "src/bouncycastle/153/crypto-153.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         152,
+    "Installed":      "installed/bouncycastle/152",
+    "Source":         "src/bouncycastle/152/crypto-152.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         151,
+    "Installed":      "installed/bouncycastle/151",
+    "Source":         "src/bouncycastle/151/crypto-151.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         150,
+    "Installed":      "installed/bouncycastle/150",
+    "Source":         "src/bouncycastle/150/crypto-150.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         149,
+    "Installed":      "installed/bouncycastle/149",
+    "Source":         "src/bouncycastle/149/crypto-149.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         148,
+    "Installed":      "installed/bouncycastle/148",
+    "Source":         "src/bouncycastle/148/crypto-148.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         147,
+    "Installed":      "installed/bouncycastle/147",
+    "Source":         "src/bouncycastle/147/crypto-147.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Comment":        "1.47 release represents a step along to version 2.0 of the API. See <a href='http://www.bouncycastle.org/wiki/display/JA1/Porting+from+earlier+BC+releases+to+1.47+and+later'>this page</a> for information on porting from earlier BC releases."
+  },
+  {
+    "Number":         146,
+    "Installed":      "installed/bouncycastle/146",
+    "Source":         "src/bouncycastle/146/crypto-146.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         145,
+    "Installed":      "installed/bouncycastle/145",
+    "Source":         "src/bouncycastle/145/crypto-145.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         144,
+    "Installed":      "installed/bouncycastle/144",
+    "Source":         "src/bouncycastle/144/crypto-144.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         143,
+    "Installed":      "installed/bouncycastle/143",
+    "Source":         "src/bouncycastle/143/crypto-143.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         142,
+    "Installed":      "installed/bouncycastle/142",
+    "Source":         "src/bouncycastle/142/crypto-142.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         141,
+    "Installed":      "installed/bouncycastle/141",
+    "Source":         "src/bouncycastle/141/crypto-141.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         140,
+    "Installed":      "installed/bouncycastle/140",
+    "Source":         "src/bouncycastle/140/crypto-140.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         139,
+    "Installed":      "installed/bouncycastle/139",
+    "Source":         "src/bouncycastle/139/crypto-139.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         138,
+    "Installed":      "installed/bouncycastle/138",
+    "Source":         "src/bouncycastle/138/crypto-138.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         137,
+    "Installed":      "installed/bouncycastle/137",
+    "Source":         "src/bouncycastle/137/crypto-137.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         136,
+    "Installed":      "installed/bouncycastle/136",
+    "Source":         "src/bouncycastle/136/crypto-136.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         135,
+    "Installed":      "installed/bouncycastle/135",
+    "Source":         "src/bouncycastle/135/crypto-135.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         134,
+    "Installed":      "installed/bouncycastle/134",
+    "Source":         "src/bouncycastle/134/crypto-134.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         133,
+    "Installed":      "installed/bouncycastle/133",
+    "Source":         "src/bouncycastle/133/crypto-133.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         132,
+    "Installed":      "installed/bouncycastle/132",
+    "Source":         "src/bouncycastle/132/crypto-132.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         131,
+    "Installed":      "installed/bouncycastle/131",
+    "Source":         "src/bouncycastle/131/crypto-131.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         130,
+    "Installed":      "installed/bouncycastle/130",
+    "Source":         "src/bouncycastle/130/crypto-130.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         129,
+    "Installed":      "installed/bouncycastle/129",
+    "Source":         "src/bouncycastle/129/crypto-129.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         128,
+    "Installed":      "installed/bouncycastle/128",
+    "Source":         "src/bouncycastle/128/crypto-128.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         127,
+    "Installed":      "installed/bouncycastle/127",
+    "Source":         "src/bouncycastle/127/crypto-127.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         126,
+    "Installed":      "installed/bouncycastle/126",
+    "Source":         "src/bouncycastle/126/crypto-126.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         125,
+    "Installed":      "installed/bouncycastle/125",
+    "Source":         "src/bouncycastle/125/crypto-125.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         124,
+    "Installed":      "installed/bouncycastle/124",
+    "Source":         "src/bouncycastle/124/crypto-124.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

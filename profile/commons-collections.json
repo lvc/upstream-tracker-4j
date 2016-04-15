@@ -1,0 +1,75 @@
+{
+  "Name":           "commons-collections",
+  "Title":          "Commons Collections",
+  "SourceUrl":      "http://archive.apache.org/dist/commons/collections/binaries/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "1",
+  "Package":        "commons-collections4",
+  "SkipArchives":   [ ".*-(javadoc|test-sources|sources|tests)\.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "4.1",
+    "Installed":      "installed/commons-collections/4.1",
+    "Source":         "src/commons-collections/4.1/commons-collections4-4.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "installed/commons-collections/4.0",
+    "Source":         "src/commons-collections/4.0/commons-collections4-4.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "installed/commons-collections/3.2",
+    "Source":         "src/commons-collections/3.2/commons-collections-3.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "installed/commons-collections/3.1",
+    "Source":         "src/commons-collections/3.1/commons-collections-3.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "installed/commons-collections/3.0",
+    "Source":         "src/commons-collections/3.0/commons-collections-3.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "installed/commons-collections/2.1.1",
+    "Source":         "src/commons-collections/2.1.1/commons-collections-2.1.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "installed/commons-collections/2.1",
+    "Source":         "src/commons-collections/2.1/collections-2.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "installed/commons-collections/2.0",
+    "Source":         "src/commons-collections/2.0/collections-2.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "installed/commons-collections/1.0",
+    "Source":         "src/commons-collections/1.0/collections-1.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

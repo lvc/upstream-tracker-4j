@@ -1,0 +1,234 @@
+{
+  "Name":           "slf4j",
+  "Title":          "SLF4J",
+  "SourceUrl":      "http://www.slf4j.org/dist/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipArchives":   [ ".*-sources\.jar", "integration/", ".*-(sources|android|over|to|jcl|jdk\d+|log4j\d+|nop|simple)-.*", "junit-.*" ],
+
+  "Versions": [
+  {
+    "Number":         "1.7.21",
+    "Installed":      "installed/slf4j/1.7.21",
+    "Source":         "src/slf4j/1.7.21/slf4j-1.7.21.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.20",
+    "Installed":      "installed/slf4j/1.7.20",
+    "Source":         "src/slf4j/1.7.20/slf4j-1.7.20.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.19",
+    "Installed":      "installed/slf4j/1.7.19",
+    "Source":         "src/slf4j/1.7.19/slf4j-1.7.19.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.18",
+    "Installed":      "installed/slf4j/1.7.18",
+    "Source":         "src/slf4j/1.7.18/slf4j-1.7.18.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.17",
+    "Installed":      "installed/slf4j/1.7.17",
+    "Source":         "src/slf4j/1.7.17/slf4j-1.7.17.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.16",
+    "Installed":      "installed/slf4j/1.7.16",
+    "Source":         "src/slf4j/1.7.16/slf4j-1.7.16.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.15",
+    "Installed":      "installed/slf4j/1.7.15",
+    "Source":         "src/slf4j/1.7.15/slf4j-1.7.15.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.14",
+    "Installed":      "installed/slf4j/1.7.14",
+    "Source":         "src/slf4j/1.7.14/slf4j-1.7.14.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.13",
+    "Installed":      "installed/slf4j/1.7.13",
+    "Source":         "src/slf4j/1.7.13/slf4j-1.7.13.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.12",
+    "Installed":      "installed/slf4j/1.7.12",
+    "Source":         "src/slf4j/1.7.12/slf4j-1.7.12.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.11",
+    "Installed":      "installed/slf4j/1.7.11",
+    "Source":         "src/slf4j/1.7.11/slf4j-1.7.11.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.10",
+    "Installed":      "installed/slf4j/1.7.10",
+    "Source":         "src/slf4j/1.7.10/slf4j-1.7.10.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.9",
+    "Installed":      "installed/slf4j/1.7.9",
+    "Source":         "src/slf4j/1.7.9/slf4j-1.7.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.8",
+    "Installed":      "installed/slf4j/1.7.8",
+    "Source":         "src/slf4j/1.7.8/slf4j-1.7.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.7",
+    "Installed":      "installed/slf4j/1.7.7",
+    "Source":         "src/slf4j/1.7.7/slf4j-1.7.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.6",
+    "Installed":      "installed/slf4j/1.7.6",
+    "Source":         "src/slf4j/1.7.6/slf4j-1.7.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.5",
+    "Installed":      "installed/slf4j/1.7.5",
+    "Source":         "src/slf4j/1.7.5/slf4j-1.7.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.4",
+    "Installed":      "installed/slf4j/1.7.4",
+    "Source":         "src/slf4j/1.7.4/slf4j-1.7.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "installed/slf4j/1.7.3",
+    "Source":         "src/slf4j/1.7.3/slf4j-1.7.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "installed/slf4j/1.7.2",
+    "Source":         "src/slf4j/1.7.2/slf4j-1.7.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "installed/slf4j/1.7.1",
+    "Source":         "src/slf4j/1.7.1/slf4j-1.7.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "installed/slf4j/1.7.0",
+    "Source":         "src/slf4j/1.7.0/slf4j-1.7.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.6",
+    "Installed":      "installed/slf4j/1.6.6",
+    "Source":         "src/slf4j/1.6.6/slf4j-1.6.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5",
+    "Installed":      "installed/slf4j/1.6.5",
+    "Source":         "src/slf4j/1.6.5/slf4j-1.6.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "installed/slf4j/1.6.4",
+    "Source":         "src/slf4j/1.6.4/slf4j-1.6.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "installed/slf4j/1.6.3",
+    "Source":         "src/slf4j/1.6.3/slf4j-1.6.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "installed/slf4j/1.6.2",
+    "Source":         "src/slf4j/1.6.2/slf4j-1.6.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "installed/slf4j/1.6.1",
+    "Source":         "src/slf4j/1.6.1/slf4j-1.6.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "installed/slf4j/1.6.0",
+    "Source":         "src/slf4j/1.6.0/slf4j-1.6.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.11",
+    "Installed":      "installed/slf4j/1.5.11",
+    "Source":         "src/slf4j/1.5.11/slf4j-1.5.11.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.10",
+    "Installed":      "installed/slf4j/1.5.10",
+    "Source":         "src/slf4j/1.5.10/slf4j-1.5.10.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.8",
+    "Installed":      "installed/slf4j/1.5.8",
+    "Source":         "src/slf4j/1.5.8/slf4j-1.5.8.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

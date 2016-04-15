@@ -1,0 +1,158 @@
+{
+  "Name":           "berkeley-db-je",
+  "Title":          "Berkeley DB JE",
+  "SourceUrl":      "http://www.oracle.com/technetwork/database/berkeleydb/downloads/index-098622.html",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "je",
+  "SkipArchives":   [ "docs/", "je-3.3.82/lib/", "examples/", "je-android" ],
+
+  "Versions": [
+  {
+    "Number":         "6.4.25",
+    "Installed":      "installed/berkeley-db-je/6.4.25",
+    "Source":         "src/berkeley-db-je/6.4.25/je-6.4.25.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.4.9",
+    "Installed":      "installed/berkeley-db-je/6.4.9",
+    "Source":         "src/berkeley-db-je/6.4.9/je-6.4.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.3.8",
+    "Installed":      "installed/berkeley-db-je/6.3.8",
+    "Source":         "src/berkeley-db-je/6.3.8/je-6.3.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.2.31",
+    "Installed":      "installed/berkeley-db-je/6.2.31",
+    "Source":         "src/berkeley-db-je/6.2.31/je-6.2.31.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1.5",
+    "Installed":      "installed/berkeley-db-je/6.1.5",
+    "Source":         "src/berkeley-db-je/6.1.5/je-6.1.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.104",
+    "Installed":      "installed/berkeley-db-je/5.0.104",
+    "Source":         "src/berkeley-db-je/5.0.104/je-5.0.104.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.27",
+    "Installed":      "installed/berkeley-db-je/4.1.27",
+    "Source":         "src/berkeley-db-je/4.1.27/je-4.1.27.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.117",
+    "Installed":      "installed/berkeley-db-je/4.0.117",
+    "Source":         "src/berkeley-db-je/4.0.117/je-4.0.117.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.98",
+    "Installed":      "installed/berkeley-db-je/3.3.98",
+    "Source":         "src/berkeley-db-je/3.3.98/je-3.3.98.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.87",
+    "Installed":      "installed/berkeley-db-je/3.3.87",
+    "Source":         "src/berkeley-db-je/3.3.87/je-3.3.87.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.82",
+    "Installed":      "installed/berkeley-db-je/3.3.82",
+    "Source":         "src/berkeley-db-je/3.3.82/je-3.3.82.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.62",
+    "Installed":      "installed/berkeley-db-je/3.3.62",
+    "Source":         "src/berkeley-db-je/3.3.62/je-3.3.62.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.76",
+    "Installed":      "installed/berkeley-db-je/3.2.76",
+    "Source":         "src/berkeley-db-je/3.2.76/je-3.2.76.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.23",
+    "Installed":      "installed/berkeley-db-je/3.2.23",
+    "Source":         "src/berkeley-db-je/3.2.23/je-3.2.23.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.13",
+    "Installed":      "installed/berkeley-db-je/3.2.13",
+    "Source":         "src/berkeley-db-je/3.2.13/je-3.2.13.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "installed/berkeley-db-je/3.1.0",
+    "Source":         "src/berkeley-db-je/3.1.0/je-3.1.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.12",
+    "Installed":      "installed/berkeley-db-je/3.0.12",
+    "Source":         "src/berkeley-db-je/3.0.12/je-3.0.12.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.30",
+    "Installed":      "installed/berkeley-db-je/2.1.30",
+    "Source":         "src/berkeley-db-je/2.1.30/je-2.1.30.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.90",
+    "Installed":      "installed/berkeley-db-je/2.0.90",
+    "Source":         "src/berkeley-db-je/2.0.90/je-2.0.90.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "installed/berkeley-db-je/1.7.1",
+    "Source":         "src/berkeley-db-je/1.7.1/je-1.7.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "installed/berkeley-db-je/1.5.3",
+    "Source":         "src/berkeley-db-je/1.5.3/je-1.5.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

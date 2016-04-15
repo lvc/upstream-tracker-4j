@@ -1,0 +1,129 @@
+{
+  "Name":           "jts",
+  "Title":          "JTS",
+  "SourceUrl":      "https://sourceforge.net/projects/jts-topo-suite/files/jts/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipArchives":   [ "JTS_Test.jar", "junit.*", "xerces.*", "jdom.*", "acme.*", "Acme.*", ".*-sources\.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "1.14",
+    "Installed":      "installed/jts/1.14",
+    "Source":         "src/jts/1.14/jts-1.14.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "installed/jts/1.13",
+    "Source":         "src/jts/1.13/jts-1.13.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "installed/jts/1.12",
+    "Source":         "src/jts/1.12/jts-1.12.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "installed/jts/1.11",
+    "Source":         "src/jts/1.11/jts-1.11.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "installed/jts/1.10",
+    "Source":         "src/jts/1.10/jts-1.10.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "installed/jts/1.9",
+    "Source":         "src/jts/1.9/jts-1.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "installed/jts/1.8",
+    "Source":         "src/jts/1.8/jts-1.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "installed/jts/1.7.2",
+    "Source":         "src/jts/1.7.2/jts-1.7.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "installed/jts/1.7.1",
+    "Source":         "src/jts/1.7.1/jts-1.7.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "installed/jts/1.7",
+    "Source":         "src/jts/1.7/jts-1.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "installed/jts/1.6",
+    "Source":         "src/jts/1.6/jts-1.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "installed/jts/1.5",
+    "Source":         "src/jts/1.5/jts-1.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "installed/jts/1.4.0",
+    "Source":         "src/jts/1.4.0/jts-1.4.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "installed/jts/1.3",
+    "Source":         "src/jts/1.3/jts1.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "installed/jts/1.2",
+    "Source":         "src/jts/1.2/jts1.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "installed/jts/1.1",
+    "Source":         "src/jts/1.1/jts1.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "installed/jts/1.0",
+    "Source":         "src/jts/1.0/jts1.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

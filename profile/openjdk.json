@@ -1,0 +1,96 @@
+{
+  "Name":           "openjdk",
+  "Title":          "OpenJDK",
+  "SourceUrl":      "https://github.com/hybris/java-boshpackage",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "1",
+  "GraphXTics":     "3",
+  "SkipArchives":   [ "demo/", "security/", "im/", "ext/", "management-agent.jar", "resources.jar", "tools.jar", "sa-jdi.jar", "jconsole.jar", "dt.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "1.8.0_65",
+    "Installed":      "installed/openjdk/1.8.0_65",
+    "Source":         "src/openjdk/1.8.0_65/openjdk-1.8.0_65.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0_45",
+    "Installed":      "installed/openjdk/1.8.0_45",
+    "Source":         "src/openjdk/1.8.0_45/openjdk-1.8.0_45.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0_40",
+    "Installed":      "installed/openjdk/1.8.0_40",
+    "Source":         "src/openjdk/1.8.0_40/openjdk-1.8.0_40.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0_25",
+    "Installed":      "installed/openjdk/1.8.0_25",
+    "Source":         "src/openjdk/1.8.0_25/openjdk-1.8.0_25.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0_05",
+    "Installed":      "installed/openjdk/1.8.0_05",
+    "Source":         "src/openjdk/1.8.0_05/openjdk-1.8.0_05.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0_65",
+    "Installed":      "installed/openjdk/1.7.0_65",
+    "Source":         "src/openjdk/1.7.0_65/openjdk-1.7.0_65.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0_55",
+    "Installed":      "installed/openjdk/1.7.0_55",
+    "Source":         "src/openjdk/1.7.0_55/openjdk-1.7.0_55.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0_45",
+    "Installed":      "installed/openjdk/1.7.0_45",
+    "Source":         "src/openjdk/1.7.0_45/openjdk-1.7.0_45.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0_25",
+    "Installed":      "installed/openjdk/1.7.0_25",
+    "Source":         "src/openjdk/1.7.0_25/openjdk-1.7.0_25.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0_15",
+    "Installed":      "installed/openjdk/1.7.0_15",
+    "Source":         "src/openjdk/1.7.0_15/openjdk-1.7.0_15.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0_05",
+    "Installed":      "installed/openjdk/1.7.0_05",
+    "Source":         "src/openjdk/1.7.0_05/openjdk-1.7.0_05.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0_25",
+    "Installed":      "installed/openjdk/1.6.0_25",
+    "Source":         "src/openjdk/1.6.0_25/openjdk-1.6.0_25.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

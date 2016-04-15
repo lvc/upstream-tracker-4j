@@ -1,0 +1,156 @@
+{
+  "Name":           "gson",
+  "Title":          "Gson",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/code/gson/gson/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/gson/2.6.2",
+    "Source":         "src/gson/2.6.2/gson-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/gson/2.6.1",
+    "Source":         "src/gson/2.6.1/gson-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/gson/2.6",
+    "Source":         "src/gson/2.6/gson-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/gson/2.5",
+    "Source":         "src/gson/2.5/gson-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/gson/2.4",
+    "Source":         "src/gson/2.4/gson-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/gson/2.3.1",
+    "Source":         "src/gson/2.3.1/gson-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/gson/2.3",
+    "Source":         "src/gson/2.3/gson-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/gson/2.2.4",
+    "Source":         "src/gson/2.2.4/gson-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/gson/2.2.3",
+    "Source":         "src/gson/2.2.3/gson-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/gson/2.2.2",
+    "Source":         "src/gson/2.2.2/gson-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/gson/2.2.1",
+    "Source":         "src/gson/2.2.1/gson-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/gson/2.2",
+    "Source":         "src/gson/2.2/gson-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/gson/2.1",
+    "Source":         "src/gson/2.1/gson-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/gson/2.0",
+    "Source":         "src/gson/2.0/gson-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/gson/1.7.2",
+    "Source":         "src/gson/1.7.2/gson-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/gson/1.7.1",
+    "Source":         "src/gson/1.7.1/gson-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/gson/1.7",
+    "Source":         "src/gson/1.7/gson-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/gson/1.6",
+    "Source":         "src/gson/1.6/gson-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/gson/1.5",
+    "Source":         "src/gson/1.5/gson-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/gson/1.4",
+    "Source":         "src/gson/1.4/gson-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/gson/1.1",
+    "Source":         "src/gson/1.1/gson-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

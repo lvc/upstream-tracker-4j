@@ -1,0 +1,155 @@
+{
+  "Name":           "accumulo",
+  "Title":          "Accumulo",
+  "SourceUrl":      "https://archive.apache.org/dist/accumulo/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Changelog":      "Off",
+  "CheckArchives":  [ "accumulo-.*" ],
+  "HideUncheked":   "1",
+  "PackageSuffix":  "-dist",
+  "SkipArchives":   [ ".*-(examples-simple|test|javadoc|sources).jar", "src/", "test/", ".*-examples-.*", "accumulo-(tserver|tracer|trace|start|server-base|proxy|monitor|master|gc|fate|shell|server)(\-.*|)\.jar" ],
+  "SkipInternalPackages": "org\.apache\.accumulo\.(.*\.(impl|thrift|crypto).*|(?!core|minicluster).*|core\.(?!client|data|security).*)",
+
+  "Versions": [
+  {
+    "Number":         "1.7.1",
+    "Installed":      "installed/accumulo/1.7.1",
+    "Source":         "src/accumulo/1.7.1/accumulo-1.7.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "installed/accumulo/1.7.0",
+    "Source":         "src/accumulo/1.7.0/accumulo-1.7.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5",
+    "Installed":      "installed/accumulo/1.6.5",
+    "Source":         "src/accumulo/1.6.5/accumulo-1.6.5-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "installed/accumulo/1.6.4",
+    "Source":         "src/accumulo/1.6.4/accumulo-1.6.4-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "installed/accumulo/1.6.3",
+    "Source":         "src/accumulo/1.6.3/accumulo-1.6.3-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "installed/accumulo/1.6.2",
+    "Source":         "src/accumulo/1.6.2/accumulo-1.6.2-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "installed/accumulo/1.6.1",
+    "Source":         "src/accumulo/1.6.1/accumulo-1.6.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "installed/accumulo/1.6.0",
+    "Source":         "src/accumulo/1.6.0/accumulo-1.6.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "installed/accumulo/1.5.4",
+    "Source":         "src/accumulo/1.5.4/accumulo-1.5.4-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "installed/accumulo/1.5.3",
+    "Source":         "src/accumulo/1.5.3/accumulo-1.5.3-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "installed/accumulo/1.5.2",
+    "Source":         "src/accumulo/1.5.2/accumulo-1.5.2-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "installed/accumulo/1.5.1",
+    "Source":         "src/accumulo/1.5.1/accumulo-1.5.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "installed/accumulo/1.5.0",
+    "Source":         "src/accumulo/1.5.0/accumulo-1.5.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.5",
+    "Installed":      "installed/accumulo/1.4.5",
+    "Source":         "src/accumulo/1.4.5/accumulo-1.4.5-dist.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.4",
+    "Installed":      "installed/accumulo/1.4.4",
+    "Source":         "src/accumulo/1.4.4/accumulo-1.4.4-dist.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "installed/accumulo/1.4.3",
+    "Source":         "src/accumulo/1.4.3/accumulo-1.4.3-dist.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "installed/accumulo/1.4.2",
+    "Source":         "src/accumulo/1.4.2/accumulo-1.4.2-dist.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "installed/accumulo/1.4.1",
+    "Source":         "src/accumulo/1.4.1/accumulo-1.4.1-dist.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "installed/accumulo/1.4.0",
+    "Source":         "src/accumulo/1.4.0/accumulo-1.4.0-dist.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.6",
+    "Installed":      "installed/accumulo/1.3.6",
+    "Source":         "src/accumulo/1.3.6/accumulo-1.3.6-dist.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

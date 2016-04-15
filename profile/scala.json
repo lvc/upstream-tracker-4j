@@ -1,0 +1,460 @@
+{
+  "Name":           "scala",
+  "Title":          "Scala",
+  "SourceUrl":      "http://www.scala-lang.org/files/archive/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "1",
+  "SkipArchives":   [ "misc/", "src/", "doc/", "diffutils.jar", "jline.*", "akka-actor.*", "typesafe-config.*", "sbaz-tests.*", "config.*" ],
+  "SkipVersions":   [ ".*\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "2.11.8",
+    "Installed":      "installed/scala/2.11.8",
+    "Source":         "src/scala/2.11.8/scala-2.11.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.7",
+    "Installed":      "installed/scala/2.11.7",
+    "Source":         "src/scala/2.11.7/scala-2.11.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.6",
+    "Installed":      "installed/scala/2.11.6",
+    "Source":         "src/scala/2.11.6/scala-2.11.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.5",
+    "Installed":      "installed/scala/2.11.5",
+    "Source":         "src/scala/2.11.5/scala-2.11.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.4",
+    "Installed":      "installed/scala/2.11.4",
+    "Source":         "src/scala/2.11.4/scala-2.11.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.3",
+    "Installed":      "installed/scala/2.11.3",
+    "Source":         "src/scala/2.11.3/scala-2.11.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.2",
+    "Installed":      "installed/scala/2.11.2",
+    "Source":         "src/scala/2.11.2/scala-2.11.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.1",
+    "Installed":      "installed/scala/2.11.1",
+    "Source":         "src/scala/2.11.1/scala-2.11.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "installed/scala/2.11.0",
+    "Source":         "src/scala/2.11.0/scala-2.11.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.6",
+    "Installed":      "installed/scala/2.10.6",
+    "Source":         "src/scala/2.10.6/scala-2.10.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.5",
+    "Installed":      "installed/scala/2.10.5",
+    "Source":         "src/scala/2.10.5/scala-2.10.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.4",
+    "Installed":      "installed/scala/2.10.4",
+    "Source":         "src/scala/2.10.4/scala-2.10.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "installed/scala/2.10.3",
+    "Source":         "src/scala/2.10.3/scala-2.10.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "installed/scala/2.10.2",
+    "Source":         "src/scala/2.10.2/scala-2.10.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "installed/scala/2.10.1",
+    "Source":         "src/scala/2.10.1/scala-2.10.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "installed/scala/2.10.0",
+    "Source":         "src/scala/2.10.0/scala-2.10.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "installed/scala/2.9.3",
+    "Source":         "src/scala/2.9.3/scala-2.9.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "installed/scala/2.9.2",
+    "Source":         "src/scala/2.9.2/scala-2.9.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1-1",
+    "Installed":      "installed/scala/2.9.1-1",
+    "Source":         "src/scala/2.9.1-1/scala-2.9.1-1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "installed/scala/2.9.1",
+    "Source":         "src/scala/2.9.1/scala-2.9.1.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0.1",
+    "Installed":      "installed/scala/2.9.0.1",
+    "Source":         "src/scala/2.9.0.1/scala-2.9.0.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "installed/scala/2.9.0",
+    "Source":         "src/scala/2.9.0/scala-2.9.0.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "installed/scala/2.8.2",
+    "Source":         "src/scala/2.8.2/scala-2.8.2.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "installed/scala/2.8.1",
+    "Source":         "src/scala/2.8.1/scala-2.8.1.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "installed/scala/2.8.0",
+    "Source":         "src/scala/2.8.0/scala-2.8.0.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.7",
+    "Installed":      "installed/scala/2.7.7",
+    "Source":         "src/scala/2.7.7/scala-2.7.7.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.6",
+    "Installed":      "installed/scala/2.7.6",
+    "Source":         "src/scala/2.7.6/scala-2.7.6.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "installed/scala/2.7.5",
+    "Source":         "src/scala/2.7.5/scala-2.7.5.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "installed/scala/2.7.4",
+    "Source":         "src/scala/2.7.4/scala-2.7.4.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "installed/scala/2.7.3",
+    "Source":         "src/scala/2.7.3/scala-2.7.3.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "installed/scala/2.7.2",
+    "Source":         "src/scala/2.7.2/scala-2.7.2.final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "installed/scala/2.7.1",
+    "Source":         "src/scala/2.7.1/scala-2.7.1.final.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "installed/scala/2.7.0",
+    "Source":         "src/scala/2.7.0/scala-2.7.0-final.tar.bz2",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "installed/scala/2.6.1",
+    "Source":         "src/scala/2.6.1/scala-2.6.1-final.tar.bz2",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "installed/scala/2.6.0",
+    "Source":         "src/scala/2.6.0/scala-2.6.0-final.tar.bz2",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "installed/scala/2.5.1",
+    "Source":         "src/scala/2.5.1/scala-2.5.1-final.tar.bz2",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "installed/scala/2.5.0",
+    "Source":         "src/scala/2.5.0/scala-2.5.0-final.tar.bz2",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "installed/scala/2.4.0",
+    "Source":         "src/scala/2.4.0/scala-2.4.0-final.tar.bz2",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "installed/scala/2.3.3",
+    "Source":         "src/scala/2.3.3/scala-2.3.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "installed/scala/2.3.2",
+    "Source":         "src/scala/2.3.2/scala-2.3.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "installed/scala/2.3.1",
+    "Source":         "src/scala/2.3.1/scala-2.3.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "installed/scala/2.3.0",
+    "Source":         "src/scala/2.3.0/scala-2.3.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "installed/scala/2.2.0",
+    "Source":         "src/scala/2.2.0/scala-2.2.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.8",
+    "Installed":      "installed/scala/2.1.8",
+    "Source":         "src/scala/2.1.8/scala-2.1.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.7",
+    "Installed":      "installed/scala/2.1.7",
+    "Source":         "src/scala/2.1.7/scala-2.1.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "installed/scala/2.1.6",
+    "Source":         "src/scala/2.1.6/scala-2.1.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "installed/scala/2.1.5",
+    "Source":         "src/scala/2.1.5/scala-2.1.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "installed/scala/2.1.4",
+    "Source":         "src/scala/2.1.4/scala-2.1.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "installed/scala/2.1.3",
+    "Source":         "src/scala/2.1.3/scala-2.1.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "installed/scala/2.1.2",
+    "Source":         "src/scala/2.1.2/scala-2.1.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "installed/scala/2.1.1",
+    "Source":         "src/scala/2.1.1/scala-2.1.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "installed/scala/2.1.0",
+    "Source":         "src/scala/2.1.0/scala-2.1.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "installed/scala/2.0.0",
+    "Source":         "src/scala/2.0.0/scala-2.0.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0.4",
+    "Installed":      "installed/scala/1.4.0.4",
+    "Source":         "src/scala/1.4.0.4/scala-1.4.0.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0.3",
+    "Installed":      "installed/scala/1.4.0.3",
+    "Source":         "src/scala/1.4.0.3/scala-1.4.0.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0.2",
+    "Installed":      "installed/scala/1.4.0.2",
+    "Source":         "src/scala/1.4.0.2/scala-1.4.0.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0.1",
+    "Installed":      "installed/scala/1.4.0.1",
+    "Source":         "src/scala/1.4.0.1/scala-1.4.0.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0.0",
+    "Installed":      "installed/scala/1.4.0.0",
+    "Source":         "src/scala/1.4.0.0/scala-1.4.0.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0.10",
+    "Installed":      "installed/scala/1.3.0.10",
+    "Source":         "src/scala/1.3.0.10/scala-1.3.0.10.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0.9",
+    "Installed":      "installed/scala/1.3.0.9",
+    "Source":         "src/scala/1.3.0.9/scala-1.3.0.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0.7",
+    "Installed":      "installed/scala/1.3.0.7",
+    "Source":         "src/scala/1.3.0.7/scala-1.3.0.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0.4",
+    "Installed":      "installed/scala/1.3.0.4",
+    "Source":         "src/scala/1.3.0.4/scala-1.3.0.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0.3",
+    "Installed":      "installed/scala/1.3.0.3",
+    "Source":         "src/scala/1.3.0.3/scala-1.3.0.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0.2",
+    "Installed":      "installed/scala/1.3.0.2",
+    "Source":         "src/scala/1.3.0.2/scala-1.3.0.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,121 @@
+{
+  "Name":           "guava",
+  "Title":          "Guava",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/guava/guava/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "19.0",
+    "Installed":      "installed/guava/19.0",
+    "Source":         "src/guava/19.0/guava-19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0",
+    "Installed":      "installed/guava/18.0",
+    "Source":         "src/guava/18.0/guava-18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.0",
+    "Installed":      "installed/guava/17.0",
+    "Source":         "src/guava/17.0/guava-17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0.1",
+    "Installed":      "installed/guava/16.0.1",
+    "Source":         "src/guava/16.0.1/guava-16.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0",
+    "Installed":      "installed/guava/16.0",
+    "Source":         "src/guava/16.0/guava-16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.0",
+    "Installed":      "installed/guava/15.0",
+    "Source":         "src/guava/15.0/guava-15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.0.1",
+    "Installed":      "installed/guava/14.0.1",
+    "Source":         "src/guava/14.0.1/guava-14.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.0",
+    "Installed":      "installed/guava/14.0",
+    "Source":         "src/guava/14.0/guava-14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "13.0.1",
+    "Installed":      "installed/guava/13.0.1",
+    "Source":         "src/guava/13.0.1/guava-13.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "13.0",
+    "Installed":      "installed/guava/13.0",
+    "Source":         "src/guava/13.0/guava-13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "12.0.1",
+    "Installed":      "installed/guava/12.0.1",
+    "Source":         "src/guava/12.0.1/guava-12.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "12.0",
+    "Installed":      "installed/guava/12.0",
+    "Source":         "src/guava/12.0/guava-12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "11.0.2",
+    "Installed":      "installed/guava/11.0.2",
+    "Source":         "src/guava/11.0.2/guava-11.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "11.0.1",
+    "Installed":      "installed/guava/11.0.1",
+    "Source":         "src/guava/11.0.1/guava-11.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "11.0",
+    "Installed":      "installed/guava/11.0",
+    "Source":         "src/guava/11.0/guava-11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "10.0",
+    "Installed":      "installed/guava/10.0",
+    "Source":         "src/guava/10.0/guava-10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

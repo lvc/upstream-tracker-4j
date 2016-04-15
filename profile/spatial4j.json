@@ -1,0 +1,44 @@
+{
+  "Name":           "spatial4j",
+  "Title":          "Spatial4J",
+  "SourceUrl":      "http://central.maven.org/maven2/com/spatial4j/spatial4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.5",
+    "Installed":      "src/spatial4j/0.5",
+    "Source":         "src/spatial4j/0.5/spatial4j-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.1",
+    "Installed":      "src/spatial4j/0.4.1",
+    "Source":         "src/spatial4j/0.4.1/spatial4j-0.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/spatial4j/0.4",
+    "Source":         "src/spatial4j/0.4/spatial4j-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/spatial4j/0.3",
+    "Source":         "src/spatial4j/0.3/spatial4j-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/spatial4j/0.2",
+    "Source":         "src/spatial4j/0.2/spatial4j-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

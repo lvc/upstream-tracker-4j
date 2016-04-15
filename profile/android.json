@@ -1,0 +1,221 @@
+{
+  "Name":           "android",
+  "Title":          "Android",
+  "SourceUrl":      "http://ady.my/viewer/platform/index.html",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "1",
+  "SkipArchives":   [ "icu4j.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "23_r02",
+    "Installed":      "installed/android/23_r02",
+    "Source":         "src/android/23_r02/android-23_r02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "23_r01",
+    "Installed":      "installed/android/23_r01",
+    "Source":         "src/android/23_r01/android-23_r01.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "22_r02",
+    "Installed":      "installed/android/22_r02",
+    "Source":         "src/android/22_r02/android-22_r02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "21_r02",
+    "Installed":      "installed/android/21_r02",
+    "Source":         "src/android/21_r02/android-21_r02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "20_r02",
+    "Installed":      "installed/android/20_r02",
+    "Source":         "src/android/20_r02/android-20_r02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "19_r04",
+    "Installed":      "installed/android/19_r04",
+    "Source":         "src/android/19_r04/android-19_r04.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "18_r03",
+    "Installed":      "installed/android/18_r03",
+    "Source":         "src/android/18_r03/android-18_r03.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "17_r03",
+    "Installed":      "installed/android/17_r03",
+    "Source":         "src/android/17_r03/android-17_r03.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "16_r05",
+    "Installed":      "installed/android/16_r05",
+    "Source":         "src/android/16_r05/android-16_r05.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "15_r05",
+    "Installed":      "installed/android/15_r05",
+    "Source":         "src/android/15_r05/android-15_r05.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "14_r04",
+    "Installed":      "installed/android/14_r04",
+    "Source":         "src/android/14_r04/android-14_r04.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "3.2_r01",
+    "Installed":      "installed/android/3.2_r01",
+    "Source":         "src/android/3.2_r01/android-3.2_r01-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "3.1_r03",
+    "Installed":      "installed/android/3.1_r03",
+    "Source":         "src/android/3.1_r03/android-3.1_r03-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "3.0_r02",
+    "Installed":      "installed/android/3.0_r02",
+    "Source":         "src/android/3.0_r02/android-3.0_r02-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "2.3.3_r02",
+    "Installed":      "installed/android/2.3.3_r02",
+    "Source":         "src/android/2.3.3_r02/android-2.3.3_r02-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "2.2_r03",
+    "Installed":      "installed/android/2.2_r03",
+    "Source":         "src/android/2.2_r03/android-2.2_r03-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "2.1_r03",
+    "Installed":      "installed/android/2.1_r03",
+    "Source":         "src/android/2.1_r03/android-2.1_r03-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "2.0_r01",
+    "Installed":      "installed/android/2.0_r01",
+    "Source":         "src/android/2.0_r01/android-2.0_r01-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "1.6_r03",
+    "Installed":      "installed/android/1.6_r03",
+    "Source":         "src/android/1.6_r03/android-1.6_r03-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "1.5_r04",
+    "Installed":      "installed/android/1.5_r04",
+    "Source":         "src/android/1.5_r04/android-1.5_r04-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  },
+  {
+    "Number":         "1.1_r1",
+    "Installed":      "installed/android/1.1_r1",
+    "Source":         "src/android/1.1_r1/android-1.1_r1-linux.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "ABIDiff":        "Off",
+    "ABIView":        "Off",
+    "HeadersDiff":    "On"
+  }]
+}

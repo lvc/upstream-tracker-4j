@@ -1,0 +1,192 @@
+{
+  "Name":           "log4j",
+  "SourceUrl":      "https://archive.apache.org/dist/logging/log4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "apache-log4j",
+  "SkipArchives":   [ ".*-(to|impl)-.*", ".*-(sources|javadoc|tests)\.jar", "build/" ],
+
+  "Versions": [
+  {
+    "Number":         "2.5",
+    "Installed":      "installed/log4j/2.5",
+    "Source":         "src/log4j/2.5/apache-log4j-2.5-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "installed/log4j/2.4.1",
+    "Source":         "src/log4j/2.4.1/apache-log4j-2.4.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "installed/log4j/2.4",
+    "Source":         "src/log4j/2.4/apache-log4j-2.4-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "installed/log4j/2.3",
+    "Source":         "src/log4j/2.3/apache-log4j-2.3-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "installed/log4j/2.2",
+    "Source":         "src/log4j/2.2/apache-log4j-2.2-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "installed/log4j/2.1",
+    "Source":         "src/log4j/2.1/apache-log4j-2.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "installed/log4j/2.0.2",
+    "Source":         "src/log4j/2.0.2/apache-log4j-2.0.2-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "installed/log4j/2.0.1",
+    "Source":         "src/log4j/2.0.1/apache-log4j-2.0.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "installed/log4j/2.0",
+    "Source":         "src/log4j/2.0/apache-log4j-2.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.16",
+    "Installed":      "installed/log4j/1.2.16",
+    "Source":         "src/log4j/1.2.16/apache-log4j-1.2.16.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.15",
+    "Installed":      "installed/log4j/1.2.15",
+    "Source":         "src/log4j/1.2.15/apache-log4j-1.2.15.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.14",
+    "Installed":      "installed/log4j/1.2.14",
+    "Source":         "src/log4j/1.2.14/logging-log4j-1.2.14.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.13",
+    "Installed":      "installed/log4j/1.2.13",
+    "Source":         "src/log4j/1.2.13/logging-log4j-1.2.13.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.12",
+    "Installed":      "installed/log4j/1.2.12",
+    "Source":         "src/log4j/1.2.12/logging-log4j-1.2.12.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.11",
+    "Installed":      "installed/log4j/1.2.11",
+    "Source":         "src/log4j/1.2.11/logging-log4j-1.2.11.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.9",
+    "Installed":      "installed/log4j/1.2.9",
+    "Source":         "src/log4j/1.2.9/logging-log4j-1.2.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.8",
+    "Installed":      "installed/log4j/1.2.8",
+    "Source":         "src/log4j/1.2.8/jakarta-log4j-1.2.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.7",
+    "Installed":      "installed/log4j/1.2.7",
+    "Source":         "src/log4j/1.2.7/jakarta-log4j-1.2.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.6",
+    "Installed":      "installed/log4j/1.2.6",
+    "Source":         "src/log4j/1.2.6/jakarta-log4j-1.2.6.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.5",
+    "Installed":      "installed/log4j/1.2.5",
+    "Source":         "src/log4j/1.2.5/jakarta-log4j-1.2.5.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "installed/log4j/1.2.4",
+    "Source":         "src/log4j/1.2.4/jakarta-log4j-1.2.4.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "installed/log4j/1.2.3",
+    "Source":         "src/log4j/1.2.3/jakarta-log4j-1.2.3.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "installed/log4j/1.2.2",
+    "Source":         "src/log4j/1.2.2/jakarta-log4j-1.2.2.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "installed/log4j/1.2.1",
+    "Source":         "src/log4j/1.2.1/jakarta-log4j-1.2.1.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "installed/log4j/1.1.3",
+    "Source":         "src/log4j/1.1.3/jakarta-log4j-1.1.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "installed/log4j/1.0.4",
+    "Source":         "src/log4j/1.0.4/jakarta-log4j-1.0.4.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}
