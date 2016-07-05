@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.4.192",
+    "Installed":      "src/h2/1.4.192",
+    "Source":         "src/h2/1.4.192/h2-1.4.192.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.4.191",
     "Installed":      "src/h2/1.4.191",
     "Source":         "src/h2/1.4.191/h2-1.4.191.jar",

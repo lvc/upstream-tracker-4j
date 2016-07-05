@@ -1,0 +1,104 @@
+{
+  "Name":           "hibernate-orm",
+  "Title":          "Hibernate ORM",
+  "SourceUrl":      "https://sourceforge.net/projects/hibernate/files/hibernate-orm/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckArchives":  [ "hibernate-.*" ],
+  "HideUncheked":   "1",
+  "Package":        "hibernate-release",
+  "SkipArchives":   [ ".*-tests.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "5.2.1",
+    "Installed":      "installed/hibernate-orm/5.2.1",
+    "Source":         "src/hibernate-orm/5.2.1/hibernate-release-5.2.1.Final.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.0",
+    "Installed":      "installed/hibernate-orm/5.2.0",
+    "Source":         "src/hibernate-orm/5.2.0/hibernate-release-5.2.0.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "installed/hibernate-orm/5.1.0",
+    "Source":         "src/hibernate-orm/5.1.0/hibernate-release-5.1.0.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.9",
+    "Installed":      "installed/hibernate-orm/5.0.9",
+    "Source":         "src/hibernate-orm/5.0.9/hibernate-release-5.0.9.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.8",
+    "Installed":      "installed/hibernate-orm/5.0.8",
+    "Source":         "src/hibernate-orm/5.0.8/hibernate-release-5.0.8.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.7",
+    "Installed":      "installed/hibernate-orm/5.0.7",
+    "Source":         "src/hibernate-orm/5.0.7/hibernate-release-5.0.7.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.6",
+    "Installed":      "installed/hibernate-orm/5.0.6",
+    "Source":         "src/hibernate-orm/5.0.6/hibernate-release-5.0.6.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.5",
+    "Installed":      "installed/hibernate-orm/5.0.5",
+    "Source":         "src/hibernate-orm/5.0.5/hibernate-release-5.0.5.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.4",
+    "Installed":      "installed/hibernate-orm/5.0.4",
+    "Source":         "src/hibernate-orm/5.0.4/hibernate-release-5.0.4.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.3",
+    "Installed":      "installed/hibernate-orm/5.0.3",
+    "Source":         "src/hibernate-orm/5.0.3/hibernate-release-5.0.3.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.2",
+    "Installed":      "installed/hibernate-orm/5.0.2",
+    "Source":         "src/hibernate-orm/5.0.2/hibernate-release-5.0.2.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "installed/hibernate-orm/5.0.1",
+    "Source":         "src/hibernate-orm/5.0.1/hibernate-release-5.0.1.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "installed/hibernate-orm/5.0.0",
+    "Source":         "src/hibernate-orm/5.0.0/hibernate-release-5.0.0.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

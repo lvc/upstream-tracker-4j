@@ -1,0 +1,90 @@
+{
+  "Name":           "maven",
+  "Title":          "Maven",
+  "SourceUrl":      "https://archive.apache.org/dist/maven/maven-3/",
+  "SourceUrlDepth": "3",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckArchives":  [ "maven\-.*" ],
+  "Package":        "apache-maven",
+  "SkipArchives":   [ "maven-aether-provider\-.*" ],
+
+  "Versions": [
+  {
+    "Number":         "3.3.9",
+    "Installed":      "installed/maven/3.3.9",
+    "Source":         "src/maven/3.3.9/apache-maven-3.3.9-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.3",
+    "Installed":      "installed/maven/3.3.3",
+    "Source":         "src/maven/3.3.3/apache-maven-3.3.3-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "installed/maven/3.3.1",
+    "Source":         "src/maven/3.3.1/apache-maven-3.3.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "installed/maven/3.2.5",
+    "Source":         "src/maven/3.2.5/apache-maven-3.2.5-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "installed/maven/3.2.3",
+    "Source":         "src/maven/3.2.3/apache-maven-3.2.3-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "installed/maven/3.2.2",
+    "Source":         "src/maven/3.2.2/apache-maven-3.2.2-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "installed/maven/3.2.1",
+    "Source":         "src/maven/3.2.1/apache-maven-3.2.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "installed/maven/3.1.1",
+    "Source":         "src/maven/3.1.1/apache-maven-3.1.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "installed/maven/3.1.0",
+    "Source":         "src/maven/3.1.0/apache-maven-3.1.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "installed/maven/3.0.5",
+    "Source":         "src/maven/3.0.5/apache-maven-3.0.5-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "installed/maven/3.0.4",
+    "Source":         "src/maven/3.0.4/apache-maven-3.0.4-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

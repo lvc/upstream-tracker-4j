@@ -1,0 +1,332 @@
+{
+  "Name":           "testng",
+  "Title":          "TestNG",
+  "SourceUrl":      "http://central.maven.org/maven2/org/testng/testng/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipPackages":   "filters/skip_packages/testng.list",
+
+  "Versions": [
+  {
+    "Number":         "6.9.10",
+    "Installed":      "src/testng/6.9.10",
+    "Source":         "src/testng/6.9.10/testng-6.9.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.9",
+    "Installed":      "src/testng/6.9.9",
+    "Source":         "src/testng/6.9.9/testng-6.9.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.8",
+    "Installed":      "src/testng/6.9.8",
+    "Source":         "src/testng/6.9.8/testng-6.9.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.7",
+    "Installed":      "src/testng/6.9.7",
+    "Source":         "src/testng/6.9.7/testng-6.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.6",
+    "Installed":      "src/testng/6.9.6",
+    "Source":         "src/testng/6.9.6/testng-6.9.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.5",
+    "Installed":      "src/testng/6.9.5",
+    "Source":         "src/testng/6.9.5/testng-6.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.4",
+    "Installed":      "src/testng/6.9.4",
+    "Source":         "src/testng/6.9.4/testng-6.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.21",
+    "Installed":      "src/testng/6.8.21",
+    "Source":         "src/testng/6.8.21/testng-6.8.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.17",
+    "Installed":      "src/testng/6.8.17",
+    "Source":         "src/testng/6.8.17/testng-6.8.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.15",
+    "Installed":      "src/testng/6.8.15",
+    "Source":         "src/testng/6.8.15/testng-6.8.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.14",
+    "Installed":      "src/testng/6.8.14",
+    "Source":         "src/testng/6.8.14/testng-6.8.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.13",
+    "Installed":      "src/testng/6.8.13",
+    "Source":         "src/testng/6.8.13/testng-6.8.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.8",
+    "Installed":      "src/testng/6.8.8",
+    "Source":         "src/testng/6.8.8/testng-6.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.7",
+    "Installed":      "src/testng/6.8.7",
+    "Source":         "src/testng/6.8.7/testng-6.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.5",
+    "Installed":      "src/testng/6.8.5",
+    "Source":         "src/testng/6.8.5/testng-6.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.3",
+    "Installed":      "src/testng/6.8.3",
+    "Source":         "src/testng/6.8.3/testng-6.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8.1",
+    "Installed":      "src/testng/6.8.1",
+    "Source":         "src/testng/6.8.1/testng-6.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.8",
+    "Installed":      "src/testng/6.8",
+    "Source":         "src/testng/6.8/testng-6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.7",
+    "Installed":      "src/testng/6.7",
+    "Source":         "src/testng/6.7/testng-6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6",
+    "Installed":      "src/testng/6.6",
+    "Source":         "src/testng/6.6/testng-6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.5.2",
+    "Installed":      "src/testng/6.5.2",
+    "Source":         "src/testng/6.5.2/testng-6.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.5.1",
+    "Installed":      "src/testng/6.5.1",
+    "Source":         "src/testng/6.5.1/testng-6.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.4",
+    "Installed":      "src/testng/6.4",
+    "Source":         "src/testng/6.4/testng-6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.3.1",
+    "Installed":      "src/testng/6.3.1",
+    "Source":         "src/testng/6.3.1/testng-6.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.3",
+    "Installed":      "src/testng/6.3",
+    "Source":         "src/testng/6.3/testng-6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.2.1",
+    "Installed":      "src/testng/6.2.1",
+    "Source":         "src/testng/6.2.1/testng-6.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.2",
+    "Installed":      "src/testng/6.2",
+    "Source":         "src/testng/6.2/testng-6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1.1",
+    "Installed":      "src/testng/6.1.1",
+    "Source":         "src/testng/6.1.1/testng-6.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1",
+    "Installed":      "src/testng/6.1",
+    "Source":         "src/testng/6.1/testng-6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.1",
+    "Installed":      "src/testng/6.0.1",
+    "Source":         "src/testng/6.0.1/testng-6.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0",
+    "Installed":      "src/testng/6.0",
+    "Source":         "src/testng/6.0/testng-6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.10",
+    "Installed":      "src/testng/5.14.10",
+    "Source":         "src/testng/5.14.10/testng-5.14.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.9",
+    "Installed":      "src/testng/5.14.9",
+    "Source":         "src/testng/5.14.9/testng-5.14.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.7",
+    "Installed":      "src/testng/5.14.7",
+    "Source":         "src/testng/5.14.7/testng-5.14.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.6",
+    "Installed":      "src/testng/5.14.6",
+    "Source":         "src/testng/5.14.6/testng-5.14.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.5",
+    "Installed":      "src/testng/5.14.5",
+    "Source":         "src/testng/5.14.5/testng-5.14.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.4",
+    "Installed":      "src/testng/5.14.4",
+    "Source":         "src/testng/5.14.4/testng-5.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.3",
+    "Installed":      "src/testng/5.14.3",
+    "Source":         "src/testng/5.14.3/testng-5.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.2",
+    "Installed":      "src/testng/5.14.2",
+    "Source":         "src/testng/5.14.2/testng-5.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.1",
+    "Installed":      "src/testng/5.14.1",
+    "Source":         "src/testng/5.14.1/testng-5.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14",
+    "Installed":      "src/testng/5.14",
+    "Source":         "src/testng/5.14/testng-5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.1",
+    "Installed":      "src/testng/5.13.1",
+    "Source":         "src/testng/5.13.1/testng-5.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13",
+    "Installed":      "src/testng/5.13",
+    "Source":         "src/testng/5.13/testng-5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.12.1",
+    "Installed":      "src/testng/5.12.1",
+    "Source":         "src/testng/5.12.1/testng-5.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5",
+    "Installed":      "src/testng/5.5",
+    "Source":         "src/testng/5.5/testng-5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0",
+    "Installed":      "src/testng/5.0",
+    "Source":         "src/testng/5.0/testng-5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

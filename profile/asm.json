@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "6.0_ALPHA",
+    "Installed":      "installed/asm/6.0_ALPHA",
+    "Source":         "src/asm/6.0_ALPHA/asm-6.0_ALPHA-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.1",
     "Installed":      "installed/asm/5.1",
     "Source":         "src/asm/5.1/asm-5.1-bin.zip",

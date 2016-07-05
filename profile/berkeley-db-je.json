@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "7.0.6",
+    "Installed":      "installed/berkeley-db-je/7.0.6",
+    "Source":         "src/berkeley-db-je/7.0.6/je-7.0.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "6.4.25",
     "Installed":      "installed/berkeley-db-je/6.4.25",
     "Source":         "src/berkeley-db-je/6.4.25/je-6.4.25.zip",

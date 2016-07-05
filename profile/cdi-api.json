@@ -1,0 +1,67 @@
+{
+  "Name":           "cdi-api",
+  "Title":          "CDI",
+  "SourceUrl":      "http://central.maven.org/maven2/javax/enterprise/cdi-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphShortXTics": "1",
+  "SkipVersions":   [ ".*\-\d\d\d\d\d\d\d\d" ],
+
+  "Versions": [
+  {
+    "Number":         "2.0.Alpha4",
+    "Installed":      "src/cdi-api/2.0.Alpha4",
+    "Source":         "src/cdi-api/2.0.Alpha4/cdi-api-2.0.Alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/cdi-api/1.2",
+    "Source":         "src/cdi-api/1.2/cdi-api-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/cdi-api/1.1",
+    "Source":         "src/cdi-api/1.1/cdi-api-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0-SP4",
+    "Installed":      "src/cdi-api/1.0-SP4",
+    "Source":         "src/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0-SP3",
+    "Installed":      "src/cdi-api/1.0-SP3",
+    "Source":         "src/cdi-api/1.0-SP3/cdi-api-1.0-SP3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0-SP2",
+    "Installed":      "src/cdi-api/1.0-SP2",
+    "Source":         "src/cdi-api/1.0-SP2/cdi-api-1.0-SP2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0-SP1",
+    "Installed":      "src/cdi-api/1.0-SP1",
+    "Source":         "src/cdi-api/1.0-SP1/cdi-api-1.0-SP1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/cdi-api/1.0",
+    "Source":         "src/cdi-api/1.0/cdi-api-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -10,8 +10,32 @@
   "Package":        "jetty-distribution",
   "ReportStyle":    "ShortArchive",
   "SkipArchives":   [ "jetty-schemas-.*", ".*-javadoc.jar" ],
+  "SnapshotPattern": "9.4.0\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/jetty-with-staging/org/eclipse/jetty/jetty-distribution/9.4.0-SNAPSHOT/",
+  "SnapshotVer":    "9.4.0-SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "9.4.0-SNAPSHOT",
+    "Installed":      "installed/jetty/9.4.0-SNAPSHOT",
+    "Source":         "src/jetty/9.4.0-SNAPSHOT/jetty-distribution-9.4.0-20160702.010716-73.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.10.v20160621",
+    "Installed":      "installed/jetty/9.3.10.v20160621",
+    "Source":         "src/jetty/9.3.10.v20160621/jetty-distribution-9.3.10.v20160621.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.9.v20160517",
+    "Installed":      "installed/jetty/9.3.9.v20160517",
+    "Source":         "src/jetty/9.3.9.v20160517/jetty-distribution-9.3.9.v20160517.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "9.3.8.v20160314",
     "Installed":      "installed/jetty/9.3.8.v20160314",
@@ -72,6 +96,20 @@
     "Number":         "9.3.0.v20150612",
     "Installed":      "installed/jetty/9.3.0.v20150612",
     "Source":         "src/jetty/9.3.0.v20150612/jetty-distribution-9.3.0.v20150612.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.17.v20160517",
+    "Installed":      "installed/jetty/9.2.17.v20160517",
+    "Source":         "src/jetty/9.2.17.v20160517/jetty-distribution-9.2.17.v20160517.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.16.v20160414",
+    "Installed":      "installed/jetty/9.2.16.v20160414",
+    "Source":         "src/jetty/9.2.16.v20160414/jetty-distribution-9.2.16.v20160414.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

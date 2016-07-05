@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.7",
+    "Installed":      "src/gson/2.7",
+    "Source":         "src/gson/2.7/gson-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.6.2",
     "Installed":      "src/gson/2.6.2",
     "Source":         "src/gson/2.6.2/gson-2.6.2.jar",

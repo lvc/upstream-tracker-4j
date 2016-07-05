@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.16",
+    "Installed":      "installed/jmapviewer/1.16",
+    "Source":         "src/jmapviewer/1.16/JMapViewer-1.16.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.15",
     "Installed":      "installed/jmapviewer/1.15",
     "Source":         "src/jmapviewer/1.15/JMapViewer-1.15.zip",

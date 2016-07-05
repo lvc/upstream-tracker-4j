@@ -3,7 +3,7 @@
   "Title":          "GeoTools",
   "SourceUrl":      "https://sourceforge.net/projects/geotools/files/",
   "SourceUrlDepth": "3",
-  "SkipUrl":        [ ".*-(RC|M\d|beta)", "GeoTools%20(2.2|2.3|2.4|2.5|2.6|2.7|8.0|8|9|10|11|12)%20Releases/" ],
+  "SkipUrl":        [ "(13|14)-(RC|M\d|beta)", "GeoTools%20(2.2|2.3|2.4|2.5|2.6|2.7|8.0|8|9|10|11|12)%20Releases/" ],
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CheckArchives":  [ "gt-.*" ],
@@ -14,6 +14,28 @@
   "SkipArchives":   [ ".*-tests.*" ],
 
   "Versions": [
+  {
+    "Number":         "15.0",
+    "Installed":      "installed/geotools/15.0",
+    "Source":         "src/geotools/15.0/geotools-15.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15-RC1",
+    "Installed":      "installed/geotools/15-RC1",
+    "Source":         "src/geotools/15-RC1/geotools-15-RC1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "14.4",
+    "Installed":      "installed/geotools/14.4",
+    "Source":         "src/geotools/14.4/geotools-14.4-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "14.3",
     "Installed":      "installed/geotools/14.3",

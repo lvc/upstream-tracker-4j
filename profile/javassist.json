@@ -1,0 +1,86 @@
+{
+  "Name":           "javassist",
+  "Title":          "Javassist",
+  "SourceUrl":      "http://central.maven.org/maven2/org/javassist/javassist/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.20.0",
+    "Installed":      "src/javassist/3.20.0",
+    "Source":         "src/javassist/3.20.0/javassist-3.20.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.19.0",
+    "Installed":      "src/javassist/3.19.0",
+    "Source":         "src/javassist/3.19.0/javassist-3.19.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.18.2",
+    "Installed":      "src/javassist/3.18.2",
+    "Source":         "src/javassist/3.18.2/javassist-3.18.2-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.18.1",
+    "Installed":      "src/javassist/3.18.1",
+    "Source":         "src/javassist/3.18.1/javassist-3.18.1-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.18.0",
+    "Installed":      "src/javassist/3.18.0",
+    "Source":         "src/javassist/3.18.0/javassist-3.18.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.17.1",
+    "Installed":      "src/javassist/3.17.1",
+    "Source":         "src/javassist/3.17.1/javassist-3.17.1-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.17.0",
+    "Installed":      "src/javassist/3.17.0",
+    "Source":         "src/javassist/3.17.0/javassist-3.17.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.16.1",
+    "Installed":      "src/javassist/3.16.1",
+    "Source":         "src/javassist/3.16.1/javassist-3.16.1-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.15.0",
+    "Installed":      "src/javassist/3.15.0",
+    "Source":         "src/javassist/3.15.0/javassist-3.15.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.14.0",
+    "Installed":      "src/javassist/3.14.0",
+    "Source":         "src/javassist/3.14.0/javassist-3.14.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.13.0",
+    "Installed":      "src/javassist/3.13.0",
+    "Source":         "src/javassist/3.13.0/javassist-3.13.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

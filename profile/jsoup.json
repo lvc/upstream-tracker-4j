@@ -1,0 +1,176 @@
+{
+  "Name":           "jsoup",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jsoup/jsoup/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.9.2",
+    "Installed":      "src/jsoup/1.9.2",
+    "Source":         "src/jsoup/1.9.2/jsoup-1.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/jsoup/1.9.1",
+    "Source":         "src/jsoup/1.9.1/jsoup-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/jsoup/1.8.3",
+    "Source":         "src/jsoup/1.8.3/jsoup-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/jsoup/1.8.2",
+    "Source":         "src/jsoup/1.8.2/jsoup-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/jsoup/1.8.1",
+    "Source":         "src/jsoup/1.8.1/jsoup-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/jsoup/1.7.3",
+    "Source":         "src/jsoup/1.7.3/jsoup-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/jsoup/1.7.2",
+    "Source":         "src/jsoup/1.7.2/jsoup-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/jsoup/1.7.1",
+    "Source":         "src/jsoup/1.7.1/jsoup-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/jsoup/1.6.3",
+    "Source":         "src/jsoup/1.6.3/jsoup-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/jsoup/1.6.2",
+    "Source":         "src/jsoup/1.6.2/jsoup-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/jsoup/1.6.1",
+    "Source":         "src/jsoup/1.6.1/jsoup-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/jsoup/1.6.0",
+    "Source":         "src/jsoup/1.6.0/jsoup-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/jsoup/1.5.2",
+    "Source":         "src/jsoup/1.5.2/jsoup-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/jsoup/1.5.1",
+    "Source":         "src/jsoup/1.5.1/jsoup-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/jsoup/1.4.1",
+    "Source":         "src/jsoup/1.4.1/jsoup-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/jsoup/1.3.3",
+    "Source":         "src/jsoup/1.3.3/jsoup-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/jsoup/1.3.2",
+    "Source":         "src/jsoup/1.3.2/jsoup-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/jsoup/1.3.1",
+    "Source":         "src/jsoup/1.3.1/jsoup-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/jsoup/1.2.3",
+    "Source":         "src/jsoup/1.2.3/jsoup-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/jsoup/1.2.2",
+    "Source":         "src/jsoup/1.2.2/jsoup-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/jsoup/1.2.1",
+    "Source":         "src/jsoup/1.2.1/jsoup-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/jsoup/1.1.1",
+    "Source":         "src/jsoup/1.1.1/jsoup-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.1",
+    "Installed":      "src/jsoup/0.3.1",
+    "Source":         "src/jsoup/0.3.1/jsoup-0.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.2",
+    "Installed":      "src/jsoup/0.2.2",
+    "Source":         "src/jsoup/0.2.2/jsoup-0.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

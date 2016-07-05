@@ -1,0 +1,212 @@
+{
+  "Name":           "joda-time",
+  "Title":          "Joda Time",
+  "SourceUrl":      "http://central.maven.org/maven2/joda-time/joda-time/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.9.4",
+    "Installed":      "src/joda-time/2.9.4",
+    "Source":         "src/joda-time/2.9.4/joda-time-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "src/joda-time/2.9.3",
+    "Source":         "src/joda-time/2.9.3/joda-time-2.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/joda-time/2.9.2",
+    "Source":         "src/joda-time/2.9.2/joda-time-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/joda-time/2.9.1",
+    "Source":         "src/joda-time/2.9.1/joda-time-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/joda-time/2.9",
+    "Source":         "src/joda-time/2.9/joda-time-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/joda-time/2.8.2",
+    "Source":         "src/joda-time/2.8.2/joda-time-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/joda-time/2.8.1",
+    "Source":         "src/joda-time/2.8.1/joda-time-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/joda-time/2.8",
+    "Source":         "src/joda-time/2.8/joda-time-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/joda-time/2.7",
+    "Source":         "src/joda-time/2.7/joda-time-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/joda-time/2.6",
+    "Source":         "src/joda-time/2.6/joda-time-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/joda-time/2.5",
+    "Source":         "src/joda-time/2.5/joda-time-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/joda-time/2.4",
+    "Source":         "src/joda-time/2.4/joda-time-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/joda-time/2.3",
+    "Source":         "src/joda-time/2.3/joda-time-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/joda-time/2.2",
+    "Source":         "src/joda-time/2.2/joda-time-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/joda-time/2.1",
+    "Source":         "src/joda-time/2.1/joda-time-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/joda-time/2.0",
+    "Source":         "src/joda-time/2.0/joda-time-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/joda-time/1.6.2",
+    "Source":         "src/joda-time/1.6.2/joda-time-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/joda-time/1.6.1",
+    "Source":         "src/joda-time/1.6.1/joda-time-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/joda-time/1.6",
+    "Source":         "src/joda-time/1.6/joda-time-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/joda-time/1.5.2",
+    "Source":         "src/joda-time/1.5.2/joda-time-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/joda-time/1.5.1",
+    "Source":         "src/joda-time/1.5.1/joda-time-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/joda-time/1.5",
+    "Source":         "src/joda-time/1.5/joda-time-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/joda-time/1.4",
+    "Source":         "src/joda-time/1.4/joda-time-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/joda-time/1.3",
+    "Source":         "src/joda-time/1.3/joda-time-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/joda-time/1.2.1",
+    "Source":         "src/joda-time/1.2.1/joda-time-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/joda-time/1.2",
+    "Source":         "src/joda-time/1.2/joda-time-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/joda-time/1.1",
+    "Source":         "src/joda-time/1.1/joda-time-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/joda-time/1.0",
+    "Source":         "src/joda-time/1.0/joda-time-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.95",
+    "Installed":      "src/joda-time/0.95",
+    "Source":         "src/joda-time/0.95/joda-time-0.95.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

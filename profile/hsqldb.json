@@ -1,0 +1,165 @@
+{
+  "Name":           "hsqldb",
+  "Title":          "HyperSQL",
+  "SourceUrl":      "https://sourceforge.net/projects/hsqldb/files/hsqldb/",
+  "SkipUrl":        [ "hsqldb_(1_6_1|1_7_0|1_7_1|1_7_2|1_7_3|1_8_0|1_8_1|2_0|2_2)/" ],
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckArchives":  [ "hsqldb.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "2.3.4",
+    "Installed":      "installed/hsqldb/2.3.4",
+    "Source":         "src/hsqldb/2.3.4/hsqldb-2.3.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "installed/hsqldb/2.3.3",
+    "Source":         "src/hsqldb/2.3.3/hsqldb-2.3.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "installed/hsqldb/2.3.2",
+    "Source":         "src/hsqldb/2.3.2/hsqldb-2.3.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "installed/hsqldb/2.3.1",
+    "Source":         "src/hsqldb/2.3.1/hsqldb-2.3.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "installed/hsqldb/2.3.0",
+    "Source":         "src/hsqldb/2.3.0/hsqldb-2.3.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.9",
+    "Installed":      "installed/hsqldb/2.2.9",
+    "Source":         "src/hsqldb/2.2.9/hsqldb-2.2.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.8",
+    "Installed":      "installed/hsqldb/2.2.8",
+    "Source":         "src/hsqldb/2.2.8/hsqldb-2.2.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "installed/hsqldb/2.2.7",
+    "Source":         "src/hsqldb/2.2.7/hsqldb-2.2.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "installed/hsqldb/2.2.6",
+    "Source":         "src/hsqldb/2.2.6/hsqldb-2.2.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "installed/hsqldb/2.2.5",
+    "Source":         "src/hsqldb/2.2.5/hsqldb-2.2.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "installed/hsqldb/2.2.4",
+    "Source":         "src/hsqldb/2.2.4/hsqldb-2.2.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "installed/hsqldb/2.2.3",
+    "Source":         "src/hsqldb/2.2.3/hsqldb-2.2.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "installed/hsqldb/2.2.2",
+    "Source":         "src/hsqldb/2.2.2/hsqldb-2.2.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "installed/hsqldb/2.2.1",
+    "Source":         "src/hsqldb/2.2.1/hsqldb-2.2.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "installed/hsqldb/2.2.0",
+    "Source":         "src/hsqldb/2.2.0/hsqldb-2.2.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "installed/hsqldb/2.0.0",
+    "Source":         "src/hsqldb/2.0.0/hsqldb-2.0.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1_8_1_3",
+    "Installed":      "installed/hsqldb/1_8_1_3",
+    "Source":         "src/hsqldb/1_8_1_3/hsqldb_1_8_1_3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1_8_0_10",
+    "Installed":      "installed/hsqldb/1_8_0_10",
+    "Source":         "src/hsqldb/1_8_0_10/hsqldb_1_8_0_10.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1_7_3_3",
+    "Installed":      "installed/hsqldb/1_7_3_3",
+    "Source":         "src/hsqldb/1_7_3_3/hsqldb_1_7_3_3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1_7_2_11",
+    "Installed":      "installed/hsqldb/1_7_2_11",
+    "Source":         "src/hsqldb/1_7_2_11/hsqldb_1_7_2_11.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1_7_1",
+    "Installed":      "installed/hsqldb/1_7_1",
+    "Source":         "src/hsqldb/1_7_1/hsqldb_1_7_1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1_7_0",
+    "Installed":      "installed/hsqldb/1_7_0",
+    "Source":         "src/hsqldb/1_7_0/hsqldb_1_7_0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

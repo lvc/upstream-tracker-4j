@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "2.6.1",
+    "Installed":      "installed/log4j/2.6.1",
+    "Source":         "src/log4j/2.6.1/apache-log4j-2.6.1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "installed/log4j/2.6",
+    "Source":         "src/log4j/2.6/apache-log4j-2.6-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.5",
     "Installed":      "installed/log4j/2.5",
     "Source":         "src/log4j/2.5/apache-log4j-2.5-bin.tar.gz",

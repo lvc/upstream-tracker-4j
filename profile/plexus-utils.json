@@ -1,0 +1,464 @@
+{
+  "Name":           "plexus-utils",
+  "Title":          "Plexus Common Utilities",
+  "SourceUrl":      "http://central.maven.org/maven2/org/codehaus/plexus/plexus-utils/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.24",
+    "Installed":      "src/plexus-utils/3.0.24",
+    "Source":         "src/plexus-utils/3.0.24/plexus-utils-3.0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.23",
+    "Installed":      "src/plexus-utils/3.0.23",
+    "Source":         "src/plexus-utils/3.0.23/plexus-utils-3.0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.22",
+    "Installed":      "src/plexus-utils/3.0.22",
+    "Source":         "src/plexus-utils/3.0.22/plexus-utils-3.0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.21",
+    "Installed":      "src/plexus-utils/3.0.21",
+    "Source":         "src/plexus-utils/3.0.21/plexus-utils-3.0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.20",
+    "Installed":      "src/plexus-utils/3.0.20",
+    "Source":         "src/plexus-utils/3.0.20/plexus-utils-3.0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.19",
+    "Installed":      "src/plexus-utils/3.0.19",
+    "Source":         "src/plexus-utils/3.0.19/plexus-utils-3.0.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.18",
+    "Installed":      "src/plexus-utils/3.0.18",
+    "Source":         "src/plexus-utils/3.0.18/plexus-utils-3.0.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.17",
+    "Installed":      "src/plexus-utils/3.0.17",
+    "Source":         "src/plexus-utils/3.0.17/plexus-utils-3.0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.16",
+    "Installed":      "src/plexus-utils/3.0.16",
+    "Source":         "src/plexus-utils/3.0.16/plexus-utils-3.0.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.15",
+    "Installed":      "src/plexus-utils/3.0.15",
+    "Source":         "src/plexus-utils/3.0.15/plexus-utils-3.0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.14",
+    "Installed":      "src/plexus-utils/3.0.14",
+    "Source":         "src/plexus-utils/3.0.14/plexus-utils-3.0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.13",
+    "Installed":      "src/plexus-utils/3.0.13",
+    "Source":         "src/plexus-utils/3.0.13/plexus-utils-3.0.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.12",
+    "Installed":      "src/plexus-utils/3.0.12",
+    "Source":         "src/plexus-utils/3.0.12/plexus-utils-3.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.11",
+    "Installed":      "src/plexus-utils/3.0.11",
+    "Source":         "src/plexus-utils/3.0.11/plexus-utils-3.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.10",
+    "Installed":      "src/plexus-utils/3.0.10",
+    "Source":         "src/plexus-utils/3.0.10/plexus-utils-3.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.9",
+    "Installed":      "src/plexus-utils/3.0.9",
+    "Source":         "src/plexus-utils/3.0.9/plexus-utils-3.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.8",
+    "Installed":      "src/plexus-utils/3.0.8",
+    "Source":         "src/plexus-utils/3.0.8/plexus-utils-3.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/plexus-utils/3.0.7",
+    "Source":         "src/plexus-utils/3.0.7/plexus-utils-3.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/plexus-utils/3.0.6",
+    "Source":         "src/plexus-utils/3.0.6/plexus-utils-3.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/plexus-utils/3.0.5",
+    "Source":         "src/plexus-utils/3.0.5/plexus-utils-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/plexus-utils/3.0.4",
+    "Source":         "src/plexus-utils/3.0.4/plexus-utils-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/plexus-utils/3.0.3",
+    "Source":         "src/plexus-utils/3.0.3/plexus-utils-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/plexus-utils/3.0.2",
+    "Source":         "src/plexus-utils/3.0.2/plexus-utils-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/plexus-utils/3.0.1",
+    "Source":         "src/plexus-utils/3.0.1/plexus-utils-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/plexus-utils/3.0",
+    "Source":         "src/plexus-utils/3.0/plexus-utils-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/plexus-utils/2.1",
+    "Source":         "src/plexus-utils/2.1/plexus-utils-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/plexus-utils/2.0.7",
+    "Source":         "src/plexus-utils/2.0.7/plexus-utils-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/plexus-utils/2.0.6",
+    "Source":         "src/plexus-utils/2.0.6/plexus-utils-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/plexus-utils/2.0.5",
+    "Source":         "src/plexus-utils/2.0.5/plexus-utils-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/plexus-utils/2.0.4",
+    "Source":         "src/plexus-utils/2.0.4/plexus-utils-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/plexus-utils/2.0.3",
+    "Source":         "src/plexus-utils/2.0.3/plexus-utils-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/plexus-utils/2.0.2",
+    "Source":         "src/plexus-utils/2.0.2/plexus-utils-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/plexus-utils/2.0.1",
+    "Source":         "src/plexus-utils/2.0.1/plexus-utils-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/plexus-utils/2.0.0",
+    "Source":         "src/plexus-utils/2.0.0/plexus-utils-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.15",
+    "Installed":      "src/plexus-utils/1.5.15",
+    "Source":         "src/plexus-utils/1.5.15/plexus-utils-1.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.14",
+    "Installed":      "src/plexus-utils/1.5.14",
+    "Source":         "src/plexus-utils/1.5.14/plexus-utils-1.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.13",
+    "Installed":      "src/plexus-utils/1.5.13",
+    "Source":         "src/plexus-utils/1.5.13/plexus-utils-1.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.12",
+    "Installed":      "src/plexus-utils/1.5.12",
+    "Source":         "src/plexus-utils/1.5.12/plexus-utils-1.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.11",
+    "Installed":      "src/plexus-utils/1.5.11",
+    "Source":         "src/plexus-utils/1.5.11/plexus-utils-1.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.10",
+    "Installed":      "src/plexus-utils/1.5.10",
+    "Source":         "src/plexus-utils/1.5.10/plexus-utils-1.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.9",
+    "Installed":      "src/plexus-utils/1.5.9",
+    "Source":         "src/plexus-utils/1.5.9/plexus-utils-1.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.8",
+    "Installed":      "src/plexus-utils/1.5.8",
+    "Source":         "src/plexus-utils/1.5.8/plexus-utils-1.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.7",
+    "Installed":      "src/plexus-utils/1.5.7",
+    "Source":         "src/plexus-utils/1.5.7/plexus-utils-1.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/plexus-utils/1.5.6",
+    "Source":         "src/plexus-utils/1.5.6/plexus-utils-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/plexus-utils/1.5.5",
+    "Source":         "src/plexus-utils/1.5.5/plexus-utils-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/plexus-utils/1.5.4",
+    "Source":         "src/plexus-utils/1.5.4/plexus-utils-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/plexus-utils/1.5.3",
+    "Source":         "src/plexus-utils/1.5.3/plexus-utils-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/plexus-utils/1.5.2",
+    "Source":         "src/plexus-utils/1.5.2/plexus-utils-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/plexus-utils/1.5.1",
+    "Source":         "src/plexus-utils/1.5.1/plexus-utils-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/plexus-utils/1.5",
+    "Source":         "src/plexus-utils/1.5/plexus-utils-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.9",
+    "Installed":      "src/plexus-utils/1.4.9",
+    "Source":         "src/plexus-utils/1.4.9/plexus-utils-1.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.8",
+    "Installed":      "src/plexus-utils/1.4.8",
+    "Source":         "src/plexus-utils/1.4.8/plexus-utils-1.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.7",
+    "Installed":      "src/plexus-utils/1.4.7",
+    "Source":         "src/plexus-utils/1.4.7/plexus-utils-1.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.6",
+    "Installed":      "src/plexus-utils/1.4.6",
+    "Source":         "src/plexus-utils/1.4.6/plexus-utils-1.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.5",
+    "Installed":      "src/plexus-utils/1.4.5",
+    "Source":         "src/plexus-utils/1.4.5/plexus-utils-1.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.4",
+    "Installed":      "src/plexus-utils/1.4.4",
+    "Source":         "src/plexus-utils/1.4.4/plexus-utils-1.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "src/plexus-utils/1.4.3",
+    "Source":         "src/plexus-utils/1.4.3/plexus-utils-1.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "src/plexus-utils/1.4.2",
+    "Source":         "src/plexus-utils/1.4.2/plexus-utils-1.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/plexus-utils/1.4.1",
+    "Source":         "src/plexus-utils/1.4.1/plexus-utils-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/plexus-utils/1.4",
+    "Source":         "src/plexus-utils/1.4/plexus-utils-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/plexus-utils/1.3",
+    "Source":         "src/plexus-utils/1.3/plexus-utils-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/plexus-utils/1.2",
+    "Source":         "src/plexus-utils/1.2/plexus-utils-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/plexus-utils/1.1",
+    "Source":         "src/plexus-utils/1.1/plexus-utils-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/plexus-utils/1.0.5",
+    "Source":         "src/plexus-utils/1.0.5/plexus-utils-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/plexus-utils/1.0.4",
+    "Source":         "src/plexus-utils/1.0.4/plexus-utils-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

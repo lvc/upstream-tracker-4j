@@ -12,7 +12,7 @@
 #
 # REQUIREMENTS
 # ============
-#  Perl 5 (5.8 or newer)
+#  Perl 5
 #  ssh
 #  scp
 #
@@ -132,8 +132,15 @@ sub scenario()
     {
         if(not grep {$_ eq $Target} @List_F)
         {
-            print STDERR "ERROR: the library \'$Target\' is not presented in the testplan\n";
-            exit(1);
+            print STDERR "WARNING: the library \'$Target\' is not presented in the testplan\n";
+            
+            if(not -d "timeline/".$Target)
+            {
+                print STDERR "ERROR: there is no report for \'$Target\'\n";
+                exit(1);
+            }
+            
+            @List_F = ($Target);
         }
     }
     
@@ -158,7 +165,12 @@ sub scenario()
         sendFiles(@Files);
     }
     
-    sendFiles("index.html", "css", "js");
+    my @Other = ("index.html", "css");
+    if(-d "js") {
+        push(@Other, "js");
+    }
+    
+    sendFiles(@Other);
     system("ssh $HostAddr \"cd $HostDir && find compat_report -empty -type d -delete && sed -i -e \'s/index\.html//\' index.html\"");
     
     exit(0);

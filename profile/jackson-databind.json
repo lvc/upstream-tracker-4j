@@ -7,6 +7,35 @@
 
   "Versions": [
   {
+    "Number":         "2.8.0.rc2",
+    "Installed":      "src/jackson-databind/2.8.0.rc2",
+    "Source":         "src/jackson-databind/2.8.0.rc2/jackson-databind-2.8.0.rc2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0.rc1",
+    "Installed":      "src/jackson-databind/2.8.0.rc1",
+    "Source":         "src/jackson-databind/2.8.0.rc1/jackson-databind-2.8.0.rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/jackson-databind/2.7.5",
+    "Source":         "src/jackson-databind/2.7.5/jackson-databind-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/jackson-databind/2.7.4",
+    "Source":         "src/jackson-databind/2.7.4/jackson-databind-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.7.3",
     "Installed":      "src/jackson-databind/2.7.3",
     "Source":         "src/jackson-databind/2.7.3/jackson-databind-2.7.3.jar",
@@ -38,6 +67,13 @@
     "Number":         "2.7.0",
     "Installed":      "src/jackson-databind/2.7.0",
     "Source":         "src/jackson-databind/2.7.0/jackson-databind-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.7",
+    "Installed":      "src/jackson-databind/2.6.7",
+    "Source":         "src/jackson-databind/2.6.7/jackson-databind-2.6.7.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -1,0 +1,148 @@
+{
+  "Name":           "groovy",
+  "Title":          "Groovy",
+  "SourceUrl":      "https://dl.bintray.com/groovy/maven/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckArchives":  [ "groovy-.*" ],
+  "CompactReport":  "1",
+  "HideEmpty":      "1",
+  "MinimalVersion": "2.3.0",
+  "Package":        "groovy-binary",
+  "SkipArchives":   [ "groovy-all-.*", "groovy-(test|testng)-.*", ".*-(indy|grooid)\.jar" ],
+
+  "Versions": [
+  {
+    "Number":         "2.4.6",
+    "Installed":      "installed/groovy/2.4.6",
+    "Source":         "src/groovy/2.4.6/apache-groovy-binary-2.4.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "installed/groovy/2.4.5",
+    "Source":         "src/groovy/2.4.5/apache-groovy-binary-2.4.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "installed/groovy/2.4.4",
+    "Source":         "src/groovy/2.4.4/apache-groovy-binary-2.4.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "installed/groovy/2.4.3",
+    "Source":         "src/groovy/2.4.3/groovy-binary-2.4.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "installed/groovy/2.4.2",
+    "Source":         "src/groovy/2.4.2/groovy-binary-2.4.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "installed/groovy/2.4.1",
+    "Source":         "src/groovy/2.4.1/groovy-binary-2.4.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "installed/groovy/2.4.0",
+    "Source":         "src/groovy/2.4.0/groovy-binary-2.4.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.11",
+    "Installed":      "installed/groovy/2.3.11",
+    "Source":         "src/groovy/2.3.11/groovy-binary-2.3.11.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.10",
+    "Installed":      "installed/groovy/2.3.10",
+    "Source":         "src/groovy/2.3.10/groovy-binary-2.3.10.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.9",
+    "Installed":      "installed/groovy/2.3.9",
+    "Source":         "src/groovy/2.3.9/groovy-binary-2.3.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.8",
+    "Installed":      "installed/groovy/2.3.8",
+    "Source":         "src/groovy/2.3.8/groovy-binary-2.3.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "installed/groovy/2.3.7",
+    "Source":         "src/groovy/2.3.7/groovy-binary-2.3.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.6",
+    "Installed":      "installed/groovy/2.3.6",
+    "Source":         "src/groovy/2.3.6/groovy-binary-2.3.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "installed/groovy/2.3.5",
+    "Source":         "src/groovy/2.3.5/groovy-binary-2.3.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "installed/groovy/2.3.4",
+    "Source":         "src/groovy/2.3.4/groovy-binary-2.3.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "installed/groovy/2.3.3",
+    "Source":         "src/groovy/2.3.3/groovy-binary-2.3.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "installed/groovy/2.3.2",
+    "Source":         "src/groovy/2.3.2/groovy-binary-2.3.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "installed/groovy/2.3.1",
+    "Source":         "src/groovy/2.3.1/groovy-binary-2.3.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "installed/groovy/2.3.0",
+    "Source":         "src/groovy/2.3.0/groovy-binary-2.3.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

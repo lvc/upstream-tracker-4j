@@ -10,6 +10,13 @@
 
   "Versions": [
   {
+    "Number":         "1.8.0_91",
+    "Installed":      "installed/openjdk/1.8.0_91",
+    "Source":         "src/openjdk/1.8.0_91/openjdk-1.8.0_91.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.0_65",
     "Installed":      "installed/openjdk/1.8.0_65",
     "Source":         "src/openjdk/1.8.0_65/openjdk-1.8.0_65.tar.gz",

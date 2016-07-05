@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "3.2.4",
+    "Installed":      "src/cglib/3.2.4",
+    "Source":         "src/cglib/3.2.4/cglib-3.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/cglib/3.2.3",
+    "Source":         "src/cglib/3.2.3/cglib-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.2.2",
     "Installed":      "src/cglib/3.2.2",
     "Source":         "src/cglib/3.2.2/cglib-3.2.2.jar",

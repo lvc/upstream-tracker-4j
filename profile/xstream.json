@@ -1,0 +1,198 @@
+{
+  "Name":           "xstream",
+  "Title":          "XStream Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/thoughtworks/xstream/xstream/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.4.9",
+    "Installed":      "src/xstream/1.4.9",
+    "Source":         "src/xstream/1.4.9/xstream-1.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.8",
+    "Installed":      "src/xstream/1.4.8",
+    "Source":         "src/xstream/1.4.8/xstream-1.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.7",
+    "Installed":      "src/xstream/1.4.7",
+    "Source":         "src/xstream/1.4.7/xstream-1.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.6",
+    "Installed":      "src/xstream/1.4.6",
+    "Source":         "src/xstream/1.4.6/xstream-1.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.5",
+    "Installed":      "src/xstream/1.4.5",
+    "Source":         "src/xstream/1.4.5/xstream-1.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.4",
+    "Installed":      "src/xstream/1.4.4",
+    "Source":         "src/xstream/1.4.4/xstream-1.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "src/xstream/1.4.3",
+    "Source":         "src/xstream/1.4.3/xstream-1.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "src/xstream/1.4.2",
+    "Source":         "src/xstream/1.4.2/xstream-1.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/xstream/1.4.1",
+    "Source":         "src/xstream/1.4.1/xstream-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/xstream/1.4",
+    "Source":         "src/xstream/1.4/xstream-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/xstream/1.3.1",
+    "Source":         "src/xstream/1.3.1/xstream-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/xstream/1.3",
+    "Source":         "src/xstream/1.3/xstream-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/xstream/1.2.2",
+    "Source":         "src/xstream/1.2.2/xstream-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/xstream/1.2.1",
+    "Source":         "src/xstream/1.2.1/xstream-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/xstream/1.2",
+    "Source":         "src/xstream/1.2/xstream-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/xstream/1.1.3",
+    "Source":         "src/xstream/1.1.3/xstream-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/xstream/1.1.2",
+    "Source":         "src/xstream/1.1.2/xstream-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/xstream/1.1.1",
+    "Source":         "src/xstream/1.1.1/xstream-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/xstream/1.1",
+    "Source":         "src/xstream/1.1/xstream-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/xstream/1.0.2",
+    "Source":         "src/xstream/1.0.2/xstream-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/xstream/1.0.1",
+    "Source":         "src/xstream/1.0.1/xstream-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/xstream/1.0",
+    "Source":         "src/xstream/1.0/xstream-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6",
+    "Installed":      "src/xstream/0.6",
+    "Source":         "src/xstream/0.6/xstream-0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/xstream/0.5",
+    "Source":         "src/xstream/0.5/xstream-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/xstream/0.3",
+    "Source":         "src/xstream/0.3/xstream-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/xstream/0.2",
+    "Source":         "src/xstream/0.2/xstream-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1",
+    "Installed":      "src/xstream/0.1",
+    "Source":         "src/xstream/0.1/xstream-0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

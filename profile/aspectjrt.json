@@ -1,0 +1,212 @@
+{
+  "Name":           "aspectjrt",
+  "Title":          "AspectJ Runtime",
+  "SourceUrl":      "http://central.maven.org/maven2/org/aspectj/aspectjrt/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.8.9",
+    "Installed":      "src/aspectjrt/1.8.9",
+    "Source":         "src/aspectjrt/1.8.9/aspectjrt-1.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.8",
+    "Installed":      "src/aspectjrt/1.8.8",
+    "Source":         "src/aspectjrt/1.8.8/aspectjrt-1.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.7",
+    "Installed":      "src/aspectjrt/1.8.7",
+    "Source":         "src/aspectjrt/1.8.7/aspectjrt-1.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.6",
+    "Installed":      "src/aspectjrt/1.8.6",
+    "Source":         "src/aspectjrt/1.8.6/aspectjrt-1.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.5",
+    "Installed":      "src/aspectjrt/1.8.5",
+    "Source":         "src/aspectjrt/1.8.5/aspectjrt-1.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.4",
+    "Installed":      "src/aspectjrt/1.8.4",
+    "Source":         "src/aspectjrt/1.8.4/aspectjrt-1.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/aspectjrt/1.8.3",
+    "Source":         "src/aspectjrt/1.8.3/aspectjrt-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/aspectjrt/1.8.2",
+    "Source":         "src/aspectjrt/1.8.2/aspectjrt-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/aspectjrt/1.8.1",
+    "Source":         "src/aspectjrt/1.8.1/aspectjrt-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/aspectjrt/1.8.0",
+    "Source":         "src/aspectjrt/1.8.0/aspectjrt-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.4",
+    "Installed":      "src/aspectjrt/1.7.4",
+    "Source":         "src/aspectjrt/1.7.4/aspectjrt-1.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/aspectjrt/1.7.3",
+    "Source":         "src/aspectjrt/1.7.3/aspectjrt-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/aspectjrt/1.7.2",
+    "Source":         "src/aspectjrt/1.7.2/aspectjrt-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/aspectjrt/1.7.1",
+    "Source":         "src/aspectjrt/1.7.1/aspectjrt-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/aspectjrt/1.7.0",
+    "Source":         "src/aspectjrt/1.7.0/aspectjrt-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.12",
+    "Installed":      "src/aspectjrt/1.6.12",
+    "Source":         "src/aspectjrt/1.6.12/aspectjrt-1.6.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.11",
+    "Installed":      "src/aspectjrt/1.6.11",
+    "Source":         "src/aspectjrt/1.6.11/aspectjrt-1.6.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.10",
+    "Installed":      "src/aspectjrt/1.6.10",
+    "Source":         "src/aspectjrt/1.6.10/aspectjrt-1.6.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.9",
+    "Installed":      "src/aspectjrt/1.6.9",
+    "Source":         "src/aspectjrt/1.6.9/aspectjrt-1.6.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.8",
+    "Installed":      "src/aspectjrt/1.6.8",
+    "Source":         "src/aspectjrt/1.6.8/aspectjrt-1.6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.7",
+    "Installed":      "src/aspectjrt/1.6.7",
+    "Source":         "src/aspectjrt/1.6.7/aspectjrt-1.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.6",
+    "Installed":      "src/aspectjrt/1.6.6",
+    "Source":         "src/aspectjrt/1.6.6/aspectjrt-1.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5",
+    "Installed":      "src/aspectjrt/1.6.5",
+    "Source":         "src/aspectjrt/1.6.5/aspectjrt-1.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "src/aspectjrt/1.6.4",
+    "Source":         "src/aspectjrt/1.6.4/aspectjrt-1.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/aspectjrt/1.6.3",
+    "Source":         "src/aspectjrt/1.6.3/aspectjrt-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/aspectjrt/1.6.2",
+    "Source":         "src/aspectjrt/1.6.2/aspectjrt-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/aspectjrt/1.6.1",
+    "Source":         "src/aspectjrt/1.6.1/aspectjrt-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/aspectjrt/1.6.0",
+    "Source":         "src/aspectjrt/1.6.0/aspectjrt-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/aspectjrt/1.5.4",
+    "Source":         "src/aspectjrt/1.5.4/aspectjrt-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

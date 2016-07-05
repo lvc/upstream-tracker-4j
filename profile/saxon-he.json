@@ -11,6 +11,20 @@
 
   "Versions": [
   {
+    "Number":         "9-7-0-6",
+    "Installed":      "installed/saxon-he/9-7-0-6",
+    "Source":         "src/saxon-he/9-7-0-6/SaxonHE9-7-0-6J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-7-0-5",
+    "Installed":      "installed/saxon-he/9-7-0-5",
+    "Source":         "src/saxon-he/9-7-0-5/SaxonHE9-7-0-5J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "9-7-0-4",
     "Installed":      "installed/saxon-he/9-7-0-4",
     "Source":         "src/saxon-he/9-7-0-4/SaxonHE9-7-0-4J.zip",
@@ -35,6 +49,13 @@
     "Number":         "9-7-0-1",
     "Installed":      "installed/saxon-he/9-7-0-1",
     "Source":         "src/saxon-he/9-7-0-1/SaxonHE9-7-0-1J.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9-6-0-9",
+    "Installed":      "installed/saxon-he/9-6-0-9",
+    "Source":         "src/saxon-he/9-6-0-9/SaxonHE9-6-0-9J.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -9,7 +9,7 @@
   "LetterReleases": "1",
   "Note":           "http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html",
   "PackageSuffix":  "\-linux\-x64",
-  "ReleasePattern": "\A(\d+u\d+|\d+)\Z",
+  "ReleasePattern": "\A(\d+u\d+|\d+|\d+ea\d+)\Z",
   "SkipArchives":   [ "ext/", "im/", "security/", "management-agent.jar", "resources.jar", "demo/", "tools.jar", "htmlconverter.jar", "dt.jar", "src.jar" ],
 
   "Versions": [

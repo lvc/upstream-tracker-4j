@@ -5,14 +5,44 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CompactReport":  "1",
+  "HideEmpty":      "1",
   "ReportStyle":    "ShortArchive",
   "SkipArchives":   [ "lib/", "*-(javadoc|examples)\.jar", ".*-(demos|demo)-.*", "lucene-similarity-.*" ],
+  "SkipVersions":   [ "1.9-final" ],
 
   "Versions": [
+  {
+    "Number":         "6.1.0",
+    "Installed":      "installed/lucene/6.1.0",
+    "Source":         "src/lucene/6.1.0/lucene-6.1.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.1",
+    "Installed":      "installed/lucene/6.0.1",
+    "Source":         "src/lucene/6.0.1/lucene-6.0.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "6.0.0",
     "Installed":      "installed/lucene/6.0.0",
     "Source":         "src/lucene/6.0.0/lucene-6.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.2",
+    "Installed":      "installed/lucene/5.5.2",
+    "Source":         "src/lucene/5.5.2/lucene-5.5.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.1",
+    "Installed":      "installed/lucene/5.5.1",
+    "Source":         "src/lucene/5.5.1/lucene-5.5.1.zip",
     "Changelog":      "CHANGES.txt",
     "PkgDiff":        "Off"
   },
@@ -433,6 +463,12 @@
     "Number":         "1.9",
     "Installed":      "installed/lucene/1.9",
     "Source":         "src/lucene/1.9/lucene-1.9-final.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9-final",
+    "Installed":      "installed/lucene/1.9-final",
     "Changelog":      "CHANGES.txt",
     "PkgDiff":        "Off"
   },

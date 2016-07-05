@@ -1,0 +1,80 @@
+{
+  "Name":           "jclouds-core",
+  "Title":          "Jclouds Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/jclouds/jclouds-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipAnnotationList": "filters/skip_annotation_list/jclouds-core.list",
+
+  "Versions": [
+  {
+    "Number":         "1.9.2",
+    "Installed":      "src/jclouds-core/1.9.2",
+    "Source":         "src/jclouds-core/1.9.2/jclouds-core-1.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/jclouds-core/1.9.1",
+    "Source":         "src/jclouds-core/1.9.1/jclouds-core-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/jclouds-core/1.9.0",
+    "Source":         "src/jclouds-core/1.9.0/jclouds-core-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/jclouds-core/1.8.1",
+    "Source":         "src/jclouds-core/1.8.1/jclouds-core-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/jclouds-core/1.8.0",
+    "Source":         "src/jclouds-core/1.8.0/jclouds-core-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/jclouds-core/1.7.3",
+    "Source":         "src/jclouds-core/1.7.3/jclouds-core-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/jclouds-core/1.7.2",
+    "Source":         "src/jclouds-core/1.7.2/jclouds-core-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/jclouds-core/1.7.1",
+    "Source":         "src/jclouds-core/1.7.1/jclouds-core-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/jclouds-core/1.7.0",
+    "Source":         "src/jclouds-core/1.7.0/jclouds-core-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/jclouds-core/1.6.3",
+    "Source":         "src/jclouds-core/1.6.3/jclouds-core-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

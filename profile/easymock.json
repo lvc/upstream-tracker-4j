@@ -1,0 +1,101 @@
+{
+  "Name":           "easymock",
+  "Title":          "EasyMock",
+  "SourceUrl":      "http://central.maven.org/maven2/org/easymock/easymock/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipPackages":   "filters/skip_packages/easymock.list",
+
+  "Versions": [
+  {
+    "Number":         "3.4",
+    "Installed":      "src/easymock/3.4",
+    "Source":         "src/easymock/3.4/easymock-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/easymock/3.3.1",
+    "Source":         "src/easymock/3.3.1/easymock-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/easymock/3.3",
+    "Source":         "src/easymock/3.3/easymock-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/easymock/3.2",
+    "Source":         "src/easymock/3.2/easymock-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/easymock/3.1",
+    "Source":         "src/easymock/3.1/easymock-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/easymock/3.0",
+    "Source":         "src/easymock/3.0/easymock-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/easymock/2.5.2",
+    "Source":         "src/easymock/2.5.2/easymock-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/easymock/2.5.1",
+    "Source":         "src/easymock/2.5.1/easymock-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/easymock/2.5",
+    "Source":         "src/easymock/2.5/easymock-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/easymock/2.4",
+    "Source":         "src/easymock/2.4/easymock-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/easymock/2.3",
+    "Source":         "src/easymock/2.3/easymock-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/easymock/2.2",
+    "Source":         "src/easymock/2.2/easymock-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/easymock/2.0",
+    "Source":         "src/easymock/2.0/easymock-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}
