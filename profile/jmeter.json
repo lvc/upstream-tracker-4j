@@ -1,0 +1,73 @@
+{
+  "Name":           "jmeter",
+  "Title":          "JMeter Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/jmeter/ApacheJMeter_core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "ApacheJMeter_core",
+
+  "Versions": [
+  {
+    "Number":         "3.0",
+    "Installed":      "src/jmeter/3.0",
+    "Source":         "src/jmeter/3.0/ApacheJMeter_core-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13",
+    "Installed":      "src/jmeter/2.13",
+    "Source":         "src/jmeter/2.13/ApacheJMeter_core-2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12",
+    "Installed":      "src/jmeter/2.12",
+    "Source":         "src/jmeter/2.12/ApacheJMeter_core-2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11",
+    "Installed":      "src/jmeter/2.11",
+    "Source":         "src/jmeter/2.11/ApacheJMeter_core-2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10",
+    "Installed":      "src/jmeter/2.10",
+    "Source":         "src/jmeter/2.10/ApacheJMeter_core-2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/jmeter/2.9",
+    "Source":         "src/jmeter/2.9/ApacheJMeter_core-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/jmeter/2.8",
+    "Source":         "src/jmeter/2.8/ApacheJMeter_core-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/jmeter/2.7",
+    "Source":         "src/jmeter/2.7/ApacheJMeter_core-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/jmeter/2.6",
+    "Source":         "src/jmeter/2.6/ApacheJMeter_core-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

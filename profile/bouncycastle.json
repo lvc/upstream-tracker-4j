@@ -10,6 +10,13 @@
 
   "Versions": [
   {
+    "Number":         155,
+    "Installed":      "installed/bouncycastle/155",
+    "Source":         "src/bouncycastle/155/crypto-155.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         154,
     "Installed":      "installed/bouncycastle/154",
     "Source":         "src/bouncycastle/154/crypto-154.tar.gz",

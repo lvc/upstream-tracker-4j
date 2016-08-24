@@ -18,7 +18,14 @@
   {
     "Number":         "9.4.0-SNAPSHOT",
     "Installed":      "installed/jetty/9.4.0-SNAPSHOT",
-    "Source":         "src/jetty/9.4.0-SNAPSHOT/jetty-distribution-9.4.0-20160702.010716-73.zip",
+    "Source":         "src/jetty/9.4.0-SNAPSHOT/jetty-distribution-9.4.0-20160819.093831-101.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.11.v20160721",
+    "Installed":      "installed/jetty/9.3.11.v20160721",
+    "Source":         "src/jetty/9.3.11.v20160721/jetty-distribution-9.3.11.v20160721.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -96,6 +103,13 @@
     "Number":         "9.3.0.v20150612",
     "Installed":      "installed/jetty/9.3.0.v20150612",
     "Source":         "src/jetty/9.3.0.v20150612/jetty-distribution-9.3.0.v20150612.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.18.v20160721",
+    "Installed":      "installed/jetty/9.2.18.v20160721",
+    "Source":         "src/jetty/9.2.18.v20160721/jetty-distribution-9.2.18.v20160721.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

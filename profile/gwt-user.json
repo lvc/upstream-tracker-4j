@@ -7,11 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "2.8.0-rc2",
+    "Installed":      "src/gwt-user/2.8.0-rc2",
+    "Source":         "src/gwt-user/2.8.0-rc2/gwt-user-2.8.0-rc2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0-rc1",
+    "Installed":      "src/gwt-user/2.8.0-rc1",
+    "Source":         "src/gwt-user/2.8.0-rc1/gwt-user-2.8.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.8.0-beta1",
     "Installed":      "src/gwt-user/2.8.0-beta1",
     "Source":         "src/gwt-user/2.8.0-beta1/gwt-user-2.8.0-beta1.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.7.0",

@@ -1,13 +1,28 @@
 {
   "Name":           "android",
-  "Title":          "Android",
-  "SourceUrl":      "http://ady.my/viewer/platform/index.html",
+  "Title":          "Android Platform",
+  "SourceUrl":      "http://mirrors.neusoft.edu.cn/android/repository/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CompactReport":  "1",
-  "SkipArchives":   [ "icu4j.jar" ],
+  "Package":        "platform",
+  "SkipArchives":   [ "icu4j.jar", "android-stubs-src.jar" ],
 
   "Versions": [
+  {
+    "Number":         "24_r01",
+    "Installed":      "installed/android/24_r01",
+    "Source":         "src/android/24_r01/platform-24_r01.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "23_r03",
+    "Installed":      "installed/android/23_r03",
+    "Source":         "src/android/23_r03/platform-23_r03.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "23_r02",
     "Installed":      "installed/android/23_r02",

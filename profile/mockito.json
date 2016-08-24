@@ -9,11 +9,131 @@
 
   "Versions": [
   {
+    "Number":         "2.0.111-beta",
+    "Installed":      "src/mockito/2.0.111-beta",
+    "Source":         "src/mockito/2.0.111-beta/mockito-core-2.0.111-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.106-beta",
+    "Installed":      "src/mockito/2.0.106-beta",
+    "Source":         "src/mockito/2.0.106-beta/mockito-core-2.0.106-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.105-beta",
+    "Installed":      "src/mockito/2.0.105-beta",
+    "Source":         "src/mockito/2.0.105-beta/mockito-core-2.0.105-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.101-beta",
+    "Installed":      "src/mockito/2.0.101-beta",
+    "Source":         "src/mockito/2.0.101-beta/mockito-core-2.0.101-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.100-beta",
+    "Installed":      "src/mockito/2.0.100-beta",
+    "Source":         "src/mockito/2.0.100-beta/mockito-core-2.0.100-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.99-beta",
+    "Installed":      "src/mockito/2.0.99-beta",
+    "Source":         "src/mockito/2.0.99-beta/mockito-core-2.0.99-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.97-beta",
+    "Installed":      "src/mockito/2.0.97-beta",
+    "Source":         "src/mockito/2.0.97-beta/mockito-core-2.0.97-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.96-beta",
+    "Installed":      "src/mockito/2.0.96-beta",
+    "Source":         "src/mockito/2.0.96-beta/mockito-core-2.0.96-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.95-beta",
+    "Installed":      "src/mockito/2.0.95-beta",
+    "Source":         "src/mockito/2.0.95-beta/mockito-core-2.0.95-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.92-beta",
+    "Installed":      "src/mockito/2.0.92-beta",
+    "Source":         "src/mockito/2.0.92-beta/mockito-core-2.0.92-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.91-beta",
+    "Installed":      "src/mockito/2.0.91-beta",
+    "Source":         "src/mockito/2.0.91-beta/mockito-core-2.0.91-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.89-beta",
+    "Installed":      "src/mockito/2.0.89-beta",
+    "Source":         "src/mockito/2.0.89-beta/mockito-core-2.0.89-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.87-beta",
+    "Installed":      "src/mockito/2.0.87-beta",
+    "Source":         "src/mockito/2.0.87-beta/mockito-core-2.0.87-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.86-beta",
+    "Installed":      "src/mockito/2.0.86-beta",
+    "Source":         "src/mockito/2.0.86-beta/mockito-core-2.0.86-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.82-beta",
+    "Installed":      "src/mockito/2.0.82-beta",
+    "Source":         "src/mockito/2.0.82-beta/mockito-core-2.0.82-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.0.79-beta",
     "Installed":      "src/mockito/2.0.79-beta",
     "Source":         "src/mockito/2.0.79-beta/mockito-core-2.0.79-beta.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.0.78-beta",

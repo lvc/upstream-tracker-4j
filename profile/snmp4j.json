@@ -1,0 +1,205 @@
+{
+  "Name":           "snmp4j",
+  "Title":          "SNMP4J",
+  "SourceUrl":      "https://oosnmp.net/dist/release/org/snmp4j/snmp4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/snmp4j/2.5.0",
+    "Source":         "src/snmp4j/2.5.0/snmp4j-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/snmp4j/2.4.3",
+    "Source":         "src/snmp4j/2.4.3/snmp4j-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/snmp4j/2.4.2",
+    "Source":         "src/snmp4j/2.4.2/snmp4j-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/snmp4j/2.4.1",
+    "Source":         "src/snmp4j/2.4.1/snmp4j-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/snmp4j/2.4.0",
+    "Source":         "src/snmp4j/2.4.0/snmp4j-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/snmp4j/2.3.4",
+    "Source":         "src/snmp4j/2.3.4/snmp4j-2.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "src/snmp4j/2.3.3",
+    "Source":         "src/snmp4j/2.3.3/snmp4j-2.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/snmp4j/2.3.2",
+    "Source":         "src/snmp4j/2.3.2/snmp4j-2.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/snmp4j/2.3.1",
+    "Source":         "src/snmp4j/2.3.1/snmp4j-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/snmp4j/2.3.0",
+    "Source":         "src/snmp4j/2.3.0/snmp4j-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/snmp4j/2.2.5",
+    "Source":         "src/snmp4j/2.2.5/snmp4j-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/snmp4j/2.2.4",
+    "Source":         "src/snmp4j/2.2.4/snmp4j-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/snmp4j/2.2.3",
+    "Source":         "src/snmp4j/2.2.3/snmp4j-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/snmp4j/2.2.2",
+    "Source":         "src/snmp4j/2.2.2/snmp4j-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/snmp4j/2.2.1",
+    "Source":         "src/snmp4j/2.2.1/snmp4j-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/snmp4j/2.2.0",
+    "Source":         "src/snmp4j/2.2.0/snmp4j-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/snmp4j/2.1.0",
+    "Source":         "src/snmp4j/2.1.0/snmp4j-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/snmp4j/2.0.3",
+    "Source":         "src/snmp4j/2.0.3/snmp4j-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/snmp4j/2.0.2",
+    "Source":         "src/snmp4j/2.0.2/snmp4j-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/snmp4j/2.0.1",
+    "Source":         "src/snmp4j/2.0.1/snmp4j-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/snmp4j/2.0.0",
+    "Source":         "src/snmp4j/2.0.0/snmp4j-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.5",
+    "Installed":      "src/snmp4j/1.11.5",
+    "Source":         "src/snmp4j/1.11.5/snmp4j-1.11.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.4",
+    "Installed":      "src/snmp4j/1.11.4",
+    "Source":         "src/snmp4j/1.11.4/snmp4j-1.11.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.3",
+    "Installed":      "src/snmp4j/1.11.3",
+    "Source":         "src/snmp4j/1.11.3/snmp4j-1.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.2",
+    "Installed":      "src/snmp4j/1.11.2",
+    "Source":         "src/snmp4j/1.11.2/snmp4j-1.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.1",
+    "Installed":      "src/snmp4j/1.11.1",
+    "Source":         "src/snmp4j/1.11.1/snmp4j-1.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/snmp4j/1.11",
+    "Source":         "src/snmp4j/1.11/snmp4j-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.2",
+    "Installed":      "src/snmp4j/1.10.2",
+    "Source":         "src/snmp4j/1.10.2/snmp4j-1.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -15,6 +15,13 @@
 
   "Versions": [
   {
+    "Number":         "15.1",
+    "Installed":      "installed/geotools/15.1",
+    "Source":         "src/geotools/15.1/geotools-15.1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "15.0",
     "Installed":      "installed/geotools/15.0",
     "Source":         "src/geotools/15.0/geotools-15.0-bin.zip",
@@ -28,6 +35,13 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "14.5",
+    "Installed":      "installed/geotools/14.5",
+    "Source":         "src/geotools/14.5/geotools-14.5-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "14.4",

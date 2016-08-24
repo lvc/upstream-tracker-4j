@@ -1,0 +1,109 @@
+{
+  "Name":           "jackrabbit-core",
+  "Title":          "Jackrabbit Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/jackrabbit/jackrabbit-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "1",
+  "MinimalVersion": "2.0.5",
+
+  "Versions": [
+  {
+    "Number":         "2.13.1",
+    "Installed":      "src/jackrabbit-core/2.13.1",
+    "Source":         "src/jackrabbit-core/2.13.1/jackrabbit-core-2.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.3",
+    "Installed":      "src/jackrabbit-core/2.12.3",
+    "Source":         "src/jackrabbit-core/2.12.3/jackrabbit-core-2.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.3",
+    "Installed":      "src/jackrabbit-core/2.11.3",
+    "Source":         "src/jackrabbit-core/2.11.3/jackrabbit-core-2.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/jackrabbit-core/2.10.3",
+    "Source":         "src/jackrabbit-core/2.10.3/jackrabbit-core-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/jackrabbit-core/2.9.1",
+    "Source":         "src/jackrabbit-core/2.9.1/jackrabbit-core-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/jackrabbit-core/2.8.2",
+    "Source":         "src/jackrabbit-core/2.8.2/jackrabbit-core-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/jackrabbit-core/2.7.5",
+    "Source":         "src/jackrabbit-core/2.7.5/jackrabbit-core-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "src/jackrabbit-core/2.6.5",
+    "Source":         "src/jackrabbit-core/2.6.5/jackrabbit-core-2.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/jackrabbit-core/2.5.3",
+    "Source":         "src/jackrabbit-core/2.5.3/jackrabbit-core-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "src/jackrabbit-core/2.4.5",
+    "Source":         "src/jackrabbit-core/2.4.5/jackrabbit-core-2.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/jackrabbit-core/2.3.7",
+    "Source":         "src/jackrabbit-core/2.3.7/jackrabbit-core-2.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.13",
+    "Installed":      "src/jackrabbit-core/2.2.13",
+    "Source":         "src/jackrabbit-core/2.2.13/jackrabbit-core-2.2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/jackrabbit-core/2.1.6",
+    "Source":         "src/jackrabbit-core/2.1.6/jackrabbit-core-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/jackrabbit-core/2.0.5",
+    "Source":         "src/jackrabbit-core/2.0.5/jackrabbit-core-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -12,7 +12,21 @@
   {
     "Number":         "SNAPSHOT",
     "Installed":      "src/josm/SNAPSHOT",
-    "Source":         "src/josm/SNAPSHOT/josm-20160704.013321-240.jar",
+    "Source":         "src/josm/SNAPSHOT/josm-20160822.014142-291.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         10786,
+    "Installed":      "src/josm/10786",
+    "Source":         "src/josm/10786/josm-10786.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         10526,
+    "Installed":      "src/josm/10526",
+    "Source":         "src/josm/10526/josm-10526.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

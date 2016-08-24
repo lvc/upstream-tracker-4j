@@ -7,11 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "3.0.0",
+    "Installed":      "src/protobuf-java/3.0.0",
+    "Source":         "src/protobuf-java/3.0.0/protobuf-java-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0-beta-4",
+    "Installed":      "src/protobuf-java/3.0.0-beta-4",
+    "Source":         "src/protobuf-java/3.0.0-beta-4/protobuf-java-3.0.0-beta-4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "3.0.0-beta-3",
     "Installed":      "src/protobuf-java/3.0.0-beta-3",
     "Source":         "src/protobuf-java/3.0.0-beta-3/protobuf-java-3.0.0-beta-3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.6.1",

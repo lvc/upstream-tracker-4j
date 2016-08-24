@@ -26,6 +26,7 @@ hsqldb
 httpclient
 httpcore
 icu4j
+jackrabbit-core
 jackson-databind
 jackson-core
 javassist
@@ -33,6 +34,7 @@ jboss-logging
 jclouds-core
 jetty
 jmapviewer
+jmeter
 jna
 joda-time
 josm
@@ -53,7 +55,9 @@ protobuf-java
 saxon-he
 scala
 slf4j
+snmp4j
 spatial4j
 spring-framework
+struts2-core
 testng
 xstream
