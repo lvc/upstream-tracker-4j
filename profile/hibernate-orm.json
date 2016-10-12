@@ -11,6 +11,13 @@
 
   "Versions": [
   {
+    "Number":         "5.2.3",
+    "Installed":      "installed/hibernate-orm/5.2.3",
+    "Source":         "src/hibernate-orm/5.2.3/hibernate-release-5.2.3.Final.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.2.2",
     "Installed":      "installed/hibernate-orm/5.2.2",
     "Source":         "src/hibernate-orm/5.2.2/hibernate-release-5.2.2.Final.zip",
@@ -32,6 +39,13 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "5.1.2",
+    "Installed":      "installed/hibernate-orm/5.1.2",
+    "Source":         "src/hibernate-orm/5.1.2/hibernate-release-5.1.2.Final.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.1.1",
     "Installed":      "installed/hibernate-orm/5.1.1",
     "Source":         "src/hibernate-orm/5.1.1/hibernate-release-5.1.1.Final.zip",
@@ -42,6 +56,13 @@
     "Number":         "5.1.0",
     "Installed":      "installed/hibernate-orm/5.1.0",
     "Source":         "src/hibernate-orm/5.1.0/hibernate-release-5.1.0.Final.tgz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.11",
+    "Installed":      "installed/hibernate-orm/5.0.11",
+    "Source":         "src/hibernate-orm/5.0.11/hibernate-release-5.0.11.Final.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

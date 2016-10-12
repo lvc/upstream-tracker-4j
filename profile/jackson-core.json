@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "2.8.3",
+    "Installed":      "src/jackson-core/2.8.3",
+    "Source":         "src/jackson-core/2.8.3/jackson-core-2.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/jackson-core/2.8.2",
+    "Source":         "src/jackson-core/2.8.2/jackson-core-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.8.1",
     "Installed":      "src/jackson-core/2.8.1",
     "Source":         "src/jackson-core/2.8.1/jackson-core-2.8.1.jar",
@@ -35,6 +49,13 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "2.7.7",
+    "Installed":      "src/jackson-core/2.7.7",
+    "Source":         "src/jackson-core/2.7.7/jackson-core-2.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "2.7.6",

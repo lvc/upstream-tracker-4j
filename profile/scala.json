@@ -10,6 +10,13 @@
 
   "Versions": [
   {
+    "Number":         "2.12.0-RC1",
+    "Installed":      "installed/scala/2.12.0-RC1",
+    "Source":         "src/scala/2.12.0-RC1/scala-2.12.0-RC1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.11.8",
     "Installed":      "installed/scala/2.11.8",
     "Source":         "src/scala/2.11.8/scala-2.11.8.zip",

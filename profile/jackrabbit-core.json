@@ -9,9 +9,40 @@
 
   "Versions": [
   {
+    "Number":         "2.13.4",
+    "Installed":      "src/jackrabbit-core/2.13.4",
+    "Source":         "src/jackrabbit-core/2.13.4/jackrabbit-core-2.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.3",
+    "Installed":      "src/jackrabbit-core/2.13.3",
+    "Source":         "src/jackrabbit-core/2.13.3/jackrabbit-core-2.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.13.2",
+    "Installed":      "src/jackrabbit-core/2.13.2",
+    "Source":         "src/jackrabbit-core/2.13.2/jackrabbit-core-2.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.13.1",
     "Installed":      "src/jackrabbit-core/2.13.1",
     "Source":         "src/jackrabbit-core/2.13.1/jackrabbit-core-2.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.12.4",
+    "Installed":      "src/jackrabbit-core/2.12.4",
+    "Source":         "src/jackrabbit-core/2.12.4/jackrabbit-core-2.12.4.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -20,7 +51,8 @@
     "Installed":      "src/jackrabbit-core/2.12.3",
     "Source":         "src/jackrabbit-core/2.12.3/jackrabbit-core-2.12.3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.11.3",
@@ -30,11 +62,19 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "2.10.4",
+    "Installed":      "src/jackrabbit-core/2.10.4",
+    "Source":         "src/jackrabbit-core/2.10.4/jackrabbit-core-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.10.3",
     "Installed":      "src/jackrabbit-core/2.10.3",
     "Source":         "src/jackrabbit-core/2.10.3/jackrabbit-core-2.10.3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.9.1",
@@ -44,11 +84,19 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "2.8.3",
+    "Installed":      "src/jackrabbit-core/2.8.3",
+    "Source":         "src/jackrabbit-core/2.8.3/jackrabbit-core-2.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.8.2",
     "Installed":      "src/jackrabbit-core/2.8.2",
     "Source":         "src/jackrabbit-core/2.8.2/jackrabbit-core-2.8.2.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.7.5",
@@ -58,11 +106,27 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "2.6.7",
+    "Installed":      "src/jackrabbit-core/2.6.7",
+    "Source":         "src/jackrabbit-core/2.6.7/jackrabbit-core-2.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.6",
+    "Installed":      "src/jackrabbit-core/2.6.6",
+    "Source":         "src/jackrabbit-core/2.6.6/jackrabbit-core-2.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.6.5",
     "Installed":      "src/jackrabbit-core/2.6.5",
     "Source":         "src/jackrabbit-core/2.6.5/jackrabbit-core-2.6.5.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.5.3",
@@ -72,11 +136,19 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "2.4.6",
+    "Installed":      "src/jackrabbit-core/2.4.6",
+    "Source":         "src/jackrabbit-core/2.4.6/jackrabbit-core-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.4.5",
     "Installed":      "src/jackrabbit-core/2.4.5",
     "Source":         "src/jackrabbit-core/2.4.5/jackrabbit-core-2.4.5.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.3.7",

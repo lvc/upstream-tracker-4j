@@ -15,6 +15,28 @@
 
   "Versions": [
   {
+    "Number":         "16-RC1",
+    "Installed":      "installed/geotools/16-RC1",
+    "Source":         "src/geotools/16-RC1/geotools-16-RC1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16-beta",
+    "Installed":      "installed/geotools/16-beta",
+    "Source":         "src/geotools/16-beta/geotools-16-beta-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "15.2",
+    "Installed":      "installed/geotools/15.2",
+    "Source":         "src/geotools/15.2/geotools-15.2-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "15.1",
     "Installed":      "installed/geotools/15.1",
     "Source":         "src/geotools/15.1/geotools-15.1-bin.zip",

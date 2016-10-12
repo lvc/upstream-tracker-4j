@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "6.9.13.6",
+    "Installed":      "src/testng/6.9.13.6",
+    "Source":         "src/testng/6.9.13.6/testng-6.9.13.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.13.5",
+    "Installed":      "src/testng/6.9.13.5",
+    "Source":         "src/testng/6.9.13.5/testng-6.9.13.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.13.4",
+    "Installed":      "src/testng/6.9.13.4",
+    "Source":         "src/testng/6.9.13.4/testng-6.9.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.9.13.3",
+    "Installed":      "src/testng/6.9.13.3",
+    "Source":         "src/testng/6.9.13.3/testng-6.9.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "6.9.10",
     "Installed":      "src/testng/6.9.10",
     "Source":         "src/testng/6.9.10/testng-6.9.10.jar",

@@ -32,6 +32,8 @@ jackson-core
 javassist
 jboss-logging
 jclouds-core
+jersey-core
+jersey-server
 jetty
 jmapviewer
 jmeter

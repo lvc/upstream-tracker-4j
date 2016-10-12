@@ -12,6 +12,13 @@
 
   "Versions": [
   {
+    "Number":         "4.3.3",
+    "Installed":      "installed/spring-framework/4.3.3",
+    "Source":         "src/spring-framework/4.3.3/spring-framework-4.3.3.RELEASE-dist.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.3.2",
     "Installed":      "installed/spring-framework/4.3.2",
     "Source":         "src/spring-framework/4.3.2/spring-framework-4.3.2.RELEASE-dist.zip",
@@ -29,6 +36,13 @@
     "Number":         "4.3.0",
     "Installed":      "installed/spring-framework/4.3.0",
     "Source":         "src/spring-framework/4.3.0/spring-framework-4.3.0.RELEASE-dist.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.8",
+    "Installed":      "installed/spring-framework/4.2.8",
+    "Source":         "src/spring-framework/4.2.8/spring-framework-4.2.8.RELEASE-dist.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

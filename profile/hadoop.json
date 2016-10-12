@@ -14,6 +14,20 @@
 
   "Versions": [
   {
+    "Number":         "3.0.0-alpha1",
+    "Installed":      "installed/hadoop/3.0.0-alpha1",
+    "Source":         "src/hadoop/3.0.0-alpha1/hadoop-3.0.0-alpha1.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "installed/hadoop/2.7.3",
+    "Source":         "src/hadoop/2.7.3/hadoop-2.7.3.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.7.2",
     "Installed":      "installed/hadoop/2.7.2",
     "Source":         "src/hadoop/2.7.2/hadoop-2.7.2.tar.gz",
@@ -31,6 +45,13 @@
     "Number":         "2.7.0",
     "Installed":      "installed/hadoop/2.7.0",
     "Source":         "src/hadoop/2.7.0/hadoop-2.7.0.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "installed/hadoop/2.6.5",
+    "Source":         "src/hadoop/2.6.5/hadoop-2.6.5.tar.gz",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

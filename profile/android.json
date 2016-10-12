@@ -10,6 +10,13 @@
 
   "Versions": [
   {
+    "Number":         "24_r02",
+    "Installed":      "installed/android/24_r02",
+    "Source":         "src/android/24_r02/platform-24_r02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "24_r01",
     "Installed":      "installed/android/24_r01",
     "Source":         "src/android/24_r01/platform-24_r01.zip",

@@ -13,6 +13,13 @@
 
   "Versions": [
   {
+    "Number":         "1.8.0",
+    "Installed":      "installed/accumulo/1.8.0",
+    "Source":         "src/accumulo/1.8.0/accumulo-1.8.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.2",
     "Installed":      "installed/accumulo/1.7.2",
     "Source":         "src/accumulo/1.7.2/accumulo-1.7.2-bin.tar.gz",
@@ -30,6 +37,13 @@
     "Number":         "1.7.0",
     "Installed":      "installed/accumulo/1.7.0",
     "Source":         "src/accumulo/1.7.0/accumulo-1.7.0-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.6",
+    "Installed":      "installed/accumulo/1.6.6",
+    "Source":         "src/accumulo/1.6.6/accumulo-1.6.6-bin.tar.gz",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

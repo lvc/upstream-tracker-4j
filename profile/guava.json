@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "20.0-rc1",
+    "Installed":      "src/guava/20.0-rc1",
+    "Source":         "src/guava/20.0-rc1/guava-20.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "19.0",
     "Installed":      "installed/guava/19.0",
     "Source":         "src/guava/19.0/guava-19.0.jar",

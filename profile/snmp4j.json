@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "2.5.2",
+    "Installed":      "src/snmp4j/2.5.2",
+    "Source":         "src/snmp4j/2.5.2/snmp4j-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/snmp4j/2.5.1",
+    "Source":         "src/snmp4j/2.5.1/snmp4j-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.5.0",
     "Installed":      "src/snmp4j/2.5.0",
     "Source":         "src/snmp4j/2.5.0/snmp4j-2.5.0.jar",
