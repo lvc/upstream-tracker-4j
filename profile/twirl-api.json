@@ -1,0 +1,108 @@
+{
+  "Name":           "twirl-api",
+  "Title":          "Twirl API",
+  "SourceUrl":      "http://central.maven.org/maven2/com/typesafe/play/twirl-api_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "twirl-api_2.11",
+
+  "Versions": [
+  {
+    "Number":         "1.3.4",
+    "Installed":      "src/twirl-api/1.3.4",
+    "Source":         "src/twirl-api/1.3.4/twirl-api_2.11-1.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/twirl-api/1.3.3",
+    "Source":         "src/twirl-api/1.3.3/twirl-api_2.11-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/twirl-api/1.3.2",
+    "Source":         "src/twirl-api/1.3.2/twirl-api_2.11-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/twirl-api/1.3.1",
+    "Source":         "src/twirl-api/1.3.1/twirl-api_2.11-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/twirl-api/1.3.0",
+    "Source":         "src/twirl-api/1.3.0/twirl-api_2.11-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/twirl-api/1.2.1",
+    "Source":         "src/twirl-api/1.2.1/twirl-api_2.11-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/twirl-api/1.2.0",
+    "Source":         "src/twirl-api/1.2.0/twirl-api_2.11-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/twirl-api/1.1.1",
+    "Source":         "src/twirl-api/1.1.1/twirl-api_2.11-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/twirl-api/1.1.0",
+    "Source":         "src/twirl-api/1.1.0/twirl-api_2.11-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/twirl-api/1.0.4",
+    "Source":         "src/twirl-api/1.0.4/twirl-api_2.11-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/twirl-api/1.0.3",
+    "Source":         "src/twirl-api/1.0.3/twirl-api_2.11-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/twirl-api/1.0.2",
+    "Source":         "src/twirl-api/1.0.2/twirl-api_2.11-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/twirl-api/1.0.1",
+    "Source":         "src/twirl-api/1.0.1/twirl-api_2.11-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/twirl-api/1.0.0",
+    "Source":         "src/twirl-api/1.0.0/twirl-api_2.11-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

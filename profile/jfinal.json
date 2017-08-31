@@ -1,0 +1,93 @@
+{
+  "Name":           "jfinal",
+  "Title":          "JFinal",
+  "SourceUrl":      "http://central.maven.org/maven2/com/jfinal/jfinal/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.2",
+    "Installed":      "src/jfinal/3.2",
+    "Source":         "src/jfinal/3.2/jfinal-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/jfinal/3.1",
+    "Source":         "src/jfinal/3.1/jfinal-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/jfinal/3.0",
+    "Source":         "src/jfinal/3.0/jfinal-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/jfinal/2.2",
+    "Source":         "src/jfinal/2.2/jfinal-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/jfinal/2.1",
+    "Source":         "src/jfinal/2.1/jfinal-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/jfinal/2.0",
+    "Source":         "src/jfinal/2.0/jfinal-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/jfinal/1.9",
+    "Source":         "src/jfinal/1.9/jfinal-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/jfinal/1.8",
+    "Source":         "src/jfinal/1.8/jfinal-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/jfinal/1.6",
+    "Source":         "src/jfinal/1.6/jfinal-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/jfinal/1.5",
+    "Source":         "src/jfinal/1.5/jfinal-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/jfinal/1.4.0",
+    "Source":         "src/jfinal/1.4.0/jfinal-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/jfinal/1.4",
+    "Source":         "src/jfinal/1.4/jfinal-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

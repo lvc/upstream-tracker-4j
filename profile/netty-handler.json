@@ -1,0 +1,123 @@
+{
+  "Name":           "netty-handler",
+  "Title":          "Netty Handler",
+  "SourceUrl":      "http://central.maven.org/maven2/io/netty/netty-handler/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.1.0",
+  "SkipVersions":   [ "5.0.0.Alpha2", "5.0.0.Alpha1" ],
+
+  "Versions": [
+  {
+    "Number":         "4.1.15",
+    "Installed":      "src/netty-handler/4.1.15",
+    "Source":         "src/netty-handler/4.1.15/netty-handler-4.1.15.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.14",
+    "Installed":      "src/netty-handler/4.1.14",
+    "Source":         "src/netty-handler/4.1.14/netty-handler-4.1.14.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.13",
+    "Installed":      "src/netty-handler/4.1.13",
+    "Source":         "src/netty-handler/4.1.13/netty-handler-4.1.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.12",
+    "Installed":      "src/netty-handler/4.1.12",
+    "Source":         "src/netty-handler/4.1.12/netty-handler-4.1.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.11",
+    "Installed":      "src/netty-handler/4.1.11",
+    "Source":         "src/netty-handler/4.1.11/netty-handler-4.1.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.10",
+    "Installed":      "src/netty-handler/4.1.10",
+    "Source":         "src/netty-handler/4.1.10/netty-handler-4.1.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.9",
+    "Installed":      "src/netty-handler/4.1.9",
+    "Source":         "src/netty-handler/4.1.9/netty-handler-4.1.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.8",
+    "Installed":      "src/netty-handler/4.1.8",
+    "Source":         "src/netty-handler/4.1.8/netty-handler-4.1.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.7",
+    "Installed":      "src/netty-handler/4.1.7",
+    "Source":         "src/netty-handler/4.1.7/netty-handler-4.1.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.6",
+    "Installed":      "src/netty-handler/4.1.6",
+    "Source":         "src/netty-handler/4.1.6/netty-handler-4.1.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.5",
+    "Installed":      "src/netty-handler/4.1.5",
+    "Source":         "src/netty-handler/4.1.5/netty-handler-4.1.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.4",
+    "Installed":      "src/netty-handler/4.1.4",
+    "Source":         "src/netty-handler/4.1.4/netty-handler-4.1.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.3",
+    "Installed":      "src/netty-handler/4.1.3",
+    "Source":         "src/netty-handler/4.1.3/netty-handler-4.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.2",
+    "Installed":      "src/netty-handler/4.1.2",
+    "Source":         "src/netty-handler/4.1.2/netty-handler-4.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "src/netty-handler/4.1.1",
+    "Source":         "src/netty-handler/4.1.1/netty-handler-4.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/netty-handler/4.1.0",
+    "Source":         "src/netty-handler/4.1.0/netty-handler-4.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

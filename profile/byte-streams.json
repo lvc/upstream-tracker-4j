@@ -1,0 +1,67 @@
+{
+  "Name":           "byte-streams",
+  "Title":          "Byte Streams",
+  "SourceUrl":      "http://clojars.org/repo/byte-streams/byte-streams/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.1.11",
+  "SkipVersions":   [ ".*\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "0.2.4-alpha3",
+    "Installed":      "src/byte-streams/0.2.4-alpha3",
+    "Source":         "src/byte-streams/0.2.4-alpha3/byte-streams-0.2.4-alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.3",
+    "Installed":      "src/byte-streams/0.2.3",
+    "Source":         "src/byte-streams/0.2.3/byte-streams-0.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.2",
+    "Installed":      "src/byte-streams/0.2.2",
+    "Source":         "src/byte-streams/0.2.2/byte-streams-0.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.1",
+    "Installed":      "src/byte-streams/0.2.1",
+    "Source":         "src/byte-streams/0.2.1/byte-streams-0.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.0",
+    "Installed":      "src/byte-streams/0.2.0",
+    "Source":         "src/byte-streams/0.2.0/byte-streams-0.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.13",
+    "Installed":      "src/byte-streams/0.1.13",
+    "Source":         "src/byte-streams/0.1.13/byte-streams-0.1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.12",
+    "Installed":      "src/byte-streams/0.1.12",
+    "Source":         "src/byte-streams/0.1.12/byte-streams-0.1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.11",
+    "Installed":      "src/byte-streams/0.1.11",
+    "Source":         "src/byte-streams/0.1.11/byte-streams-0.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

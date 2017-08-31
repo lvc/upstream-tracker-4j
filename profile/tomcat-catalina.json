@@ -1,0 +1,80 @@
+{
+  "Name":           "tomcat-catalina",
+  "Title":          "Tomcat Catalina",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/tomcat/tomcat-catalina/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "8.5.9",
+
+  "Versions": [
+  {
+    "Number":         "9.0.0.M26",
+    "Installed":      "src/tomcat-catalina/9.0.0.M26",
+    "Source":         "src/tomcat-catalina/9.0.0.M26/tomcat-catalina-9.0.0.M26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.20",
+    "Installed":      "src/tomcat-catalina/8.5.20",
+    "Source":         "src/tomcat-catalina/8.5.20/tomcat-catalina-8.5.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.19",
+    "Installed":      "src/tomcat-catalina/8.5.19",
+    "Source":         "src/tomcat-catalina/8.5.19/tomcat-catalina-8.5.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.16",
+    "Installed":      "src/tomcat-catalina/8.5.16",
+    "Source":         "src/tomcat-catalina/8.5.16/tomcat-catalina-8.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.15",
+    "Installed":      "src/tomcat-catalina/8.5.15",
+    "Source":         "src/tomcat-catalina/8.5.15/tomcat-catalina-8.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.14",
+    "Installed":      "src/tomcat-catalina/8.5.14",
+    "Source":         "src/tomcat-catalina/8.5.14/tomcat-catalina-8.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.13",
+    "Installed":      "src/tomcat-catalina/8.5.13",
+    "Source":         "src/tomcat-catalina/8.5.13/tomcat-catalina-8.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.12",
+    "Installed":      "src/tomcat-catalina/8.5.12",
+    "Source":         "src/tomcat-catalina/8.5.12/tomcat-catalina-8.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.11",
+    "Installed":      "src/tomcat-catalina/8.5.11",
+    "Source":         "src/tomcat-catalina/8.5.11/tomcat-catalina-8.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.9",
+    "Installed":      "src/tomcat-catalina/8.5.9",
+    "Source":         "src/tomcat-catalina/8.5.9/tomcat-catalina-8.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

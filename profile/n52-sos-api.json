@@ -1,0 +1,192 @@
+{
+  "Name":           "n52-sos-api",
+  "Title":          "N52 SOS API",
+  "SourceUrl":      "http://52north.org/maven/repo/releases/org/n52/sensorweb/sos/api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "api",
+
+  "Versions": [
+  {
+    "Number":         "4.4.0",
+    "Installed":      "src/n52-sos-api/4.4.0",
+    "Source":         "src/n52-sos-api/4.4.0/api-4.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.15",
+    "Installed":      "src/n52-sos-api/4.3.15",
+    "Source":         "src/n52-sos-api/4.3.15/api-4.3.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.14",
+    "Installed":      "src/n52-sos-api/4.3.14",
+    "Source":         "src/n52-sos-api/4.3.14/api-4.3.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.13",
+    "Installed":      "src/n52-sos-api/4.3.13",
+    "Source":         "src/n52-sos-api/4.3.13/api-4.3.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.12",
+    "Installed":      "src/n52-sos-api/4.3.12",
+    "Source":         "src/n52-sos-api/4.3.12/api-4.3.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.11",
+    "Installed":      "src/n52-sos-api/4.3.11",
+    "Source":         "src/n52-sos-api/4.3.11/api-4.3.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.9",
+    "Installed":      "src/n52-sos-api/4.3.9",
+    "Source":         "src/n52-sos-api/4.3.9/api-4.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.8",
+    "Installed":      "src/n52-sos-api/4.3.8",
+    "Source":         "src/n52-sos-api/4.3.8/api-4.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.7",
+    "Installed":      "src/n52-sos-api/4.3.7",
+    "Source":         "src/n52-sos-api/4.3.7/api-4.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.6.1",
+    "Installed":      "src/n52-sos-api/4.3.6.1",
+    "Source":         "src/n52-sos-api/4.3.6.1/api-4.3.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.6",
+    "Installed":      "src/n52-sos-api/4.3.6",
+    "Source":         "src/n52-sos-api/4.3.6/api-4.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.5",
+    "Installed":      "src/n52-sos-api/4.3.5",
+    "Source":         "src/n52-sos-api/4.3.5/api-4.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.4",
+    "Installed":      "src/n52-sos-api/4.3.4",
+    "Source":         "src/n52-sos-api/4.3.4/api-4.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.3",
+    "Installed":      "src/n52-sos-api/4.3.3",
+    "Source":         "src/n52-sos-api/4.3.3/api-4.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.2",
+    "Installed":      "src/n52-sos-api/4.3.2",
+    "Source":         "src/n52-sos-api/4.3.2/api-4.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.1",
+    "Installed":      "src/n52-sos-api/4.3.1",
+    "Source":         "src/n52-sos-api/4.3.1/api-4.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.0",
+    "Installed":      "src/n52-sos-api/4.3.0",
+    "Source":         "src/n52-sos-api/4.3.0/api-4.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.0",
+    "Installed":      "src/n52-sos-api/4.2.0",
+    "Source":         "src/n52-sos-api/4.2.0/api-4.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.5",
+    "Installed":      "src/n52-sos-api/4.1.5",
+    "Source":         "src/n52-sos-api/4.1.5/api-4.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.4",
+    "Installed":      "src/n52-sos-api/4.1.4",
+    "Source":         "src/n52-sos-api/4.1.4/api-4.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.3",
+    "Installed":      "src/n52-sos-api/4.1.3",
+    "Source":         "src/n52-sos-api/4.1.3/api-4.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.2",
+    "Installed":      "src/n52-sos-api/4.1.2",
+    "Source":         "src/n52-sos-api/4.1.2/api-4.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "src/n52-sos-api/4.1.1",
+    "Source":         "src/n52-sos-api/4.1.1/api-4.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/n52-sos-api/4.1.0",
+    "Source":         "src/n52-sos-api/4.1.0/api-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/n52-sos-api/4.0.1",
+    "Source":         "src/n52-sos-api/4.0.1/api-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/n52-sos-api/4.0.0",
+    "Source":         "src/n52-sos-api/4.0.0/api-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

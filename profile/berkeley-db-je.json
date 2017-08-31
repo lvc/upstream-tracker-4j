@@ -4,10 +4,25 @@
   "SourceUrl":      "http://www.oracle.com/technetwork/database/berkeleydb/downloads/index-098622.html",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
   "Package":        "je",
   "SkipArchives":   [ "docs/", "je-3.3.82/lib/", "examples/", "je-android" ],
 
   "Versions": [
+  {
+    "Number":         "7.4.5",
+    "Installed":      "installed/berkeley-db-je/7.4.5",
+    "Source":         "src/berkeley-db-je/7.4.5/je-7.4.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.3.7",
+    "Installed":      "installed/berkeley-db-je/7.3.7",
+    "Source":         "src/berkeley-db-je/7.3.7/je-7.3.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "7.0.6",
     "Installed":      "installed/berkeley-db-je/7.0.6",

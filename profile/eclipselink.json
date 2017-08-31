@@ -1,0 +1,61 @@
+{
+  "Name":           "eclipselink",
+  "Title":          "EclipseLink",
+  "SourceUrl":      "http://central.maven.org/maven2/org/eclipse/persistence/eclipselink/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.6.2",
+
+  "Versions": [
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/eclipselink/2.7.0",
+    "Source":         "src/eclipselink/2.7.0/eclipselink-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0-RC3",
+    "Installed":      "src/eclipselink/2.7.0-RC3",
+    "Source":         "src/eclipselink/2.7.0-RC3/eclipselink-2.7.0-RC3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.7.0-RC1",
+    "Installed":      "src/eclipselink/2.7.0-RC1",
+    "Source":         "src/eclipselink/2.7.0-RC1/eclipselink-2.7.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "src/eclipselink/2.6.5",
+    "Source":         "src/eclipselink/2.6.5/eclipselink-2.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.4",
+    "Installed":      "src/eclipselink/2.6.4",
+    "Source":         "src/eclipselink/2.6.4/eclipselink-2.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.3",
+    "Installed":      "src/eclipselink/2.6.3",
+    "Source":         "src/eclipselink/2.6.3/eclipselink-2.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/eclipselink/2.6.2",
+    "Source":         "src/eclipselink/2.6.2/eclipselink-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

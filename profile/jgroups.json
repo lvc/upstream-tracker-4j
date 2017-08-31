@@ -1,0 +1,52 @@
+{
+  "Name":           "jgroups",
+  "Title":          "JGroups",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jgroups/jgroups/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.0.0",
+
+  "Versions": [
+  {
+    "Number":         "4.0.5",
+    "Installed":      "src/jgroups/4.0.5",
+    "Source":         "src/jgroups/4.0.5/jgroups-4.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.4",
+    "Installed":      "src/jgroups/4.0.4",
+    "Source":         "src/jgroups/4.0.4/jgroups-4.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.3",
+    "Installed":      "src/jgroups/4.0.3",
+    "Source":         "src/jgroups/4.0.3/jgroups-4.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/jgroups/4.0.2",
+    "Source":         "src/jgroups/4.0.2/jgroups-4.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/jgroups/4.0.1",
+    "Source":         "src/jgroups/4.0.1/jgroups-4.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/jgroups/4.0.0",
+    "Source":         "src/jgroups/4.0.0/jgroups-4.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

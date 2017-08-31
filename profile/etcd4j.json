@@ -1,0 +1,143 @@
+{
+  "Name":           "etcd4j",
+  "Title":          "Etcd4j",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mousio/etcd4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.0.0",
+
+  "Versions": [
+  {
+    "Number":         "2.13.0",
+    "Installed":      "src/etcd4j/2.13.0",
+    "Source":         "src/etcd4j/2.13.0/etcd4j-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/etcd4j/2.12.0",
+    "Source":         "src/etcd4j/2.12.0/etcd4j-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/etcd4j/2.11.0",
+    "Source":         "src/etcd4j/2.11.0/etcd4j-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/etcd4j/2.10.0",
+    "Source":         "src/etcd4j/2.10.0/etcd4j-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/etcd4j/2.9.0",
+    "Source":         "src/etcd4j/2.9.0/etcd4j-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/etcd4j/2.8.0",
+    "Source":         "src/etcd4j/2.8.0/etcd4j-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/etcd4j/2.7.0",
+    "Source":         "src/etcd4j/2.7.0/etcd4j-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/etcd4j/2.6.0",
+    "Source":         "src/etcd4j/2.6.0/etcd4j-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/etcd4j/2.5.0",
+    "Source":         "src/etcd4j/2.5.0/etcd4j-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/etcd4j/2.4.0",
+    "Source":         "src/etcd4j/2.4.0/etcd4j-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/etcd4j/2.3.2",
+    "Source":         "src/etcd4j/2.3.2/etcd4j-2.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/etcd4j/2.3.1",
+    "Source":         "src/etcd4j/2.3.1/etcd4j-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/etcd4j/2.3.0",
+    "Source":         "src/etcd4j/2.3.0/etcd4j-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/etcd4j/2.2.0",
+    "Source":         "src/etcd4j/2.2.0/etcd4j-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/etcd4j/2.1.2",
+    "Source":         "src/etcd4j/2.1.2/etcd4j-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/etcd4j/2.1.1",
+    "Source":         "src/etcd4j/2.1.1/etcd4j-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/etcd4j/2.1.0",
+    "Source":         "src/etcd4j/2.1.0/etcd4j-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/etcd4j/2.0.1",
+    "Source":         "src/etcd4j/2.0.1/etcd4j-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/etcd4j/2.0.0",
+    "Source":         "src/etcd4j/2.0.0/etcd4j-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

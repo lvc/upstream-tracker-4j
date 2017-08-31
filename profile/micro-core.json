@@ -1,0 +1,165 @@
+{
+  "Name":           "micro-core",
+  "Title":          "Microserver",
+  "SourceUrl":      "http://central.maven.org/maven2/com/aol/microservices/micro-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+  "MinimalVersion": "0.70",
+
+  "Versions": [
+  {
+    "Number":         "0.91.5",
+    "Installed":      "src/micro-core/0.91.5",
+    "Source":         "src/micro-core/0.91.5/micro-core-0.91.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.90.6",
+    "Installed":      "src/micro-core/0.90.6",
+    "Source":         "src/micro-core/0.90.6/micro-core-0.90.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.89.6",
+    "Installed":      "src/micro-core/0.89.6",
+    "Source":         "src/micro-core/0.89.6/micro-core-0.89.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.88",
+    "Installed":      "src/micro-core/0.88",
+    "Source":         "src/micro-core/0.88/micro-core-0.88.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.87.1",
+    "Installed":      "src/micro-core/0.87.1",
+    "Source":         "src/micro-core/0.87.1/micro-core-0.87.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.86",
+    "Installed":      "src/micro-core/0.86",
+    "Source":         "src/micro-core/0.86/micro-core-0.86.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.85.1",
+    "Installed":      "src/micro-core/0.85.1",
+    "Source":         "src/micro-core/0.85.1/micro-core-0.85.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.84",
+    "Installed":      "src/micro-core/0.84",
+    "Source":         "src/micro-core/0.84/micro-core-0.84.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.83",
+    "Installed":      "src/micro-core/0.83",
+    "Source":         "src/micro-core/0.83/micro-core-0.83.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.82",
+    "Installed":      "src/micro-core/0.82",
+    "Source":         "src/micro-core/0.82/micro-core-0.82.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.81",
+    "Installed":      "src/micro-core/0.81",
+    "Source":         "src/micro-core/0.81/micro-core-0.81.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.80.1",
+    "Installed":      "src/micro-core/0.80.1",
+    "Source":         "src/micro-core/0.80.1/micro-core-0.80.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.79.5",
+    "Installed":      "src/micro-core/0.79.5",
+    "Source":         "src/micro-core/0.79.5/micro-core-0.79.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.78",
+    "Installed":      "src/micro-core/0.78",
+    "Source":         "src/micro-core/0.78/micro-core-0.78.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.77",
+    "Installed":      "src/micro-core/0.77",
+    "Source":         "src/micro-core/0.77/micro-core-0.77.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.76",
+    "Installed":      "src/micro-core/0.76",
+    "Source":         "src/micro-core/0.76/micro-core-0.76.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.75",
+    "Installed":      "src/micro-core/0.75",
+    "Source":         "src/micro-core/0.75/micro-core-0.75.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.74",
+    "Installed":      "src/micro-core/0.74",
+    "Source":         "src/micro-core/0.74/micro-core-0.74.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.73",
+    "Installed":      "src/micro-core/0.73",
+    "Source":         "src/micro-core/0.73/micro-core-0.73.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.72",
+    "Installed":      "src/micro-core/0.72",
+    "Source":         "src/micro-core/0.72/micro-core-0.72.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.71",
+    "Installed":      "src/micro-core/0.71",
+    "Source":         "src/micro-core/0.71/micro-core-0.71.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.70",
+    "Installed":      "src/micro-core/0.70",
+    "Source":         "src/micro-core/0.70/micro-core-0.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

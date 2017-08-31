@@ -1,0 +1,164 @@
+{
+  "Name":           "vaadin-client",
+  "Title":          "Vaadin Client",
+  "SourceUrl":      "http://central.maven.org/maven2/com/vaadin/vaadin-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7.7.0",
+
+  "Versions": [
+  {
+    "Number":         "8.1.2",
+    "Installed":      "src/vaadin-client/8.1.2",
+    "Source":         "src/vaadin-client/8.1.2/vaadin-client-8.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.1.1",
+    "Installed":      "src/vaadin-client/8.1.1",
+    "Source":         "src/vaadin-client/8.1.1/vaadin-client-8.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.1.0",
+    "Installed":      "src/vaadin-client/8.1.0",
+    "Source":         "src/vaadin-client/8.1.0/vaadin-client-8.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.7",
+    "Installed":      "src/vaadin-client/8.0.7",
+    "Source":         "src/vaadin-client/8.0.7/vaadin-client-8.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.6",
+    "Installed":      "src/vaadin-client/8.0.6",
+    "Source":         "src/vaadin-client/8.0.6/vaadin-client-8.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.5",
+    "Installed":      "src/vaadin-client/8.0.5",
+    "Source":         "src/vaadin-client/8.0.5/vaadin-client-8.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.4",
+    "Installed":      "src/vaadin-client/8.0.4",
+    "Source":         "src/vaadin-client/8.0.4/vaadin-client-8.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.3",
+    "Installed":      "src/vaadin-client/8.0.3",
+    "Source":         "src/vaadin-client/8.0.3/vaadin-client-8.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.2",
+    "Installed":      "src/vaadin-client/8.0.2",
+    "Source":         "src/vaadin-client/8.0.2/vaadin-client-8.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.1",
+    "Installed":      "src/vaadin-client/8.0.1",
+    "Source":         "src/vaadin-client/8.0.1/vaadin-client-8.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.0",
+    "Installed":      "src/vaadin-client/8.0.0",
+    "Source":         "src/vaadin-client/8.0.0/vaadin-client-8.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.10",
+    "Installed":      "src/vaadin-client/7.7.10",
+    "Source":         "src/vaadin-client/7.7.10/vaadin-client-7.7.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.9",
+    "Installed":      "src/vaadin-client/7.7.9",
+    "Source":         "src/vaadin-client/7.7.9/vaadin-client-7.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.8",
+    "Installed":      "src/vaadin-client/7.7.8",
+    "Source":         "src/vaadin-client/7.7.8/vaadin-client-7.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.7",
+    "Installed":      "src/vaadin-client/7.7.7",
+    "Source":         "src/vaadin-client/7.7.7/vaadin-client-7.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.6",
+    "Installed":      "src/vaadin-client/7.7.6",
+    "Source":         "src/vaadin-client/7.7.6/vaadin-client-7.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.5",
+    "Installed":      "src/vaadin-client/7.7.5",
+    "Source":         "src/vaadin-client/7.7.5/vaadin-client-7.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.4",
+    "Installed":      "src/vaadin-client/7.7.4",
+    "Source":         "src/vaadin-client/7.7.4/vaadin-client-7.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.3",
+    "Installed":      "src/vaadin-client/7.7.3",
+    "Source":         "src/vaadin-client/7.7.3/vaadin-client-7.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.2",
+    "Installed":      "src/vaadin-client/7.7.2",
+    "Source":         "src/vaadin-client/7.7.2/vaadin-client-7.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.1",
+    "Installed":      "src/vaadin-client/7.7.1",
+    "Source":         "src/vaadin-client/7.7.1/vaadin-client-7.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.0",
+    "Installed":      "src/vaadin-client/7.7.0",
+    "Source":         "src/vaadin-client/7.7.0/vaadin-client-7.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

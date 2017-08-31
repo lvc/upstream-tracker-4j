@@ -1,0 +1,31 @@
+{
+  "Name":           "picketbox",
+  "Title":          "PicketBox",
+  "SourceUrl":      "http://central.maven.org/maven2/org/picketbox/picketbox/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.0.0",
+
+  "Versions": [
+  {
+    "Number":         "5.0.2",
+    "Installed":      "src/picketbox/5.0.2",
+    "Source":         "src/picketbox/5.0.2/picketbox-5.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/picketbox/5.0.1",
+    "Source":         "src/picketbox/5.0.1/picketbox-5.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/picketbox/5.0.0",
+    "Source":         "src/picketbox/5.0.0/picketbox-5.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

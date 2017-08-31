@@ -1,0 +1,58 @@
+{
+  "Name":           "httpasyncclient",
+  "Title":          "HttpComponents AsyncClient",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/httpcomponents/httpasyncclient/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.1.3",
+    "Installed":      "src/httpasyncclient/4.1.3",
+    "Source":         "src/httpasyncclient/4.1.3/httpasyncclient-4.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.2",
+    "Installed":      "src/httpasyncclient/4.1.2",
+    "Source":         "src/httpasyncclient/4.1.2/httpasyncclient-4.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "src/httpasyncclient/4.1.1",
+    "Source":         "src/httpasyncclient/4.1.1/httpasyncclient-4.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1",
+    "Installed":      "src/httpasyncclient/4.1",
+    "Source":         "src/httpasyncclient/4.1/httpasyncclient-4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/httpasyncclient/4.0.2",
+    "Source":         "src/httpasyncclient/4.0.2/httpasyncclient-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/httpasyncclient/4.0.1",
+    "Source":         "src/httpasyncclient/4.0.1/httpasyncclient-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/httpasyncclient/4.0",
+    "Source":         "src/httpasyncclient/4.0/httpasyncclient-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

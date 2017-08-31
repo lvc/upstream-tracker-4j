@@ -1,0 +1,136 @@
+{
+  "Name":           "mongodb-driver-async",
+  "Title":          "MongoDB Async Driver",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mongodb/mongodb-driver-async/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.6.0-beta1",
+    "Installed":      "src/mongodb-driver-async/3.6.0-beta1",
+    "Source":         "src/mongodb-driver-async/3.6.0-beta1/mongodb-driver-async-3.6.0-beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/mongodb-driver-async/3.5.0",
+    "Source":         "src/mongodb-driver-async/3.5.0/mongodb-driver-async-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0-alpha1",
+    "Installed":      "src/mongodb-driver-async/3.5.0-alpha1",
+    "Source":         "src/mongodb-driver-async/3.5.0-alpha1/mongodb-driver-async-3.5.0-alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.4.3",
+    "Installed":      "src/mongodb-driver-async/3.4.3",
+    "Source":         "src/mongodb-driver-async/3.4.3/mongodb-driver-async-3.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/mongodb-driver-async/3.4.2",
+    "Source":         "src/mongodb-driver-async/3.4.2/mongodb-driver-async-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/mongodb-driver-async/3.4.1",
+    "Source":         "src/mongodb-driver-async/3.4.1/mongodb-driver-async-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/mongodb-driver-async/3.4.0",
+    "Source":         "src/mongodb-driver-async/3.4.0/mongodb-driver-async-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/mongodb-driver-async/3.3.0",
+    "Source":         "src/mongodb-driver-async/3.3.0/mongodb-driver-async-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/mongodb-driver-async/3.2.2",
+    "Source":         "src/mongodb-driver-async/3.2.2/mongodb-driver-async-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/mongodb-driver-async/3.2.1",
+    "Source":         "src/mongodb-driver-async/3.2.1/mongodb-driver-async-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/mongodb-driver-async/3.2.0",
+    "Source":         "src/mongodb-driver-async/3.2.0/mongodb-driver-async-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/mongodb-driver-async/3.1.1",
+    "Source":         "src/mongodb-driver-async/3.1.1/mongodb-driver-async-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/mongodb-driver-async/3.1.0",
+    "Source":         "src/mongodb-driver-async/3.1.0/mongodb-driver-async-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/mongodb-driver-async/3.0.4",
+    "Source":         "src/mongodb-driver-async/3.0.4/mongodb-driver-async-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/mongodb-driver-async/3.0.3",
+    "Source":         "src/mongodb-driver-async/3.0.3/mongodb-driver-async-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/mongodb-driver-async/3.0.2",
+    "Source":         "src/mongodb-driver-async/3.0.2/mongodb-driver-async-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/mongodb-driver-async/3.0.1",
+    "Source":         "src/mongodb-driver-async/3.0.1/mongodb-driver-async-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/mongodb-driver-async/3.0.0",
+    "Source":         "src/mongodb-driver-async/3.0.0/mongodb-driver-async-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

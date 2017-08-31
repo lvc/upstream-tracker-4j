@@ -1,0 +1,353 @@
+{
+  "Name":           "governator",
+  "Title":          "Governator",
+  "SourceUrl":      "http://central.maven.org/maven2/com/netflix/governator/governator/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.10.1",
+
+  "Versions": [
+  {
+    "Number":         "1.17.4",
+    "Installed":      "src/governator/1.17.4",
+    "Source":         "src/governator/1.17.4/governator-1.17.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.2",
+    "Installed":      "src/governator/1.17.2",
+    "Source":         "src/governator/1.17.2/governator-1.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.1",
+    "Installed":      "src/governator/1.17.1",
+    "Source":         "src/governator/1.17.1/governator-1.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.0",
+    "Installed":      "src/governator/1.17.0",
+    "Source":         "src/governator/1.17.0/governator-1.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.0",
+    "Installed":      "src/governator/1.16.0",
+    "Source":         "src/governator/1.16.0/governator-1.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.11",
+    "Installed":      "src/governator/1.15.11",
+    "Source":         "src/governator/1.15.11/governator-1.15.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.10",
+    "Installed":      "src/governator/1.15.10",
+    "Source":         "src/governator/1.15.10/governator-1.15.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.9",
+    "Installed":      "src/governator/1.15.9",
+    "Source":         "src/governator/1.15.9/governator-1.15.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.8",
+    "Installed":      "src/governator/1.15.8",
+    "Source":         "src/governator/1.15.8/governator-1.15.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.7",
+    "Installed":      "src/governator/1.15.7",
+    "Source":         "src/governator/1.15.7/governator-1.15.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.6",
+    "Installed":      "src/governator/1.15.6",
+    "Source":         "src/governator/1.15.6/governator-1.15.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.5",
+    "Installed":      "src/governator/1.15.5",
+    "Source":         "src/governator/1.15.5/governator-1.15.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.4",
+    "Installed":      "src/governator/1.15.4",
+    "Source":         "src/governator/1.15.4/governator-1.15.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.3",
+    "Installed":      "src/governator/1.15.3",
+    "Source":         "src/governator/1.15.3/governator-1.15.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.2",
+    "Installed":      "src/governator/1.15.2",
+    "Source":         "src/governator/1.15.2/governator-1.15.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.1",
+    "Installed":      "src/governator/1.15.1",
+    "Source":         "src/governator/1.15.1/governator-1.15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.0",
+    "Installed":      "src/governator/1.15.0",
+    "Source":         "src/governator/1.15.0/governator-1.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.4",
+    "Installed":      "src/governator/1.14.4",
+    "Source":         "src/governator/1.14.4/governator-1.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.3",
+    "Installed":      "src/governator/1.14.3",
+    "Source":         "src/governator/1.14.3/governator-1.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.2",
+    "Installed":      "src/governator/1.14.2",
+    "Source":         "src/governator/1.14.2/governator-1.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.1",
+    "Installed":      "src/governator/1.14.1",
+    "Source":         "src/governator/1.14.1/governator-1.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.0",
+    "Installed":      "src/governator/1.14.0",
+    "Source":         "src/governator/1.14.0/governator-1.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.5",
+    "Installed":      "src/governator/1.13.5",
+    "Source":         "src/governator/1.13.5/governator-1.13.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.4",
+    "Installed":      "src/governator/1.13.4",
+    "Source":         "src/governator/1.13.4/governator-1.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.3",
+    "Installed":      "src/governator/1.13.3",
+    "Source":         "src/governator/1.13.3/governator-1.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.2",
+    "Installed":      "src/governator/1.13.2",
+    "Source":         "src/governator/1.13.2/governator-1.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.1",
+    "Installed":      "src/governator/1.13.1",
+    "Source":         "src/governator/1.13.1/governator-1.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.0",
+    "Installed":      "src/governator/1.13.0",
+    "Source":         "src/governator/1.13.0/governator-1.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.15",
+    "Installed":      "src/governator/1.12.15",
+    "Source":         "src/governator/1.12.15/governator-1.12.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.13",
+    "Installed":      "src/governator/1.12.13",
+    "Source":         "src/governator/1.12.13/governator-1.12.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.12",
+    "Installed":      "src/governator/1.12.12",
+    "Source":         "src/governator/1.12.12/governator-1.12.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.11",
+    "Installed":      "src/governator/1.12.11",
+    "Source":         "src/governator/1.12.11/governator-1.12.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.10",
+    "Installed":      "src/governator/1.12.10",
+    "Source":         "src/governator/1.12.10/governator-1.12.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.9",
+    "Installed":      "src/governator/1.12.9",
+    "Source":         "src/governator/1.12.9/governator-1.12.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.8",
+    "Installed":      "src/governator/1.12.8",
+    "Source":         "src/governator/1.12.8/governator-1.12.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.7",
+    "Installed":      "src/governator/1.12.7",
+    "Source":         "src/governator/1.12.7/governator-1.12.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.6",
+    "Installed":      "src/governator/1.12.6",
+    "Source":         "src/governator/1.12.6/governator-1.12.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.5",
+    "Installed":      "src/governator/1.12.5",
+    "Source":         "src/governator/1.12.5/governator-1.12.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.4",
+    "Installed":      "src/governator/1.12.4",
+    "Source":         "src/governator/1.12.4/governator-1.12.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.3",
+    "Installed":      "src/governator/1.12.3",
+    "Source":         "src/governator/1.12.3/governator-1.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.2",
+    "Installed":      "src/governator/1.12.2",
+    "Source":         "src/governator/1.12.2/governator-1.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.1",
+    "Installed":      "src/governator/1.12.1",
+    "Source":         "src/governator/1.12.1/governator-1.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.0",
+    "Installed":      "src/governator/1.12.0",
+    "Source":         "src/governator/1.12.0/governator-1.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.0",
+    "Installed":      "src/governator/1.11.0",
+    "Source":         "src/governator/1.11.0/governator-1.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.5",
+    "Installed":      "src/governator/1.10.5",
+    "Source":         "src/governator/1.10.5/governator-1.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.4",
+    "Installed":      "src/governator/1.10.4",
+    "Source":         "src/governator/1.10.4/governator-1.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.3",
+    "Installed":      "src/governator/1.10.3",
+    "Source":         "src/governator/1.10.3/governator-1.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.2",
+    "Installed":      "src/governator/1.10.2",
+    "Source":         "src/governator/1.10.2/governator-1.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.1",
+    "Installed":      "src/governator/1.10.1",
+    "Source":         "src/governator/1.10.1/governator-1.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

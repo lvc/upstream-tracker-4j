@@ -1,0 +1,58 @@
+{
+  "Name":           "mule-transport-ftp",
+  "Title":          "Mule FTP Transport",
+  "SourceUrl":      "https://repository.mulesoft.org/nexus/content/repositories/releases/org/mule/transports/mule-transport-ftp/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.8.1",
+    "Installed":      "src/mule-transport-ftp/3.8.1",
+    "Source":         "src/mule-transport-ftp/3.8.1/mule-transport-ftp-3.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.0",
+    "Installed":      "src/mule-transport-ftp/3.8.0",
+    "Source":         "src/mule-transport-ftp/3.8.0/mule-transport-ftp-3.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.0",
+    "Installed":      "src/mule-transport-ftp/3.7.0",
+    "Source":         "src/mule-transport-ftp/3.7.0/mule-transport-ftp-3.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.1",
+    "Installed":      "src/mule-transport-ftp/3.6.1",
+    "Source":         "src/mule-transport-ftp/3.6.1/mule-transport-ftp-3.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/mule-transport-ftp/3.6.0",
+    "Source":         "src/mule-transport-ftp/3.6.0/mule-transport-ftp-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/mule-transport-ftp/3.5.1",
+    "Source":         "src/mule-transport-ftp/3.5.1/mule-transport-ftp-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/mule-transport-ftp/3.5.0",
+    "Source":         "src/mule-transport-ftp/3.5.0/mule-transport-ftp-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,163 @@
+{
+  "Name":           "hive-common",
+  "Title":          "Hive Common",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/hive/hive-common/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/hive-common/2.3.0",
+    "Source":         "src/hive-common/2.3.0/hive-common-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/hive-common/2.2.0",
+    "Source":         "src/hive-common/2.2.0/hive-common-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/hive-common/2.1.1",
+    "Source":         "src/hive-common/2.1.1/hive-common-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/hive-common/2.1.0",
+    "Source":         "src/hive-common/2.1.0/hive-common-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/hive-common/2.0.1",
+    "Source":         "src/hive-common/2.0.1/hive-common-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/hive-common/2.0.0",
+    "Source":         "src/hive-common/2.0.0/hive-common-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/hive-common/1.2.2",
+    "Source":         "src/hive-common/1.2.2/hive-common-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/hive-common/1.2.1",
+    "Source":         "src/hive-common/1.2.1/hive-common-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/hive-common/1.2.0",
+    "Source":         "src/hive-common/1.2.0/hive-common-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/hive-common/1.1.1",
+    "Source":         "src/hive-common/1.1.1/hive-common-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/hive-common/1.1.0",
+    "Source":         "src/hive-common/1.1.0/hive-common-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/hive-common/1.0.1",
+    "Source":         "src/hive-common/1.0.1/hive-common-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/hive-common/1.0.0",
+    "Source":         "src/hive-common/1.0.0/hive-common-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.14.0",
+    "Installed":      "src/hive-common/0.14.0",
+    "Source":         "src/hive-common/0.14.0/hive-common-0.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.1",
+    "Installed":      "src/hive-common/0.13.1",
+    "Source":         "src/hive-common/0.13.1/hive-common-0.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.0",
+    "Installed":      "src/hive-common/0.13.0",
+    "Source":         "src/hive-common/0.13.0/hive-common-0.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/hive-common/0.12.0",
+    "Source":         "src/hive-common/0.12.0/hive-common-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/hive-common/0.11.0",
+    "Source":         "src/hive-common/0.11.0/hive-common-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/hive-common/0.10.0",
+    "Source":         "src/hive-common/0.10.0/hive-common-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/hive-common/0.9.0",
+    "Source":         "src/hive-common/0.9.0/hive-common-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.1",
+    "Installed":      "src/hive-common/0.8.1",
+    "Source":         "src/hive-common/0.8.1/hive-common-0.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/hive-common/0.8.0",
+    "Source":         "src/hive-common/0.8.0/hive-common-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

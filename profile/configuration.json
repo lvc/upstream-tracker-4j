@@ -1,0 +1,150 @@
+{
+  "Name":           "configuration",
+  "Title":          "Configuration",
+  "SourceUrl":      "http://central.maven.org/maven2/io/airlift/configuration/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.130",
+
+  "Versions": [
+  {
+    "Number":         "0.149",
+    "Installed":      "src/configuration/0.149",
+    "Source":         "src/configuration/0.149/configuration-0.149.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.148",
+    "Installed":      "src/configuration/0.148",
+    "Source":         "src/configuration/0.148/configuration-0.148.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.147",
+    "Installed":      "src/configuration/0.147",
+    "Source":         "src/configuration/0.147/configuration-0.147.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.146",
+    "Installed":      "src/configuration/0.146",
+    "Source":         "src/configuration/0.146/configuration-0.146.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.145",
+    "Installed":      "src/configuration/0.145",
+    "Source":         "src/configuration/0.145/configuration-0.145.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.144",
+    "Installed":      "src/configuration/0.144",
+    "Source":         "src/configuration/0.144/configuration-0.144.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.143",
+    "Installed":      "src/configuration/0.143",
+    "Source":         "src/configuration/0.143/configuration-0.143.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.142",
+    "Installed":      "src/configuration/0.142",
+    "Source":         "src/configuration/0.142/configuration-0.142.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.141",
+    "Installed":      "src/configuration/0.141",
+    "Source":         "src/configuration/0.141/configuration-0.141.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.140",
+    "Installed":      "src/configuration/0.140",
+    "Source":         "src/configuration/0.140/configuration-0.140.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.139",
+    "Installed":      "src/configuration/0.139",
+    "Source":         "src/configuration/0.139/configuration-0.139.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.138",
+    "Installed":      "src/configuration/0.138",
+    "Source":         "src/configuration/0.138/configuration-0.138.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.137",
+    "Installed":      "src/configuration/0.137",
+    "Source":         "src/configuration/0.137/configuration-0.137.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.136",
+    "Installed":      "src/configuration/0.136",
+    "Source":         "src/configuration/0.136/configuration-0.136.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.135",
+    "Installed":      "src/configuration/0.135",
+    "Source":         "src/configuration/0.135/configuration-0.135.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.134",
+    "Installed":      "src/configuration/0.134",
+    "Source":         "src/configuration/0.134/configuration-0.134.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.133",
+    "Installed":      "src/configuration/0.133",
+    "Source":         "src/configuration/0.133/configuration-0.133.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.132",
+    "Installed":      "src/configuration/0.132",
+    "Source":         "src/configuration/0.132/configuration-0.132.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.131",
+    "Installed":      "src/configuration/0.131",
+    "Source":         "src/configuration/0.131/configuration-0.131.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.130",
+    "Installed":      "src/configuration/0.130",
+    "Source":         "src/configuration/0.130/configuration-0.130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

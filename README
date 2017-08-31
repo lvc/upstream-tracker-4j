@@ -1,7 +1,12 @@
+Java Upstream Tracker 2.0
+=========================
+
 NAME:
   Java Upstream Tracker - a project to monitor and verify compatibility of upstream API changes in Java libraries.
   
   Web: https://abi-laboratory.pro/java/tracker/
+  
+  JSON-format reports: https://github.com/lvc/api-reports-4j
   
   Please report an issue if you'd like to add some library to the tracker.
   
@@ -9,10 +14,10 @@ NAME:
 
 REQUIRES:
   Perl 5
-  Java API Tracker (1.1 or newer)
-  Java API Monitor (1.1 or newer)
-  Java API Compliance Checker (1.8 or newer)
-  PkgDiff (1.6.4 or newer)
+  Java API Tracker (1.2 or newer)
+  Java API Monitor (1.2 or newer)
+  Java API Compliance Checker (2.3 or newer)
+  PkgDiff (1.7.2 or newer)
   
   You can use the installer-4j to automatically download from github and install necessary tools: https://github.com/lvc/installer-4j
 

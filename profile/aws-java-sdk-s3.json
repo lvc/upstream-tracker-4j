@@ -1,0 +1,235 @@
+{
+  "Name":           "aws-java-sdk-s3",
+  "Title":          "AWS Java SDK For Amazon S3",
+  "SourceUrl":      "http://central.maven.org/maven2/com/amazonaws/aws-java-sdk-s3/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "KeepMicroMult":  [ "10" ],
+  "SkipVersions":   [ "1.9.20.1" ],
+
+  "Versions": [
+  {
+    "Number":         "1.11.180",
+    "Installed":      "src/aws-java-sdk-s3/1.11.180",
+    "Source":         "src/aws-java-sdk-s3/1.11.180/aws-java-sdk-s3-1.11.180.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.170",
+    "Installed":      "src/aws-java-sdk-s3/1.11.170",
+    "Source":         "src/aws-java-sdk-s3/1.11.170/aws-java-sdk-s3-1.11.170.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.160",
+    "Installed":      "src/aws-java-sdk-s3/1.11.160",
+    "Source":         "src/aws-java-sdk-s3/1.11.160/aws-java-sdk-s3-1.11.160.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.150",
+    "Installed":      "src/aws-java-sdk-s3/1.11.150",
+    "Source":         "src/aws-java-sdk-s3/1.11.150/aws-java-sdk-s3-1.11.150.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.140",
+    "Installed":      "src/aws-java-sdk-s3/1.11.140",
+    "Source":         "src/aws-java-sdk-s3/1.11.140/aws-java-sdk-s3-1.11.140.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.130",
+    "Installed":      "src/aws-java-sdk-s3/1.11.130",
+    "Source":         "src/aws-java-sdk-s3/1.11.130/aws-java-sdk-s3-1.11.130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.120",
+    "Installed":      "src/aws-java-sdk-s3/1.11.120",
+    "Source":         "src/aws-java-sdk-s3/1.11.120/aws-java-sdk-s3-1.11.120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.110",
+    "Installed":      "src/aws-java-sdk-s3/1.11.110",
+    "Source":         "src/aws-java-sdk-s3/1.11.110/aws-java-sdk-s3-1.11.110.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.100",
+    "Installed":      "src/aws-java-sdk-s3/1.11.100",
+    "Source":         "src/aws-java-sdk-s3/1.11.100/aws-java-sdk-s3-1.11.100.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.90",
+    "Installed":      "src/aws-java-sdk-s3/1.11.90",
+    "Source":         "src/aws-java-sdk-s3/1.11.90/aws-java-sdk-s3-1.11.90.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.80",
+    "Installed":      "src/aws-java-sdk-s3/1.11.80",
+    "Source":         "src/aws-java-sdk-s3/1.11.80/aws-java-sdk-s3-1.11.80.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.70",
+    "Installed":      "src/aws-java-sdk-s3/1.11.70",
+    "Source":         "src/aws-java-sdk-s3/1.11.70/aws-java-sdk-s3-1.11.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.60",
+    "Installed":      "src/aws-java-sdk-s3/1.11.60",
+    "Source":         "src/aws-java-sdk-s3/1.11.60/aws-java-sdk-s3-1.11.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.50",
+    "Installed":      "src/aws-java-sdk-s3/1.11.50",
+    "Source":         "src/aws-java-sdk-s3/1.11.50/aws-java-sdk-s3-1.11.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.40",
+    "Installed":      "src/aws-java-sdk-s3/1.11.40",
+    "Source":         "src/aws-java-sdk-s3/1.11.40/aws-java-sdk-s3-1.11.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.30",
+    "Installed":      "src/aws-java-sdk-s3/1.11.30",
+    "Source":         "src/aws-java-sdk-s3/1.11.30/aws-java-sdk-s3-1.11.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.20",
+    "Installed":      "src/aws-java-sdk-s3/1.11.20",
+    "Source":         "src/aws-java-sdk-s3/1.11.20/aws-java-sdk-s3-1.11.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.10",
+    "Installed":      "src/aws-java-sdk-s3/1.11.10",
+    "Source":         "src/aws-java-sdk-s3/1.11.10/aws-java-sdk-s3-1.11.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.0",
+    "Installed":      "src/aws-java-sdk-s3/1.11.0",
+    "Source":         "src/aws-java-sdk-s3/1.11.0/aws-java-sdk-s3-1.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.70",
+    "Installed":      "src/aws-java-sdk-s3/1.10.70",
+    "Source":         "src/aws-java-sdk-s3/1.10.70/aws-java-sdk-s3-1.10.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.60",
+    "Installed":      "src/aws-java-sdk-s3/1.10.60",
+    "Source":         "src/aws-java-sdk-s3/1.10.60/aws-java-sdk-s3-1.10.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.50",
+    "Installed":      "src/aws-java-sdk-s3/1.10.50",
+    "Source":         "src/aws-java-sdk-s3/1.10.50/aws-java-sdk-s3-1.10.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.40",
+    "Installed":      "src/aws-java-sdk-s3/1.10.40",
+    "Source":         "src/aws-java-sdk-s3/1.10.40/aws-java-sdk-s3-1.10.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.30",
+    "Installed":      "src/aws-java-sdk-s3/1.10.30",
+    "Source":         "src/aws-java-sdk-s3/1.10.30/aws-java-sdk-s3-1.10.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.20",
+    "Installed":      "src/aws-java-sdk-s3/1.10.20",
+    "Source":         "src/aws-java-sdk-s3/1.10.20/aws-java-sdk-s3-1.10.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.10",
+    "Installed":      "src/aws-java-sdk-s3/1.10.10",
+    "Source":         "src/aws-java-sdk-s3/1.10.10/aws-java-sdk-s3-1.10.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.0",
+    "Installed":      "src/aws-java-sdk-s3/1.10.0",
+    "Source":         "src/aws-java-sdk-s3/1.10.0/aws-java-sdk-s3-1.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.40",
+    "Installed":      "src/aws-java-sdk-s3/1.9.40",
+    "Source":         "src/aws-java-sdk-s3/1.9.40/aws-java-sdk-s3-1.9.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.30",
+    "Installed":      "src/aws-java-sdk-s3/1.9.30",
+    "Source":         "src/aws-java-sdk-s3/1.9.30/aws-java-sdk-s3-1.9.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.20",
+    "Installed":      "src/aws-java-sdk-s3/1.9.20",
+    "Source":         "src/aws-java-sdk-s3/1.9.20/aws-java-sdk-s3-1.9.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.10",
+    "Installed":      "src/aws-java-sdk-s3/1.9.10",
+    "Source":         "src/aws-java-sdk-s3/1.9.10/aws-java-sdk-s3-1.9.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/aws-java-sdk-s3/1.9.0",
+    "Source":         "src/aws-java-sdk-s3/1.9.0/aws-java-sdk-s3-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

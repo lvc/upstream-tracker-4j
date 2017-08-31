@@ -1,0 +1,136 @@
+{
+  "Name":           "jaxb-api",
+  "Title":          "JAXB API",
+  "SourceUrl":      "http://central.maven.org/maven2/javax/xml/bind/jaxb-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+
+  "Versions": [
+  {
+    "Number":         "2.3.0-b170201.1204",
+    "Installed":      "src/jaxb-api/2.3.0-b170201.1204",
+    "Source":         "src/jaxb-api/2.3.0-b170201.1204/jaxb-api-2.3.0-b170201.1204.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.12",
+    "Installed":      "src/jaxb-api/2.2.12",
+    "Source":         "src/jaxb-api/2.2.12/jaxb-api-2.2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.11",
+    "Installed":      "src/jaxb-api/2.2.11",
+    "Source":         "src/jaxb-api/2.2.11/jaxb-api-2.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.10",
+    "Installed":      "src/jaxb-api/2.2.10",
+    "Source":         "src/jaxb-api/2.2.10/jaxb-api-2.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.9",
+    "Installed":      "src/jaxb-api/2.2.9",
+    "Source":         "src/jaxb-api/2.2.9/jaxb-api-2.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.8",
+    "Installed":      "src/jaxb-api/2.2.8",
+    "Source":         "src/jaxb-api/2.2.8/jaxb-api-2.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "src/jaxb-api/2.2.7",
+    "Source":         "src/jaxb-api/2.2.7/jaxb-api-2.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/jaxb-api/2.2.6",
+    "Source":         "src/jaxb-api/2.2.6/jaxb-api-2.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/jaxb-api/2.2.5",
+    "Source":         "src/jaxb-api/2.2.5/jaxb-api-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/jaxb-api/2.2.4",
+    "Source":         "src/jaxb-api/2.2.4/jaxb-api-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/jaxb-api/2.2.3",
+    "Source":         "src/jaxb-api/2.2.3/jaxb-api-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/jaxb-api/2.2.2",
+    "Source":         "src/jaxb-api/2.2.2/jaxb-api-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/jaxb-api/2.2.1",
+    "Source":         "src/jaxb-api/2.2.1/jaxb-api-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/jaxb-api/2.2",
+    "Source":         "src/jaxb-api/2.2/jaxb-api-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/jaxb-api/2.1",
+    "Source":         "src/jaxb-api/2.1/jaxb-api-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/jaxb-api/2.0",
+    "Source":         "src/jaxb-api/2.0/jaxb-api-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/jaxb-api/1.0.6",
+    "Source":         "src/jaxb-api/1.0.6/jaxb-api-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/jaxb-api/1.0",
+    "Source":         "src/jaxb-api/1.0/jaxb-api-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

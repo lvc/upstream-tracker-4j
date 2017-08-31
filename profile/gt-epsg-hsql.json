@@ -1,0 +1,150 @@
+{
+  "Name":           "gt-epsg-hsql",
+  "Title":          "GeoTools EPSG HSQL",
+  "SourceUrl":      "http://download.osgeo.org/webdav/geotools/org/geotools/gt-epsg-hsql/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "14.0",
+
+  "Versions": [
+  {
+    "Number":         "17.2",
+    "Installed":      "src/gt-epsg-hsql/17.2",
+    "Source":         "src/gt-epsg-hsql/17.2/gt-epsg-hsql-17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.1",
+    "Installed":      "src/gt-epsg-hsql/17.1",
+    "Source":         "src/gt-epsg-hsql/17.1/gt-epsg-hsql-17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.0",
+    "Installed":      "src/gt-epsg-hsql/17.0",
+    "Source":         "src/gt-epsg-hsql/17.0/gt-epsg-hsql-17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.5",
+    "Installed":      "src/gt-epsg-hsql/16.5",
+    "Source":         "src/gt-epsg-hsql/16.5/gt-epsg-hsql-16.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.4",
+    "Installed":      "src/gt-epsg-hsql/16.4",
+    "Source":         "src/gt-epsg-hsql/16.4/gt-epsg-hsql-16.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.3",
+    "Installed":      "src/gt-epsg-hsql/16.3",
+    "Source":         "src/gt-epsg-hsql/16.3/gt-epsg-hsql-16.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.2",
+    "Installed":      "src/gt-epsg-hsql/16.2",
+    "Source":         "src/gt-epsg-hsql/16.2/gt-epsg-hsql-16.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.1",
+    "Installed":      "src/gt-epsg-hsql/16.1",
+    "Source":         "src/gt-epsg-hsql/16.1/gt-epsg-hsql-16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0",
+    "Installed":      "src/gt-epsg-hsql/16.0",
+    "Source":         "src/gt-epsg-hsql/16.0/gt-epsg-hsql-16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.4",
+    "Installed":      "src/gt-epsg-hsql/15.4",
+    "Source":         "src/gt-epsg-hsql/15.4/gt-epsg-hsql-15.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.3",
+    "Installed":      "src/gt-epsg-hsql/15.3",
+    "Source":         "src/gt-epsg-hsql/15.3/gt-epsg-hsql-15.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.2",
+    "Installed":      "src/gt-epsg-hsql/15.2",
+    "Source":         "src/gt-epsg-hsql/15.2/gt-epsg-hsql-15.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.1",
+    "Installed":      "src/gt-epsg-hsql/15.1",
+    "Source":         "src/gt-epsg-hsql/15.1/gt-epsg-hsql-15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.0",
+    "Installed":      "src/gt-epsg-hsql/15.0",
+    "Source":         "src/gt-epsg-hsql/15.0/gt-epsg-hsql-15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.5",
+    "Installed":      "src/gt-epsg-hsql/14.5",
+    "Source":         "src/gt-epsg-hsql/14.5/gt-epsg-hsql-14.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.4",
+    "Installed":      "src/gt-epsg-hsql/14.4",
+    "Source":         "src/gt-epsg-hsql/14.4/gt-epsg-hsql-14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.3",
+    "Installed":      "src/gt-epsg-hsql/14.3",
+    "Source":         "src/gt-epsg-hsql/14.3/gt-epsg-hsql-14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.2",
+    "Installed":      "src/gt-epsg-hsql/14.2",
+    "Source":         "src/gt-epsg-hsql/14.2/gt-epsg-hsql-14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.1",
+    "Installed":      "src/gt-epsg-hsql/14.1",
+    "Source":         "src/gt-epsg-hsql/14.1/gt-epsg-hsql-14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.0",
+    "Installed":      "src/gt-epsg-hsql/14.0",
+    "Source":         "src/gt-epsg-hsql/14.0/gt-epsg-hsql-14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

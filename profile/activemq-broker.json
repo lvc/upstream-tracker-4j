@@ -1,0 +1,129 @@
+{
+  "Name":           "activemq-broker",
+  "Title":          "ActiveMQ Broker",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/activemq/activemq-broker/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.12.0",
+
+  "Versions": [
+  {
+    "Number":         "5.15.0",
+    "Installed":      "src/activemq-broker/5.15.0",
+    "Source":         "src/activemq-broker/5.15.0/activemq-broker-5.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.5",
+    "Installed":      "src/activemq-broker/5.14.5",
+    "Source":         "src/activemq-broker/5.14.5/activemq-broker-5.14.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.4",
+    "Installed":      "src/activemq-broker/5.14.4",
+    "Source":         "src/activemq-broker/5.14.4/activemq-broker-5.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.3",
+    "Installed":      "src/activemq-broker/5.14.3",
+    "Source":         "src/activemq-broker/5.14.3/activemq-broker-5.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.2",
+    "Installed":      "src/activemq-broker/5.14.2",
+    "Source":         "src/activemq-broker/5.14.2/activemq-broker-5.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.1",
+    "Installed":      "src/activemq-broker/5.14.1",
+    "Source":         "src/activemq-broker/5.14.1/activemq-broker-5.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.0",
+    "Installed":      "src/activemq-broker/5.14.0",
+    "Source":         "src/activemq-broker/5.14.0/activemq-broker-5.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.5",
+    "Installed":      "src/activemq-broker/5.13.5",
+    "Source":         "src/activemq-broker/5.13.5/activemq-broker-5.13.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.4",
+    "Installed":      "src/activemq-broker/5.13.4",
+    "Source":         "src/activemq-broker/5.13.4/activemq-broker-5.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.3",
+    "Installed":      "src/activemq-broker/5.13.3",
+    "Source":         "src/activemq-broker/5.13.3/activemq-broker-5.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.2",
+    "Installed":      "src/activemq-broker/5.13.2",
+    "Source":         "src/activemq-broker/5.13.2/activemq-broker-5.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.1",
+    "Installed":      "src/activemq-broker/5.13.1",
+    "Source":         "src/activemq-broker/5.13.1/activemq-broker-5.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.0",
+    "Installed":      "src/activemq-broker/5.13.0",
+    "Source":         "src/activemq-broker/5.13.0/activemq-broker-5.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.12.3",
+    "Installed":      "src/activemq-broker/5.12.3",
+    "Source":         "src/activemq-broker/5.12.3/activemq-broker-5.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.12.2",
+    "Installed":      "src/activemq-broker/5.12.2",
+    "Source":         "src/activemq-broker/5.12.2/activemq-broker-5.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.12.1",
+    "Installed":      "src/activemq-broker/5.12.1",
+    "Source":         "src/activemq-broker/5.12.1/activemq-broker-5.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.12.0",
+    "Installed":      "src/activemq-broker/5.12.0",
+    "Source":         "src/activemq-broker/5.12.0/activemq-broker-5.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

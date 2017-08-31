@@ -1,0 +1,528 @@
+{
+  "Name":           "weld-se-core",
+  "Title":          "Weld SE Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/weld/se/weld-se-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*SP\d+" ],
+
+  "Versions": [
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/weld-se-core/3.0.1",
+    "Source":         "src/weld-se-core/3.0.1/weld-se-core-3.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/weld-se-core/3.0.0",
+    "Source":         "src/weld-se-core/3.0.0/weld-se-core-3.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "src/weld-se-core/2.4.4",
+    "Source":         "src/weld-se-core/2.4.4/weld-se-core-2.4.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/weld-se-core/2.4.3",
+    "Source":         "src/weld-se-core/2.4.3/weld-se-core-2.4.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/weld-se-core/2.4.2",
+    "Source":         "src/weld-se-core/2.4.2/weld-se-core-2.4.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/weld-se-core/2.4.1",
+    "Source":         "src/weld-se-core/2.4.1/weld-se-core-2.4.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/weld-se-core/2.4.0",
+    "Source":         "src/weld-se-core/2.4.0/weld-se-core-2.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/weld-se-core/2.3.5",
+    "Source":         "src/weld-se-core/2.3.5/weld-se-core-2.3.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/weld-se-core/2.3.4",
+    "Source":         "src/weld-se-core/2.3.4/weld-se-core-2.3.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "src/weld-se-core/2.3.3",
+    "Source":         "src/weld-se-core/2.3.3/weld-se-core-2.3.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/weld-se-core/2.3.2",
+    "Source":         "src/weld-se-core/2.3.2/weld-se-core-2.3.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/weld-se-core/2.3.1",
+    "Source":         "src/weld-se-core/2.3.1/weld-se-core-2.3.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/weld-se-core/2.3.0",
+    "Source":         "src/weld-se-core/2.3.0/weld-se-core-2.3.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.16",
+    "Installed":      "src/weld-se-core/2.2.16",
+    "Source":         "src/weld-se-core/2.2.16/weld-se-core-2.2.16.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.15",
+    "Installed":      "src/weld-se-core/2.2.15",
+    "Source":         "src/weld-se-core/2.2.15/weld-se-core-2.2.15.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.14",
+    "Installed":      "src/weld-se-core/2.2.14",
+    "Source":         "src/weld-se-core/2.2.14/weld-se-core-2.2.14.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.13",
+    "Installed":      "src/weld-se-core/2.2.13",
+    "Source":         "src/weld-se-core/2.2.13/weld-se-core-2.2.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.12",
+    "Installed":      "src/weld-se-core/2.2.12",
+    "Source":         "src/weld-se-core/2.2.12/weld-se-core-2.2.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.11",
+    "Installed":      "src/weld-se-core/2.2.11",
+    "Source":         "src/weld-se-core/2.2.11/weld-se-core-2.2.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.10",
+    "Installed":      "src/weld-se-core/2.2.10",
+    "Source":         "src/weld-se-core/2.2.10/weld-se-core-2.2.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.9",
+    "Installed":      "src/weld-se-core/2.2.9",
+    "Source":         "src/weld-se-core/2.2.9/weld-se-core-2.2.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.8",
+    "Installed":      "src/weld-se-core/2.2.8",
+    "Source":         "src/weld-se-core/2.2.8/weld-se-core-2.2.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "src/weld-se-core/2.2.7",
+    "Source":         "src/weld-se-core/2.2.7/weld-se-core-2.2.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/weld-se-core/2.2.6",
+    "Source":         "src/weld-se-core/2.2.6/weld-se-core-2.2.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/weld-se-core/2.2.5",
+    "Source":         "src/weld-se-core/2.2.5/weld-se-core-2.2.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/weld-se-core/2.2.4",
+    "Source":         "src/weld-se-core/2.2.4/weld-se-core-2.2.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/weld-se-core/2.2.3",
+    "Source":         "src/weld-se-core/2.2.3/weld-se-core-2.2.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/weld-se-core/2.2.2",
+    "Source":         "src/weld-se-core/2.2.2/weld-se-core-2.2.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/weld-se-core/2.2.1",
+    "Source":         "src/weld-se-core/2.2.1/weld-se-core-2.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/weld-se-core/2.2.0",
+    "Source":         "src/weld-se-core/2.2.0/weld-se-core-2.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/weld-se-core/2.1.2",
+    "Source":         "src/weld-se-core/2.1.2/weld-se-core-2.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/weld-se-core/2.1.1",
+    "Source":         "src/weld-se-core/2.1.1/weld-se-core-2.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/weld-se-core/2.1.0",
+    "Source":         "src/weld-se-core/2.1.0/weld-se-core-2.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/weld-se-core/2.0.5",
+    "Source":         "src/weld-se-core/2.0.5/weld-se-core-2.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/weld-se-core/2.0.4",
+    "Source":         "src/weld-se-core/2.0.4/weld-se-core-2.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/weld-se-core/2.0.3",
+    "Source":         "src/weld-se-core/2.0.3/weld-se-core-2.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/weld-se-core/2.0.2",
+    "Source":         "src/weld-se-core/2.0.2/weld-se-core-2.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/weld-se-core/2.0.1",
+    "Source":         "src/weld-se-core/2.0.1/weld-se-core-2.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/weld-se-core/2.0.0",
+    "Source":         "src/weld-se-core/2.0.0/weld-se-core-2.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.34",
+    "Installed":      "src/weld-se-core/1.1.34",
+    "Source":         "src/weld-se-core/1.1.34/weld-se-core-1.1.34.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.33",
+    "Installed":      "src/weld-se-core/1.1.33",
+    "Source":         "src/weld-se-core/1.1.33/weld-se-core-1.1.33.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.32",
+    "Installed":      "src/weld-se-core/1.1.32",
+    "Source":         "src/weld-se-core/1.1.32/weld-se-core-1.1.32.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.31",
+    "Installed":      "src/weld-se-core/1.1.31",
+    "Source":         "src/weld-se-core/1.1.31/weld-se-core-1.1.31.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.30",
+    "Installed":      "src/weld-se-core/1.1.30",
+    "Source":         "src/weld-se-core/1.1.30/weld-se-core-1.1.30.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.29",
+    "Installed":      "src/weld-se-core/1.1.29",
+    "Source":         "src/weld-se-core/1.1.29/weld-se-core-1.1.29.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.28",
+    "Installed":      "src/weld-se-core/1.1.28",
+    "Source":         "src/weld-se-core/1.1.28/weld-se-core-1.1.28.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.27",
+    "Installed":      "src/weld-se-core/1.1.27",
+    "Source":         "src/weld-se-core/1.1.27/weld-se-core-1.1.27.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.26",
+    "Installed":      "src/weld-se-core/1.1.26",
+    "Source":         "src/weld-se-core/1.1.26/weld-se-core-1.1.26.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.25",
+    "Installed":      "src/weld-se-core/1.1.25",
+    "Source":         "src/weld-se-core/1.1.25/weld-se-core-1.1.25.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.24",
+    "Installed":      "src/weld-se-core/1.1.24",
+    "Source":         "src/weld-se-core/1.1.24/weld-se-core-1.1.24.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.23",
+    "Installed":      "src/weld-se-core/1.1.23",
+    "Source":         "src/weld-se-core/1.1.23/weld-se-core-1.1.23.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.22",
+    "Installed":      "src/weld-se-core/1.1.22",
+    "Source":         "src/weld-se-core/1.1.22/weld-se-core-1.1.22.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.21",
+    "Installed":      "src/weld-se-core/1.1.21",
+    "Source":         "src/weld-se-core/1.1.21/weld-se-core-1.1.21.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.20",
+    "Installed":      "src/weld-se-core/1.1.20",
+    "Source":         "src/weld-se-core/1.1.20/weld-se-core-1.1.20.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.19",
+    "Installed":      "src/weld-se-core/1.1.19",
+    "Source":         "src/weld-se-core/1.1.19/weld-se-core-1.1.19.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.18",
+    "Installed":      "src/weld-se-core/1.1.18",
+    "Source":         "src/weld-se-core/1.1.18/weld-se-core-1.1.18.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.17",
+    "Installed":      "src/weld-se-core/1.1.17",
+    "Source":         "src/weld-se-core/1.1.17/weld-se-core-1.1.17.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.16",
+    "Installed":      "src/weld-se-core/1.1.16",
+    "Source":         "src/weld-se-core/1.1.16/weld-se-core-1.1.16.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.15",
+    "Installed":      "src/weld-se-core/1.1.15",
+    "Source":         "src/weld-se-core/1.1.15/weld-se-core-1.1.15.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.14",
+    "Installed":      "src/weld-se-core/1.1.14",
+    "Source":         "src/weld-se-core/1.1.14/weld-se-core-1.1.14.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.13",
+    "Installed":      "src/weld-se-core/1.1.13",
+    "Source":         "src/weld-se-core/1.1.13/weld-se-core-1.1.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.12",
+    "Installed":      "src/weld-se-core/1.1.12",
+    "Source":         "src/weld-se-core/1.1.12/weld-se-core-1.1.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.11",
+    "Installed":      "src/weld-se-core/1.1.11",
+    "Source":         "src/weld-se-core/1.1.11/weld-se-core-1.1.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.10",
+    "Installed":      "src/weld-se-core/1.1.10",
+    "Source":         "src/weld-se-core/1.1.10/weld-se-core-1.1.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.9",
+    "Installed":      "src/weld-se-core/1.1.9",
+    "Source":         "src/weld-se-core/1.1.9/weld-se-core-1.1.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.8",
+    "Installed":      "src/weld-se-core/1.1.8",
+    "Source":         "src/weld-se-core/1.1.8/weld-se-core-1.1.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/weld-se-core/1.1.7",
+    "Source":         "src/weld-se-core/1.1.7/weld-se-core-1.1.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.6",
+    "Installed":      "src/weld-se-core/1.1.6",
+    "Source":         "src/weld-se-core/1.1.6/weld-se-core-1.1.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5",
+    "Installed":      "src/weld-se-core/1.1.5",
+    "Source":         "src/weld-se-core/1.1.5/weld-se-core-1.1.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/weld-se-core/1.1.4",
+    "Source":         "src/weld-se-core/1.1.4/weld-se-core-1.1.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/weld-se-core/1.1.3",
+    "Source":         "src/weld-se-core/1.1.3/weld-se-core-1.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/weld-se-core/1.1.2",
+    "Source":         "src/weld-se-core/1.1.2/weld-se-core-1.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/weld-se-core/1.1.1",
+    "Source":         "src/weld-se-core/1.1.1/weld-se-core-1.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/weld-se-core/1.1.0",
+    "Source":         "src/weld-se-core/1.1.0/weld-se-core-1.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,219 @@
+{
+  "Name":           "resteasy-client",
+  "Title":          "RESTEasy JAX RS Client",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/resteasy/resteasy-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.1.4",
+    "Installed":      "src/resteasy-client/3.1.4",
+    "Source":         "src/resteasy-client/3.1.4/resteasy-client-3.1.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.3",
+    "Installed":      "src/resteasy-client/3.1.3",
+    "Source":         "src/resteasy-client/3.1.3/resteasy-client-3.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/resteasy-client/3.1.2",
+    "Source":         "src/resteasy-client/3.1.2/resteasy-client-3.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/resteasy-client/3.1.1",
+    "Source":         "src/resteasy-client/3.1.1/resteasy-client-3.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/resteasy-client/3.1.0",
+    "Source":         "src/resteasy-client/3.1.0/resteasy-client-3.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.24",
+    "Installed":      "src/resteasy-client/3.0.24",
+    "Source":         "src/resteasy-client/3.0.24/resteasy-client-3.0.24.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.23",
+    "Installed":      "src/resteasy-client/3.0.23",
+    "Source":         "src/resteasy-client/3.0.23/resteasy-client-3.0.23.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.22",
+    "Installed":      "src/resteasy-client/3.0.22",
+    "Source":         "src/resteasy-client/3.0.22/resteasy-client-3.0.22.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.21",
+    "Installed":      "src/resteasy-client/3.0.21",
+    "Source":         "src/resteasy-client/3.0.21/resteasy-client-3.0.21.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.20",
+    "Installed":      "src/resteasy-client/3.0.20",
+    "Source":         "src/resteasy-client/3.0.20/resteasy-client-3.0.20.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.19",
+    "Installed":      "src/resteasy-client/3.0.19",
+    "Source":         "src/resteasy-client/3.0.19/resteasy-client-3.0.19.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.18",
+    "Installed":      "src/resteasy-client/3.0.18",
+    "Source":         "src/resteasy-client/3.0.18/resteasy-client-3.0.18.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.17",
+    "Installed":      "src/resteasy-client/3.0.17",
+    "Source":         "src/resteasy-client/3.0.17/resteasy-client-3.0.17.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.16",
+    "Installed":      "src/resteasy-client/3.0.16",
+    "Source":         "src/resteasy-client/3.0.16/resteasy-client-3.0.16.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.15",
+    "Installed":      "src/resteasy-client/3.0.15",
+    "Source":         "src/resteasy-client/3.0.15/resteasy-client-3.0.15.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.14",
+    "Installed":      "src/resteasy-client/3.0.14",
+    "Source":         "src/resteasy-client/3.0.14/resteasy-client-3.0.14.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.13",
+    "Installed":      "src/resteasy-client/3.0.13",
+    "Source":         "src/resteasy-client/3.0.13/resteasy-client-3.0.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.12",
+    "Installed":      "src/resteasy-client/3.0.12",
+    "Source":         "src/resteasy-client/3.0.12/resteasy-client-3.0.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.11",
+    "Installed":      "src/resteasy-client/3.0.11",
+    "Source":         "src/resteasy-client/3.0.11/resteasy-client-3.0.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.10",
+    "Installed":      "src/resteasy-client/3.0.10",
+    "Source":         "src/resteasy-client/3.0.10/resteasy-client-3.0.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.9",
+    "Installed":      "src/resteasy-client/3.0.9",
+    "Source":         "src/resteasy-client/3.0.9/resteasy-client-3.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.8",
+    "Installed":      "src/resteasy-client/3.0.8",
+    "Source":         "src/resteasy-client/3.0.8/resteasy-client-3.0.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/resteasy-client/3.0.7",
+    "Source":         "src/resteasy-client/3.0.7/resteasy-client-3.0.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/resteasy-client/3.0.6",
+    "Source":         "src/resteasy-client/3.0.6/resteasy-client-3.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/resteasy-client/3.0.5",
+    "Source":         "src/resteasy-client/3.0.5/resteasy-client-3.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/resteasy-client/3.0.4",
+    "Source":         "src/resteasy-client/3.0.4/resteasy-client-3.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/resteasy-client/3.0.3",
+    "Source":         "src/resteasy-client/3.0.3/resteasy-client-3.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/resteasy-client/3.0.2",
+    "Source":         "src/resteasy-client/3.0.2/resteasy-client-3.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/resteasy-client/3.0.1",
+    "Source":         "src/resteasy-client/3.0.1/resteasy-client-3.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/resteasy-client/3.0.0",
+    "Source":         "src/resteasy-client/3.0.0/resteasy-client-3.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

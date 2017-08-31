@@ -1,0 +1,52 @@
+{
+  "Name":           "scala-parser-combinators",
+  "Title":          "Scala Parser Combinators",
+  "SourceUrl":      "http://central.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "scala-parser-combinators_2.11",
+
+  "Versions": [
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/scala-parser-combinators/1.0.6",
+    "Source":         "src/scala-parser-combinators/1.0.6/scala-parser-combinators_2.11-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/scala-parser-combinators/1.0.5",
+    "Source":         "src/scala-parser-combinators/1.0.5/scala-parser-combinators_2.11-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/scala-parser-combinators/1.0.4",
+    "Source":         "src/scala-parser-combinators/1.0.4/scala-parser-combinators_2.11-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/scala-parser-combinators/1.0.3",
+    "Source":         "src/scala-parser-combinators/1.0.3/scala-parser-combinators_2.11-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/scala-parser-combinators/1.0.2",
+    "Source":         "src/scala-parser-combinators/1.0.2/scala-parser-combinators_2.11-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/scala-parser-combinators/1.0.1",
+    "Source":         "src/scala-parser-combinators/1.0.1/scala-parser-combinators_2.11-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

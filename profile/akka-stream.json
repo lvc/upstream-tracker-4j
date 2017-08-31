@@ -1,0 +1,192 @@
+{
+  "Name":           "akka-stream",
+  "Title":          "Akka Stream",
+  "SourceUrl":      "http://central.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "akka-stream_2.11",
+
+  "Versions": [
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/akka-stream/2.5.4",
+    "Source":         "src/akka-stream/2.5.4/akka-stream_2.11-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/akka-stream/2.5.3",
+    "Source":         "src/akka-stream/2.5.3/akka-stream_2.11-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/akka-stream/2.5.2",
+    "Source":         "src/akka-stream/2.5.2/akka-stream_2.11-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/akka-stream/2.5.1",
+    "Source":         "src/akka-stream/2.5.1/akka-stream_2.11-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/akka-stream/2.5.0",
+    "Source":         "src/akka-stream/2.5.0/akka-stream_2.11-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.20",
+    "Installed":      "src/akka-stream/2.4.20",
+    "Source":         "src/akka-stream/2.4.20/akka-stream_2.11-2.4.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.19",
+    "Installed":      "src/akka-stream/2.4.19",
+    "Source":         "src/akka-stream/2.4.19/akka-stream_2.11-2.4.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.18",
+    "Installed":      "src/akka-stream/2.4.18",
+    "Source":         "src/akka-stream/2.4.18/akka-stream_2.11-2.4.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.17",
+    "Installed":      "src/akka-stream/2.4.17",
+    "Source":         "src/akka-stream/2.4.17/akka-stream_2.11-2.4.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.16",
+    "Installed":      "src/akka-stream/2.4.16",
+    "Source":         "src/akka-stream/2.4.16/akka-stream_2.11-2.4.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.15",
+    "Installed":      "src/akka-stream/2.4.15",
+    "Source":         "src/akka-stream/2.4.15/akka-stream_2.11-2.4.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.14",
+    "Installed":      "src/akka-stream/2.4.14",
+    "Source":         "src/akka-stream/2.4.14/akka-stream_2.11-2.4.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.13",
+    "Installed":      "src/akka-stream/2.4.13",
+    "Source":         "src/akka-stream/2.4.13/akka-stream_2.11-2.4.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.12",
+    "Installed":      "src/akka-stream/2.4.12",
+    "Source":         "src/akka-stream/2.4.12/akka-stream_2.11-2.4.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.11.2",
+    "Installed":      "src/akka-stream/2.4.11.2",
+    "Source":         "src/akka-stream/2.4.11.2/akka-stream_2.11-2.4.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.11.1",
+    "Installed":      "src/akka-stream/2.4.11.1",
+    "Source":         "src/akka-stream/2.4.11.1/akka-stream_2.11-2.4.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.11",
+    "Installed":      "src/akka-stream/2.4.11",
+    "Source":         "src/akka-stream/2.4.11/akka-stream_2.11-2.4.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.10",
+    "Installed":      "src/akka-stream/2.4.10",
+    "Source":         "src/akka-stream/2.4.10/akka-stream_2.11-2.4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.9",
+    "Installed":      "src/akka-stream/2.4.9",
+    "Source":         "src/akka-stream/2.4.9/akka-stream_2.11-2.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.8",
+    "Installed":      "src/akka-stream/2.4.8",
+    "Source":         "src/akka-stream/2.4.8/akka-stream_2.11-2.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.7",
+    "Installed":      "src/akka-stream/2.4.7",
+    "Source":         "src/akka-stream/2.4.7/akka-stream_2.11-2.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/akka-stream/2.4.6",
+    "Source":         "src/akka-stream/2.4.6/akka-stream_2.11-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "src/akka-stream/2.4.5",
+    "Source":         "src/akka-stream/2.4.5/akka-stream_2.11-2.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "src/akka-stream/2.4.4",
+    "Source":         "src/akka-stream/2.4.4/akka-stream_2.11-2.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/akka-stream/2.4.3",
+    "Source":         "src/akka-stream/2.4.3/akka-stream_2.11-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/akka-stream/2.4.2",
+    "Source":         "src/akka-stream/2.4.2/akka-stream_2.11-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

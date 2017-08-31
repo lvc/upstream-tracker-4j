@@ -1,0 +1,52 @@
+{
+  "Name":           "aether-api",
+  "Title":          "Aether API",
+  "SourceUrl":      "http://central.maven.org/maven2/org/eclipse/aether/aether-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "ReleasePattern": "\A([\d\.]+)\.v\d\d\d\d\d\d\d\d\Z",
+
+  "Versions": [
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/aether-api/1.1.0",
+    "Source":         "src/aether-api/1.1.0/aether-api-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/aether-api/1.0.2",
+    "Source":         "src/aether-api/1.0.2/aether-api-1.0.2.v20150114.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/aether-api/1.0.1",
+    "Source":         "src/aether-api/1.0.1/aether-api-1.0.1.v20141111.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/aether-api/1.0.0",
+    "Source":         "src/aether-api/1.0.0/aether-api-1.0.0.v20140518.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/aether-api/0.9.1",
+    "Source":         "src/aether-api/0.9.1/aether-api-0.9.1.v20140329.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/aether-api/0.9.0",
+    "Source":         "src/aether-api/0.9.0/aether-api-0.9.0.v20140226.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

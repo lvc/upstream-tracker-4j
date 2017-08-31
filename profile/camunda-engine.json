@@ -1,0 +1,73 @@
+{
+  "Name":           "camunda-engine",
+  "Title":          "Camunda BPM Engine",
+  "SourceUrl":      "http://central.maven.org/maven2/org/camunda/bpm/camunda-engine/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "7.8.0-alpha2",
+    "Installed":      "src/camunda-engine/7.8.0-alpha2",
+    "Source":         "src/camunda-engine/7.8.0-alpha2/camunda-engine-7.8.0-alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.8.0-alpha1",
+    "Installed":      "src/camunda-engine/7.8.0-alpha1",
+    "Source":         "src/camunda-engine/7.8.0-alpha1/camunda-engine-7.8.0-alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "7.7.0",
+    "Installed":      "src/camunda-engine/7.7.0",
+    "Source":         "src/camunda-engine/7.7.0/camunda-engine-7.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6.0",
+    "Installed":      "src/camunda-engine/7.6.0",
+    "Source":         "src/camunda-engine/7.6.0/camunda-engine-7.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.0",
+    "Installed":      "src/camunda-engine/7.5.0",
+    "Source":         "src/camunda-engine/7.5.0/camunda-engine-7.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4.0",
+    "Installed":      "src/camunda-engine/7.4.0",
+    "Source":         "src/camunda-engine/7.4.0/camunda-engine-7.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.3.0",
+    "Installed":      "src/camunda-engine/7.3.0",
+    "Source":         "src/camunda-engine/7.3.0/camunda-engine-7.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0",
+    "Installed":      "src/camunda-engine/7.2.0",
+    "Source":         "src/camunda-engine/7.2.0/camunda-engine-7.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/camunda-engine/7.1.0",
+    "Source":         "src/camunda-engine/7.1.0/camunda-engine-7.1.0-Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,58 @@
+{
+  "Name":           "jawr-core",
+  "Title":          "Jawr Core",
+  "SourceUrl":      "http://central.maven.org/maven2/net/jawr/jawr-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.9",
+    "Installed":      "src/jawr-core/3.9",
+    "Source":         "src/jawr-core/3.9/jawr-core-3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8",
+    "Installed":      "src/jawr-core/3.8",
+    "Source":         "src/jawr-core/3.8/jawr-core-3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7",
+    "Installed":      "src/jawr-core/3.7",
+    "Source":         "src/jawr-core/3.7/jawr-core-3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6",
+    "Installed":      "src/jawr-core/3.6",
+    "Source":         "src/jawr-core/3.6/jawr-core-3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.2",
+    "Installed":      "src/jawr-core/3.5.2",
+    "Source":         "src/jawr-core/3.5.2/jawr-core-3.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/jawr-core/3.5.1",
+    "Source":         "src/jawr-core/3.5.1/jawr-core-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/jawr-core/3.5",
+    "Source":         "src/jawr-core/3.5/jawr-core-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

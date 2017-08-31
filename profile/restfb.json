@@ -1,0 +1,136 @@
+{
+  "Name":           "restfb",
+  "Title":          "RestFB",
+  "SourceUrl":      "http://central.maven.org/maven2/com/restfb/restfb/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.30.0",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0-rc.3",
+    "Installed":      "src/restfb/2.0.0-rc.3",
+    "Source":         "src/restfb/2.0.0-rc.3/restfb-2.0.0-rc.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.44.0",
+    "Installed":      "src/restfb/1.44.0",
+    "Source":         "src/restfb/1.44.0/restfb-1.44.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.43.0",
+    "Installed":      "src/restfb/1.43.0",
+    "Source":         "src/restfb/1.43.0/restfb-1.43.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.42.0",
+    "Installed":      "src/restfb/1.42.0",
+    "Source":         "src/restfb/1.42.0/restfb-1.42.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.41.0",
+    "Installed":      "src/restfb/1.41.0",
+    "Source":         "src/restfb/1.41.0/restfb-1.41.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.40.1",
+    "Installed":      "src/restfb/1.40.1",
+    "Source":         "src/restfb/1.40.1/restfb-1.40.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.40.0",
+    "Installed":      "src/restfb/1.40.0",
+    "Source":         "src/restfb/1.40.0/restfb-1.40.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.39.0",
+    "Installed":      "src/restfb/1.39.0",
+    "Source":         "src/restfb/1.39.0/restfb-1.39.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.38.0",
+    "Installed":      "src/restfb/1.38.0",
+    "Source":         "src/restfb/1.38.0/restfb-1.38.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.37.0",
+    "Installed":      "src/restfb/1.37.0",
+    "Source":         "src/restfb/1.37.0/restfb-1.37.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.36.0",
+    "Installed":      "src/restfb/1.36.0",
+    "Source":         "src/restfb/1.36.0/restfb-1.36.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.35.0",
+    "Installed":      "src/restfb/1.35.0",
+    "Source":         "src/restfb/1.35.0/restfb-1.35.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.34.1",
+    "Installed":      "src/restfb/1.34.1",
+    "Source":         "src/restfb/1.34.1/restfb-1.34.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.34.0",
+    "Installed":      "src/restfb/1.34.0",
+    "Source":         "src/restfb/1.34.0/restfb-1.34.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.33.0",
+    "Installed":      "src/restfb/1.33.0",
+    "Source":         "src/restfb/1.33.0/restfb-1.33.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.32.0",
+    "Installed":      "src/restfb/1.32.0",
+    "Source":         "src/restfb/1.32.0/restfb-1.32.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.31.0",
+    "Installed":      "src/restfb/1.31.0",
+    "Source":         "src/restfb/1.31.0/restfb-1.31.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.30.0",
+    "Installed":      "src/restfb/1.30.0",
+    "Source":         "src/restfb/1.30.0/restfb-1.30.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

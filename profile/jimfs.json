@@ -1,0 +1,23 @@
+{
+  "Name":           "jimfs",
+  "Title":          "Jimfs",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/jimfs/jimfs/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.1",
+    "Installed":      "src/jimfs/1.1",
+    "Source":         "src/jimfs/1.1/jimfs-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/jimfs/1.0",
+    "Source":         "src/jimfs/1.0/jimfs-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

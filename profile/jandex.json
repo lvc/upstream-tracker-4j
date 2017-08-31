@@ -1,0 +1,114 @@
+{
+  "Name":           "jandex",
+  "Title":          "Jandex",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/jandex/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/jandex/2.0.3",
+    "Source":         "src/jandex/2.0.3/jandex-2.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/jandex/2.0.2",
+    "Source":         "src/jandex/2.0.2/jandex-2.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/jandex/2.0.1",
+    "Source":         "src/jandex/2.0.1/jandex-2.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/jandex/2.0.0",
+    "Source":         "src/jandex/2.0.0/jandex-2.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "src/jandex/1.2.4",
+    "Source":         "src/jandex/1.2.4/jandex-1.2.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/jandex/1.2.3",
+    "Source":         "src/jandex/1.2.3/jandex-1.2.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/jandex/1.2.2",
+    "Source":         "src/jandex/1.2.2/jandex-1.2.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/jandex/1.2.1",
+    "Source":         "src/jandex/1.2.1/jandex-1.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/jandex/1.2.0",
+    "Source":         "src/jandex/1.2.0/jandex-1.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/jandex/1.1.0",
+    "Source":         "src/jandex/1.1.0/jandex-1.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/jandex/1.0.4",
+    "Source":         "src/jandex/1.0.4/jandex-1.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/jandex/1.0.3",
+    "Source":         "src/jandex/1.0.3/jandex-1.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/jandex/1.0.2",
+    "Source":         "src/jandex/1.0.2/jandex-1.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/jandex/1.0.1",
+    "Source":         "src/jandex/1.0.1/jandex-1.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/jandex/1.0.0",
+    "Source":         "src/jandex/1.0.0/jandex-1.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

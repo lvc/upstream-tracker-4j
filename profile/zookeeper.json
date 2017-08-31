@@ -1,0 +1,142 @@
+{
+  "Name":           "zookeeper",
+  "Title":          "Zookeeper",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/zookeeper/zookeeper/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.5.3-beta",
+    "Installed":      "src/zookeeper/3.5.3-beta",
+    "Source":         "src/zookeeper/3.5.3-beta/zookeeper-3.5.3-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.10",
+    "Installed":      "src/zookeeper/3.4.10",
+    "Source":         "src/zookeeper/3.4.10/zookeeper-3.4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.9",
+    "Installed":      "src/zookeeper/3.4.9",
+    "Source":         "src/zookeeper/3.4.9/zookeeper-3.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.8",
+    "Installed":      "src/zookeeper/3.4.8",
+    "Source":         "src/zookeeper/3.4.8/zookeeper-3.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.7",
+    "Installed":      "src/zookeeper/3.4.7",
+    "Source":         "src/zookeeper/3.4.7/zookeeper-3.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.6",
+    "Installed":      "src/zookeeper/3.4.6",
+    "Source":         "src/zookeeper/3.4.6/zookeeper-3.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.5",
+    "Installed":      "src/zookeeper/3.4.5",
+    "Source":         "src/zookeeper/3.4.5/zookeeper-3.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.4",
+    "Installed":      "src/zookeeper/3.4.4",
+    "Source":         "src/zookeeper/3.4.4/zookeeper-3.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.3",
+    "Installed":      "src/zookeeper/3.4.3",
+    "Source":         "src/zookeeper/3.4.3/zookeeper-3.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/zookeeper/3.4.2",
+    "Source":         "src/zookeeper/3.4.2/zookeeper-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/zookeeper/3.4.1",
+    "Source":         "src/zookeeper/3.4.1/zookeeper-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/zookeeper/3.4.0",
+    "Source":         "src/zookeeper/3.4.0/zookeeper-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.6",
+    "Installed":      "src/zookeeper/3.3.6",
+    "Source":         "src/zookeeper/3.3.6/zookeeper-3.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.5",
+    "Installed":      "src/zookeeper/3.3.5",
+    "Source":         "src/zookeeper/3.3.5/zookeeper-3.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.4",
+    "Installed":      "src/zookeeper/3.3.4",
+    "Source":         "src/zookeeper/3.3.4/zookeeper-3.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.3",
+    "Installed":      "src/zookeeper/3.3.3",
+    "Source":         "src/zookeeper/3.3.3/zookeeper-3.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.2",
+    "Installed":      "src/zookeeper/3.3.2",
+    "Source":         "src/zookeeper/3.3.2/zookeeper-3.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/zookeeper/3.3.1",
+    "Source":         "src/zookeeper/3.3.1/zookeeper-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/zookeeper/3.3.0",
+    "Source":         "src/zookeeper/3.3.0/zookeeper-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

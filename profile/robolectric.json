@@ -1,0 +1,115 @@
+{
+  "Name":           "robolectric",
+  "Title":          "Robolectric",
+  "SourceUrl":      "http://central.maven.org/maven2/org/robolectric/robolectric/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.0",
+
+  "Versions": [
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/robolectric/3.4.2",
+    "Source":         "src/robolectric/3.4.2/robolectric-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/robolectric/3.4.1",
+    "Source":         "src/robolectric/3.4.1/robolectric-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/robolectric/3.4",
+    "Source":         "src/robolectric/3.4/robolectric-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.2",
+    "Installed":      "src/robolectric/3.3.2",
+    "Source":         "src/robolectric/3.3.2/robolectric-3.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/robolectric/3.3.1",
+    "Source":         "src/robolectric/3.3.1/robolectric-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/robolectric/3.3",
+    "Source":         "src/robolectric/3.3/robolectric-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/robolectric/3.2.2",
+    "Source":         "src/robolectric/3.2.2/robolectric-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/robolectric/3.2.1",
+    "Source":         "src/robolectric/3.2.1/robolectric-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/robolectric/3.2",
+    "Source":         "src/robolectric/3.2/robolectric-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.4",
+    "Installed":      "src/robolectric/3.1.4",
+    "Source":         "src/robolectric/3.1.4/robolectric-3.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.3",
+    "Installed":      "src/robolectric/3.1.3",
+    "Source":         "src/robolectric/3.1.3/robolectric-3.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/robolectric/3.1.2",
+    "Source":         "src/robolectric/3.1.2/robolectric-3.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/robolectric/3.1.1",
+    "Source":         "src/robolectric/3.1.1/robolectric-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/robolectric/3.1",
+    "Source":         "src/robolectric/3.1/robolectric-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/robolectric/3.0",
+    "Source":         "src/robolectric/3.0/robolectric-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

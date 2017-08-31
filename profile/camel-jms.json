@@ -1,0 +1,416 @@
+{
+  "Name":           "camel-jms",
+  "Title":          "Camel JMS",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/camel/camel-jms/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.10.0",
+
+  "Versions": [
+  {
+    "Number":         "2.19.2",
+    "Installed":      "src/camel-jms/2.19.2",
+    "Source":         "src/camel-jms/2.19.2/camel-jms-2.19.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19.1",
+    "Installed":      "src/camel-jms/2.19.1",
+    "Source":         "src/camel-jms/2.19.1/camel-jms-2.19.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19.0",
+    "Installed":      "src/camel-jms/2.19.0",
+    "Source":         "src/camel-jms/2.19.0/camel-jms-2.19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.4",
+    "Installed":      "src/camel-jms/2.18.4",
+    "Source":         "src/camel-jms/2.18.4/camel-jms-2.18.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.3",
+    "Installed":      "src/camel-jms/2.18.3",
+    "Source":         "src/camel-jms/2.18.3/camel-jms-2.18.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.2",
+    "Installed":      "src/camel-jms/2.18.2",
+    "Source":         "src/camel-jms/2.18.2/camel-jms-2.18.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.1",
+    "Installed":      "src/camel-jms/2.18.1",
+    "Source":         "src/camel-jms/2.18.1/camel-jms-2.18.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.0",
+    "Installed":      "src/camel-jms/2.18.0",
+    "Source":         "src/camel-jms/2.18.0/camel-jms-2.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.7",
+    "Installed":      "src/camel-jms/2.17.7",
+    "Source":         "src/camel-jms/2.17.7/camel-jms-2.17.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.6",
+    "Installed":      "src/camel-jms/2.17.6",
+    "Source":         "src/camel-jms/2.17.6/camel-jms-2.17.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.5",
+    "Installed":      "src/camel-jms/2.17.5",
+    "Source":         "src/camel-jms/2.17.5/camel-jms-2.17.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.4",
+    "Installed":      "src/camel-jms/2.17.4",
+    "Source":         "src/camel-jms/2.17.4/camel-jms-2.17.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.3",
+    "Installed":      "src/camel-jms/2.17.3",
+    "Source":         "src/camel-jms/2.17.3/camel-jms-2.17.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.2",
+    "Installed":      "src/camel-jms/2.17.2",
+    "Source":         "src/camel-jms/2.17.2/camel-jms-2.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.1",
+    "Installed":      "src/camel-jms/2.17.1",
+    "Source":         "src/camel-jms/2.17.1/camel-jms-2.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.0",
+    "Installed":      "src/camel-jms/2.17.0",
+    "Source":         "src/camel-jms/2.17.0/camel-jms-2.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.5",
+    "Installed":      "src/camel-jms/2.16.5",
+    "Source":         "src/camel-jms/2.16.5/camel-jms-2.16.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.4",
+    "Installed":      "src/camel-jms/2.16.4",
+    "Source":         "src/camel-jms/2.16.4/camel-jms-2.16.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.3",
+    "Installed":      "src/camel-jms/2.16.3",
+    "Source":         "src/camel-jms/2.16.3/camel-jms-2.16.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.2",
+    "Installed":      "src/camel-jms/2.16.2",
+    "Source":         "src/camel-jms/2.16.2/camel-jms-2.16.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.1",
+    "Installed":      "src/camel-jms/2.16.1",
+    "Source":         "src/camel-jms/2.16.1/camel-jms-2.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.0",
+    "Installed":      "src/camel-jms/2.16.0",
+    "Source":         "src/camel-jms/2.16.0/camel-jms-2.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.6",
+    "Installed":      "src/camel-jms/2.15.6",
+    "Source":         "src/camel-jms/2.15.6/camel-jms-2.15.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.5",
+    "Installed":      "src/camel-jms/2.15.5",
+    "Source":         "src/camel-jms/2.15.5/camel-jms-2.15.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.4",
+    "Installed":      "src/camel-jms/2.15.4",
+    "Source":         "src/camel-jms/2.15.4/camel-jms-2.15.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.3",
+    "Installed":      "src/camel-jms/2.15.3",
+    "Source":         "src/camel-jms/2.15.3/camel-jms-2.15.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.2",
+    "Installed":      "src/camel-jms/2.15.2",
+    "Source":         "src/camel-jms/2.15.2/camel-jms-2.15.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.1",
+    "Installed":      "src/camel-jms/2.15.1",
+    "Source":         "src/camel-jms/2.15.1/camel-jms-2.15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.0",
+    "Installed":      "src/camel-jms/2.15.0",
+    "Source":         "src/camel-jms/2.15.0/camel-jms-2.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.4",
+    "Installed":      "src/camel-jms/2.14.4",
+    "Source":         "src/camel-jms/2.14.4/camel-jms-2.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.3",
+    "Installed":      "src/camel-jms/2.14.3",
+    "Source":         "src/camel-jms/2.14.3/camel-jms-2.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.2",
+    "Installed":      "src/camel-jms/2.14.2",
+    "Source":         "src/camel-jms/2.14.2/camel-jms-2.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "src/camel-jms/2.14.1",
+    "Source":         "src/camel-jms/2.14.1/camel-jms-2.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "src/camel-jms/2.14.0",
+    "Source":         "src/camel-jms/2.14.0/camel-jms-2.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.4",
+    "Installed":      "src/camel-jms/2.13.4",
+    "Source":         "src/camel-jms/2.13.4/camel-jms-2.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.3",
+    "Installed":      "src/camel-jms/2.13.3",
+    "Source":         "src/camel-jms/2.13.3/camel-jms-2.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.2",
+    "Installed":      "src/camel-jms/2.13.2",
+    "Source":         "src/camel-jms/2.13.2/camel-jms-2.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.1",
+    "Installed":      "src/camel-jms/2.13.1",
+    "Source":         "src/camel-jms/2.13.1/camel-jms-2.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.0",
+    "Installed":      "src/camel-jms/2.13.0",
+    "Source":         "src/camel-jms/2.13.0/camel-jms-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.5",
+    "Installed":      "src/camel-jms/2.12.5",
+    "Source":         "src/camel-jms/2.12.5/camel-jms-2.12.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.4",
+    "Installed":      "src/camel-jms/2.12.4",
+    "Source":         "src/camel-jms/2.12.4/camel-jms-2.12.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.3",
+    "Installed":      "src/camel-jms/2.12.3",
+    "Source":         "src/camel-jms/2.12.3/camel-jms-2.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.2",
+    "Installed":      "src/camel-jms/2.12.2",
+    "Source":         "src/camel-jms/2.12.2/camel-jms-2.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.1",
+    "Installed":      "src/camel-jms/2.12.1",
+    "Source":         "src/camel-jms/2.12.1/camel-jms-2.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/camel-jms/2.12.0",
+    "Source":         "src/camel-jms/2.12.0/camel-jms-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.4",
+    "Installed":      "src/camel-jms/2.11.4",
+    "Source":         "src/camel-jms/2.11.4/camel-jms-2.11.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.3",
+    "Installed":      "src/camel-jms/2.11.3",
+    "Source":         "src/camel-jms/2.11.3/camel-jms-2.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.2",
+    "Installed":      "src/camel-jms/2.11.2",
+    "Source":         "src/camel-jms/2.11.2/camel-jms-2.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.1",
+    "Installed":      "src/camel-jms/2.11.1",
+    "Source":         "src/camel-jms/2.11.1/camel-jms-2.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/camel-jms/2.11.0",
+    "Source":         "src/camel-jms/2.11.0/camel-jms-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.7",
+    "Installed":      "src/camel-jms/2.10.7",
+    "Source":         "src/camel-jms/2.10.7/camel-jms-2.10.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.6",
+    "Installed":      "src/camel-jms/2.10.6",
+    "Source":         "src/camel-jms/2.10.6/camel-jms-2.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.5",
+    "Installed":      "src/camel-jms/2.10.5",
+    "Source":         "src/camel-jms/2.10.5/camel-jms-2.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.4",
+    "Installed":      "src/camel-jms/2.10.4",
+    "Source":         "src/camel-jms/2.10.4/camel-jms-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/camel-jms/2.10.3",
+    "Source":         "src/camel-jms/2.10.3/camel-jms-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "src/camel-jms/2.10.2",
+    "Source":         "src/camel-jms/2.10.2/camel-jms-2.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/camel-jms/2.10.1",
+    "Source":         "src/camel-jms/2.10.1/camel-jms-2.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/camel-jms/2.10.0",
+    "Source":         "src/camel-jms/2.10.0/camel-jms-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

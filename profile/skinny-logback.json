@@ -1,0 +1,114 @@
+{
+  "Name":           "skinny-logback",
+  "Title":          "Skinny Logback",
+  "SourceUrl":      "http://central.maven.org/maven2/org/skinny-framework/skinny-logback/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.14",
+    "Installed":      "src/skinny-logback/1.0.14",
+    "Source":         "src/skinny-logback/1.0.14/skinny-logback-1.0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.13",
+    "Installed":      "src/skinny-logback/1.0.13",
+    "Source":         "src/skinny-logback/1.0.13/skinny-logback-1.0.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.12",
+    "Installed":      "src/skinny-logback/1.0.12",
+    "Source":         "src/skinny-logback/1.0.12/skinny-logback-1.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.11",
+    "Installed":      "src/skinny-logback/1.0.11",
+    "Source":         "src/skinny-logback/1.0.11/skinny-logback-1.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.10",
+    "Installed":      "src/skinny-logback/1.0.10",
+    "Source":         "src/skinny-logback/1.0.10/skinny-logback-1.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.9",
+    "Installed":      "src/skinny-logback/1.0.9",
+    "Source":         "src/skinny-logback/1.0.9/skinny-logback-1.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.8",
+    "Installed":      "src/skinny-logback/1.0.8",
+    "Source":         "src/skinny-logback/1.0.8/skinny-logback-1.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/skinny-logback/1.0.7",
+    "Source":         "src/skinny-logback/1.0.7/skinny-logback-1.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/skinny-logback/1.0.6",
+    "Source":         "src/skinny-logback/1.0.6/skinny-logback-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/skinny-logback/1.0.5",
+    "Source":         "src/skinny-logback/1.0.5/skinny-logback-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/skinny-logback/1.0.4",
+    "Source":         "src/skinny-logback/1.0.4/skinny-logback-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/skinny-logback/1.0.3",
+    "Source":         "src/skinny-logback/1.0.3/skinny-logback-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/skinny-logback/1.0.2",
+    "Source":         "src/skinny-logback/1.0.2/skinny-logback-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/skinny-logback/1.0.1",
+    "Source":         "src/skinny-logback/1.0.1/skinny-logback-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/skinny-logback/1.0.0",
+    "Source":         "src/skinny-logback/1.0.0/skinny-logback-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

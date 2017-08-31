@@ -1,0 +1,185 @@
+{
+  "Name":           "jboss-vfs",
+  "Title":          "JBoss VFS",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/jboss-vfs/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*SP\d+" ],
+
+  "Versions": [
+  {
+    "Number":         "3.2.12",
+    "Installed":      "src/jboss-vfs/3.2.12",
+    "Source":         "src/jboss-vfs/3.2.12/jboss-vfs-3.2.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.11",
+    "Installed":      "src/jboss-vfs/3.2.11",
+    "Source":         "src/jboss-vfs/3.2.11/jboss-vfs-3.2.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.10",
+    "Installed":      "src/jboss-vfs/3.2.10",
+    "Source":         "src/jboss-vfs/3.2.10/jboss-vfs-3.2.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.9",
+    "Installed":      "src/jboss-vfs/3.2.9",
+    "Source":         "src/jboss-vfs/3.2.9/jboss-vfs-3.2.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.8",
+    "Installed":      "src/jboss-vfs/3.2.8",
+    "Source":         "src/jboss-vfs/3.2.8/jboss-vfs-3.2.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.7",
+    "Installed":      "src/jboss-vfs/3.2.7",
+    "Source":         "src/jboss-vfs/3.2.7/jboss-vfs-3.2.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.6",
+    "Installed":      "src/jboss-vfs/3.2.6",
+    "Source":         "src/jboss-vfs/3.2.6/jboss-vfs-3.2.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/jboss-vfs/3.2.5",
+    "Source":         "src/jboss-vfs/3.2.5/jboss-vfs-3.2.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.4",
+    "Installed":      "src/jboss-vfs/3.2.4",
+    "Source":         "src/jboss-vfs/3.2.4/jboss-vfs-3.2.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/jboss-vfs/3.2.2",
+    "Source":         "src/jboss-vfs/3.2.2/jboss-vfs-3.2.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/jboss-vfs/3.2.1",
+    "Source":         "src/jboss-vfs/3.2.1/jboss-vfs-3.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/jboss-vfs/3.2.0",
+    "Source":         "src/jboss-vfs/3.2.0/jboss-vfs-3.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/jboss-vfs/3.1.0",
+    "Source":         "src/jboss-vfs/3.1.0/jboss-vfs-3.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/jboss-vfs/3.0.1",
+    "Source":         "src/jboss-vfs/3.0.1/jboss-vfs-3.0.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/jboss-vfs/3.0.0",
+    "Source":         "src/jboss-vfs/3.0.0/jboss-vfs-3.0.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/jboss-vfs/2.2.3",
+    "Source":         "src/jboss-vfs/2.2.3/jboss-vfs-2.2.3.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/jboss-vfs/2.2.1",
+    "Source":         "src/jboss-vfs/2.2.1/jboss-vfs-2.2.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/jboss-vfs/2.2.0",
+    "Source":         "src/jboss-vfs/2.2.0/jboss-vfs-2.2.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/jboss-vfs/2.1.4",
+    "Source":         "src/jboss-vfs/2.1.4/jboss-vfs-2.1.4.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/jboss-vfs/2.1.3",
+    "Source":         "src/jboss-vfs/2.1.3/jboss-vfs-2.1.3.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/jboss-vfs/2.1.2",
+    "Source":         "src/jboss-vfs/2.1.2/jboss-vfs-2.1.2.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/jboss-vfs/2.1.1",
+    "Source":         "src/jboss-vfs/2.1.1/jboss-vfs-2.1.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/jboss-vfs/2.1.0",
+    "Source":         "src/jboss-vfs/2.1.0/jboss-vfs-2.1.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/jboss-vfs/2.0.1",
+    "Source":         "src/jboss-vfs/2.0.1/jboss-vfs-2.0.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/jboss-vfs/2.0.0",
+    "Source":         "src/jboss-vfs/2.0.0/jboss-vfs-2.0.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

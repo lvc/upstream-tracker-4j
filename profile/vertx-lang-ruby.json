@@ -1,0 +1,93 @@
+{
+  "Name":           "vertx-lang-ruby",
+  "Title":          "Vertx Lang Ruby",
+  "SourceUrl":      "http://central.maven.org/maven2/io/vertx/vertx-lang-ruby/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.5.0.Beta1",
+    "Installed":      "src/vertx-lang-ruby/3.5.0.Beta1",
+    "Source":         "src/vertx-lang-ruby/3.5.0.Beta1/vertx-lang-ruby-3.5.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/vertx-lang-ruby/3.4.2",
+    "Source":         "src/vertx-lang-ruby/3.4.2/vertx-lang-ruby-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/vertx-lang-ruby/3.4.1",
+    "Source":         "src/vertx-lang-ruby/3.4.1/vertx-lang-ruby-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/vertx-lang-ruby/3.4.0",
+    "Source":         "src/vertx-lang-ruby/3.4.0/vertx-lang-ruby-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.3",
+    "Installed":      "src/vertx-lang-ruby/3.3.3",
+    "Source":         "src/vertx-lang-ruby/3.3.3/vertx-lang-ruby-3.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.2",
+    "Installed":      "src/vertx-lang-ruby/3.3.2",
+    "Source":         "src/vertx-lang-ruby/3.3.2/vertx-lang-ruby-3.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/vertx-lang-ruby/3.3.1",
+    "Source":         "src/vertx-lang-ruby/3.3.1/vertx-lang-ruby-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/vertx-lang-ruby/3.3.0",
+    "Source":         "src/vertx-lang-ruby/3.3.0/vertx-lang-ruby-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/vertx-lang-ruby/3.2.1",
+    "Source":         "src/vertx-lang-ruby/3.2.1/vertx-lang-ruby-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/vertx-lang-ruby/3.2.0",
+    "Source":         "src/vertx-lang-ruby/3.2.0/vertx-lang-ruby-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/vertx-lang-ruby/3.1.0",
+    "Source":         "src/vertx-lang-ruby/3.1.0/vertx-lang-ruby-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/vertx-lang-ruby/3.0.0",
+    "Source":         "src/vertx-lang-ruby/3.0.0/vertx-lang-ruby-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

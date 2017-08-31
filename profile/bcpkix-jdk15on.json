@@ -1,0 +1,93 @@
+{
+  "Name":           "bcpkix-jdk15on",
+  "Title":          "Bouncy Castle PKIX",
+  "SourceUrl":      "http://central.maven.org/maven2/org/bouncycastle/bcpkix-jdk15on/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.58",
+    "Installed":      "src/bcpkix-jdk15on/1.58",
+    "Source":         "src/bcpkix-jdk15on/1.58/bcpkix-jdk15on-1.58.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.57",
+    "Installed":      "src/bcpkix-jdk15on/1.57",
+    "Source":         "src/bcpkix-jdk15on/1.57/bcpkix-jdk15on-1.57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.56",
+    "Installed":      "src/bcpkix-jdk15on/1.56",
+    "Source":         "src/bcpkix-jdk15on/1.56/bcpkix-jdk15on-1.56.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.55",
+    "Installed":      "src/bcpkix-jdk15on/1.55",
+    "Source":         "src/bcpkix-jdk15on/1.55/bcpkix-jdk15on-1.55.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.54",
+    "Installed":      "src/bcpkix-jdk15on/1.54",
+    "Source":         "src/bcpkix-jdk15on/1.54/bcpkix-jdk15on-1.54.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.53",
+    "Installed":      "src/bcpkix-jdk15on/1.53",
+    "Source":         "src/bcpkix-jdk15on/1.53/bcpkix-jdk15on-1.53.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.52",
+    "Installed":      "src/bcpkix-jdk15on/1.52",
+    "Source":         "src/bcpkix-jdk15on/1.52/bcpkix-jdk15on-1.52.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.51",
+    "Installed":      "src/bcpkix-jdk15on/1.51",
+    "Source":         "src/bcpkix-jdk15on/1.51/bcpkix-jdk15on-1.51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50",
+    "Installed":      "src/bcpkix-jdk15on/1.50",
+    "Source":         "src/bcpkix-jdk15on/1.50/bcpkix-jdk15on-1.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.49",
+    "Installed":      "src/bcpkix-jdk15on/1.49",
+    "Source":         "src/bcpkix-jdk15on/1.49/bcpkix-jdk15on-1.49.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.48",
+    "Installed":      "src/bcpkix-jdk15on/1.48",
+    "Source":         "src/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47",
+    "Installed":      "src/bcpkix-jdk15on/1.47",
+    "Source":         "src/bcpkix-jdk15on/1.47/bcpkix-jdk15on-1.47.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

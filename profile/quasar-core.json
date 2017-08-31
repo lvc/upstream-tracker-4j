@@ -1,0 +1,129 @@
+{
+  "Name":           "quasar-core",
+  "Title":          "Quasar Core",
+  "SourceUrl":      "http://central.maven.org/maven2/co/paralleluniverse/quasar-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipPackages":   "filters/skip_packages/quasar-core.list",
+
+  "Versions": [
+  {
+    "Number":         "0.7.9",
+    "Installed":      "src/quasar-core/0.7.9",
+    "Source":         "src/quasar-core/0.7.9/quasar-core-0.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.8",
+    "Installed":      "src/quasar-core/0.7.8",
+    "Source":         "src/quasar-core/0.7.8/quasar-core-0.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.7",
+    "Installed":      "src/quasar-core/0.7.7",
+    "Source":         "src/quasar-core/0.7.7/quasar-core-0.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.6",
+    "Installed":      "src/quasar-core/0.7.6",
+    "Source":         "src/quasar-core/0.7.6/quasar-core-0.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.5",
+    "Installed":      "src/quasar-core/0.7.5",
+    "Source":         "src/quasar-core/0.7.5/quasar-core-0.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.4",
+    "Installed":      "src/quasar-core/0.7.4",
+    "Source":         "src/quasar-core/0.7.4/quasar-core-0.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.3",
+    "Installed":      "src/quasar-core/0.7.3",
+    "Source":         "src/quasar-core/0.7.3/quasar-core-0.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/quasar-core/0.7.2",
+    "Source":         "src/quasar-core/0.7.2/quasar-core-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/quasar-core/0.7.1",
+    "Source":         "src/quasar-core/0.7.1/quasar-core-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/quasar-core/0.7.0",
+    "Source":         "src/quasar-core/0.7.0/quasar-core-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.2",
+    "Installed":      "src/quasar-core/0.6.2",
+    "Source":         "src/quasar-core/0.6.2/quasar-core-0.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/quasar-core/0.6.1",
+    "Source":         "src/quasar-core/0.6.1/quasar-core-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/quasar-core/0.6.0",
+    "Source":         "src/quasar-core/0.6.0/quasar-core-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/quasar-core/0.5.0",
+    "Source":         "src/quasar-core/0.5.0/quasar-core-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/quasar-core/0.4.0",
+    "Source":         "src/quasar-core/0.4.0/quasar-core-0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.0",
+    "Installed":      "src/quasar-core/0.3.0",
+    "Source":         "src/quasar-core/0.3.0/quasar-core-0.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.0",
+    "Installed":      "src/quasar-core/0.2.0",
+    "Source":         "src/quasar-core/0.2.0/quasar-core-0.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

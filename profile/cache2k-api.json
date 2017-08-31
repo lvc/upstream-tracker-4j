@@ -1,0 +1,86 @@
+{
+  "Name":           "cache2k-api",
+  "Title":          "Cache2k API",
+  "SourceUrl":      "http://central.maven.org/maven2/org/cache2k/cache2k-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/cache2k-api/1.0.1",
+    "Source":         "src/cache2k-api/1.0.1/cache2k-api-1.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/cache2k-api/1.0.0",
+    "Source":         "src/cache2k-api/1.0.0/cache2k-api-1.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.23.1",
+    "Installed":      "src/cache2k-api/0.23.1",
+    "Source":         "src/cache2k-api/0.23.1/cache2k-api-0.23.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.23",
+    "Installed":      "src/cache2k-api/0.23",
+    "Source":         "src/cache2k-api/0.23/cache2k-api-0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.1",
+    "Installed":      "src/cache2k-api/0.22.1",
+    "Source":         "src/cache2k-api/0.22.1/cache2k-api-0.22.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22",
+    "Installed":      "src/cache2k-api/0.22",
+    "Source":         "src/cache2k-api/0.22/cache2k-api-0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21.1",
+    "Installed":      "src/cache2k-api/0.21.1",
+    "Source":         "src/cache2k-api/0.21.1/cache2k-api-0.21.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21",
+    "Installed":      "src/cache2k-api/0.21",
+    "Source":         "src/cache2k-api/0.21/cache2k-api-0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20",
+    "Installed":      "src/cache2k-api/0.20",
+    "Source":         "src/cache2k-api/0.20/cache2k-api-0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.19.2",
+    "Installed":      "src/cache2k-api/0.19.2",
+    "Source":         "src/cache2k-api/0.19.2/cache2k-api-0.19.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.19.1",
+    "Installed":      "src/cache2k-api/0.19.1",
+    "Source":         "src/cache2k-api/0.19.1/cache2k-api-0.19.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,30 @@
+{
+  "Name":           "aci-api",
+  "Title":          "HP Autonomy ACI API NG",
+  "SourceUrl":      "http://central.maven.org/maven2/com/hp/autonomy/aci/client/aci-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "6.0.0",
+    "Installed":      "src/aci-api/6.0.0",
+    "Source":         "src/aci-api/6.0.0/aci-api-6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/aci-api/5.0.1",
+    "Source":         "src/aci-api/5.0.1/aci-api-5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/aci-api/5.0.0",
+    "Source":         "src/aci-api/5.0.0/aci-api-5.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

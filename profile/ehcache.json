@@ -1,0 +1,53 @@
+{
+  "Name":           "ehcache",
+  "Title":          "Ehcache",
+  "SourceUrl":      "http://central.maven.org/maven2/net/sf/ehcache/ehcache/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.9.1",
+  "SkipVersions":   [ "2.10.2.2.21" ],
+
+  "Versions": [
+  {
+    "Number":         "2.10.4",
+    "Installed":      "src/ehcache/2.10.4",
+    "Source":         "src/ehcache/2.10.4/ehcache-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/ehcache/2.10.3",
+    "Source":         "src/ehcache/2.10.3/ehcache-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "src/ehcache/2.10.2",
+    "Source":         "src/ehcache/2.10.2/ehcache-2.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/ehcache/2.10.1",
+    "Source":         "src/ehcache/2.10.1/ehcache-2.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/ehcache/2.10.0",
+    "Source":         "src/ehcache/2.10.0/ehcache-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/ehcache/2.9.1",
+    "Source":         "src/ehcache/2.9.1/ehcache-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,23 @@
+{
+  "Name":           "xml-resolver",
+  "Title":          "XML Commons Resolver",
+  "SourceUrl":      "http://central.maven.org/maven2/xml-resolver/xml-resolver/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.2",
+    "Installed":      "src/xml-resolver/1.2",
+    "Source":         "src/xml-resolver/1.2/xml-resolver-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/xml-resolver/1.1",
+    "Source":         "src/xml-resolver/1.1/xml-resolver-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

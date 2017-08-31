@@ -1,0 +1,156 @@
+{
+  "Name":           "twitter4j-stream",
+  "Title":          "Twitter4j Stream",
+  "SourceUrl":      "http://central.maven.org/maven2/org/twitter4j/twitter4j-stream/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.0.6",
+    "Installed":      "src/twitter4j-stream/4.0.6",
+    "Source":         "src/twitter4j-stream/4.0.6/twitter4j-stream-4.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.5",
+    "Installed":      "src/twitter4j-stream/4.0.5",
+    "Source":         "src/twitter4j-stream/4.0.5/twitter4j-stream-4.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.4",
+    "Installed":      "src/twitter4j-stream/4.0.4",
+    "Source":         "src/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.3",
+    "Installed":      "src/twitter4j-stream/4.0.3",
+    "Source":         "src/twitter4j-stream/4.0.3/twitter4j-stream-4.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/twitter4j-stream/4.0.2",
+    "Source":         "src/twitter4j-stream/4.0.2/twitter4j-stream-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/twitter4j-stream/4.0.1",
+    "Source":         "src/twitter4j-stream/4.0.1/twitter4j-stream-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/twitter4j-stream/4.0.0",
+    "Source":         "src/twitter4j-stream/4.0.0/twitter4j-stream-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/twitter4j-stream/3.0.6",
+    "Source":         "src/twitter4j-stream/3.0.6/twitter4j-stream-3.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/twitter4j-stream/3.0.5",
+    "Source":         "src/twitter4j-stream/3.0.5/twitter4j-stream-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/twitter4j-stream/3.0.4",
+    "Source":         "src/twitter4j-stream/3.0.4/twitter4j-stream-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/twitter4j-stream/3.0.3",
+    "Source":         "src/twitter4j-stream/3.0.3/twitter4j-stream-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/twitter4j-stream/3.0.2",
+    "Source":         "src/twitter4j-stream/3.0.2/twitter4j-stream-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/twitter4j-stream/3.0.1",
+    "Source":         "src/twitter4j-stream/3.0.1/twitter4j-stream-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/twitter4j-stream/3.0.0",
+    "Source":         "src/twitter4j-stream/3.0.0/twitter4j-stream-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/twitter4j-stream/2.2.6",
+    "Source":         "src/twitter4j-stream/2.2.6/twitter4j-stream-2.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/twitter4j-stream/2.2.5",
+    "Source":         "src/twitter4j-stream/2.2.5/twitter4j-stream-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/twitter4j-stream/2.2.4",
+    "Source":         "src/twitter4j-stream/2.2.4/twitter4j-stream-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/twitter4j-stream/2.2.3",
+    "Source":         "src/twitter4j-stream/2.2.3/twitter4j-stream-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/twitter4j-stream/2.2.2",
+    "Source":         "src/twitter4j-stream/2.2.2/twitter4j-stream-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/twitter4j-stream/2.2.1",
+    "Source":         "src/twitter4j-stream/2.2.1/twitter4j-stream-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/twitter4j-stream/2.2.0",
+    "Source":         "src/twitter4j-stream/2.2.0/twitter4j-stream-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

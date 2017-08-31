@@ -1,0 +1,73 @@
+{
+  "Name":           "htmlunit",
+  "Title":          "HtmlUnit",
+  "SourceUrl":      "http://central.maven.org/maven2/net/sourceforge/htmlunit/htmlunit/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.19",
+
+  "Versions": [
+  {
+    "Number":         "2.27",
+    "Installed":      "src/htmlunit/2.27",
+    "Source":         "src/htmlunit/2.27/htmlunit-2.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.26",
+    "Installed":      "src/htmlunit/2.26",
+    "Source":         "src/htmlunit/2.26/htmlunit-2.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25",
+    "Installed":      "src/htmlunit/2.25",
+    "Source":         "src/htmlunit/2.25/htmlunit-2.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.24",
+    "Installed":      "src/htmlunit/2.24",
+    "Source":         "src/htmlunit/2.24/htmlunit-2.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23",
+    "Installed":      "src/htmlunit/2.23",
+    "Source":         "src/htmlunit/2.23/htmlunit-2.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22",
+    "Installed":      "src/htmlunit/2.22",
+    "Source":         "src/htmlunit/2.22/htmlunit-2.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.21",
+    "Installed":      "src/htmlunit/2.21",
+    "Source":         "src/htmlunit/2.21/htmlunit-2.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20",
+    "Installed":      "src/htmlunit/2.20",
+    "Source":         "src/htmlunit/2.20/htmlunit-2.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19",
+    "Installed":      "src/htmlunit/2.19",
+    "Source":         "src/htmlunit/2.19/htmlunit-2.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

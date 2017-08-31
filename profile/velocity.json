@@ -1,0 +1,58 @@
+{
+  "Name":           "velocity",
+  "Title":          "Velocity",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/velocity/velocity/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.7",
+    "Installed":      "src/velocity/1.7",
+    "Source":         "src/velocity/1.7/velocity-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "src/velocity/1.6.4",
+    "Source":         "src/velocity/1.6.4/velocity-1.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/velocity/1.6.3",
+    "Source":         "src/velocity/1.6.3/velocity-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/velocity/1.6.2",
+    "Source":         "src/velocity/1.6.2/velocity-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/velocity/1.6.1",
+    "Source":         "src/velocity/1.6.1/velocity-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/velocity/1.6",
+    "Source":         "src/velocity/1.6/velocity-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/velocity/1.5",
+    "Source":         "src/velocity/1.5/velocity-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

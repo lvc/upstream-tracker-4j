@@ -1,0 +1,240 @@
+{
+  "Name":           "archaius-core",
+  "Title":          "Archaius Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/netflix/archaius/archaius-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0-rc.7",
+    "Installed":      "src/archaius-core/2.0.0-rc.7",
+    "Source":         "src/archaius-core/2.0.0-rc.7/archaius-core-2.0.0-rc.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.5",
+    "Installed":      "src/archaius-core/0.7.5",
+    "Source":         "src/archaius-core/0.7.5/archaius-core-0.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.4",
+    "Installed":      "src/archaius-core/0.7.4",
+    "Source":         "src/archaius-core/0.7.4/archaius-core-0.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.3",
+    "Installed":      "src/archaius-core/0.7.3",
+    "Source":         "src/archaius-core/0.7.3/archaius-core-0.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/archaius-core/0.7.1",
+    "Source":         "src/archaius-core/0.7.1/archaius-core-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/archaius-core/0.7.0",
+    "Source":         "src/archaius-core/0.7.0/archaius-core-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.6",
+    "Installed":      "src/archaius-core/0.6.6",
+    "Source":         "src/archaius-core/0.6.6/archaius-core-0.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.5",
+    "Installed":      "src/archaius-core/0.6.5",
+    "Source":         "src/archaius-core/0.6.5/archaius-core-0.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.3",
+    "Installed":      "src/archaius-core/0.6.3",
+    "Source":         "src/archaius-core/0.6.3/archaius-core-0.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.2",
+    "Installed":      "src/archaius-core/0.6.2",
+    "Source":         "src/archaius-core/0.6.2/archaius-core-0.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/archaius-core/0.6.1",
+    "Source":         "src/archaius-core/0.6.1/archaius-core-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/archaius-core/0.6.0",
+    "Source":         "src/archaius-core/0.6.0/archaius-core-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.16",
+    "Installed":      "src/archaius-core/0.5.16",
+    "Source":         "src/archaius-core/0.5.16/archaius-core-0.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.15",
+    "Installed":      "src/archaius-core/0.5.15",
+    "Source":         "src/archaius-core/0.5.15/archaius-core-0.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.14",
+    "Installed":      "src/archaius-core/0.5.14",
+    "Source":         "src/archaius-core/0.5.14/archaius-core-0.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.13",
+    "Installed":      "src/archaius-core/0.5.13",
+    "Source":         "src/archaius-core/0.5.13/archaius-core-0.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.12",
+    "Installed":      "src/archaius-core/0.5.12",
+    "Source":         "src/archaius-core/0.5.12/archaius-core-0.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.11",
+    "Installed":      "src/archaius-core/0.5.11",
+    "Source":         "src/archaius-core/0.5.11/archaius-core-0.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.10",
+    "Installed":      "src/archaius-core/0.5.10",
+    "Source":         "src/archaius-core/0.5.10/archaius-core-0.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.9",
+    "Installed":      "src/archaius-core/0.5.9",
+    "Source":         "src/archaius-core/0.5.9/archaius-core-0.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.8",
+    "Installed":      "src/archaius-core/0.5.8",
+    "Source":         "src/archaius-core/0.5.8/archaius-core-0.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.6",
+    "Installed":      "src/archaius-core/0.5.6",
+    "Source":         "src/archaius-core/0.5.6/archaius-core-0.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.5",
+    "Installed":      "src/archaius-core/0.5.5",
+    "Source":         "src/archaius-core/0.5.5/archaius-core-0.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.4",
+    "Installed":      "src/archaius-core/0.5.4",
+    "Source":         "src/archaius-core/0.5.4/archaius-core-0.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.3",
+    "Installed":      "src/archaius-core/0.5.3",
+    "Source":         "src/archaius-core/0.5.3/archaius-core-0.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.1",
+    "Installed":      "src/archaius-core/0.4.1",
+    "Source":         "src/archaius-core/0.4.1/archaius-core-0.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/archaius-core/0.4.0",
+    "Source":         "src/archaius-core/0.4.0/archaius-core-0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.3",
+    "Installed":      "src/archaius-core/0.3.3",
+    "Source":         "src/archaius-core/0.3.3/archaius-core-0.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.1",
+    "Installed":      "src/archaius-core/0.3.1",
+    "Source":         "src/archaius-core/0.3.1/archaius-core-0.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.0",
+    "Installed":      "src/archaius-core/0.3.0",
+    "Source":         "src/archaius-core/0.3.0/archaius-core-0.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.3",
+    "Installed":      "src/archaius-core/0.2.3",
+    "Source":         "src/archaius-core/0.2.3/archaius-core-0.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.2",
+    "Installed":      "src/archaius-core/0.2.2",
+    "Source":         "src/archaius-core/0.2.2/archaius-core-0.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.4",
+    "Installed":      "src/archaius-core/0.1.4",
+    "Source":         "src/archaius-core/0.1.4/archaius-core-0.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

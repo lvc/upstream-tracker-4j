@@ -1,0 +1,121 @@
+{
+  "Name":           "janino",
+  "Title":          "Janino",
+  "SourceUrl":      "http://central.maven.org/maven2/org/codehaus/janino/janino/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/janino/3.0.7",
+    "Source":         "src/janino/3.0.7/janino-3.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/janino/3.0.6",
+    "Source":         "src/janino/3.0.6/janino-3.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/janino/3.0.5",
+    "Source":         "src/janino/3.0.5/janino-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/janino/3.0.4",
+    "Source":         "src/janino/3.0.4/janino-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/janino/3.0.3",
+    "Source":         "src/janino/3.0.3/janino-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/janino/3.0.2",
+    "Source":         "src/janino/3.0.2/janino-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/janino/3.0.1",
+    "Source":         "src/janino/3.0.1/janino-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/janino/3.0.0",
+    "Source":         "src/janino/3.0.0/janino-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.8",
+    "Installed":      "src/janino/2.7.8",
+    "Source":         "src/janino/2.7.8/janino-2.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.7",
+    "Installed":      "src/janino/2.7.7",
+    "Source":         "src/janino/2.7.7/janino-2.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.6",
+    "Installed":      "src/janino/2.7.6",
+    "Source":         "src/janino/2.7.6/janino-2.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/janino/2.7.5",
+    "Source":         "src/janino/2.7.5/janino-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/janino/2.7.4",
+    "Source":         "src/janino/2.7.4/janino-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/janino/2.6.1",
+    "Source":         "src/janino/2.6.1/janino-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.16",
+    "Installed":      "src/janino/2.5.16",
+    "Source":         "src/janino/2.5.16/janino-2.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.15",
+    "Installed":      "src/janino/2.5.15",
+    "Source":         "src/janino/2.5.15/janino-2.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

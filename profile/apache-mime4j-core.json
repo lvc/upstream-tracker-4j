@@ -1,0 +1,44 @@
+{
+  "Name":           "apache-mime4j-core",
+  "Title":          "Mime4j Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/james/apache-mime4j-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.8.1",
+    "Installed":      "src/apache-mime4j-core/0.8.1",
+    "Source":         "src/apache-mime4j-core/0.8.1/apache-mime4j-core-0.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/apache-mime4j-core/0.8.0",
+    "Source":         "src/apache-mime4j-core/0.8.0/apache-mime4j-core-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/apache-mime4j-core/0.7.2",
+    "Source":         "src/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/apache-mime4j-core/0.7.1",
+    "Source":         "src/apache-mime4j-core/0.7.1/apache-mime4j-core-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/apache-mime4j-core/0.7",
+    "Source":         "src/apache-mime4j-core/0.7/apache-mime4j-core-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

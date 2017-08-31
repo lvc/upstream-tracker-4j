@@ -1,0 +1,361 @@
+{
+  "Name":           "airlift-testing",
+  "Title":          "airlift Testing",
+  "SourceUrl":      "http://central.maven.org/maven2/io/airlift/testing/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.100",
+  "Package":        "testing",
+
+  "Versions": [
+  {
+    "Number":         "0.149",
+    "Installed":      "src/airlift-testing/0.149",
+    "Source":         "src/airlift-testing/0.149/testing-0.149.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.148",
+    "Installed":      "src/airlift-testing/0.148",
+    "Source":         "src/airlift-testing/0.148/testing-0.148.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.147",
+    "Installed":      "src/airlift-testing/0.147",
+    "Source":         "src/airlift-testing/0.147/testing-0.147.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.146",
+    "Installed":      "src/airlift-testing/0.146",
+    "Source":         "src/airlift-testing/0.146/testing-0.146.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.145",
+    "Installed":      "src/airlift-testing/0.145",
+    "Source":         "src/airlift-testing/0.145/testing-0.145.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.144",
+    "Installed":      "src/airlift-testing/0.144",
+    "Source":         "src/airlift-testing/0.144/testing-0.144.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.143",
+    "Installed":      "src/airlift-testing/0.143",
+    "Source":         "src/airlift-testing/0.143/testing-0.143.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.142",
+    "Installed":      "src/airlift-testing/0.142",
+    "Source":         "src/airlift-testing/0.142/testing-0.142.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.141",
+    "Installed":      "src/airlift-testing/0.141",
+    "Source":         "src/airlift-testing/0.141/testing-0.141.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.140",
+    "Installed":      "src/airlift-testing/0.140",
+    "Source":         "src/airlift-testing/0.140/testing-0.140.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.139",
+    "Installed":      "src/airlift-testing/0.139",
+    "Source":         "src/airlift-testing/0.139/testing-0.139.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.138",
+    "Installed":      "src/airlift-testing/0.138",
+    "Source":         "src/airlift-testing/0.138/testing-0.138.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.137",
+    "Installed":      "src/airlift-testing/0.137",
+    "Source":         "src/airlift-testing/0.137/testing-0.137.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.136",
+    "Installed":      "src/airlift-testing/0.136",
+    "Source":         "src/airlift-testing/0.136/testing-0.136.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.135",
+    "Installed":      "src/airlift-testing/0.135",
+    "Source":         "src/airlift-testing/0.135/testing-0.135.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.134",
+    "Installed":      "src/airlift-testing/0.134",
+    "Source":         "src/airlift-testing/0.134/testing-0.134.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.133",
+    "Installed":      "src/airlift-testing/0.133",
+    "Source":         "src/airlift-testing/0.133/testing-0.133.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.132",
+    "Installed":      "src/airlift-testing/0.132",
+    "Source":         "src/airlift-testing/0.132/testing-0.132.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.131",
+    "Installed":      "src/airlift-testing/0.131",
+    "Source":         "src/airlift-testing/0.131/testing-0.131.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.130",
+    "Installed":      "src/airlift-testing/0.130",
+    "Source":         "src/airlift-testing/0.130/testing-0.130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.129",
+    "Installed":      "src/airlift-testing/0.129",
+    "Source":         "src/airlift-testing/0.129/testing-0.129.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.128",
+    "Installed":      "src/airlift-testing/0.128",
+    "Source":         "src/airlift-testing/0.128/testing-0.128.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.127",
+    "Installed":      "src/airlift-testing/0.127",
+    "Source":         "src/airlift-testing/0.127/testing-0.127.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.126",
+    "Installed":      "src/airlift-testing/0.126",
+    "Source":         "src/airlift-testing/0.126/testing-0.126.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.125",
+    "Installed":      "src/airlift-testing/0.125",
+    "Source":         "src/airlift-testing/0.125/testing-0.125.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.124",
+    "Installed":      "src/airlift-testing/0.124",
+    "Source":         "src/airlift-testing/0.124/testing-0.124.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.123",
+    "Installed":      "src/airlift-testing/0.123",
+    "Source":         "src/airlift-testing/0.123/testing-0.123.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.122",
+    "Installed":      "src/airlift-testing/0.122",
+    "Source":         "src/airlift-testing/0.122/testing-0.122.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.121",
+    "Installed":      "src/airlift-testing/0.121",
+    "Source":         "src/airlift-testing/0.121/testing-0.121.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.120",
+    "Installed":      "src/airlift-testing/0.120",
+    "Source":         "src/airlift-testing/0.120/testing-0.120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.119",
+    "Installed":      "src/airlift-testing/0.119",
+    "Source":         "src/airlift-testing/0.119/testing-0.119.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.118",
+    "Installed":      "src/airlift-testing/0.118",
+    "Source":         "src/airlift-testing/0.118/testing-0.118.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.117",
+    "Installed":      "src/airlift-testing/0.117",
+    "Source":         "src/airlift-testing/0.117/testing-0.117.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.116",
+    "Installed":      "src/airlift-testing/0.116",
+    "Source":         "src/airlift-testing/0.116/testing-0.116.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.115",
+    "Installed":      "src/airlift-testing/0.115",
+    "Source":         "src/airlift-testing/0.115/testing-0.115.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.114",
+    "Installed":      "src/airlift-testing/0.114",
+    "Source":         "src/airlift-testing/0.114/testing-0.114.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.113",
+    "Installed":      "src/airlift-testing/0.113",
+    "Source":         "src/airlift-testing/0.113/testing-0.113.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.112",
+    "Installed":      "src/airlift-testing/0.112",
+    "Source":         "src/airlift-testing/0.112/testing-0.112.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.111",
+    "Installed":      "src/airlift-testing/0.111",
+    "Source":         "src/airlift-testing/0.111/testing-0.111.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.110",
+    "Installed":      "src/airlift-testing/0.110",
+    "Source":         "src/airlift-testing/0.110/testing-0.110.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.109",
+    "Installed":      "src/airlift-testing/0.109",
+    "Source":         "src/airlift-testing/0.109/testing-0.109.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.108",
+    "Installed":      "src/airlift-testing/0.108",
+    "Source":         "src/airlift-testing/0.108/testing-0.108.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.107",
+    "Installed":      "src/airlift-testing/0.107",
+    "Source":         "src/airlift-testing/0.107/testing-0.107.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.106",
+    "Installed":      "src/airlift-testing/0.106",
+    "Source":         "src/airlift-testing/0.106/testing-0.106.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.105",
+    "Installed":      "src/airlift-testing/0.105",
+    "Source":         "src/airlift-testing/0.105/testing-0.105.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.104",
+    "Installed":      "src/airlift-testing/0.104",
+    "Source":         "src/airlift-testing/0.104/testing-0.104.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.103",
+    "Installed":      "src/airlift-testing/0.103",
+    "Source":         "src/airlift-testing/0.103/testing-0.103.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.102",
+    "Installed":      "src/airlift-testing/0.102",
+    "Source":         "src/airlift-testing/0.102/testing-0.102.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.101",
+    "Installed":      "src/airlift-testing/0.101",
+    "Source":         "src/airlift-testing/0.101/testing-0.101.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.100",
+    "Installed":      "src/airlift-testing/0.100",
+    "Source":         "src/airlift-testing/0.100/testing-0.100.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

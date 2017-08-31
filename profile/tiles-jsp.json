@@ -1,0 +1,52 @@
+{
+  "Name":           "tiles-jsp",
+  "Title":          "Tiles JSP",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/tiles/tiles-jsp/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.0.0",
+
+  "Versions": [
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/tiles-jsp/3.0.7",
+    "Source":         "src/tiles-jsp/3.0.7/tiles-jsp-3.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/tiles-jsp/3.0.5",
+    "Source":         "src/tiles-jsp/3.0.5/tiles-jsp-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/tiles-jsp/3.0.4",
+    "Source":         "src/tiles-jsp/3.0.4/tiles-jsp-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/tiles-jsp/3.0.3",
+    "Source":         "src/tiles-jsp/3.0.3/tiles-jsp-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/tiles-jsp/3.0.1",
+    "Source":         "src/tiles-jsp/3.0.1/tiles-jsp-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/tiles-jsp/3.0.0",
+    "Source":         "src/tiles-jsp/3.0.0/tiles-jsp-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

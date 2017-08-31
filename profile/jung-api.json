@@ -1,0 +1,37 @@
+{
+  "Name":           "jung-api",
+  "Title":          "JUNG API",
+  "SourceUrl":      "http://central.maven.org/maven2/net/sf/jung/jung-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/jung-api/2.1.1",
+    "Source":         "src/jung-api/2.1.1/jung-api-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/jung-api/2.1",
+    "Source":         "src/jung-api/2.1/jung-api-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/jung-api/2.0.1",
+    "Source":         "src/jung-api/2.0.1/jung-api-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/jung-api/2.0",
+    "Source":         "src/jung-api/2.0/jung-api-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

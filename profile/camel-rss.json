@@ -1,0 +1,248 @@
+{
+  "Name":           "camel-rss",
+  "Title":          "Camel RSS",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/camel/camel-rss/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.14.0",
+
+  "Versions": [
+  {
+    "Number":         "2.19.2",
+    "Installed":      "src/camel-rss/2.19.2",
+    "Source":         "src/camel-rss/2.19.2/camel-rss-2.19.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19.1",
+    "Installed":      "src/camel-rss/2.19.1",
+    "Source":         "src/camel-rss/2.19.1/camel-rss-2.19.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19.0",
+    "Installed":      "src/camel-rss/2.19.0",
+    "Source":         "src/camel-rss/2.19.0/camel-rss-2.19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.4",
+    "Installed":      "src/camel-rss/2.18.4",
+    "Source":         "src/camel-rss/2.18.4/camel-rss-2.18.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.3",
+    "Installed":      "src/camel-rss/2.18.3",
+    "Source":         "src/camel-rss/2.18.3/camel-rss-2.18.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.2",
+    "Installed":      "src/camel-rss/2.18.2",
+    "Source":         "src/camel-rss/2.18.2/camel-rss-2.18.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.1",
+    "Installed":      "src/camel-rss/2.18.1",
+    "Source":         "src/camel-rss/2.18.1/camel-rss-2.18.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.0",
+    "Installed":      "src/camel-rss/2.18.0",
+    "Source":         "src/camel-rss/2.18.0/camel-rss-2.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.7",
+    "Installed":      "src/camel-rss/2.17.7",
+    "Source":         "src/camel-rss/2.17.7/camel-rss-2.17.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.6",
+    "Installed":      "src/camel-rss/2.17.6",
+    "Source":         "src/camel-rss/2.17.6/camel-rss-2.17.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.5",
+    "Installed":      "src/camel-rss/2.17.5",
+    "Source":         "src/camel-rss/2.17.5/camel-rss-2.17.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.4",
+    "Installed":      "src/camel-rss/2.17.4",
+    "Source":         "src/camel-rss/2.17.4/camel-rss-2.17.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.3",
+    "Installed":      "src/camel-rss/2.17.3",
+    "Source":         "src/camel-rss/2.17.3/camel-rss-2.17.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.2",
+    "Installed":      "src/camel-rss/2.17.2",
+    "Source":         "src/camel-rss/2.17.2/camel-rss-2.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.1",
+    "Installed":      "src/camel-rss/2.17.1",
+    "Source":         "src/camel-rss/2.17.1/camel-rss-2.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.0",
+    "Installed":      "src/camel-rss/2.17.0",
+    "Source":         "src/camel-rss/2.17.0/camel-rss-2.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.5",
+    "Installed":      "src/camel-rss/2.16.5",
+    "Source":         "src/camel-rss/2.16.5/camel-rss-2.16.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.4",
+    "Installed":      "src/camel-rss/2.16.4",
+    "Source":         "src/camel-rss/2.16.4/camel-rss-2.16.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.3",
+    "Installed":      "src/camel-rss/2.16.3",
+    "Source":         "src/camel-rss/2.16.3/camel-rss-2.16.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.2",
+    "Installed":      "src/camel-rss/2.16.2",
+    "Source":         "src/camel-rss/2.16.2/camel-rss-2.16.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.1",
+    "Installed":      "src/camel-rss/2.16.1",
+    "Source":         "src/camel-rss/2.16.1/camel-rss-2.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.0",
+    "Installed":      "src/camel-rss/2.16.0",
+    "Source":         "src/camel-rss/2.16.0/camel-rss-2.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.6",
+    "Installed":      "src/camel-rss/2.15.6",
+    "Source":         "src/camel-rss/2.15.6/camel-rss-2.15.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.5",
+    "Installed":      "src/camel-rss/2.15.5",
+    "Source":         "src/camel-rss/2.15.5/camel-rss-2.15.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.4",
+    "Installed":      "src/camel-rss/2.15.4",
+    "Source":         "src/camel-rss/2.15.4/camel-rss-2.15.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.3",
+    "Installed":      "src/camel-rss/2.15.3",
+    "Source":         "src/camel-rss/2.15.3/camel-rss-2.15.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.2",
+    "Installed":      "src/camel-rss/2.15.2",
+    "Source":         "src/camel-rss/2.15.2/camel-rss-2.15.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.1",
+    "Installed":      "src/camel-rss/2.15.1",
+    "Source":         "src/camel-rss/2.15.1/camel-rss-2.15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.0",
+    "Installed":      "src/camel-rss/2.15.0",
+    "Source":         "src/camel-rss/2.15.0/camel-rss-2.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.4",
+    "Installed":      "src/camel-rss/2.14.4",
+    "Source":         "src/camel-rss/2.14.4/camel-rss-2.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.3",
+    "Installed":      "src/camel-rss/2.14.3",
+    "Source":         "src/camel-rss/2.14.3/camel-rss-2.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.2",
+    "Installed":      "src/camel-rss/2.14.2",
+    "Source":         "src/camel-rss/2.14.2/camel-rss-2.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "src/camel-rss/2.14.1",
+    "Source":         "src/camel-rss/2.14.1/camel-rss-2.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "src/camel-rss/2.14.0",
+    "Source":         "src/camel-rss/2.14.0/camel-rss-2.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,30 @@
+{
+  "Name":           "base64",
+  "Title":          "Base64",
+  "SourceUrl":      "http://central.maven.org/maven2/net/iharder/base64/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.3.9",
+    "Installed":      "src/base64/2.3.9",
+    "Source":         "src/base64/2.3.9/base64-2.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.8",
+    "Installed":      "src/base64/2.3.8",
+    "Source":         "src/base64/2.3.8/base64-2.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/base64/2.3.7",
+    "Source":         "src/base64/2.3.7/base64-2.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,191 @@
+{
+  "Name":           "jaxb2-basics-runtime",
+  "Title":          "JAXB2 Basics Runtime",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.11.1",
+    "Installed":      "src/jaxb2-basics-runtime/1.11.1",
+    "Source":         "src/jaxb2-basics-runtime/1.11.1/jaxb2-basics-runtime-1.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.1",
+    "Installed":      "src/jaxb2-basics-runtime/0.11.1",
+    "Source":         "src/jaxb2-basics-runtime/0.11.1/jaxb2-basics-runtime-0.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/jaxb2-basics-runtime/0.11.0",
+    "Source":         "src/jaxb2-basics-runtime/0.11.0/jaxb2-basics-runtime-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/jaxb2-basics-runtime/0.10.0",
+    "Source":         "src/jaxb2-basics-runtime/0.10.0/jaxb2-basics-runtime-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5",
+    "Installed":      "src/jaxb2-basics-runtime/0.9.5",
+    "Source":         "src/jaxb2-basics-runtime/0.9.5/jaxb2-basics-runtime-0.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.4",
+    "Installed":      "src/jaxb2-basics-runtime/0.9.4",
+    "Source":         "src/jaxb2-basics-runtime/0.9.4/jaxb2-basics-runtime-0.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.3",
+    "Installed":      "src/jaxb2-basics-runtime/0.9.3",
+    "Source":         "src/jaxb2-basics-runtime/0.9.3/jaxb2-basics-runtime-0.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.2",
+    "Installed":      "src/jaxb2-basics-runtime/0.9.2",
+    "Source":         "src/jaxb2-basics-runtime/0.9.2/jaxb2-basics-runtime-0.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/jaxb2-basics-runtime/0.9.1",
+    "Source":         "src/jaxb2-basics-runtime/0.9.1/jaxb2-basics-runtime-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/jaxb2-basics-runtime/0.9.0",
+    "Source":         "src/jaxb2-basics-runtime/0.9.0/jaxb2-basics-runtime-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.4",
+    "Installed":      "src/jaxb2-basics-runtime/0.8.4",
+    "Source":         "src/jaxb2-basics-runtime/0.8.4/jaxb2-basics-runtime-0.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.2",
+    "Installed":      "src/jaxb2-basics-runtime/0.8.2",
+    "Source":         "src/jaxb2-basics-runtime/0.8.2/jaxb2-basics-runtime-0.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.1",
+    "Installed":      "src/jaxb2-basics-runtime/0.8.1",
+    "Source":         "src/jaxb2-basics-runtime/0.8.1/jaxb2-basics-runtime-0.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/jaxb2-basics-runtime/0.8.0",
+    "Source":         "src/jaxb2-basics-runtime/0.8.0/jaxb2-basics-runtime-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/jaxb2-basics-runtime/0.7.0",
+    "Source":         "src/jaxb2-basics-runtime/0.7.0/jaxb2-basics-runtime-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.5.1",
+    "Installed":      "src/jaxb2-basics-runtime/0.6.5.1",
+    "Source":         "src/jaxb2-basics-runtime/0.6.5.1/jaxb2-basics-runtime-0.6.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.5",
+    "Installed":      "src/jaxb2-basics-runtime/0.6.5",
+    "Source":         "src/jaxb2-basics-runtime/0.6.5/jaxb2-basics-runtime-0.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.4",
+    "Installed":      "src/jaxb2-basics-runtime/0.6.4",
+    "Source":         "src/jaxb2-basics-runtime/0.6.4/jaxb2-basics-runtime-0.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.3",
+    "Installed":      "src/jaxb2-basics-runtime/0.6.3",
+    "Source":         "src/jaxb2-basics-runtime/0.6.3/jaxb2-basics-runtime-0.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.2",
+    "Installed":      "src/jaxb2-basics-runtime/0.6.2",
+    "Source":         "src/jaxb2-basics-runtime/0.6.2/jaxb2-basics-runtime-0.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/jaxb2-basics-runtime/0.6.1",
+    "Source":         "src/jaxb2-basics-runtime/0.6.1/jaxb2-basics-runtime-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/jaxb2-basics-runtime/0.6.0",
+    "Source":         "src/jaxb2-basics-runtime/0.6.0/jaxb2-basics-runtime-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.3",
+    "Installed":      "src/jaxb2-basics-runtime/0.5.3",
+    "Source":         "src/jaxb2-basics-runtime/0.5.3/jaxb2-basics-runtime-0.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.2",
+    "Installed":      "src/jaxb2-basics-runtime/0.5.2",
+    "Source":         "src/jaxb2-basics-runtime/0.5.2/jaxb2-basics-runtime-0.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/jaxb2-basics-runtime/0.5.1",
+    "Source":         "src/jaxb2-basics-runtime/0.5.1/jaxb2-basics-runtime-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/jaxb2-basics-runtime/0.5.0",
+    "Source":         "src/jaxb2-basics-runtime/0.5.0/jaxb2-basics-runtime-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

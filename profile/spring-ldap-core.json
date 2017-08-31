@@ -1,0 +1,100 @@
+{
+  "Name":           "spring-ldap-core",
+  "Title":          "Spring Ldap Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/springframework/ldap/spring-ldap-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/spring-ldap-core/2.3.1",
+    "Source":         "src/spring-ldap-core/2.3.1/spring-ldap-core-2.3.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/spring-ldap-core/2.3.0",
+    "Source":         "src/spring-ldap-core/2.3.0/spring-ldap-core-2.3.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/spring-ldap-core/2.2.1",
+    "Source":         "src/spring-ldap-core/2.2.1/spring-ldap-core-2.2.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/spring-ldap-core/2.2.0",
+    "Source":         "src/spring-ldap-core/2.2.0/spring-ldap-core-2.2.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/spring-ldap-core/2.1.0",
+    "Source":         "src/spring-ldap-core/2.1.0/spring-ldap-core-2.1.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/spring-ldap-core/2.0.4",
+    "Source":         "src/spring-ldap-core/2.0.4/spring-ldap-core-2.0.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/spring-ldap-core/2.0.3",
+    "Source":         "src/spring-ldap-core/2.0.3/spring-ldap-core-2.0.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/spring-ldap-core/2.0.2",
+    "Source":         "src/spring-ldap-core/2.0.2/spring-ldap-core-2.0.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/spring-ldap-core/2.0.1",
+    "Source":         "src/spring-ldap-core/2.0.1/spring-ldap-core-2.0.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/spring-ldap-core/2.0.0",
+    "Source":         "src/spring-ldap-core/2.0.0/spring-ldap-core-2.0.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/spring-ldap-core/1.3.2",
+    "Source":         "src/spring-ldap-core/1.3.2/spring-ldap-core-1.3.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/spring-ldap-core/1.3.1",
+    "Source":         "src/spring-ldap-core/1.3.1/spring-ldap-core-1.3.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/spring-ldap-core/1.3.0",
+    "Source":         "src/spring-ldap-core/1.3.0/spring-ldap-core-1.3.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

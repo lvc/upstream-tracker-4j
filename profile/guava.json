@@ -7,11 +7,72 @@
 
   "Versions": [
   {
+    "Number":         "23.0",
+    "Installed":      "src/guava/23.0",
+    "Source":         "src/guava/23.0/guava-23.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "23.0-rc1",
+    "Installed":      "src/guava/23.0-rc1",
+    "Source":         "src/guava/23.0-rc1/guava-23.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "22.0",
+    "Installed":      "src/guava/22.0",
+    "Source":         "src/guava/22.0/guava-22.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "22.0-rc1",
+    "Installed":      "src/guava/22.0-rc1",
+    "Source":         "src/guava/22.0-rc1/guava-22.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "21.0",
+    "Installed":      "src/guava/21.0",
+    "Source":         "src/guava/21.0/guava-21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "21.0-rc2",
+    "Installed":      "src/guava/21.0-rc2",
+    "Source":         "src/guava/21.0-rc2/guava-21.0-rc2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "21.0-rc1",
+    "Installed":      "src/guava/21.0-rc1",
+    "Source":         "src/guava/21.0-rc1/guava-21.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "20.0",
+    "Installed":      "src/guava/20.0",
+    "Source":         "src/guava/20.0/guava-20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "20.0-rc1",
     "Installed":      "src/guava/20.0-rc1",
     "Source":         "src/guava/20.0-rc1/guava-20.0-rc1.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "19.0",

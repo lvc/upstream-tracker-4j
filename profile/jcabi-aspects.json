@@ -1,0 +1,185 @@
+{
+  "Name":           "jcabi-aspects",
+  "Title":          "Jcabi Aspects",
+  "SourceUrl":      "http://central.maven.org/maven2/com/jcabi/jcabi-aspects/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.14",
+
+  "Versions": [
+  {
+    "Number":         "0.22.6",
+    "Installed":      "src/jcabi-aspects/0.22.6",
+    "Source":         "src/jcabi-aspects/0.22.6/jcabi-aspects-0.22.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.5",
+    "Installed":      "src/jcabi-aspects/0.22.5",
+    "Source":         "src/jcabi-aspects/0.22.5/jcabi-aspects-0.22.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.4",
+    "Installed":      "src/jcabi-aspects/0.22.4",
+    "Source":         "src/jcabi-aspects/0.22.4/jcabi-aspects-0.22.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.3",
+    "Installed":      "src/jcabi-aspects/0.22.3",
+    "Source":         "src/jcabi-aspects/0.22.3/jcabi-aspects-0.22.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.2",
+    "Installed":      "src/jcabi-aspects/0.22.2",
+    "Source":         "src/jcabi-aspects/0.22.2/jcabi-aspects-0.22.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.1",
+    "Installed":      "src/jcabi-aspects/0.22.1",
+    "Source":         "src/jcabi-aspects/0.22.1/jcabi-aspects-0.22.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22",
+    "Installed":      "src/jcabi-aspects/0.22",
+    "Source":         "src/jcabi-aspects/0.22/jcabi-aspects-0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21.1",
+    "Installed":      "src/jcabi-aspects/0.21.1",
+    "Source":         "src/jcabi-aspects/0.21.1/jcabi-aspects-0.21.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21",
+    "Installed":      "src/jcabi-aspects/0.21",
+    "Source":         "src/jcabi-aspects/0.21/jcabi-aspects-0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20.4",
+    "Installed":      "src/jcabi-aspects/0.20.4",
+    "Source":         "src/jcabi-aspects/0.20.4/jcabi-aspects-0.20.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20.3",
+    "Installed":      "src/jcabi-aspects/0.20.3",
+    "Source":         "src/jcabi-aspects/0.20.3/jcabi-aspects-0.20.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20.2",
+    "Installed":      "src/jcabi-aspects/0.20.2",
+    "Source":         "src/jcabi-aspects/0.20.2/jcabi-aspects-0.20.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20.1",
+    "Installed":      "src/jcabi-aspects/0.20.1",
+    "Source":         "src/jcabi-aspects/0.20.1/jcabi-aspects-0.20.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20",
+    "Installed":      "src/jcabi-aspects/0.20",
+    "Source":         "src/jcabi-aspects/0.20/jcabi-aspects-0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.19",
+    "Installed":      "src/jcabi-aspects/0.19",
+    "Source":         "src/jcabi-aspects/0.19/jcabi-aspects-0.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.18.1",
+    "Installed":      "src/jcabi-aspects/0.18.1",
+    "Source":         "src/jcabi-aspects/0.18.1/jcabi-aspects-0.18.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.18",
+    "Installed":      "src/jcabi-aspects/0.18",
+    "Source":         "src/jcabi-aspects/0.18/jcabi-aspects-0.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.2",
+    "Installed":      "src/jcabi-aspects/0.17.2",
+    "Source":         "src/jcabi-aspects/0.17.2/jcabi-aspects-0.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.1",
+    "Installed":      "src/jcabi-aspects/0.17.1",
+    "Source":         "src/jcabi-aspects/0.17.1/jcabi-aspects-0.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17",
+    "Installed":      "src/jcabi-aspects/0.17",
+    "Source":         "src/jcabi-aspects/0.17/jcabi-aspects-0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.16",
+    "Installed":      "src/jcabi-aspects/0.16",
+    "Source":         "src/jcabi-aspects/0.16/jcabi-aspects-0.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15.2",
+    "Installed":      "src/jcabi-aspects/0.15.2",
+    "Source":         "src/jcabi-aspects/0.15.2/jcabi-aspects-0.15.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15.1",
+    "Installed":      "src/jcabi-aspects/0.15.1",
+    "Source":         "src/jcabi-aspects/0.15.1/jcabi-aspects-0.15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15",
+    "Installed":      "src/jcabi-aspects/0.15",
+    "Source":         "src/jcabi-aspects/0.15/jcabi-aspects-0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.14",
+    "Installed":      "src/jcabi-aspects/0.14",
+    "Source":         "src/jcabi-aspects/0.14/jcabi-aspects-0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

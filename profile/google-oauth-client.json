@@ -1,0 +1,171 @@
+{
+  "Name":           "google-oauth-client",
+  "Title":          "Google OAuth Client",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/oauth-client/google-oauth-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "ReleasePattern": "\A([\d\.]+)(|\-beta|\-rc)\Z",
+
+  "Versions": [
+  {
+    "Number":         "1.22.0",
+    "Installed":      "src/google-oauth-client/1.22.0",
+    "Source":         "src/google-oauth-client/1.22.0/google-oauth-client-1.22.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.21.0",
+    "Installed":      "src/google-oauth-client/1.21.0",
+    "Source":         "src/google-oauth-client/1.21.0/google-oauth-client-1.21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20.0",
+    "Installed":      "src/google-oauth-client/1.20.0",
+    "Source":         "src/google-oauth-client/1.20.0/google-oauth-client-1.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19.0",
+    "Installed":      "src/google-oauth-client/1.19.0",
+    "Source":         "src/google-oauth-client/1.19.0/google-oauth-client-1.19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.0",
+    "Installed":      "src/google-oauth-client/1.18.0",
+    "Source":         "src/google-oauth-client/1.18.0/google-oauth-client-1.18.0-rc.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.0",
+    "Installed":      "src/google-oauth-client/1.17.0",
+    "Source":         "src/google-oauth-client/1.17.0/google-oauth-client-1.17.0-rc.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.0",
+    "Installed":      "src/google-oauth-client/1.16.0",
+    "Source":         "src/google-oauth-client/1.16.0/google-oauth-client-1.16.0-rc.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.0",
+    "Installed":      "src/google-oauth-client/1.15.0",
+    "Source":         "src/google-oauth-client/1.15.0/google-oauth-client-1.15.0-rc.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.1",
+    "Installed":      "src/google-oauth-client/1.14.1",
+    "Source":         "src/google-oauth-client/1.14.1/google-oauth-client-1.14.1-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.0",
+    "Installed":      "src/google-oauth-client/1.14.0",
+    "Source":         "src/google-oauth-client/1.14.0/google-oauth-client-1.14.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.1",
+    "Installed":      "src/google-oauth-client/1.13.1",
+    "Source":         "src/google-oauth-client/1.13.1/google-oauth-client-1.13.1-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.0",
+    "Installed":      "src/google-oauth-client/1.13.0",
+    "Source":         "src/google-oauth-client/1.13.0/google-oauth-client-1.13.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.0",
+    "Installed":      "src/google-oauth-client/1.12.0",
+    "Source":         "src/google-oauth-client/1.12.0/google-oauth-client-1.12.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.0",
+    "Installed":      "src/google-oauth-client/1.11.0",
+    "Source":         "src/google-oauth-client/1.11.0/google-oauth-client-1.11.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.1",
+    "Installed":      "src/google-oauth-client/1.10.1",
+    "Source":         "src/google-oauth-client/1.10.1/google-oauth-client-1.10.1-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.0",
+    "Installed":      "src/google-oauth-client/1.10.0",
+    "Source":         "src/google-oauth-client/1.10.0/google-oauth-client-1.10.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/google-oauth-client/1.9.0",
+    "Source":         "src/google-oauth-client/1.9.0/google-oauth-client-1.9.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/google-oauth-client/1.8.0",
+    "Source":         "src/google-oauth-client/1.8.0/google-oauth-client-1.8.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/google-oauth-client/1.7.0",
+    "Source":         "src/google-oauth-client/1.7.0/google-oauth-client-1.7.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/google-oauth-client/1.6.0",
+    "Source":         "src/google-oauth-client/1.6.0/google-oauth-client-1.6.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/google-oauth-client/1.5.2",
+    "Source":         "src/google-oauth-client/1.5.2/google-oauth-client-1.5.2-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/google-oauth-client/1.5.1",
+    "Source":         "src/google-oauth-client/1.5.1/google-oauth-client-1.5.1-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/google-oauth-client/1.5.0",
+    "Source":         "src/google-oauth-client/1.5.0/google-oauth-client-1.5.0-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

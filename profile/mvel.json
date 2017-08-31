@@ -1,0 +1,88 @@
+{
+  "Name":           "mvel",
+  "Title":          "MVEL",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mvel/mvel2/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.2.0",
+  "Package":        "mvel2",
+
+  "Versions": [
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/mvel/2.3.1",
+    "Source":         "src/mvel/2.3.1/mvel2-2.3.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/mvel/2.3.0",
+    "Source":         "src/mvel/2.3.0/mvel2-2.3.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.8",
+    "Installed":      "src/mvel/2.2.8",
+    "Source":         "src/mvel/2.2.8/mvel2-2.2.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "src/mvel/2.2.7",
+    "Source":         "src/mvel/2.2.7/mvel2-2.2.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/mvel/2.2.6",
+    "Source":         "src/mvel/2.2.6/mvel2-2.2.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/mvel/2.2.5",
+    "Source":         "src/mvel/2.2.5/mvel2-2.2.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/mvel/2.2.4",
+    "Source":         "src/mvel/2.2.4/mvel2-2.2.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/mvel/2.2.3",
+    "Source":         "src/mvel/2.2.3/mvel2-2.2.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/mvel/2.2.2",
+    "Source":         "src/mvel/2.2.2/mvel2-2.2.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/mvel/2.2.1",
+    "Source":         "src/mvel/2.2.1/mvel2-2.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/mvel/2.2.0",
+    "Source":         "src/mvel/2.2.0/mvel2-2.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

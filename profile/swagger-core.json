@@ -1,0 +1,135 @@
+{
+  "Name":           "swagger-core",
+  "Title":          "Swagger Core",
+  "SourceUrl":      "http://central.maven.org/maven2/io/swagger/swagger-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0-rc1",
+    "Installed":      "src/swagger-core/2.0.0-rc1",
+    "Source":         "src/swagger-core/2.0.0-rc1/swagger-core-2.0.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.16",
+    "Installed":      "src/swagger-core/1.5.16",
+    "Source":         "src/swagger-core/1.5.16/swagger-core-1.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.15",
+    "Installed":      "src/swagger-core/1.5.15",
+    "Source":         "src/swagger-core/1.5.15/swagger-core-1.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.14",
+    "Installed":      "src/swagger-core/1.5.14",
+    "Source":         "src/swagger-core/1.5.14/swagger-core-1.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.13",
+    "Installed":      "src/swagger-core/1.5.13",
+    "Source":         "src/swagger-core/1.5.13/swagger-core-1.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.12",
+    "Installed":      "src/swagger-core/1.5.12",
+    "Source":         "src/swagger-core/1.5.12/swagger-core-1.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.11",
+    "Installed":      "src/swagger-core/1.5.11",
+    "Source":         "src/swagger-core/1.5.11/swagger-core-1.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.10",
+    "Installed":      "src/swagger-core/1.5.10",
+    "Source":         "src/swagger-core/1.5.10/swagger-core-1.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.9",
+    "Installed":      "src/swagger-core/1.5.9",
+    "Source":         "src/swagger-core/1.5.9/swagger-core-1.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.8",
+    "Installed":      "src/swagger-core/1.5.8",
+    "Source":         "src/swagger-core/1.5.8/swagger-core-1.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.7",
+    "Installed":      "src/swagger-core/1.5.7",
+    "Source":         "src/swagger-core/1.5.7/swagger-core-1.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/swagger-core/1.5.6",
+    "Source":         "src/swagger-core/1.5.6/swagger-core-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/swagger-core/1.5.5",
+    "Source":         "src/swagger-core/1.5.5/swagger-core-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/swagger-core/1.5.4",
+    "Source":         "src/swagger-core/1.5.4/swagger-core-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/swagger-core/1.5.3",
+    "Source":         "src/swagger-core/1.5.3/swagger-core-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/swagger-core/1.5.2",
+    "Source":         "src/swagger-core/1.5.2/swagger-core-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/swagger-core/1.5.1",
+    "Source":         "src/swagger-core/1.5.1/swagger-core-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/swagger-core/1.5.0",
+    "Source":         "src/swagger-core/1.5.0/swagger-core-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

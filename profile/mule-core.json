@@ -1,0 +1,65 @@
+{
+  "Name":           "mule-core",
+  "Title":          "Mule Core",
+  "SourceUrl":      "https://repository.mulesoft.org/nexus/content/repositories/releases/org/mule/mule-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.0.0-M5.2",
+    "Installed":      "src/mule-core/4.0.0-M5.2",
+    "Source":         "src/mule-core/4.0.0-M5.2/mule-core-4.0.0-M5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.1",
+    "Installed":      "src/mule-core/3.8.1",
+    "Source":         "src/mule-core/3.8.1/mule-core-3.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.0",
+    "Installed":      "src/mule-core/3.8.0",
+    "Source":         "src/mule-core/3.8.0/mule-core-3.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.0",
+    "Installed":      "src/mule-core/3.7.0",
+    "Source":         "src/mule-core/3.7.0/mule-core-3.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.1",
+    "Installed":      "src/mule-core/3.6.1",
+    "Source":         "src/mule-core/3.6.1/mule-core-3.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/mule-core/3.6.0",
+    "Source":         "src/mule-core/3.6.0/mule-core-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/mule-core/3.5.1",
+    "Source":         "src/mule-core/3.5.1/mule-core-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/mule-core/3.5.0",
+    "Source":         "src/mule-core/3.5.0/mule-core-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

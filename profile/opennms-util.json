@@ -1,0 +1,192 @@
+{
+  "Name":           "opennms-util",
+  "Title":          "OpenNMS Utilities",
+  "SourceUrl":      "http://repo.opennms.org/maven2/org/opennms/opennms-util/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "14.0.0",
+
+  "Versions": [
+  {
+    "Number":         "20.0.2",
+    "Installed":      "src/opennms-util/20.0.2",
+    "Source":         "src/opennms-util/20.0.2/opennms-util-20.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "20.0.1",
+    "Installed":      "src/opennms-util/20.0.1",
+    "Source":         "src/opennms-util/20.0.1/opennms-util-20.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "20.0.0",
+    "Installed":      "src/opennms-util/20.0.0",
+    "Source":         "src/opennms-util/20.0.0/opennms-util-20.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "19.1.0",
+    "Installed":      "src/opennms-util/19.1.0",
+    "Source":         "src/opennms-util/19.1.0/opennms-util-19.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "19.0.1",
+    "Installed":      "src/opennms-util/19.0.1",
+    "Source":         "src/opennms-util/19.0.1/opennms-util-19.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "19.0.0",
+    "Installed":      "src/opennms-util/19.0.0",
+    "Source":         "src/opennms-util/19.0.0/opennms-util-19.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0.4",
+    "Installed":      "src/opennms-util/18.0.4",
+    "Source":         "src/opennms-util/18.0.4/opennms-util-18.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0.3",
+    "Installed":      "src/opennms-util/18.0.3",
+    "Source":         "src/opennms-util/18.0.3/opennms-util-18.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0.2",
+    "Installed":      "src/opennms-util/18.0.2",
+    "Source":         "src/opennms-util/18.0.2/opennms-util-18.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0.1",
+    "Installed":      "src/opennms-util/18.0.1",
+    "Source":         "src/opennms-util/18.0.1/opennms-util-18.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0.0",
+    "Installed":      "src/opennms-util/18.0.0",
+    "Source":         "src/opennms-util/18.0.0/opennms-util-18.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.1.1",
+    "Installed":      "src/opennms-util/17.1.1",
+    "Source":         "src/opennms-util/17.1.1/opennms-util-17.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.1.0",
+    "Installed":      "src/opennms-util/17.1.0",
+    "Source":         "src/opennms-util/17.1.0/opennms-util-17.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.0.0",
+    "Installed":      "src/opennms-util/17.0.0",
+    "Source":         "src/opennms-util/17.0.0/opennms-util-17.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0.4",
+    "Installed":      "src/opennms-util/16.0.4",
+    "Source":         "src/opennms-util/16.0.4/opennms-util-16.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0.3",
+    "Installed":      "src/opennms-util/16.0.3",
+    "Source":         "src/opennms-util/16.0.3/opennms-util-16.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0.2",
+    "Installed":      "src/opennms-util/16.0.2",
+    "Source":         "src/opennms-util/16.0.2/opennms-util-16.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0.1",
+    "Installed":      "src/opennms-util/16.0.1",
+    "Source":         "src/opennms-util/16.0.1/opennms-util-16.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "16.0.0",
+    "Installed":      "src/opennms-util/16.0.0",
+    "Source":         "src/opennms-util/16.0.0/opennms-util-16.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.0.2",
+    "Installed":      "src/opennms-util/15.0.2",
+    "Source":         "src/opennms-util/15.0.2/opennms-util-15.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.0.1",
+    "Installed":      "src/opennms-util/15.0.1",
+    "Source":         "src/opennms-util/15.0.1/opennms-util-15.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "15.0.0",
+    "Installed":      "src/opennms-util/15.0.0",
+    "Source":         "src/opennms-util/15.0.0/opennms-util-15.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.0.3",
+    "Installed":      "src/opennms-util/14.0.3",
+    "Source":         "src/opennms-util/14.0.3/opennms-util-14.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.0.2",
+    "Installed":      "src/opennms-util/14.0.2",
+    "Source":         "src/opennms-util/14.0.2/opennms-util-14.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.0.1",
+    "Installed":      "src/opennms-util/14.0.1",
+    "Source":         "src/opennms-util/14.0.1/opennms-util-14.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "14.0.0",
+    "Installed":      "src/opennms-util/14.0.0",
+    "Source":         "src/opennms-util/14.0.0/opennms-util-14.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

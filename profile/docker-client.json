@@ -1,0 +1,172 @@
+{
+  "Name":           "docker-client",
+  "Title":          "Docker Client",
+  "SourceUrl":      "http://central.maven.org/maven2/com/spotify/docker-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+  "MinimalVersion": "3.0.0",
+
+  "Versions": [
+  {
+    "Number":         "8.9.0",
+    "Installed":      "src/docker-client/8.9.0",
+    "Source":         "src/docker-client/8.9.0/docker-client-8.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.4",
+    "Installed":      "src/docker-client/8.8.4",
+    "Source":         "src/docker-client/8.8.4/docker-client-8.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.7.3",
+    "Installed":      "src/docker-client/8.7.3",
+    "Source":         "src/docker-client/8.7.3/docker-client-8.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.6.2",
+    "Installed":      "src/docker-client/8.6.2",
+    "Source":         "src/docker-client/8.6.2/docker-client-8.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.0",
+    "Installed":      "src/docker-client/8.5.0",
+    "Source":         "src/docker-client/8.5.0/docker-client-8.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.4.0",
+    "Installed":      "src/docker-client/8.4.0",
+    "Source":         "src/docker-client/8.4.0/docker-client-8.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.3.2",
+    "Installed":      "src/docker-client/8.3.2",
+    "Source":         "src/docker-client/8.3.2/docker-client-8.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.1",
+    "Installed":      "src/docker-client/8.2.1",
+    "Source":         "src/docker-client/8.2.1/docker-client-8.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.1.2",
+    "Installed":      "src/docker-client/8.1.2",
+    "Source":         "src/docker-client/8.1.2/docker-client-8.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.0",
+    "Installed":      "src/docker-client/8.0.0",
+    "Source":         "src/docker-client/8.0.0/docker-client-8.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.2",
+    "Installed":      "src/docker-client/7.0.2",
+    "Source":         "src/docker-client/7.0.2/docker-client-7.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.2.5",
+    "Installed":      "src/docker-client/6.2.5",
+    "Source":         "src/docker-client/6.2.5/docker-client-6.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1.1",
+    "Installed":      "src/docker-client/6.1.1",
+    "Source":         "src/docker-client/6.1.1/docker-client-6.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.0",
+    "Installed":      "src/docker-client/6.0.0",
+    "Source":         "src/docker-client/6.0.0/docker-client-6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.2",
+    "Installed":      "src/docker-client/5.0.2",
+    "Source":         "src/docker-client/5.0.2/docker-client-5.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.8",
+    "Installed":      "src/docker-client/4.0.8",
+    "Source":         "src/docker-client/4.0.8/docker-client-4.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.8",
+    "Installed":      "src/docker-client/3.6.8",
+    "Source":         "src/docker-client/3.6.8/docker-client-3.6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.13",
+    "Installed":      "src/docker-client/3.5.13",
+    "Source":         "src/docker-client/3.5.13/docker-client-3.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/docker-client/3.4.0",
+    "Source":         "src/docker-client/3.4.0/docker-client-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.5",
+    "Installed":      "src/docker-client/3.3.5",
+    "Source":         "src/docker-client/3.3.5/docker-client-3.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/docker-client/3.2.1",
+    "Source":         "src/docker-client/3.2.1/docker-client-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.10",
+    "Installed":      "src/docker-client/3.1.10",
+    "Source":         "src/docker-client/3.1.10/docker-client-3.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/docker-client/3.0.0",
+    "Source":         "src/docker-client/3.0.0/docker-client-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

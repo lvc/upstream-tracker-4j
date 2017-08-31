@@ -2,7 +2,7 @@
 ##################################################################
 # A script to transfer reports of the Java API Tracker to hosting
 #
-# Copyright (C) 2015-2016 Andrey Ponomarenko's ABI Laboratory
+# Copyright (C) 2015-2017 Andrey Ponomarenko's ABI Laboratory
 #
 # Written by Andrey Ponomarenko
 #
@@ -31,7 +31,9 @@
 ##################################################################
 use Getopt::Long;
 Getopt::Long::Configure ("posix_default", "no_ignore_case", "permute");
-use File::Basename qw(dirname);
+use File::Basename qw(dirname basename);
+use File::Temp qw(tempdir);
+use Cwd qw(cwd);
 use strict;
 
 my $Testplan_Init = "scripts/testplan";
@@ -39,9 +41,18 @@ my $Testplan_Init = "scripts/testplan";
 my $HostAddr = undef;
 my $HostDir = undef;
 
-my ($Fast); # 3 times faster but 3 times more web traffic
+my $TMP_DIR = tempdir(CLEANUP=>1);
+my $ORIG_DIR = cwd();
+my $JREPORTS = "api-reports-4j/report";
 
-GetOptions("fast!" => \$Fast) or exit(1);
+my %Opt;
+
+GetOptions(
+    "fast!" => \$Opt{"Fast"}, # 3 times faster but 3 times more web traffic
+    "json!" => \$Opt{"Json"},
+    "index-only!" => \$Opt{"IndexOnly"},
+    "renew!" => \$Opt{"Renew"}
+) or exit(1);
 
 my $Target = undef;
 if(@ARGV) {
@@ -88,12 +99,14 @@ sub sendPackage($)
         return;
     }
     
+    my $Name = basename($Pkg);
+    
     system("scp $Pkg $HostAddr:$HostDir");
     if($?) {
         print STDERR "ERROR: failed to send package\n";
     }
     
-    system("ssh $HostAddr \"cd $HostDir && tar -xf $Pkg && rm -f $Pkg\"");
+    system("ssh $HostAddr \"cd $HostDir && tar -xf $Name && rm -f $Name\"");
     if($?) {
         print STDERR "ERROR: failed to extract package\n";
     }
@@ -106,11 +119,11 @@ sub sendFiles(@)
     my @Files = @_;
     
     my ($Ext, $Opt) = ("txz", "cJf");
-    if(defined $Fast) {
+    if(defined $Opt{"Fast"}) {
         ($Ext, $Opt) = ("tgz", "czf");
     }
     
-    my $Pkg = "update.package.$Ext";
+    my $Pkg = $TMP_DIR."/update.package.$Ext";
     system("tar -$Opt $Pkg ".join(" ", @Files)." --exclude='*.json'");
     
     sendPackage($Pkg);
@@ -140,19 +153,31 @@ sub scenario()
     
     if(defined $Target)
     {
-        if(not grep {$_ eq $Target} @List_F)
-        {
+        if(not grep {$_ eq $Target} @List_F) {
             print STDERR "WARNING: the library \'$Target\' is not presented in the testplan\n";
-            
-            if(not -d "timeline/".$Target)
-            {
-                print STDERR "ERROR: there is no report for \'$Target\'\n";
-                exit(1);
-            }
-            
-            @List_F = ($Target);
         }
+        
+        if(not -d "timeline/".$Target)
+        {
+            print STDERR "ERROR: there is no report for \'$Target\'\n";
+            exit(1);
+        }
+        
+        @List_F = ($Target);
     }
+    
+    my @Other = ("index.html", "css");
+    if(-d "js") {
+        push(@Other, "js");
+    }
+    if(-d "images") {
+        push(@Other, "images");
+    }
+    if(-d "logo") {
+        push(@Other, "logo");
+    }
+    
+    sendFiles(@Other);
     
     foreach my $L (@List_F)
     {
@@ -164,24 +189,42 @@ sub scenario()
         }
         print "Copy $L\n";
         
-        my @Files = ("timeline/$L", "archives_report/$L", "compat_report/$L", "graph/$L");
-        if(-d "package_diff/$L") {
-            push(@Files, "package_diff/$L");
+        my @Files = ("timeline/$L");
+        
+        if(not $Opt{"IndexOnly"})
+        {
+            push(@Files, "archives_report/$L");
+            push(@Files, "compat_report/$L");
+            
+            if(-d "package_diff/$L") {
+                push(@Files, "package_diff/$L");
+            }
+            if(-d "changelog/$L") {
+                push(@Files, "changelog/$L");
+            }
+            if(-d "graph/$L") {
+                push(@Files, "graph/$L");
+            }
+            if(-d "rss/$L") {
+                push(@Files, "rss/$L");
+            }
         }
-        if(-d "changelog/$L") {
-            push(@Files, "changelog/$L");
+        
+        if($Opt{"Renew"}) {
+            system("ssh $HostAddr \"cd $HostDir && rm -fr ".join(" ", @Files)." \"");
         }
         
         sendFiles(@Files);
     }
     
-    my @Other = ("index.html", "css");
-    if(-d "js") {
-        push(@Other, "js");
-    }
+    system("ssh $HostAddr \"cd $HostDir && sed -i -e \'s/index\.html//\' index.html\""); # && find compat_report -empty -type d -delete
     
-    sendFiles(@Other);
-    system("ssh $HostAddr \"cd $HostDir && find compat_report -empty -type d -delete && sed -i -e \'s/index\.html//\' index.html\"");
+    if(defined $Opt{"Json"})
+    {
+        chdir($JREPORTS);
+        system("git diff --exit-code || git pull && git add . && git commit -m 'AUTO update of reports' && git push");
+        chdir($ORIG_DIR);
+    }
     
     exit(0);
 }

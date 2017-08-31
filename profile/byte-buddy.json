@@ -1,0 +1,82 @@
+{
+  "Name":           "byte-buddy",
+  "Title":          "Byte Buddy",
+  "SourceUrl":      "http://central.maven.org/maven2/net/bytebuddy/byte-buddy/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "LatestMicro":    "On",
+  "MinimalVersion": "0.6.15",
+
+  "Versions": [
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/byte-buddy/1.7.3",
+    "Source":         "src/byte-buddy/1.7.3/byte-buddy-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.14",
+    "Installed":      "src/byte-buddy/1.6.14",
+    "Source":         "src/byte-buddy/1.6.14/byte-buddy-1.6.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.13",
+    "Installed":      "src/byte-buddy/1.5.13",
+    "Source":         "src/byte-buddy/1.5.13/byte-buddy-1.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.33",
+    "Installed":      "src/byte-buddy/1.4.33",
+    "Source":         "src/byte-buddy/1.4.33/byte-buddy-1.4.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.20",
+    "Installed":      "src/byte-buddy/1.3.20",
+    "Source":         "src/byte-buddy/1.3.20/byte-buddy-1.3.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/byte-buddy/1.2.3",
+    "Source":         "src/byte-buddy/1.2.3/byte-buddy-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/byte-buddy/1.1.1",
+    "Source":         "src/byte-buddy/1.1.1/byte-buddy-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/byte-buddy/1.0.3",
+    "Source":         "src/byte-buddy/1.0.3/byte-buddy-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.8",
+    "Installed":      "src/byte-buddy/0.7.8",
+    "Source":         "src/byte-buddy/0.7.8/byte-buddy-0.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.15",
+    "Installed":      "src/byte-buddy/0.6.15",
+    "Source":         "src/byte-buddy/0.6.15/byte-buddy-0.6.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

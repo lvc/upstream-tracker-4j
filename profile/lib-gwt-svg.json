@@ -1,0 +1,107 @@
+{
+  "Name":           "lib-gwt-svg",
+  "Title":          "Lib Gwt Svg",
+  "SourceUrl":      "http://central.maven.org/maven2/org/vectomatic/lib-gwt-svg/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.5.13",
+    "Installed":      "src/lib-gwt-svg/0.5.13",
+    "Source":         "src/lib-gwt-svg/0.5.13/lib-gwt-svg-0.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.12",
+    "Installed":      "src/lib-gwt-svg/0.5.12",
+    "Source":         "src/lib-gwt-svg/0.5.12/lib-gwt-svg-0.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.11",
+    "Installed":      "src/lib-gwt-svg/0.5.11",
+    "Source":         "src/lib-gwt-svg/0.5.11/lib-gwt-svg-0.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.10",
+    "Installed":      "src/lib-gwt-svg/0.5.10",
+    "Source":         "src/lib-gwt-svg/0.5.10/lib-gwt-svg-0.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.9",
+    "Installed":      "src/lib-gwt-svg/0.5.9",
+    "Source":         "src/lib-gwt-svg/0.5.9/lib-gwt-svg-0.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.8",
+    "Installed":      "src/lib-gwt-svg/0.5.8",
+    "Source":         "src/lib-gwt-svg/0.5.8/lib-gwt-svg-0.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.7",
+    "Installed":      "src/lib-gwt-svg/0.5.7",
+    "Source":         "src/lib-gwt-svg/0.5.7/lib-gwt-svg-0.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.6",
+    "Installed":      "src/lib-gwt-svg/0.5.6",
+    "Source":         "src/lib-gwt-svg/0.5.6/lib-gwt-svg-0.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.5",
+    "Installed":      "src/lib-gwt-svg/0.5.5",
+    "Source":         "src/lib-gwt-svg/0.5.5/lib-gwt-svg-0.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.4",
+    "Installed":      "src/lib-gwt-svg/0.5.4",
+    "Source":         "src/lib-gwt-svg/0.5.4/lib-gwt-svg-0.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.3",
+    "Installed":      "src/lib-gwt-svg/0.5.3",
+    "Source":         "src/lib-gwt-svg/0.5.3/lib-gwt-svg-0.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.2",
+    "Installed":      "src/lib-gwt-svg/0.5.2",
+    "Source":         "src/lib-gwt-svg/0.5.2/lib-gwt-svg-0.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/lib-gwt-svg/0.5.1",
+    "Source":         "src/lib-gwt-svg/0.5.1/lib-gwt-svg-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/lib-gwt-svg/0.5.0",
+    "Source":         "src/lib-gwt-svg/0.5.0/lib-gwt-svg-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

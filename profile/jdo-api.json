@@ -1,0 +1,30 @@
+{
+  "Name":           "jdo-api",
+  "Title":          "JDO API",
+  "SourceUrl":      "http://central.maven.org/maven2/javax/jdo/jdo-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.1",
+    "Installed":      "src/jdo-api/3.1",
+    "Source":         "src/jdo-api/3.1/jdo-api-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/jdo-api/3.0.1",
+    "Source":         "src/jdo-api/3.0.1/jdo-api-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/jdo-api/3.0",
+    "Source":         "src/jdo-api/3.0/jdo-api-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,443 @@
+{
+  "Name":           "jackson-dataformat-yaml",
+  "Title":          "Jackson Dataformat YAML",
+  "SourceUrl":      "http://central.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.9.0",
+    "Source":         "src/jackson-dataformat-yaml/2.9.0/jackson-dataformat-yaml-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.10",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.10",
+    "Source":         "src/jackson-dataformat-yaml/2.8.10/jackson-dataformat-yaml-2.8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.9",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.9",
+    "Source":         "src/jackson-dataformat-yaml/2.8.9/jackson-dataformat-yaml-2.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.8",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.8",
+    "Source":         "src/jackson-dataformat-yaml/2.8.8/jackson-dataformat-yaml-2.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.7",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.7",
+    "Source":         "src/jackson-dataformat-yaml/2.8.7/jackson-dataformat-yaml-2.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.6",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.6",
+    "Source":         "src/jackson-dataformat-yaml/2.8.6/jackson-dataformat-yaml-2.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.5",
+    "Source":         "src/jackson-dataformat-yaml/2.8.5/jackson-dataformat-yaml-2.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.4",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.4",
+    "Source":         "src/jackson-dataformat-yaml/2.8.4/jackson-dataformat-yaml-2.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.3",
+    "Source":         "src/jackson-dataformat-yaml/2.8.3/jackson-dataformat-yaml-2.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.2",
+    "Source":         "src/jackson-dataformat-yaml/2.8.2/jackson-dataformat-yaml-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.1",
+    "Source":         "src/jackson-dataformat-yaml/2.8.1/jackson-dataformat-yaml-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.8.0",
+    "Source":         "src/jackson-dataformat-yaml/2.8.0/jackson-dataformat-yaml-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.9",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.9",
+    "Source":         "src/jackson-dataformat-yaml/2.7.9/jackson-dataformat-yaml-2.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.8",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.8",
+    "Source":         "src/jackson-dataformat-yaml/2.7.8/jackson-dataformat-yaml-2.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.7",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.7",
+    "Source":         "src/jackson-dataformat-yaml/2.7.7/jackson-dataformat-yaml-2.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.6",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.6",
+    "Source":         "src/jackson-dataformat-yaml/2.7.6/jackson-dataformat-yaml-2.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.5",
+    "Source":         "src/jackson-dataformat-yaml/2.7.5/jackson-dataformat-yaml-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.4",
+    "Source":         "src/jackson-dataformat-yaml/2.7.4/jackson-dataformat-yaml-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.3",
+    "Source":         "src/jackson-dataformat-yaml/2.7.3/jackson-dataformat-yaml-2.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.2",
+    "Source":         "src/jackson-dataformat-yaml/2.7.2/jackson-dataformat-yaml-2.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.1",
+    "Source":         "src/jackson-dataformat-yaml/2.7.1/jackson-dataformat-yaml-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.7.0",
+    "Source":         "src/jackson-dataformat-yaml/2.7.0/jackson-dataformat-yaml-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.7",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.7",
+    "Source":         "src/jackson-dataformat-yaml/2.6.7/jackson-dataformat-yaml-2.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.6",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.6",
+    "Source":         "src/jackson-dataformat-yaml/2.6.6/jackson-dataformat-yaml-2.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.5",
+    "Source":         "src/jackson-dataformat-yaml/2.6.5/jackson-dataformat-yaml-2.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.4",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.4",
+    "Source":         "src/jackson-dataformat-yaml/2.6.4/jackson-dataformat-yaml-2.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.3",
+    "Source":         "src/jackson-dataformat-yaml/2.6.3/jackson-dataformat-yaml-2.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.2",
+    "Source":         "src/jackson-dataformat-yaml/2.6.2/jackson-dataformat-yaml-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.1",
+    "Source":         "src/jackson-dataformat-yaml/2.6.1/jackson-dataformat-yaml-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.6.0",
+    "Source":         "src/jackson-dataformat-yaml/2.6.0/jackson-dataformat-yaml-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.5.5",
+    "Source":         "src/jackson-dataformat-yaml/2.5.5/jackson-dataformat-yaml-2.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/jackson-dataformat-yaml/2.5.4",
+    "Source":         "src/jackson-dataformat-yaml/2.5.4/jackson-dataformat-yaml-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.5.3",
+    "Source":         "src/jackson-dataformat-yaml/2.5.3/jackson-dataformat-yaml-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.5.2",
+    "Source":         "src/jackson-dataformat-yaml/2.5.2/jackson-dataformat-yaml-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.5.1",
+    "Source":         "src/jackson-dataformat-yaml/2.5.1/jackson-dataformat-yaml-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.5.0",
+    "Source":         "src/jackson-dataformat-yaml/2.5.0/jackson-dataformat-yaml-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/jackson-dataformat-yaml/2.4.6",
+    "Source":         "src/jackson-dataformat-yaml/2.4.6/jackson-dataformat-yaml-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.4.5",
+    "Source":         "src/jackson-dataformat-yaml/2.4.5/jackson-dataformat-yaml-2.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "src/jackson-dataformat-yaml/2.4.4",
+    "Source":         "src/jackson-dataformat-yaml/2.4.4/jackson-dataformat-yaml-2.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.4.3",
+    "Source":         "src/jackson-dataformat-yaml/2.4.3/jackson-dataformat-yaml-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.4.2",
+    "Source":         "src/jackson-dataformat-yaml/2.4.2/jackson-dataformat-yaml-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.4.1",
+    "Source":         "src/jackson-dataformat-yaml/2.4.1/jackson-dataformat-yaml-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.4.0",
+    "Source":         "src/jackson-dataformat-yaml/2.4.0/jackson-dataformat-yaml-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.3.5",
+    "Source":         "src/jackson-dataformat-yaml/2.3.5/jackson-dataformat-yaml-2.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/jackson-dataformat-yaml/2.3.4",
+    "Source":         "src/jackson-dataformat-yaml/2.3.4/jackson-dataformat-yaml-2.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.3.3",
+    "Source":         "src/jackson-dataformat-yaml/2.3.3/jackson-dataformat-yaml-2.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.3.2",
+    "Source":         "src/jackson-dataformat-yaml/2.3.2/jackson-dataformat-yaml-2.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.3.1",
+    "Source":         "src/jackson-dataformat-yaml/2.3.1/jackson-dataformat-yaml-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.3.0",
+    "Source":         "src/jackson-dataformat-yaml/2.3.0/jackson-dataformat-yaml-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.2.3",
+    "Source":         "src/jackson-dataformat-yaml/2.2.3/jackson-dataformat-yaml-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.2.2",
+    "Source":         "src/jackson-dataformat-yaml/2.2.2/jackson-dataformat-yaml-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.2.1",
+    "Source":         "src/jackson-dataformat-yaml/2.2.1/jackson-dataformat-yaml-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.2.0",
+    "Source":         "src/jackson-dataformat-yaml/2.2.0/jackson-dataformat-yaml-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.1.5",
+    "Source":         "src/jackson-dataformat-yaml/2.1.5/jackson-dataformat-yaml-2.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/jackson-dataformat-yaml/2.1.4",
+    "Source":         "src/jackson-dataformat-yaml/2.1.4/jackson-dataformat-yaml-2.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/jackson-dataformat-yaml/2.1.3",
+    "Source":         "src/jackson-dataformat-yaml/2.1.3/jackson-dataformat-yaml-2.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.1.2",
+    "Source":         "src/jackson-dataformat-yaml/2.1.2/jackson-dataformat-yaml-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/jackson-dataformat-yaml/2.1.1",
+    "Source":         "src/jackson-dataformat-yaml/2.1.1/jackson-dataformat-yaml-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.1.0",
+    "Source":         "src/jackson-dataformat-yaml/2.1.0/jackson-dataformat-yaml-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/jackson-dataformat-yaml/2.0.5",
+    "Source":         "src/jackson-dataformat-yaml/2.0.5/jackson-dataformat-yaml-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/jackson-dataformat-yaml/2.0.2",
+    "Source":         "src/jackson-dataformat-yaml/2.0.2/jackson-dataformat-yaml-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/jackson-dataformat-yaml/2.0.0",
+    "Source":         "src/jackson-dataformat-yaml/2.0.0/jackson-dataformat-yaml-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,114 @@
+{
+  "Name":           "truth",
+  "Title":          "Truth",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/truth/truth/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.35",
+    "Installed":      "src/truth/0.35",
+    "Source":         "src/truth/0.35/truth-0.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.34",
+    "Installed":      "src/truth/0.34",
+    "Source":         "src/truth/0.34/truth-0.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.33",
+    "Installed":      "src/truth/0.33",
+    "Source":         "src/truth/0.33/truth-0.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.32",
+    "Installed":      "src/truth/0.32",
+    "Source":         "src/truth/0.32/truth-0.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.31",
+    "Installed":      "src/truth/0.31",
+    "Source":         "src/truth/0.31/truth-0.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.30",
+    "Installed":      "src/truth/0.30",
+    "Source":         "src/truth/0.30/truth-0.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.29",
+    "Installed":      "src/truth/0.29",
+    "Source":         "src/truth/0.29/truth-0.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.28",
+    "Installed":      "src/truth/0.28",
+    "Source":         "src/truth/0.28/truth-0.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.27",
+    "Installed":      "src/truth/0.27",
+    "Source":         "src/truth/0.27/truth-0.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.26",
+    "Installed":      "src/truth/0.26",
+    "Source":         "src/truth/0.26/truth-0.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.25",
+    "Installed":      "src/truth/0.25",
+    "Source":         "src/truth/0.25/truth-0.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.24",
+    "Installed":      "src/truth/0.24",
+    "Source":         "src/truth/0.24/truth-0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.23",
+    "Installed":      "src/truth/0.23",
+    "Source":         "src/truth/0.23/truth-0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22",
+    "Installed":      "src/truth/0.22",
+    "Source":         "src/truth/0.22/truth-0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21",
+    "Installed":      "src/truth/0.21",
+    "Source":         "src/truth/0.21/truth-0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,44 @@
+{
+  "Name":           "guice",
+  "Title":          "Google Guice Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/inject/guice/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/guice/4.1.0",
+    "Source":         "src/guice/4.1.0/guice-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/guice/4.0",
+    "Source":         "src/guice/4.0/guice-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/guice/3.0",
+    "Source":         "src/guice/3.0/guice-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/guice/2.0",
+    "Source":         "src/guice/2.0/guice-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/guice/1.0",
+    "Source":         "src/guice/1.0/guice-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

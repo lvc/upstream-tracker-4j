@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "1.19.4",
+    "Installed":      "src/jersey-server/1.19.4",
+    "Source":         "src/jersey-server/1.19.4/jersey-server-1.19.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19.3",
+    "Installed":      "src/jersey-server/1.19.3",
+    "Source":         "src/jersey-server/1.19.3/jersey-server-1.19.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.19.2",
     "Installed":      "src/jersey-server/1.19.2",
     "Source":         "src/jersey-server/1.19.2/jersey-server-1.19.2.jar",
@@ -25,6 +39,13 @@
     "Number":         "1.19",
     "Installed":      "src/jersey-server/1.19",
     "Source":         "src/jersey-server/1.19/jersey-server-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.6",
+    "Installed":      "src/jersey-server/1.18.6",
+    "Source":         "src/jersey-server/1.18.6/jersey-server-1.18.6.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

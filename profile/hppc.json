@@ -1,0 +1,129 @@
+{
+  "Name":           "hppc",
+  "Title":          "HPPC Collections",
+  "SourceUrl":      "http://central.maven.org/maven2/com/carrotsearch/hppc/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/hppc/0.7.2",
+    "Source":         "src/hppc/0.7.2/hppc-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/hppc/0.7.1",
+    "Source":         "src/hppc/0.7.1/hppc-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/hppc/0.7.0",
+    "Source":         "src/hppc/0.7.0/hppc-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/hppc/0.6.1",
+    "Source":         "src/hppc/0.6.1/hppc-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/hppc/0.6.0",
+    "Source":         "src/hppc/0.6.0/hppc-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.4",
+    "Installed":      "src/hppc/0.5.4",
+    "Source":         "src/hppc/0.5.4/hppc-0.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.3",
+    "Installed":      "src/hppc/0.5.3",
+    "Source":         "src/hppc/0.5.3/hppc-0.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.2",
+    "Installed":      "src/hppc/0.5.2",
+    "Source":         "src/hppc/0.5.2/hppc-0.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/hppc/0.5.1",
+    "Source":         "src/hppc/0.5.1/hppc-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/hppc/0.5.0",
+    "Source":         "src/hppc/0.5.0/hppc-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.3",
+    "Installed":      "src/hppc/0.4.3",
+    "Source":         "src/hppc/0.4.3/hppc-0.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.2",
+    "Installed":      "src/hppc/0.4.2",
+    "Source":         "src/hppc/0.4.2/hppc-0.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.1",
+    "Installed":      "src/hppc/0.4.1",
+    "Source":         "src/hppc/0.4.1/hppc-0.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/hppc/0.4.0",
+    "Source":         "src/hppc/0.4.0/hppc-0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.4",
+    "Installed":      "src/hppc/0.3.4",
+    "Source":         "src/hppc/0.3.4/hppc-0.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.3",
+    "Installed":      "src/hppc/0.3.3",
+    "Source":         "src/hppc/0.3.3/hppc-0.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.2",
+    "Installed":      "src/hppc/0.3.2",
+    "Source":         "src/hppc/0.3.2/hppc-0.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

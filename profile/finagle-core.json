@@ -1,0 +1,164 @@
+{
+  "Name":           "finagle-core",
+  "Title":          "Finagle Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/twitter/finagle-core_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "finagle-core_2.11",
+
+  "Versions": [
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/finagle-core/7.0.0",
+    "Source":         "src/finagle-core/7.0.0/finagle-core_2.11-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.45.0",
+    "Installed":      "src/finagle-core/6.45.0",
+    "Source":         "src/finagle-core/6.45.0/finagle-core_2.11-6.45.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.44.0",
+    "Installed":      "src/finagle-core/6.44.0",
+    "Source":         "src/finagle-core/6.44.0/finagle-core_2.11-6.44.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.43.0",
+    "Installed":      "src/finagle-core/6.43.0",
+    "Source":         "src/finagle-core/6.43.0/finagle-core_2.11-6.43.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.42.0",
+    "Installed":      "src/finagle-core/6.42.0",
+    "Source":         "src/finagle-core/6.42.0/finagle-core_2.11-6.42.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.41.0",
+    "Installed":      "src/finagle-core/6.41.0",
+    "Source":         "src/finagle-core/6.41.0/finagle-core_2.11-6.41.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.40.0",
+    "Installed":      "src/finagle-core/6.40.0",
+    "Source":         "src/finagle-core/6.40.0/finagle-core_2.11-6.40.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.39.0",
+    "Installed":      "src/finagle-core/6.39.0",
+    "Source":         "src/finagle-core/6.39.0/finagle-core_2.11-6.39.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.38.0",
+    "Installed":      "src/finagle-core/6.38.0",
+    "Source":         "src/finagle-core/6.38.0/finagle-core_2.11-6.38.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.37.0",
+    "Installed":      "src/finagle-core/6.37.0",
+    "Source":         "src/finagle-core/6.37.0/finagle-core_2.11-6.37.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.36.0",
+    "Installed":      "src/finagle-core/6.36.0",
+    "Source":         "src/finagle-core/6.36.0/finagle-core_2.11-6.36.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.35.0",
+    "Installed":      "src/finagle-core/6.35.0",
+    "Source":         "src/finagle-core/6.35.0/finagle-core_2.11-6.35.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.34.0",
+    "Installed":      "src/finagle-core/6.34.0",
+    "Source":         "src/finagle-core/6.34.0/finagle-core_2.11-6.34.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.33.0",
+    "Installed":      "src/finagle-core/6.33.0",
+    "Source":         "src/finagle-core/6.33.0/finagle-core_2.11-6.33.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.31.0",
+    "Installed":      "src/finagle-core/6.31.0",
+    "Source":         "src/finagle-core/6.31.0/finagle-core_2.11-6.31.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.30.0",
+    "Installed":      "src/finagle-core/6.30.0",
+    "Source":         "src/finagle-core/6.30.0/finagle-core_2.11-6.30.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.29.0",
+    "Installed":      "src/finagle-core/6.29.0",
+    "Source":         "src/finagle-core/6.29.0/finagle-core_2.11-6.29.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.28.0",
+    "Installed":      "src/finagle-core/6.28.0",
+    "Source":         "src/finagle-core/6.28.0/finagle-core_2.11-6.28.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.27.0",
+    "Installed":      "src/finagle-core/6.27.0",
+    "Source":         "src/finagle-core/6.27.0/finagle-core_2.11-6.27.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.26.0",
+    "Installed":      "src/finagle-core/6.26.0",
+    "Source":         "src/finagle-core/6.26.0/finagle-core_2.11-6.26.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.25.0",
+    "Installed":      "src/finagle-core/6.25.0",
+    "Source":         "src/finagle-core/6.25.0/finagle-core_2.11-6.25.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.24.0",
+    "Installed":      "src/finagle-core/6.24.0",
+    "Source":         "src/finagle-core/6.24.0/finagle-core_2.11-6.24.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,157 @@
+{
+  "Name":           "jaxb-impl",
+  "Title":          "Old JAXB Runtime",
+  "SourceUrl":      "http://central.maven.org/maven2/com/sun/xml/bind/jaxb-impl/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.2",
+
+  "Versions": [
+  {
+    "Number":         "2.3.0-b170127.1453",
+    "Installed":      "src/jaxb-impl/2.3.0-b170127.1453",
+    "Source":         "src/jaxb-impl/2.3.0-b170127.1453/jaxb-impl-2.3.0-b170127.1453.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.11",
+    "Installed":      "src/jaxb-impl/2.2.11",
+    "Source":         "src/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.10",
+    "Installed":      "src/jaxb-impl/2.2.10",
+    "Source":         "src/jaxb-impl/2.2.10/jaxb-impl-2.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "src/jaxb-impl/2.2.7",
+    "Source":         "src/jaxb-impl/2.2.7/jaxb-impl-2.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/jaxb-impl/2.2.6",
+    "Source":         "src/jaxb-impl/2.2.6/jaxb-impl-2.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5-5",
+    "Installed":      "src/jaxb-impl/2.2.5-5",
+    "Source":         "src/jaxb-impl/2.2.5-5/jaxb-impl-2.2.5-5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5-4",
+    "Installed":      "src/jaxb-impl/2.2.5-4",
+    "Source":         "src/jaxb-impl/2.2.5-4/jaxb-impl-2.2.5-4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5-3",
+    "Installed":      "src/jaxb-impl/2.2.5-3",
+    "Source":         "src/jaxb-impl/2.2.5-3/jaxb-impl-2.2.5-3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5-2",
+    "Installed":      "src/jaxb-impl/2.2.5-2",
+    "Source":         "src/jaxb-impl/2.2.5-2/jaxb-impl-2.2.5-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5-1",
+    "Installed":      "src/jaxb-impl/2.2.5-1",
+    "Source":         "src/jaxb-impl/2.2.5-1/jaxb-impl-2.2.5-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5.1",
+    "Installed":      "src/jaxb-impl/2.2.5.1",
+    "Source":         "src/jaxb-impl/2.2.5.1/jaxb-impl-2.2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/jaxb-impl/2.2.5",
+    "Source":         "src/jaxb-impl/2.2.5/jaxb-impl-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4-1",
+    "Installed":      "src/jaxb-impl/2.2.4-1",
+    "Source":         "src/jaxb-impl/2.2.4-1/jaxb-impl-2.2.4-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/jaxb-impl/2.2.4",
+    "Source":         "src/jaxb-impl/2.2.4/jaxb-impl-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3-2",
+    "Installed":      "src/jaxb-impl/2.2.3-2",
+    "Source":         "src/jaxb-impl/2.2.3-2/jaxb-impl-2.2.3-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3-1",
+    "Installed":      "src/jaxb-impl/2.2.3-1",
+    "Source":         "src/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/jaxb-impl/2.2.3",
+    "Source":         "src/jaxb-impl/2.2.3/jaxb-impl-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/jaxb-impl/2.2.2",
+    "Source":         "src/jaxb-impl/2.2.2/jaxb-impl-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1.1",
+    "Installed":      "src/jaxb-impl/2.2.1.1",
+    "Source":         "src/jaxb-impl/2.2.1.1/jaxb-impl-2.2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/jaxb-impl/2.2.1",
+    "Source":         "src/jaxb-impl/2.2.1/jaxb-impl-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/jaxb-impl/2.2",
+    "Source":         "src/jaxb-impl/2.2/jaxb-impl-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

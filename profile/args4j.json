@@ -1,0 +1,204 @@
+{
+  "Name":           "args4j",
+  "SourceUrl":      "http://central.maven.org/maven2/args4j/args4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.33",
+    "Installed":      "src/args4j/2.33",
+    "Source":         "src/args4j/2.33/args4j-2.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.32",
+    "Installed":      "src/args4j/2.32",
+    "Source":         "src/args4j/2.32/args4j-2.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.31",
+    "Installed":      "src/args4j/2.0.31",
+    "Source":         "src/args4j/2.0.31/args4j-2.0.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.29",
+    "Installed":      "src/args4j/2.0.29",
+    "Source":         "src/args4j/2.0.29/args4j-2.0.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.28",
+    "Installed":      "src/args4j/2.0.28",
+    "Source":         "src/args4j/2.0.28/args4j-2.0.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.27",
+    "Installed":      "src/args4j/2.0.27",
+    "Source":         "src/args4j/2.0.27/args4j-2.0.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.26",
+    "Installed":      "src/args4j/2.0.26",
+    "Source":         "src/args4j/2.0.26/args4j-2.0.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.25",
+    "Installed":      "src/args4j/2.0.25",
+    "Source":         "src/args4j/2.0.25/args4j-2.0.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.24",
+    "Installed":      "src/args4j/2.0.24",
+    "Source":         "src/args4j/2.0.24/args4j-2.0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.23",
+    "Installed":      "src/args4j/2.0.23",
+    "Source":         "src/args4j/2.0.23/args4j-2.0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.22",
+    "Installed":      "src/args4j/2.0.22",
+    "Source":         "src/args4j/2.0.22/args4j-2.0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.16",
+    "Installed":      "src/args4j/2.0.16",
+    "Source":         "src/args4j/2.0.16/args4j-2.0.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.15",
+    "Installed":      "src/args4j/2.0.15",
+    "Source":         "src/args4j/2.0.15/args4j-2.0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.14",
+    "Installed":      "src/args4j/2.0.14",
+    "Source":         "src/args4j/2.0.14/args4j-2.0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.13",
+    "Installed":      "src/args4j/2.0.13",
+    "Source":         "src/args4j/2.0.13/args4j-2.0.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.12",
+    "Installed":      "src/args4j/2.0.12",
+    "Source":         "src/args4j/2.0.12/args4j-2.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.11",
+    "Installed":      "src/args4j/2.0.11",
+    "Source":         "src/args4j/2.0.11/args4j-2.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.10",
+    "Installed":      "src/args4j/2.0.10",
+    "Source":         "src/args4j/2.0.10/args4j-2.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.9",
+    "Installed":      "src/args4j/2.0.9",
+    "Source":         "src/args4j/2.0.9/args4j-2.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/args4j/2.0.8",
+    "Source":         "src/args4j/2.0.8/args4j-2.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/args4j/2.0.7",
+    "Source":         "src/args4j/2.0.7/args4j-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/args4j/2.0.6",
+    "Source":         "src/args4j/2.0.6/args4j-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/args4j/2.0.5",
+    "Source":         "src/args4j/2.0.5/args4j-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/args4j/2.0.4",
+    "Source":         "src/args4j/2.0.4/args4j-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/args4j/2.0.3",
+    "Source":         "src/args4j/2.0.3/args4j-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/args4j/2.0.2",
+    "Source":         "src/args4j/2.0.2/args4j-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/args4j/2.0.1",
+    "Source":         "src/args4j/2.0.1/args4j-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/args4j/1.0",
+    "Source":         "src/args4j/1.0/args4j-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

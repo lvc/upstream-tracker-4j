@@ -1,0 +1,86 @@
+{
+  "Name":           "javacc",
+  "Title":          "JavaCC",
+  "SourceUrl":      "http://central.maven.org/maven2/net/java/dev/javacc/javacc/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "7.0.2",
+    "Installed":      "src/javacc/7.0.2",
+    "Source":         "src/javacc/7.0.2/javacc-7.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.1",
+    "Installed":      "src/javacc/7.0.1",
+    "Source":         "src/javacc/7.0.1/javacc-7.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/javacc/7.0.0",
+    "Source":         "src/javacc/7.0.0/javacc-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1.2",
+    "Installed":      "src/javacc/6.1.2",
+    "Source":         "src/javacc/6.1.2/javacc-6.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1.1",
+    "Installed":      "src/javacc/6.1.1",
+    "Source":         "src/javacc/6.1.1/javacc-6.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1.0",
+    "Installed":      "src/javacc/6.1.0",
+    "Source":         "src/javacc/6.1.0/javacc-6.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0",
+    "Installed":      "src/javacc/5.0",
+    "Source":         "src/javacc/5.0/javacc-5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2",
+    "Installed":      "src/javacc/4.2",
+    "Source":         "src/javacc/4.2/javacc-4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1",
+    "Installed":      "src/javacc/4.1",
+    "Source":         "src/javacc/4.1/javacc-4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/javacc/4.0",
+    "Source":         "src/javacc/4.0/javacc-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/javacc/3.2",
+    "Source":         "src/javacc/3.2/javacc-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,100 @@
+{
+  "Name":           "qdox",
+  "Title":          "QDox",
+  "SourceUrl":      "http://central.maven.org/maven2/com/thoughtworks/qdox/qdox/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0-M7",
+    "Installed":      "src/qdox/2.0-M7",
+    "Source":         "src/qdox/2.0-M7/qdox-2.0-M7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.1",
+    "Installed":      "src/qdox/1.12.1",
+    "Source":         "src/qdox/1.12.1/qdox-1.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/qdox/1.12",
+    "Source":         "src/qdox/1.12/qdox-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/qdox/1.11",
+    "Source":         "src/qdox/1.11/qdox-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.1",
+    "Installed":      "src/qdox/1.10.1",
+    "Source":         "src/qdox/1.10.1/qdox-1.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/qdox/1.10",
+    "Source":         "src/qdox/1.10/qdox-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.2",
+    "Installed":      "src/qdox/1.9.2",
+    "Source":         "src/qdox/1.9.2/qdox-1.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/qdox/1.9.1",
+    "Source":         "src/qdox/1.9.1/qdox-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/qdox/1.9",
+    "Source":         "src/qdox/1.9/qdox-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/qdox/1.8",
+    "Source":         "src/qdox/1.8/qdox-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/qdox/1.7",
+    "Source":         "src/qdox/1.7/qdox-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/qdox/1.6.3",
+    "Source":         "src/qdox/1.6.3/qdox-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/qdox/1.6.2",
+    "Source":         "src/qdox/1.6.2/qdox-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

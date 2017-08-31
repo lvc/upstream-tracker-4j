@@ -1,0 +1,298 @@
+{
+  "Name":           "proofpoint-units",
+  "Title":          "Proofpoint Units",
+  "SourceUrl":      "http://central.maven.org/maven2/com/proofpoint/platform/units/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.20",
+  "Package":        "units",
+
+  "Versions": [
+  {
+    "Number":         "1.60",
+    "Installed":      "src/proofpoint-units/1.60",
+    "Source":         "src/proofpoint-units/1.60/units-1.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.59",
+    "Installed":      "src/proofpoint-units/1.59",
+    "Source":         "src/proofpoint-units/1.59/units-1.59.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.58",
+    "Installed":      "src/proofpoint-units/1.58",
+    "Source":         "src/proofpoint-units/1.58/units-1.58.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.57",
+    "Installed":      "src/proofpoint-units/1.57",
+    "Source":         "src/proofpoint-units/1.57/units-1.57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.56",
+    "Installed":      "src/proofpoint-units/1.56",
+    "Source":         "src/proofpoint-units/1.56/units-1.56.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.55",
+    "Installed":      "src/proofpoint-units/1.55",
+    "Source":         "src/proofpoint-units/1.55/units-1.55.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.54",
+    "Installed":      "src/proofpoint-units/1.54",
+    "Source":         "src/proofpoint-units/1.54/units-1.54.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.53",
+    "Installed":      "src/proofpoint-units/1.53",
+    "Source":         "src/proofpoint-units/1.53/units-1.53.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.52",
+    "Installed":      "src/proofpoint-units/1.52",
+    "Source":         "src/proofpoint-units/1.52/units-1.52.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.51",
+    "Installed":      "src/proofpoint-units/1.51",
+    "Source":         "src/proofpoint-units/1.51/units-1.51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50",
+    "Installed":      "src/proofpoint-units/1.50",
+    "Source":         "src/proofpoint-units/1.50/units-1.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.49",
+    "Installed":      "src/proofpoint-units/1.49",
+    "Source":         "src/proofpoint-units/1.49/units-1.49.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.48",
+    "Installed":      "src/proofpoint-units/1.48",
+    "Source":         "src/proofpoint-units/1.48/units-1.48.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47",
+    "Installed":      "src/proofpoint-units/1.47",
+    "Source":         "src/proofpoint-units/1.47/units-1.47.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.46",
+    "Installed":      "src/proofpoint-units/1.46",
+    "Source":         "src/proofpoint-units/1.46/units-1.46.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.45",
+    "Installed":      "src/proofpoint-units/1.45",
+    "Source":         "src/proofpoint-units/1.45/units-1.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.44",
+    "Installed":      "src/proofpoint-units/1.44",
+    "Source":         "src/proofpoint-units/1.44/units-1.44.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.43",
+    "Installed":      "src/proofpoint-units/1.43",
+    "Source":         "src/proofpoint-units/1.43/units-1.43.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.42",
+    "Installed":      "src/proofpoint-units/1.42",
+    "Source":         "src/proofpoint-units/1.42/units-1.42.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.41",
+    "Installed":      "src/proofpoint-units/1.41",
+    "Source":         "src/proofpoint-units/1.41/units-1.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.40",
+    "Installed":      "src/proofpoint-units/1.40",
+    "Source":         "src/proofpoint-units/1.40/units-1.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.39",
+    "Installed":      "src/proofpoint-units/1.39",
+    "Source":         "src/proofpoint-units/1.39/units-1.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.38",
+    "Installed":      "src/proofpoint-units/1.38",
+    "Source":         "src/proofpoint-units/1.38/units-1.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.37",
+    "Installed":      "src/proofpoint-units/1.37",
+    "Source":         "src/proofpoint-units/1.37/units-1.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.36",
+    "Installed":      "src/proofpoint-units/1.36",
+    "Source":         "src/proofpoint-units/1.36/units-1.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.35",
+    "Installed":      "src/proofpoint-units/1.35",
+    "Source":         "src/proofpoint-units/1.35/units-1.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.34",
+    "Installed":      "src/proofpoint-units/1.34",
+    "Source":         "src/proofpoint-units/1.34/units-1.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.33",
+    "Installed":      "src/proofpoint-units/1.33",
+    "Source":         "src/proofpoint-units/1.33/units-1.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.32",
+    "Installed":      "src/proofpoint-units/1.32",
+    "Source":         "src/proofpoint-units/1.32/units-1.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.31",
+    "Installed":      "src/proofpoint-units/1.31",
+    "Source":         "src/proofpoint-units/1.31/units-1.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.30",
+    "Installed":      "src/proofpoint-units/1.30",
+    "Source":         "src/proofpoint-units/1.30/units-1.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.29",
+    "Installed":      "src/proofpoint-units/1.29",
+    "Source":         "src/proofpoint-units/1.29/units-1.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.28",
+    "Installed":      "src/proofpoint-units/1.28",
+    "Source":         "src/proofpoint-units/1.28/units-1.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.27",
+    "Installed":      "src/proofpoint-units/1.27",
+    "Source":         "src/proofpoint-units/1.27/units-1.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.26",
+    "Installed":      "src/proofpoint-units/1.26",
+    "Source":         "src/proofpoint-units/1.26/units-1.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.25",
+    "Installed":      "src/proofpoint-units/1.25",
+    "Source":         "src/proofpoint-units/1.25/units-1.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.24",
+    "Installed":      "src/proofpoint-units/1.24",
+    "Source":         "src/proofpoint-units/1.24/units-1.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.23",
+    "Installed":      "src/proofpoint-units/1.23",
+    "Source":         "src/proofpoint-units/1.23/units-1.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.22",
+    "Installed":      "src/proofpoint-units/1.22",
+    "Source":         "src/proofpoint-units/1.22/units-1.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.21",
+    "Installed":      "src/proofpoint-units/1.21",
+    "Source":         "src/proofpoint-units/1.21/units-1.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20",
+    "Installed":      "src/proofpoint-units/1.20",
+    "Source":         "src/proofpoint-units/1.20/units-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

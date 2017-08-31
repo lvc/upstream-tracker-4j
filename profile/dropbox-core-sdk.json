@@ -1,0 +1,123 @@
+{
+  "Name":           "dropbox-core-sdk",
+  "Title":          "Dropbox SDK",
+  "SourceUrl":      "http://central.maven.org/maven2/com/dropbox/core/dropbox-core-sdk/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.0.0",
+  "SkipExt":        [ "zip", "tar" ],
+
+  "Versions": [
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/dropbox-core-sdk/3.0.3",
+    "Source":         "src/dropbox-core-sdk/3.0.3/dropbox-core-sdk-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/dropbox-core-sdk/3.0.2",
+    "Source":         "src/dropbox-core-sdk/3.0.2/dropbox-core-sdk-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/dropbox-core-sdk/3.0.1",
+    "Source":         "src/dropbox-core-sdk/3.0.1/dropbox-core-sdk-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/dropbox-core-sdk/3.0.0",
+    "Source":         "src/dropbox-core-sdk/3.0.0/dropbox-core-sdk-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/dropbox-core-sdk/2.1.2",
+    "Source":         "src/dropbox-core-sdk/2.1.2/dropbox-core-sdk-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/dropbox-core-sdk/2.1.1",
+    "Source":         "src/dropbox-core-sdk/2.1.1/dropbox-core-sdk-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/dropbox-core-sdk/2.1.0",
+    "Source":         "src/dropbox-core-sdk/2.1.0/dropbox-core-sdk-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/dropbox-core-sdk/2.0.7",
+    "Source":         "src/dropbox-core-sdk/2.0.7/dropbox-core-sdk-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/dropbox-core-sdk/2.0.6",
+    "Source":         "src/dropbox-core-sdk/2.0.6/dropbox-core-sdk-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5.1",
+    "Installed":      "src/dropbox-core-sdk/2.0.5.1",
+    "Source":         "src/dropbox-core-sdk/2.0.5.1/dropbox-core-sdk-2.0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/dropbox-core-sdk/2.0.5",
+    "Source":         "src/dropbox-core-sdk/2.0.5/dropbox-core-sdk-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/dropbox-core-sdk/2.0.4",
+    "Source":         "src/dropbox-core-sdk/2.0.4/dropbox-core-sdk-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/dropbox-core-sdk/2.0.3",
+    "Source":         "src/dropbox-core-sdk/2.0.3/dropbox-core-sdk-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/dropbox-core-sdk/2.0.2",
+    "Source":         "src/dropbox-core-sdk/2.0.2/dropbox-core-sdk-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/dropbox-core-sdk/2.0.1",
+    "Source":         "src/dropbox-core-sdk/2.0.1/dropbox-core-sdk-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/dropbox-core-sdk/2.0.0",
+    "Source":         "src/dropbox-core-sdk/2.0.0/dropbox-core-sdk-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

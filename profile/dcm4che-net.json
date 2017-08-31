@@ -1,0 +1,109 @@
+{
+  "Name":           "dcm4che-net",
+  "Title":          "Dcm4che Net",
+  "SourceUrl":      "http://www.dcm4che.org/maven2/org/dcm4che/dcm4che-net/",
+  "SkipUrl":        [ "arc-light" ],
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "5.10.5",
+    "Installed":      "src/dcm4che-net/5.10.5",
+    "Source":         "src/dcm4che-net/5.10.5/dcm4che-net-5.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.8",
+    "Installed":      "src/dcm4che-net/3.3.8",
+    "Source":         "src/dcm4che-net/3.3.8/dcm4che-net-3.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.7",
+    "Installed":      "src/dcm4che-net/3.3.7",
+    "Source":         "src/dcm4che-net/3.3.7/dcm4che-net-3.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.6",
+    "Installed":      "src/dcm4che-net/3.3.6",
+    "Source":         "src/dcm4che-net/3.3.6/dcm4che-net-3.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.5",
+    "Installed":      "src/dcm4che-net/3.3.5",
+    "Source":         "src/dcm4che-net/3.3.5/dcm4che-net-3.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.4",
+    "Installed":      "src/dcm4che-net/3.3.4",
+    "Source":         "src/dcm4che-net/3.3.4/dcm4che-net-3.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.3",
+    "Installed":      "src/dcm4che-net/3.3.3",
+    "Source":         "src/dcm4che-net/3.3.3/dcm4che-net-3.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.2",
+    "Installed":      "src/dcm4che-net/3.3.2",
+    "Source":         "src/dcm4che-net/3.3.2/dcm4che-net-3.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/dcm4che-net/3.3.1",
+    "Source":         "src/dcm4che-net/3.3.1/dcm4che-net-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/dcm4che-net/3.3.0",
+    "Source":         "src/dcm4che-net/3.3.0/dcm4che-net-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/dcm4che-net/3.2.1",
+    "Source":         "src/dcm4che-net/3.2.1/dcm4che-net-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/dcm4che-net/3.2.0",
+    "Source":         "src/dcm4che-net/3.2.0/dcm4che-net-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/dcm4che-net/3.0.1",
+    "Source":         "src/dcm4che-net/3.0.1/dcm4che-net-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/dcm4che-net/3.0.0",
+    "Source":         "src/dcm4che-net/3.0.0/dcm4che-net-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,149 @@
+{
+  "Name":           "dbunit",
+  "Title":          "DbUnit Extension",
+  "SourceUrl":      "http://central.maven.org/maven2/org/dbunit/dbunit/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/dbunit/2.5.4",
+    "Source":         "src/dbunit/2.5.4/dbunit-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/dbunit/2.5.3",
+    "Source":         "src/dbunit/2.5.3/dbunit-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/dbunit/2.5.2",
+    "Source":         "src/dbunit/2.5.2/dbunit-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/dbunit/2.5.1",
+    "Source":         "src/dbunit/2.5.1/dbunit-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/dbunit/2.5.0",
+    "Source":         "src/dbunit/2.5.0/dbunit-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.9",
+    "Installed":      "src/dbunit/2.4.9",
+    "Source":         "src/dbunit/2.4.9/dbunit-2.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.8",
+    "Installed":      "src/dbunit/2.4.8",
+    "Source":         "src/dbunit/2.4.8/dbunit-2.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.7",
+    "Installed":      "src/dbunit/2.4.7",
+    "Source":         "src/dbunit/2.4.7/dbunit-2.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/dbunit/2.4.6",
+    "Source":         "src/dbunit/2.4.6/dbunit-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "src/dbunit/2.4.5",
+    "Source":         "src/dbunit/2.4.5/dbunit-2.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "src/dbunit/2.4.4",
+    "Source":         "src/dbunit/2.4.4/dbunit-2.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/dbunit/2.4.3",
+    "Source":         "src/dbunit/2.4.3/dbunit-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/dbunit/2.4.2",
+    "Source":         "src/dbunit/2.4.2/dbunit-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/dbunit/2.4.1",
+    "Source":         "src/dbunit/2.4.1/dbunit-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/dbunit/2.4.0",
+    "Source":         "src/dbunit/2.4.0/dbunit-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/dbunit/2.3.0",
+    "Source":         "src/dbunit/2.3.0/dbunit-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/dbunit/2.2.3",
+    "Source":         "src/dbunit/2.2.3/dbunit-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/dbunit/2.2.2",
+    "Source":         "src/dbunit/2.2.2/dbunit-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/dbunit/2.2.1",
+    "Source":         "src/dbunit/2.2.1/dbunit-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/dbunit/2.2",
+    "Source":         "src/dbunit/2.2/dbunit-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

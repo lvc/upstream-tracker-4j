@@ -10,6 +10,34 @@
 
   "Versions": [
   {
+    "Number":         "1.8.0_141",
+    "Installed":      "installed/openjdk/1.8.0_141",
+    "Source":         "src/openjdk/1.8.0_141/openjdk-1.8.0_141.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0_131",
+    "Installed":      "installed/openjdk/1.8.0_131",
+    "Source":         "src/openjdk/1.8.0_131/openjdk-1.8.0_131.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0_121",
+    "Installed":      "installed/openjdk/1.8.0_121",
+    "Source":         "src/openjdk/1.8.0_121/openjdk-1.8.0_121.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0_111",
+    "Installed":      "installed/openjdk/1.8.0_111",
+    "Source":         "src/openjdk/1.8.0_111/openjdk-1.8.0_111.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.0_91",
     "Installed":      "installed/openjdk/1.8.0_91",
     "Source":         "src/openjdk/1.8.0_91/openjdk-1.8.0_91.tar.gz",

@@ -1,0 +1,65 @@
+{
+  "Name":           "libthrift",
+  "Title":          "Thrift",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/thrift/libthrift/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/libthrift/0.10.0",
+    "Source":         "src/libthrift/0.10.0/libthrift-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.3",
+    "Installed":      "src/libthrift/0.9.3",
+    "Source":         "src/libthrift/0.9.3/libthrift-0.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.2",
+    "Installed":      "src/libthrift/0.9.2",
+    "Source":         "src/libthrift/0.9.2/libthrift-0.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/libthrift/0.9.1",
+    "Source":         "src/libthrift/0.9.1/libthrift-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/libthrift/0.9.0",
+    "Source":         "src/libthrift/0.9.0/libthrift-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/libthrift/0.8.0",
+    "Source":         "src/libthrift/0.8.0/libthrift-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/libthrift/0.7.0",
+    "Source":         "src/libthrift/0.7.0/libthrift-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/libthrift/0.6.1",
+    "Source":         "src/libthrift/0.6.1/libthrift-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

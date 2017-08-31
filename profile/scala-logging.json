@@ -1,0 +1,80 @@
+{
+  "Name":           "scala-logging",
+  "Title":          "Scala Logging",
+  "SourceUrl":      "http://central.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "scala-logging_2.11",
+
+  "Versions": [
+  {
+    "Number":         "3.7.2",
+    "Installed":      "src/scala-logging/3.7.2",
+    "Source":         "src/scala-logging/3.7.2/scala-logging_2.11-3.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.1",
+    "Installed":      "src/scala-logging/3.7.1",
+    "Source":         "src/scala-logging/3.7.1/scala-logging_2.11-3.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.0",
+    "Installed":      "src/scala-logging/3.7.0",
+    "Source":         "src/scala-logging/3.7.0/scala-logging_2.11-3.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/scala-logging/3.6.0",
+    "Source":         "src/scala-logging/3.6.0/scala-logging_2.11-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/scala-logging/3.5.0",
+    "Source":         "src/scala-logging/3.5.0/scala-logging_2.11-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/scala-logging/3.4.0",
+    "Source":         "src/scala-logging/3.4.0/scala-logging_2.11-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/scala-logging/3.3.0",
+    "Source":         "src/scala-logging/3.3.0/scala-logging_2.11-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/scala-logging/3.2.0",
+    "Source":         "src/scala-logging/3.2.0/scala-logging_2.11-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/scala-logging/3.1.0",
+    "Source":         "src/scala-logging/3.1.0/scala-logging_2.11-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/scala-logging/3.0.0",
+    "Source":         "src/scala-logging/3.0.0/scala-logging_2.11-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

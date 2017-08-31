@@ -8,6 +8,41 @@
 
   "Versions": [
   {
+    "Number":         "2.5.12",
+    "Installed":      "src/struts2-core/2.5.12",
+    "Source":         "src/struts2-core/2.5.12/struts2-core-2.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.10.1",
+    "Installed":      "src/struts2-core/2.5.10.1",
+    "Source":         "src/struts2-core/2.5.10.1/struts2-core-2.5.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.10",
+    "Installed":      "src/struts2-core/2.5.10",
+    "Source":         "src/struts2-core/2.5.10/struts2-core-2.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.8",
+    "Installed":      "src/struts2-core/2.5.8",
+    "Source":         "src/struts2-core/2.5.8/struts2-core-2.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.5",
+    "Installed":      "src/struts2-core/2.5.5",
+    "Source":         "src/struts2-core/2.5.5/struts2-core-2.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.5.2",
     "Installed":      "src/struts2-core/2.5.2",
     "Source":         "src/struts2-core/2.5.2/struts2-core-2.5.2.jar",
@@ -25,6 +60,27 @@
     "Number":         "2.5",
     "Installed":      "src/struts2-core/2.5",
     "Source":         "src/struts2-core/2.5/struts2-core-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.33",
+    "Installed":      "src/struts2-core/2.3.33",
+    "Source":         "src/struts2-core/2.3.33/struts2-core-2.3.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.32",
+    "Installed":      "src/struts2-core/2.3.32",
+    "Source":         "src/struts2-core/2.3.32/struts2-core-2.3.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.31",
+    "Installed":      "src/struts2-core/2.3.31",
+    "Source":         "src/struts2-core/2.3.31/struts2-core-2.3.31.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -11,9 +11,32 @@
 
   "Versions": [
   {
+    "Number":         "5.0-alpha3",
+    "Installed":      "installed/httpcore/5.0-alpha3",
+    "Source":         "src/httpcore/5.0-alpha3/httpcomponents-core-5.0-alpha3-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0-alpha2",
+    "Installed":      "installed/httpcore/5.0-alpha2",
+    "Source":         "src/httpcore/5.0-alpha2/httpcomponents-core-5.0-alpha2-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "5.0-alpha1",
     "Installed":      "installed/httpcore/5.0-alpha1",
     "Source":         "src/httpcore/5.0-alpha1/httpcomponents-core-5.0-alpha1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.4.6",
+    "Installed":      "installed/httpcore/4.4.6",
+    "Source":         "src/httpcore/4.4.6/httpcomponents-core-4.4.6-bin.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

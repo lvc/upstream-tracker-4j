@@ -1,0 +1,24 @@
+{
+  "Name":           "jbcrypt",
+  "Title":          "JBCrypt",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mindrot/jbcrypt/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "ReleasePattern": "\A([\d\.]+)m\Z",
+
+  "Versions": [
+  {
+    "Number":         "0.4",
+    "Installed":      "src/jbcrypt/0.4",
+    "Source":         "src/jbcrypt/0.4/jbcrypt-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/jbcrypt/0.3",
+    "Source":         "src/jbcrypt/0.3/jbcrypt-0.3m.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

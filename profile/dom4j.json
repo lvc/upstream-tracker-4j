@@ -1,0 +1,81 @@
+{
+  "Name":           "dom4j",
+  "Title":          "Dom4j",
+  "SourceUrl":      "http://central.maven.org/maven2/org/dom4j/dom4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "OldSourceUrl":   "http://central.maven.org/maven2/dom4j/dom4j/",
+  "SkipVersions":   [ "\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/dom4j/2.0.1",
+    "Source":         "src/dom4j/2.0.1/dom4j-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/dom4j/2.0.0",
+    "Source":         "src/dom4j/2.0.0/dom4j-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/dom4j/1.6.1",
+    "Source":         "src/dom4j/1.6.1/dom4j-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/dom4j/1.6",
+    "Source":         "src/dom4j/1.6/dom4j-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/dom4j/1.5.2",
+    "Source":         "src/dom4j/1.5.2/dom4j-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/dom4j/1.5.1",
+    "Source":         "src/dom4j/1.5.1/dom4j-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/dom4j/1.5",
+    "Source":         "src/dom4j/1.5/dom4j-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/dom4j/1.4",
+    "Source":         "src/dom4j/1.4/dom4j-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/dom4j/1.3",
+    "Source":         "src/dom4j/1.3/dom4j-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/dom4j/1.1",
+    "Source":         "src/dom4j/1.1/dom4j-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

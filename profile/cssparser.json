@@ -1,0 +1,149 @@
+{
+  "Name":           "cssparser",
+  "Title":          "CSS Parser",
+  "SourceUrl":      "http://central.maven.org/maven2/net/sourceforge/cssparser/cssparser/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.9.23",
+    "Installed":      "src/cssparser/0.9.23",
+    "Source":         "src/cssparser/0.9.23/cssparser-0.9.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.22",
+    "Installed":      "src/cssparser/0.9.22",
+    "Source":         "src/cssparser/0.9.22/cssparser-0.9.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.21",
+    "Installed":      "src/cssparser/0.9.21",
+    "Source":         "src/cssparser/0.9.21/cssparser-0.9.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.20",
+    "Installed":      "src/cssparser/0.9.20",
+    "Source":         "src/cssparser/0.9.20/cssparser-0.9.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.19",
+    "Installed":      "src/cssparser/0.9.19",
+    "Source":         "src/cssparser/0.9.19/cssparser-0.9.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.18",
+    "Installed":      "src/cssparser/0.9.18",
+    "Source":         "src/cssparser/0.9.18/cssparser-0.9.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.17",
+    "Installed":      "src/cssparser/0.9.17",
+    "Source":         "src/cssparser/0.9.17/cssparser-0.9.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.16",
+    "Installed":      "src/cssparser/0.9.16",
+    "Source":         "src/cssparser/0.9.16/cssparser-0.9.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.15",
+    "Installed":      "src/cssparser/0.9.15",
+    "Source":         "src/cssparser/0.9.15/cssparser-0.9.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.14",
+    "Installed":      "src/cssparser/0.9.14",
+    "Source":         "src/cssparser/0.9.14/cssparser-0.9.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.13",
+    "Installed":      "src/cssparser/0.9.13",
+    "Source":         "src/cssparser/0.9.13/cssparser-0.9.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.12",
+    "Installed":      "src/cssparser/0.9.12",
+    "Source":         "src/cssparser/0.9.12/cssparser-0.9.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.11",
+    "Installed":      "src/cssparser/0.9.11",
+    "Source":         "src/cssparser/0.9.11/cssparser-0.9.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.10",
+    "Installed":      "src/cssparser/0.9.10",
+    "Source":         "src/cssparser/0.9.10/cssparser-0.9.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.9",
+    "Installed":      "src/cssparser/0.9.9",
+    "Source":         "src/cssparser/0.9.9/cssparser-0.9.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.8",
+    "Installed":      "src/cssparser/0.9.8",
+    "Source":         "src/cssparser/0.9.8/cssparser-0.9.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.7",
+    "Installed":      "src/cssparser/0.9.7",
+    "Source":         "src/cssparser/0.9.7/cssparser-0.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.6",
+    "Installed":      "src/cssparser/0.9.6",
+    "Source":         "src/cssparser/0.9.6/cssparser-0.9.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5",
+    "Installed":      "src/cssparser/0.9.5",
+    "Source":         "src/cssparser/0.9.5/cssparser-0.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.4",
+    "Installed":      "src/cssparser/0.9.4",
+    "Source":         "src/cssparser/0.9.4/cssparser-0.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

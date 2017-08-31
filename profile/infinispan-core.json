@@ -1,0 +1,124 @@
+{
+  "Name":           "infinispan-core",
+  "Title":          "Infinispan Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/infinispan/infinispan-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "8.2.0",
+
+  "Versions": [
+  {
+    "Number":         "9.1.0",
+    "Installed":      "src/infinispan-core/9.1.0",
+    "Source":         "src/infinispan-core/9.1.0/infinispan-core-9.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.0.CR1",
+    "Installed":      "src/infinispan-core/9.1.0.CR1",
+    "Source":         "src/infinispan-core/9.1.0.CR1/infinispan-core-9.1.0.CR1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.1.0.Beta1",
+    "Installed":      "src/infinispan-core/9.1.0.Beta1",
+    "Source":         "src/infinispan-core/9.1.0.Beta1/infinispan-core-9.1.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.0.3",
+    "Installed":      "src/infinispan-core/9.0.3",
+    "Source":         "src/infinispan-core/9.0.3/infinispan-core-9.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.2",
+    "Installed":      "src/infinispan-core/9.0.2",
+    "Source":         "src/infinispan-core/9.0.2/infinispan-core-9.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1",
+    "Installed":      "src/infinispan-core/9.0.1",
+    "Source":         "src/infinispan-core/9.0.1/infinispan-core-9.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.0",
+    "Installed":      "src/infinispan-core/9.0.0",
+    "Source":         "src/infinispan-core/9.0.0/infinispan-core-9.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.8",
+    "Installed":      "src/infinispan-core/8.2.8",
+    "Source":         "src/infinispan-core/8.2.8/infinispan-core-8.2.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.7",
+    "Installed":      "src/infinispan-core/8.2.7",
+    "Source":         "src/infinispan-core/8.2.7/infinispan-core-8.2.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.6",
+    "Installed":      "src/infinispan-core/8.2.6",
+    "Source":         "src/infinispan-core/8.2.6/infinispan-core-8.2.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.5",
+    "Installed":      "src/infinispan-core/8.2.5",
+    "Source":         "src/infinispan-core/8.2.5/infinispan-core-8.2.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.4",
+    "Installed":      "src/infinispan-core/8.2.4",
+    "Source":         "src/infinispan-core/8.2.4/infinispan-core-8.2.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.3",
+    "Installed":      "src/infinispan-core/8.2.3",
+    "Source":         "src/infinispan-core/8.2.3/infinispan-core-8.2.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.2",
+    "Installed":      "src/infinispan-core/8.2.2",
+    "Source":         "src/infinispan-core/8.2.2/infinispan-core-8.2.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.1",
+    "Installed":      "src/infinispan-core/8.2.1",
+    "Source":         "src/infinispan-core/8.2.1/infinispan-core-8.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.0",
+    "Installed":      "src/infinispan-core/8.2.0",
+    "Source":         "src/infinispan-core/8.2.0/infinispan-core-8.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "2.4.0",
+    "Installed":      "installed/hsqldb/2.4.0",
+    "Source":         "src/hsqldb/2.4.0/hsqldb-2.4.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.3.4",
     "Installed":      "installed/hsqldb/2.3.4",
     "Source":         "src/hsqldb/2.3.4/hsqldb-2.3.4.zip",

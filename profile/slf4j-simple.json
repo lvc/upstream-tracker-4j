@@ -1,0 +1,242 @@
+{
+  "Name":           "slf4j-simple",
+  "Title":          "SLF4J Simple Binding",
+  "SourceUrl":      "http://central.maven.org/maven2/org/slf4j/slf4j-simple/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "KeepInternal":   "On",
+  "MinimalVersion": "1.6.0",
+
+  "Versions": [
+  {
+    "Number":         "1.8.0-alpha2",
+    "Installed":      "src/slf4j-simple/1.8.0-alpha2",
+    "Source":         "src/slf4j-simple/1.8.0-alpha2/slf4j-simple-1.8.0-alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.25",
+    "Installed":      "src/slf4j-simple/1.7.25",
+    "Source":         "src/slf4j-simple/1.7.25/slf4j-simple-1.7.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.24",
+    "Installed":      "src/slf4j-simple/1.7.24",
+    "Source":         "src/slf4j-simple/1.7.24/slf4j-simple-1.7.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.23",
+    "Installed":      "src/slf4j-simple/1.7.23",
+    "Source":         "src/slf4j-simple/1.7.23/slf4j-simple-1.7.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.22",
+    "Installed":      "src/slf4j-simple/1.7.22",
+    "Source":         "src/slf4j-simple/1.7.22/slf4j-simple-1.7.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.21",
+    "Installed":      "src/slf4j-simple/1.7.21",
+    "Source":         "src/slf4j-simple/1.7.21/slf4j-simple-1.7.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.20",
+    "Installed":      "src/slf4j-simple/1.7.20",
+    "Source":         "src/slf4j-simple/1.7.20/slf4j-simple-1.7.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.19",
+    "Installed":      "src/slf4j-simple/1.7.19",
+    "Source":         "src/slf4j-simple/1.7.19/slf4j-simple-1.7.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.18",
+    "Installed":      "src/slf4j-simple/1.7.18",
+    "Source":         "src/slf4j-simple/1.7.18/slf4j-simple-1.7.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.16",
+    "Installed":      "src/slf4j-simple/1.7.16",
+    "Source":         "src/slf4j-simple/1.7.16/slf4j-simple-1.7.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.15",
+    "Installed":      "src/slf4j-simple/1.7.15",
+    "Source":         "src/slf4j-simple/1.7.15/slf4j-simple-1.7.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.14",
+    "Installed":      "src/slf4j-simple/1.7.14",
+    "Source":         "src/slf4j-simple/1.7.14/slf4j-simple-1.7.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.13",
+    "Installed":      "src/slf4j-simple/1.7.13",
+    "Source":         "src/slf4j-simple/1.7.13/slf4j-simple-1.7.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.12",
+    "Installed":      "src/slf4j-simple/1.7.12",
+    "Source":         "src/slf4j-simple/1.7.12/slf4j-simple-1.7.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.11",
+    "Installed":      "src/slf4j-simple/1.7.11",
+    "Source":         "src/slf4j-simple/1.7.11/slf4j-simple-1.7.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.10",
+    "Installed":      "src/slf4j-simple/1.7.10",
+    "Source":         "src/slf4j-simple/1.7.10/slf4j-simple-1.7.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.9",
+    "Installed":      "src/slf4j-simple/1.7.9",
+    "Source":         "src/slf4j-simple/1.7.9/slf4j-simple-1.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.8",
+    "Installed":      "src/slf4j-simple/1.7.8",
+    "Source":         "src/slf4j-simple/1.7.8/slf4j-simple-1.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.7",
+    "Installed":      "src/slf4j-simple/1.7.7",
+    "Source":         "src/slf4j-simple/1.7.7/slf4j-simple-1.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.6",
+    "Installed":      "src/slf4j-simple/1.7.6",
+    "Source":         "src/slf4j-simple/1.7.6/slf4j-simple-1.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.5",
+    "Installed":      "src/slf4j-simple/1.7.5",
+    "Source":         "src/slf4j-simple/1.7.5/slf4j-simple-1.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.4",
+    "Installed":      "src/slf4j-simple/1.7.4",
+    "Source":         "src/slf4j-simple/1.7.4/slf4j-simple-1.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/slf4j-simple/1.7.3",
+    "Source":         "src/slf4j-simple/1.7.3/slf4j-simple-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/slf4j-simple/1.7.2",
+    "Source":         "src/slf4j-simple/1.7.2/slf4j-simple-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/slf4j-simple/1.7.1",
+    "Source":         "src/slf4j-simple/1.7.1/slf4j-simple-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/slf4j-simple/1.7.0",
+    "Source":         "src/slf4j-simple/1.7.0/slf4j-simple-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.6",
+    "Installed":      "src/slf4j-simple/1.6.6",
+    "Source":         "src/slf4j-simple/1.6.6/slf4j-simple-1.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5",
+    "Installed":      "src/slf4j-simple/1.6.5",
+    "Source":         "src/slf4j-simple/1.6.5/slf4j-simple-1.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "src/slf4j-simple/1.6.4",
+    "Source":         "src/slf4j-simple/1.6.4/slf4j-simple-1.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/slf4j-simple/1.6.3",
+    "Source":         "src/slf4j-simple/1.6.3/slf4j-simple-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/slf4j-simple/1.6.2",
+    "Source":         "src/slf4j-simple/1.6.2/slf4j-simple-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/slf4j-simple/1.6.1",
+    "Source":         "src/slf4j-simple/1.6.1/slf4j-simple-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/slf4j-simple/1.6.0",
+    "Source":         "src/slf4j-simple/1.6.0/slf4j-simple-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

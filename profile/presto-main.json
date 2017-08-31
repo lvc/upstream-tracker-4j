@@ -1,0 +1,68 @@
+{
+  "Name":           "presto-main",
+  "Title":          "Presto Main",
+  "SourceUrl":      "http://central.maven.org/maven2/com/facebook/presto/presto-main/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "KeepMiniMult":   [ "10" ],
+  "MinimalVersion": "0.110",
+
+  "Versions": [
+  {
+    "Number":         "0.180",
+    "Installed":      "src/presto-main/0.180",
+    "Source":         "src/presto-main/0.180/presto-main-0.180.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.170",
+    "Installed":      "src/presto-main/0.170",
+    "Source":         "src/presto-main/0.170/presto-main-0.170.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.160",
+    "Installed":      "src/presto-main/0.160",
+    "Source":         "src/presto-main/0.160/presto-main-0.160.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.150",
+    "Installed":      "src/presto-main/0.150",
+    "Source":         "src/presto-main/0.150/presto-main-0.150.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.140",
+    "Installed":      "src/presto-main/0.140",
+    "Source":         "src/presto-main/0.140/presto-main-0.140.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.130",
+    "Installed":      "src/presto-main/0.130",
+    "Source":         "src/presto-main/0.130/presto-main-0.130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.120",
+    "Installed":      "src/presto-main/0.120",
+    "Source":         "src/presto-main/0.120/presto-main-0.120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.110",
+    "Installed":      "src/presto-main/0.110",
+    "Source":         "src/presto-main/0.110/presto-main-0.110.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

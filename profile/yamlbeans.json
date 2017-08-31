@@ -1,0 +1,44 @@
+{
+  "Name":           "yamlbeans",
+  "Title":          "YamlBeans",
+  "SourceUrl":      "http://central.maven.org/maven2/com/esotericsoftware/yamlbeans/yamlbeans/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.12",
+    "Installed":      "src/yamlbeans/1.12",
+    "Source":         "src/yamlbeans/1.12/yamlbeans-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/yamlbeans/1.11",
+    "Source":         "src/yamlbeans/1.11/yamlbeans-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.09",
+    "Installed":      "src/yamlbeans/1.09",
+    "Source":         "src/yamlbeans/1.09/yamlbeans-1.09.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.08",
+    "Installed":      "src/yamlbeans/1.08",
+    "Source":         "src/yamlbeans/1.08/yamlbeans-1.08.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.06",
+    "Installed":      "src/yamlbeans/1.06",
+    "Source":         "src/yamlbeans/1.06/yamlbeans-1.06.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

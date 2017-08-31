@@ -1,0 +1,54 @@
+{
+  "Name":           "validation-api",
+  "Title":          "Bean Validation API",
+  "SourceUrl":      "http://central.maven.org/maven2/javax/validation/validation-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/validation-api/2.0.0",
+    "Source":         "src/validation-api/2.0.0/validation-api-2.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0.CR3",
+    "Installed":      "src/validation-api/2.0.0.CR3",
+    "Source":         "src/validation-api/2.0.0.CR3/validation-api-2.0.0.CR3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.0.CR2",
+    "Installed":      "src/validation-api/2.0.0.CR2",
+    "Source":         "src/validation-api/2.0.0.CR2/validation-api-2.0.0.CR2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.0.CR1",
+    "Installed":      "src/validation-api/2.0.0.CR1",
+    "Source":         "src/validation-api/2.0.0.CR1/validation-api-2.0.0.CR1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/validation-api/1.1.0",
+    "Source":         "src/validation-api/1.1.0/validation-api-1.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/validation-api/1.0.0",
+    "Source":         "src/validation-api/1.0.0/validation-api-1.0.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

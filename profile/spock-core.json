@@ -1,0 +1,73 @@
+{
+  "Name":           "spock-core",
+  "Title":          "Spock Framework Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/spockframework/spock-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "ReleasePattern": "\A([\d\.]+)-groovy-[\d\.]+\Z",
+
+  "Versions": [
+  {
+    "Number":         "1.1",
+    "Installed":      "src/spock-core/1.1",
+    "Source":         "src/spock-core/1.1/spock-core-1.1-groovy-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/spock-core/1.0",
+    "Source":         "src/spock-core/1.0/spock-core-1.0-groovy-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/spock-core/0.7",
+    "Source":         "src/spock-core/0.7/spock-core-0.7-groovy-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6",
+    "Installed":      "src/spock-core/0.6",
+    "Source":         "src/spock-core/0.6/spock-core-0.6-groovy-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/spock-core/0.5",
+    "Source":         "src/spock-core/0.5/spock-core-0.5-groovy-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/spock-core/0.4",
+    "Source":         "src/spock-core/0.4/spock-core-0.4-groovy-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/spock-core/0.3",
+    "Source":         "src/spock-core/0.3/spock-core-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/spock-core/0.2",
+    "Source":         "src/spock-core/0.2/spock-core-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1",
+    "Installed":      "src/spock-core/0.1",
+    "Source":         "src/spock-core/0.1/spock-core-0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

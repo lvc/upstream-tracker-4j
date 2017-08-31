@@ -4,6 +4,7 @@
   "SourceUrl":      "https://josm.openstreetmap.de/nexus/content/repositories/public/org/openstreetmap/josm/josm/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
   "SnapshotPattern": "\d\d\d\d\d\d\d\d\.\d+\-\d+",
   "SnapshotUrl":    "https://josm.openstreetmap.de/nexus/content/repositories/public/org/openstreetmap/josm/josm/SNAPSHOT/",
   "SnapshotVer":    "SNAPSHOT",
@@ -12,7 +13,105 @@
   {
     "Number":         "SNAPSHOT",
     "Installed":      "src/josm/SNAPSHOT",
-    "Source":         "src/josm/SNAPSHOT/josm-20161012.013609-341.jar",
+    "Source":         "src/josm/SNAPSHOT/josm-20170830.013604-657.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12545,
+    "Installed":      "src/josm/12545",
+    "Source":         "src/josm/12545/josm-12545.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12542,
+    "Installed":      "src/josm/12542",
+    "Source":         "src/josm/12542/josm-12542.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12450,
+    "Installed":      "src/josm/12450",
+    "Source":         "src/josm/12450/josm-12450.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12443,
+    "Installed":      "src/josm/12443",
+    "Source":         "src/josm/12443/josm-12443.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12275,
+    "Installed":      "src/josm/12275",
+    "Source":         "src/josm/12275/josm-12275.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12271,
+    "Installed":      "src/josm/12271",
+    "Source":         "src/josm/12271/josm-12271.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12039,
+    "Installed":      "src/josm/12039",
+    "Source":         "src/josm/12039/josm-12039.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         11826,
+    "Installed":      "src/josm/11826",
+    "Source":         "src/josm/11826/josm-11826.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         11639,
+    "Installed":      "src/josm/11639",
+    "Source":         "src/josm/11639/josm-11639.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         11526,
+    "Installed":      "src/josm/11526",
+    "Source":         "src/josm/11526/josm-11526.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         11514,
+    "Installed":      "src/josm/11514",
+    "Source":         "src/josm/11514/josm-11514.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         11427,
+    "Installed":      "src/josm/11427",
+    "Source":         "src/josm/11427/josm-11427.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         11425,
+    "Installed":      "src/josm/11425",
+    "Source":         "src/josm/11425/josm-11425.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         11223,
+    "Installed":      "src/josm/11223",
+    "Source":         "src/josm/11223/josm-11223.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

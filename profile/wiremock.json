@@ -1,0 +1,185 @@
+{
+  "Name":           "wiremock",
+  "Title":          "WireMock",
+  "SourceUrl":      "http://central.maven.org/maven2/com/github/tomakehurst/wiremock/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.50",
+
+  "Versions": [
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/wiremock/2.7.1",
+    "Source":         "src/wiremock/2.7.1/wiremock-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/wiremock/2.7.0",
+    "Source":         "src/wiremock/2.7.0/wiremock-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/wiremock/2.6.0",
+    "Source":         "src/wiremock/2.6.0/wiremock-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/wiremock/2.5.1",
+    "Source":         "src/wiremock/2.5.1/wiremock-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/wiremock/2.5.0",
+    "Source":         "src/wiremock/2.5.0/wiremock-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/wiremock/2.4.1",
+    "Source":         "src/wiremock/2.4.1/wiremock-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/wiremock/2.3.1",
+    "Source":         "src/wiremock/2.3.1/wiremock-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/wiremock/2.2.2",
+    "Source":         "src/wiremock/2.2.2/wiremock-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/wiremock/2.2.1",
+    "Source":         "src/wiremock/2.2.1/wiremock-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.12",
+    "Installed":      "src/wiremock/2.1.12",
+    "Source":         "src/wiremock/2.1.12/wiremock-2.1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.11",
+    "Installed":      "src/wiremock/2.1.11",
+    "Source":         "src/wiremock/2.1.11/wiremock-2.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.10",
+    "Installed":      "src/wiremock/2.1.10",
+    "Source":         "src/wiremock/2.1.10/wiremock-2.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.9",
+    "Installed":      "src/wiremock/2.1.9",
+    "Source":         "src/wiremock/2.1.9/wiremock-2.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.8",
+    "Installed":      "src/wiremock/2.1.8",
+    "Source":         "src/wiremock/2.1.8/wiremock-2.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.7",
+    "Installed":      "src/wiremock/2.1.7",
+    "Source":         "src/wiremock/2.1.7/wiremock-2.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/wiremock/2.1.6",
+    "Source":         "src/wiremock/2.1.6/wiremock-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.58",
+    "Installed":      "src/wiremock/1.58",
+    "Source":         "src/wiremock/1.58/wiremock-1.58.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.57",
+    "Installed":      "src/wiremock/1.57",
+    "Source":         "src/wiremock/1.57/wiremock-1.57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.56",
+    "Installed":      "src/wiremock/1.56",
+    "Source":         "src/wiremock/1.56/wiremock-1.56.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.55",
+    "Installed":      "src/wiremock/1.55",
+    "Source":         "src/wiremock/1.55/wiremock-1.55.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.54",
+    "Installed":      "src/wiremock/1.54",
+    "Source":         "src/wiremock/1.54/wiremock-1.54.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.53",
+    "Installed":      "src/wiremock/1.53",
+    "Source":         "src/wiremock/1.53/wiremock-1.53.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.52",
+    "Installed":      "src/wiremock/1.52",
+    "Source":         "src/wiremock/1.52/wiremock-1.52.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.51",
+    "Installed":      "src/wiremock/1.51",
+    "Source":         "src/wiremock/1.51/wiremock-1.51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50",
+    "Installed":      "src/wiremock/1.50",
+    "Source":         "src/wiremock/1.50/wiremock-1.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

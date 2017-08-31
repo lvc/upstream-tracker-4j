@@ -1,0 +1,65 @@
+{
+  "Name":           "auto-common",
+  "Title":          "Google Auto Common",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/auto/auto-common/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.8",
+    "Installed":      "src/auto-common/0.8",
+    "Source":         "src/auto-common/0.8/auto-common-0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/auto-common/0.7",
+    "Source":         "src/auto-common/0.7/auto-common-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6",
+    "Installed":      "src/auto-common/0.6",
+    "Source":         "src/auto-common/0.6/auto-common-0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/auto-common/0.5",
+    "Source":         "src/auto-common/0.5/auto-common-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/auto-common/0.4",
+    "Source":         "src/auto-common/0.4/auto-common-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/auto-common/0.3",
+    "Source":         "src/auto-common/0.3/auto-common-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/auto-common/0.2",
+    "Source":         "src/auto-common/0.2/auto-common-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1",
+    "Installed":      "src/auto-common/0.1",
+    "Source":         "src/auto-common/0.1/auto-common-0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

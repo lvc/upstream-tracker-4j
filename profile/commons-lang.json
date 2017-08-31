@@ -1,0 +1,87 @@
+{
+  "Name":           "commons-lang",
+  "Title":          "Commons Lang",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/commons/commons-lang3/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "commons-lang3",
+
+  "Versions": [
+  {
+    "Number":         "3.6",
+    "Installed":      "src/commons-lang/3.6",
+    "Source":         "src/commons-lang/3.6/commons-lang3-3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/commons-lang/3.5",
+    "Source":         "src/commons-lang/3.5/commons-lang3-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/commons-lang/3.4",
+    "Source":         "src/commons-lang/3.4/commons-lang3-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.2",
+    "Installed":      "src/commons-lang/3.3.2",
+    "Source":         "src/commons-lang/3.3.2/commons-lang3-3.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/commons-lang/3.3.1",
+    "Source":         "src/commons-lang/3.3.1/commons-lang3-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/commons-lang/3.3",
+    "Source":         "src/commons-lang/3.3/commons-lang3-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/commons-lang/3.2.1",
+    "Source":         "src/commons-lang/3.2.1/commons-lang3-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/commons-lang/3.2",
+    "Source":         "src/commons-lang/3.2/commons-lang3-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/commons-lang/3.1",
+    "Source":         "src/commons-lang/3.1/commons-lang3-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/commons-lang/3.0.1",
+    "Source":         "src/commons-lang/3.0.1/commons-lang3-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/commons-lang/3.0",
+    "Source":         "src/commons-lang/3.0/commons-lang3-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

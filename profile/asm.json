@@ -8,9 +8,24 @@
 
   "Versions": [
   {
+    "Number":         "6.0_BETA",
+    "Installed":      "installed/asm/6.0_BETA",
+    "Source":         "src/asm/6.0_BETA/asm-6.0_BETA-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "6.0_ALPHA",
     "Installed":      "installed/asm/6.0_ALPHA",
     "Source":         "src/asm/6.0_ALPHA/asm-6.0_ALPHA-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.2",
+    "Installed":      "installed/asm/5.2",
+    "Source":         "src/asm/5.2/asm-5.2-bin.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

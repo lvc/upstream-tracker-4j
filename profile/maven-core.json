@@ -1,0 +1,122 @@
+{
+  "Name":           "maven-core",
+  "Title":          "Maven Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/maven/maven-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.0",
+
+  "Versions": [
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/maven-core/3.5.0",
+    "Source":         "src/maven-core/3.5.0/maven-core-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.9",
+    "Installed":      "src/maven-core/3.3.9",
+    "Source":         "src/maven-core/3.3.9/maven-core-3.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.3",
+    "Installed":      "src/maven-core/3.3.3",
+    "Source":         "src/maven-core/3.3.3/maven-core-3.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/maven-core/3.3.1",
+    "Source":         "src/maven-core/3.3.1/maven-core-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/maven-core/3.2.5",
+    "Source":         "src/maven-core/3.2.5/maven-core-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/maven-core/3.2.3",
+    "Source":         "src/maven-core/3.2.3/maven-core-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/maven-core/3.2.2",
+    "Source":         "src/maven-core/3.2.2/maven-core-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/maven-core/3.2.1",
+    "Source":         "src/maven-core/3.2.1/maven-core-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/maven-core/3.1.1",
+    "Source":         "src/maven-core/3.1.1/maven-core-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/maven-core/3.1.0",
+    "Source":         "src/maven-core/3.1.0/maven-core-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/maven-core/3.0.5",
+    "Source":         "src/maven-core/3.0.5/maven-core-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/maven-core/3.0.4",
+    "Source":         "src/maven-core/3.0.4/maven-core-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/maven-core/3.0.3",
+    "Source":         "src/maven-core/3.0.3/maven-core-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/maven-core/3.0.2",
+    "Source":         "src/maven-core/3.0.2/maven-core-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/maven-core/3.0.1",
+    "Source":         "src/maven-core/3.0.1/maven-core-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/maven-core/3.0",
+    "Source":         "src/maven-core/3.0/maven-core-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

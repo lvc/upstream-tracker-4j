@@ -1,0 +1,114 @@
+{
+  "Name":           "mqtt-client",
+  "Title":          "Mqtt Client",
+  "SourceUrl":      "http://central.maven.org/maven2/org/fusesource/mqtt-client/mqtt-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.14",
+    "Installed":      "src/mqtt-client/1.14",
+    "Source":         "src/mqtt-client/1.14/mqtt-client-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/mqtt-client/1.13",
+    "Source":         "src/mqtt-client/1.13/mqtt-client-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/mqtt-client/1.12",
+    "Source":         "src/mqtt-client/1.12/mqtt-client-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/mqtt-client/1.11",
+    "Source":         "src/mqtt-client/1.11/mqtt-client-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/mqtt-client/1.10",
+    "Source":         "src/mqtt-client/1.10/mqtt-client-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/mqtt-client/1.9",
+    "Source":         "src/mqtt-client/1.9/mqtt-client-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/mqtt-client/1.8",
+    "Source":         "src/mqtt-client/1.8/mqtt-client-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/mqtt-client/1.7",
+    "Source":         "src/mqtt-client/1.7/mqtt-client-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/mqtt-client/1.6",
+    "Source":         "src/mqtt-client/1.6/mqtt-client-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/mqtt-client/1.5",
+    "Source":         "src/mqtt-client/1.5/mqtt-client-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/mqtt-client/1.4",
+    "Source":         "src/mqtt-client/1.4/mqtt-client-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/mqtt-client/1.3",
+    "Source":         "src/mqtt-client/1.3/mqtt-client-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/mqtt-client/1.2",
+    "Source":         "src/mqtt-client/1.2/mqtt-client-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/mqtt-client/1.1",
+    "Source":         "src/mqtt-client/1.1/mqtt-client-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/mqtt-client/1.0",
+    "Source":         "src/mqtt-client/1.0/mqtt-client-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

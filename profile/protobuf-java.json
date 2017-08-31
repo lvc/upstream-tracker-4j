@@ -7,6 +7,50 @@
 
   "Versions": [
   {
+    "Number":         "3.4.0",
+    "Installed":      "src/protobuf-java/3.4.0",
+    "Source":         "src/protobuf-java/3.4.0/protobuf-java-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/protobuf-java/3.3.1",
+    "Source":         "src/protobuf-java/3.3.1/protobuf-java-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/protobuf-java/3.3.0",
+    "Source":         "src/protobuf-java/3.3.0/protobuf-java-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/protobuf-java/3.2.0",
+    "Source":         "src/protobuf-java/3.2.0/protobuf-java-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0rc2",
+    "Installed":      "src/protobuf-java/3.2.0rc2",
+    "Source":         "src/protobuf-java/3.2.0rc2/protobuf-java-3.2.0rc2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.2.0-rc.1",
+    "Installed":      "src/protobuf-java/3.2.0-rc.1",
+    "Source":         "src/protobuf-java/3.2.0-rc.1/protobuf-java-3.2.0-rc.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "3.1.0",
     "Installed":      "src/protobuf-java/3.1.0",
     "Source":         "src/protobuf-java/3.1.0/protobuf-java-3.1.0.jar",

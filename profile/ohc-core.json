@@ -1,0 +1,142 @@
+{
+  "Name":           "ohc-core",
+  "Title":          "OHC Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/caffinitas/ohc/ohc-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/ohc-core/0.6.1",
+    "Source":         "src/ohc-core/0.6.1/ohc-core-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/ohc-core/0.6.0",
+    "Source":         "src/ohc-core/0.6.0/ohc-core-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/ohc-core/0.5.1",
+    "Source":         "src/ohc-core/0.5.1/ohc-core-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/ohc-core/0.5.0",
+    "Source":         "src/ohc-core/0.5.0/ohc-core-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.5",
+    "Installed":      "src/ohc-core/0.4.5",
+    "Source":         "src/ohc-core/0.4.5/ohc-core-0.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.4",
+    "Installed":      "src/ohc-core/0.4.4",
+    "Source":         "src/ohc-core/0.4.4/ohc-core-0.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.3",
+    "Installed":      "src/ohc-core/0.4.3",
+    "Source":         "src/ohc-core/0.4.3/ohc-core-0.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.2",
+    "Installed":      "src/ohc-core/0.4.2",
+    "Source":         "src/ohc-core/0.4.2/ohc-core-0.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.1",
+    "Installed":      "src/ohc-core/0.4.1",
+    "Source":         "src/ohc-core/0.4.1/ohc-core-0.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/ohc-core/0.4",
+    "Source":         "src/ohc-core/0.4/ohc-core-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.6",
+    "Installed":      "src/ohc-core/0.3.6",
+    "Source":         "src/ohc-core/0.3.6/ohc-core-0.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.5",
+    "Installed":      "src/ohc-core/0.3.5",
+    "Source":         "src/ohc-core/0.3.5/ohc-core-0.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.4",
+    "Installed":      "src/ohc-core/0.3.4",
+    "Source":         "src/ohc-core/0.3.4/ohc-core-0.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.3",
+    "Installed":      "src/ohc-core/0.3.3",
+    "Source":         "src/ohc-core/0.3.3/ohc-core-0.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.2",
+    "Installed":      "src/ohc-core/0.3.2",
+    "Source":         "src/ohc-core/0.3.2/ohc-core-0.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.1",
+    "Installed":      "src/ohc-core/0.3.1",
+    "Source":         "src/ohc-core/0.3.1/ohc-core-0.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/ohc-core/0.3",
+    "Source":         "src/ohc-core/0.3/ohc-core-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.1",
+    "Installed":      "src/ohc-core/0.2.1",
+    "Source":         "src/ohc-core/0.2.1/ohc-core-0.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/ohc-core/0.2",
+    "Source":         "src/ohc-core/0.2/ohc-core-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

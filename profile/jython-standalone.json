@@ -1,0 +1,45 @@
+{
+  "Name":           "jython-standalone",
+  "Title":          "Jython",
+  "SourceUrl":      "http://central.maven.org/maven2/org/python/jython-standalone/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/jython-standalone/2.7.1",
+    "Source":         "src/jython-standalone/2.7.1/jython-standalone-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/jython-standalone/2.7.0",
+    "Source":         "src/jython-standalone/2.7.0/jython-standalone-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/jython-standalone/2.5.3",
+    "Source":         "src/jython-standalone/2.5.3/jython-standalone-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/jython-standalone/2.5.2",
+    "Source":         "src/jython-standalone/2.5.2/jython-standalone-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/jython-standalone/2.5.1",
+    "Source":         "src/jython-standalone/2.5.1/jython-standalone-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,410 @@
+{
+  "Name":           "fabric8-kubernetes-api",
+  "Title":          "Fabric8 Kubernetes API",
+  "SourceUrl":      "http://central.maven.org/maven2/io/fabric8/kubernetes-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "KeepMicroMult":  [ "5" ],
+  "Package":        "kubernetes-api",
+
+  "Versions": [
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/fabric8-kubernetes-api/2.3.0",
+    "Source":         "src/fabric8-kubernetes-api/2.3.0/kubernetes-api-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.215",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.215",
+    "Source":         "src/fabric8-kubernetes-api/2.2.215/kubernetes-api-2.2.215.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.210",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.210",
+    "Source":         "src/fabric8-kubernetes-api/2.2.210/kubernetes-api-2.2.210.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.205",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.205",
+    "Source":         "src/fabric8-kubernetes-api/2.2.205/kubernetes-api-2.2.205.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.200",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.200",
+    "Source":         "src/fabric8-kubernetes-api/2.2.200/kubernetes-api-2.2.200.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.195",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.195",
+    "Source":         "src/fabric8-kubernetes-api/2.2.195/kubernetes-api-2.2.195.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.190",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.190",
+    "Source":         "src/fabric8-kubernetes-api/2.2.190/kubernetes-api-2.2.190.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.185",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.185",
+    "Source":         "src/fabric8-kubernetes-api/2.2.185/kubernetes-api-2.2.185.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.180",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.180",
+    "Source":         "src/fabric8-kubernetes-api/2.2.180/kubernetes-api-2.2.180.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.175",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.175",
+    "Source":         "src/fabric8-kubernetes-api/2.2.175/kubernetes-api-2.2.175.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.170",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.170",
+    "Source":         "src/fabric8-kubernetes-api/2.2.170/kubernetes-api-2.2.170.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.165",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.165",
+    "Source":         "src/fabric8-kubernetes-api/2.2.165/kubernetes-api-2.2.165.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.160",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.160",
+    "Source":         "src/fabric8-kubernetes-api/2.2.160/kubernetes-api-2.2.160.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.155",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.155",
+    "Source":         "src/fabric8-kubernetes-api/2.2.155/kubernetes-api-2.2.155.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.150",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.150",
+    "Source":         "src/fabric8-kubernetes-api/2.2.150/kubernetes-api-2.2.150.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.145",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.145",
+    "Source":         "src/fabric8-kubernetes-api/2.2.145/kubernetes-api-2.2.145.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.140",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.140",
+    "Source":         "src/fabric8-kubernetes-api/2.2.140/kubernetes-api-2.2.140.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.135",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.135",
+    "Source":         "src/fabric8-kubernetes-api/2.2.135/kubernetes-api-2.2.135.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.130",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.130",
+    "Source":         "src/fabric8-kubernetes-api/2.2.130/kubernetes-api-2.2.130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.125",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.125",
+    "Source":         "src/fabric8-kubernetes-api/2.2.125/kubernetes-api-2.2.125.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.120",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.120",
+    "Source":         "src/fabric8-kubernetes-api/2.2.120/kubernetes-api-2.2.120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.115",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.115",
+    "Source":         "src/fabric8-kubernetes-api/2.2.115/kubernetes-api-2.2.115.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.110",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.110",
+    "Source":         "src/fabric8-kubernetes-api/2.2.110/kubernetes-api-2.2.110.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.105",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.105",
+    "Source":         "src/fabric8-kubernetes-api/2.2.105/kubernetes-api-2.2.105.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.100",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.100",
+    "Source":         "src/fabric8-kubernetes-api/2.2.100/kubernetes-api-2.2.100.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.95",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.95",
+    "Source":         "src/fabric8-kubernetes-api/2.2.95/kubernetes-api-2.2.95.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.90",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.90",
+    "Source":         "src/fabric8-kubernetes-api/2.2.90/kubernetes-api-2.2.90.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.85",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.85",
+    "Source":         "src/fabric8-kubernetes-api/2.2.85/kubernetes-api-2.2.85.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.80",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.80",
+    "Source":         "src/fabric8-kubernetes-api/2.2.80/kubernetes-api-2.2.80.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.75",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.75",
+    "Source":         "src/fabric8-kubernetes-api/2.2.75/kubernetes-api-2.2.75.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.70",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.70",
+    "Source":         "src/fabric8-kubernetes-api/2.2.70/kubernetes-api-2.2.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.65",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.65",
+    "Source":         "src/fabric8-kubernetes-api/2.2.65/kubernetes-api-2.2.65.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.60",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.60",
+    "Source":         "src/fabric8-kubernetes-api/2.2.60/kubernetes-api-2.2.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.55",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.55",
+    "Source":         "src/fabric8-kubernetes-api/2.2.55/kubernetes-api-2.2.55.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.50",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.50",
+    "Source":         "src/fabric8-kubernetes-api/2.2.50/kubernetes-api-2.2.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.45",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.45",
+    "Source":         "src/fabric8-kubernetes-api/2.2.45/kubernetes-api-2.2.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.40",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.40",
+    "Source":         "src/fabric8-kubernetes-api/2.2.40/kubernetes-api-2.2.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.35",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.35",
+    "Source":         "src/fabric8-kubernetes-api/2.2.35/kubernetes-api-2.2.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.30",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.30",
+    "Source":         "src/fabric8-kubernetes-api/2.2.30/kubernetes-api-2.2.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.20",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.20",
+    "Source":         "src/fabric8-kubernetes-api/2.2.20/kubernetes-api-2.2.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.15",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.15",
+    "Source":         "src/fabric8-kubernetes-api/2.2.15/kubernetes-api-2.2.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.10",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.10",
+    "Source":         "src/fabric8-kubernetes-api/2.2.10/kubernetes-api-2.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.5",
+    "Source":         "src/fabric8-kubernetes-api/2.2.5/kubernetes-api-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/fabric8-kubernetes-api/2.2.0",
+    "Source":         "src/fabric8-kubernetes-api/2.2.0/kubernetes-api-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.10",
+    "Installed":      "src/fabric8-kubernetes-api/2.1.10",
+    "Source":         "src/fabric8-kubernetes-api/2.1.10/kubernetes-api-2.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/fabric8-kubernetes-api/2.1.5",
+    "Source":         "src/fabric8-kubernetes-api/2.1.5/kubernetes-api-2.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/fabric8-kubernetes-api/2.1.0",
+    "Source":         "src/fabric8-kubernetes-api/2.1.0/kubernetes-api-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.45",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.45",
+    "Source":         "src/fabric8-kubernetes-api/2.0.45/kubernetes-api-2.0.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.40",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.40",
+    "Source":         "src/fabric8-kubernetes-api/2.0.40/kubernetes-api-2.0.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.35",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.35",
+    "Source":         "src/fabric8-kubernetes-api/2.0.35/kubernetes-api-2.0.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.30",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.30",
+    "Source":         "src/fabric8-kubernetes-api/2.0.30/kubernetes-api-2.0.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.25",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.25",
+    "Source":         "src/fabric8-kubernetes-api/2.0.25/kubernetes-api-2.0.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.20",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.20",
+    "Source":         "src/fabric8-kubernetes-api/2.0.20/kubernetes-api-2.0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.15",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.15",
+    "Source":         "src/fabric8-kubernetes-api/2.0.15/kubernetes-api-2.0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.10",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.10",
+    "Source":         "src/fabric8-kubernetes-api/2.0.10/kubernetes-api-2.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.5",
+    "Source":         "src/fabric8-kubernetes-api/2.0.5/kubernetes-api-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/fabric8-kubernetes-api/2.0.0",
+    "Source":         "src/fabric8-kubernetes-api/2.0.0/kubernetes-api-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

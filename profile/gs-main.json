@@ -1,0 +1,109 @@
+{
+  "Name":           "gs-main",
+  "Title":          "GeoServer Main",
+  "SourceUrl":      "http://repo.boundlessgeo.com/main/org/geoserver/gs-main/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.9.0",
+  "SkipVersions":   [ ".*\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "2.11.2",
+    "Installed":      "src/gs-main/2.11.2",
+    "Source":         "src/gs-main/2.11.2/gs-main-2.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.1",
+    "Installed":      "src/gs-main/2.11.1",
+    "Source":         "src/gs-main/2.11.1/gs-main-2.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/gs-main/2.11.0",
+    "Source":         "src/gs-main/2.11.0/gs-main-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.5",
+    "Installed":      "src/gs-main/2.10.5",
+    "Source":         "src/gs-main/2.10.5/gs-main-2.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.4",
+    "Installed":      "src/gs-main/2.10.4",
+    "Source":         "src/gs-main/2.10.4/gs-main-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/gs-main/2.10.3",
+    "Source":         "src/gs-main/2.10.3/gs-main-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "src/gs-main/2.10.2",
+    "Source":         "src/gs-main/2.10.2/gs-main-2.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/gs-main/2.10.1",
+    "Source":         "src/gs-main/2.10.1/gs-main-2.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/gs-main/2.10.0",
+    "Source":         "src/gs-main/2.10.0/gs-main-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.4",
+    "Installed":      "src/gs-main/2.9.4",
+    "Source":         "src/gs-main/2.9.4/gs-main-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "src/gs-main/2.9.3",
+    "Source":         "src/gs-main/2.9.3/gs-main-2.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/gs-main/2.9.2",
+    "Source":         "src/gs-main/2.9.2/gs-main-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/gs-main/2.9.1",
+    "Source":         "src/gs-main/2.9.1/gs-main-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/gs-main/2.9.0",
+    "Source":         "src/gs-main/2.9.0/gs-main-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

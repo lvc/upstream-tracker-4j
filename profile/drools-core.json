@@ -1,0 +1,53 @@
+{
+  "Name":           "drools-core",
+  "Title":          "Drools Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/drools/drools-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "MinimalVersion": "6.3.0",
+
+  "Versions": [
+  {
+    "Number":         "7.2.0",
+    "Installed":      "src/drools-core/7.2.0",
+    "Source":         "src/drools-core/7.2.0/drools-core-7.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/drools-core/7.1.0",
+    "Source":         "src/drools-core/7.1.0/drools-core-7.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/drools-core/7.0.0",
+    "Source":         "src/drools-core/7.0.0/drools-core-7.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.5.0",
+    "Installed":      "src/drools-core/6.5.0",
+    "Source":         "src/drools-core/6.5.0/drools-core-6.5.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.4.0",
+    "Installed":      "src/drools-core/6.4.0",
+    "Source":         "src/drools-core/6.4.0/drools-core-6.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.3.0",
+    "Installed":      "src/drools-core/6.3.0",
+    "Source":         "src/drools-core/6.3.0/drools-core-6.3.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

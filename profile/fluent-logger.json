@@ -1,0 +1,128 @@
+{
+  "Name":           "fluent-logger",
+  "Title":          "Fluent Logger",
+  "SourceUrl":      "http://central.maven.org/maven2/org/fluentd/fluent-logger/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.3.3",
+    "Installed":      "src/fluent-logger/0.3.3",
+    "Source":         "src/fluent-logger/0.3.3/fluent-logger-0.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.2",
+    "Installed":      "src/fluent-logger/0.3.2",
+    "Source":         "src/fluent-logger/0.3.2/fluent-logger-0.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.1",
+    "Installed":      "src/fluent-logger/0.3.1",
+    "Source":         "src/fluent-logger/0.3.1/fluent-logger-0.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.0",
+    "Installed":      "src/fluent-logger/0.3.0",
+    "Source":         "src/fluent-logger/0.3.0/fluent-logger-0.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.11",
+    "Installed":      "src/fluent-logger/0.2.11",
+    "Source":         "src/fluent-logger/0.2.11/fluent-logger-0.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.10",
+    "Installed":      "src/fluent-logger/0.2.10",
+    "Source":         "src/fluent-logger/0.2.10/fluent-logger-0.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.9",
+    "Installed":      "src/fluent-logger/0.2.9",
+    "Source":         "src/fluent-logger/0.2.9/fluent-logger-0.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.8",
+    "Installed":      "src/fluent-logger/0.2.8",
+    "Source":         "src/fluent-logger/0.2.8/fluent-logger-0.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.7",
+    "Installed":      "src/fluent-logger/0.2.7",
+    "Source":         "src/fluent-logger/0.2.7/fluent-logger-0.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.6",
+    "Installed":      "src/fluent-logger/0.2.6",
+    "Source":         "src/fluent-logger/0.2.6/fluent-logger-0.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.5",
+    "Installed":      "src/fluent-logger/0.2.5",
+    "Source":         "src/fluent-logger/0.2.5/fluent-logger-0.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.4",
+    "Installed":      "src/fluent-logger/0.2.4",
+    "Source":         "src/fluent-logger/0.2.4/fluent-logger-0.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.3",
+    "Installed":      "src/fluent-logger/0.2.3",
+    "Source":         "src/fluent-logger/0.2.3/fluent-logger-0.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.2",
+    "Installed":      "src/fluent-logger/0.2.2",
+    "Source":         "src/fluent-logger/0.2.2/fluent-logger-0.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.1",
+    "Installed":      "src/fluent-logger/0.2.1",
+    "Source":         "src/fluent-logger/0.2.1/fluent-logger-0.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.0",
+    "Installed":      "src/fluent-logger/0.2.0",
+    "Source":         "src/fluent-logger/0.2.0/fluent-logger-0.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.0",
+    "Installed":      "src/fluent-logger/0.1.0",
+    "Source":         "src/fluent-logger/0.1.0/fluent-logger-0.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

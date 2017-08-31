@@ -1,0 +1,226 @@
+{
+  "Name":           "timber",
+  "Title":          "Timber",
+  "SourceUrl":      "http://central.maven.org/maven2/com/jakewharton/timber/timber/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.5.1",
+    "Installed":      "installed/timber/4.5.1",
+    "Source":         "src/timber/4.5.1/timber-4.5.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.0",
+    "Installed":      "installed/timber/4.5.0",
+    "Source":         "src/timber/4.5.0/timber-4.5.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.0",
+    "Installed":      "installed/timber/4.4.0",
+    "Source":         "src/timber/4.4.0/timber-4.4.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.1",
+    "Installed":      "installed/timber/4.3.1",
+    "Source":         "src/timber/4.3.1/timber-4.3.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.0",
+    "Installed":      "installed/timber/4.3.0",
+    "Source":         "src/timber/4.3.0/timber-4.3.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.0",
+    "Installed":      "installed/timber/4.2.0",
+    "Source":         "src/timber/4.2.0/timber-4.2.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.2",
+    "Installed":      "installed/timber/4.1.2",
+    "Source":         "src/timber/4.1.2/timber-4.1.2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "installed/timber/4.1.1",
+    "Source":         "src/timber/4.1.1/timber-4.1.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "installed/timber/4.1.0",
+    "Source":         "src/timber/4.1.0/timber-4.1.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "installed/timber/4.0.1",
+    "Source":         "src/timber/4.0.1/timber-4.0.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "installed/timber/4.0.0",
+    "Source":         "src/timber/4.0.0/timber-4.0.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/timber/3.1.0",
+    "Source":         "src/timber/3.1.0/timber-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/timber/3.0.2",
+    "Source":         "src/timber/3.0.2/timber-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/timber/3.0.1",
+    "Source":         "src/timber/3.0.1/timber-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/timber/3.0.0",
+    "Source":         "src/timber/3.0.0/timber-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/timber/2.7.1",
+    "Source":         "src/timber/2.7.1/timber-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/timber/2.7.0",
+    "Source":         "src/timber/2.7.0/timber-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/timber/2.6.0",
+    "Source":         "src/timber/2.6.0/timber-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/timber/2.5.1",
+    "Source":         "src/timber/2.5.1/timber-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/timber/2.5.0",
+    "Source":         "src/timber/2.5.0/timber-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/timber/2.4.2",
+    "Source":         "src/timber/2.4.2/timber-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/timber/2.4.1",
+    "Source":         "src/timber/2.4.1/timber-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/timber/2.4.0",
+    "Source":         "src/timber/2.4.0/timber-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/timber/2.3.0",
+    "Source":         "src/timber/2.3.0/timber-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/timber/2.2.2",
+    "Source":         "src/timber/2.2.2/timber-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/timber/2.2.1",
+    "Source":         "src/timber/2.2.1/timber-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/timber/2.2.0",
+    "Source":         "src/timber/2.2.0/timber-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/timber/2.1.0",
+    "Source":         "src/timber/2.1.0/timber-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/timber/2.0.0",
+    "Source":         "src/timber/2.0.0/timber-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/timber/1.1.0",
+    "Source":         "src/timber/1.1.0/timber-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/timber/1.0.0",
+    "Source":         "src/timber/1.0.0/timber-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

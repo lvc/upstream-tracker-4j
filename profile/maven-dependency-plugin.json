@@ -1,0 +1,107 @@
+{
+  "Name":           "maven-dependency-plugin",
+  "Title":          "Maven Dependency Plugin",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/maven-dependency-plugin/3.0.1",
+    "Source":         "src/maven-dependency-plugin/3.0.1/maven-dependency-plugin-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/maven-dependency-plugin/3.0.0",
+    "Source":         "src/maven-dependency-plugin/3.0.0/maven-dependency-plugin-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10",
+    "Installed":      "src/maven-dependency-plugin/2.10",
+    "Source":         "src/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/maven-dependency-plugin/2.9",
+    "Source":         "src/maven-dependency-plugin/2.9/maven-dependency-plugin-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/maven-dependency-plugin/2.8",
+    "Source":         "src/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/maven-dependency-plugin/2.7",
+    "Source":         "src/maven-dependency-plugin/2.7/maven-dependency-plugin-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/maven-dependency-plugin/2.6",
+    "Source":         "src/maven-dependency-plugin/2.6/maven-dependency-plugin-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/maven-dependency-plugin/2.5.1",
+    "Source":         "src/maven-dependency-plugin/2.5.1/maven-dependency-plugin-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/maven-dependency-plugin/2.5",
+    "Source":         "src/maven-dependency-plugin/2.5/maven-dependency-plugin-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/maven-dependency-plugin/2.4",
+    "Source":         "src/maven-dependency-plugin/2.4/maven-dependency-plugin-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/maven-dependency-plugin/2.3",
+    "Source":         "src/maven-dependency-plugin/2.3/maven-dependency-plugin-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/maven-dependency-plugin/2.2",
+    "Source":         "src/maven-dependency-plugin/2.2/maven-dependency-plugin-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/maven-dependency-plugin/2.1",
+    "Source":         "src/maven-dependency-plugin/2.1/maven-dependency-plugin-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/maven-dependency-plugin/2.0",
+    "Source":         "src/maven-dependency-plugin/2.0/maven-dependency-plugin-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

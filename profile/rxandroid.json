@@ -1,0 +1,86 @@
+{
+  "Name":           "rxandroid",
+  "Title":          "RxAndroid",
+  "SourceUrl":      "http://central.maven.org/maven2/io/reactivex/rxandroid/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.2.1",
+    "Installed":      "installed/rxandroid/1.2.1",
+    "Source":         "src/rxandroid/1.2.1/rxandroid-1.2.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "installed/rxandroid/1.2.0",
+    "Source":         "src/rxandroid/1.2.0/rxandroid-1.2.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "installed/rxandroid/1.1.0",
+    "Source":         "src/rxandroid/1.1.0/rxandroid-1.1.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "installed/rxandroid/1.0.2",
+    "Source":         "src/rxandroid/1.0.2/rxandroid-1.0.2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "installed/rxandroid/1.0.1",
+    "Source":         "src/rxandroid/1.0.1/rxandroid-1.0.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "installed/rxandroid/1.0.0",
+    "Source":         "src/rxandroid/1.0.0/rxandroid-1.0.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.25.0",
+    "Installed":      "src/rxandroid/0.25.0",
+    "Source":         "src/rxandroid/0.25.0/rxandroid-0.25.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.24.0",
+    "Installed":      "src/rxandroid/0.24.0",
+    "Source":         "src/rxandroid/0.24.0/rxandroid-0.24.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.23.0",
+    "Installed":      "src/rxandroid/0.23.0",
+    "Source":         "src/rxandroid/0.23.0/rxandroid-0.23.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.0",
+    "Installed":      "src/rxandroid/0.22.0",
+    "Source":         "src/rxandroid/0.22.0/rxandroid-0.22.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21.0",
+    "Installed":      "src/rxandroid/0.21.0",
+    "Source":         "src/rxandroid/0.21.0/rxandroid-0.21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

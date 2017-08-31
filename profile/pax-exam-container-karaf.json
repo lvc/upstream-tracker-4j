@@ -1,0 +1,149 @@
+{
+  "Name":           "pax-exam-container-karaf",
+  "Title":          "OPS4J Pax Exam Karaf Container",
+  "SourceUrl":      "http://central.maven.org/maven2/org/ops4j/pax/exam/pax-exam-container-karaf/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.11.0",
+    "Installed":      "src/pax-exam-container-karaf/4.11.0",
+    "Source":         "src/pax-exam-container-karaf/4.11.0/pax-exam-container-karaf-4.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10.0",
+    "Installed":      "src/pax-exam-container-karaf/4.10.0",
+    "Source":         "src/pax-exam-container-karaf/4.10.0/pax-exam-container-karaf-4.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9.2",
+    "Installed":      "src/pax-exam-container-karaf/4.9.2",
+    "Source":         "src/pax-exam-container-karaf/4.9.2/pax-exam-container-karaf-4.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9.1",
+    "Installed":      "src/pax-exam-container-karaf/4.9.1",
+    "Source":         "src/pax-exam-container-karaf/4.9.1/pax-exam-container-karaf-4.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9.0",
+    "Installed":      "src/pax-exam-container-karaf/4.9.0",
+    "Source":         "src/pax-exam-container-karaf/4.9.0/pax-exam-container-karaf-4.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8.0",
+    "Installed":      "src/pax-exam-container-karaf/4.8.0",
+    "Source":         "src/pax-exam-container-karaf/4.8.0/pax-exam-container-karaf-4.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.0",
+    "Installed":      "src/pax-exam-container-karaf/4.7.0",
+    "Source":         "src/pax-exam-container-karaf/4.7.0/pax-exam-container-karaf-4.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6.0",
+    "Installed":      "src/pax-exam-container-karaf/4.6.0",
+    "Source":         "src/pax-exam-container-karaf/4.6.0/pax-exam-container-karaf-4.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.0",
+    "Installed":      "src/pax-exam-container-karaf/4.5.0",
+    "Source":         "src/pax-exam-container-karaf/4.5.0/pax-exam-container-karaf-4.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.0",
+    "Installed":      "src/pax-exam-container-karaf/4.4.0",
+    "Source":         "src/pax-exam-container-karaf/4.4.0/pax-exam-container-karaf-4.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.0",
+    "Installed":      "src/pax-exam-container-karaf/4.3.0",
+    "Source":         "src/pax-exam-container-karaf/4.3.0/pax-exam-container-karaf-4.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.0",
+    "Installed":      "src/pax-exam-container-karaf/4.2.0",
+    "Source":         "src/pax-exam-container-karaf/4.2.0/pax-exam-container-karaf-4.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/pax-exam-container-karaf/4.1.0",
+    "Source":         "src/pax-exam-container-karaf/4.1.0/pax-exam-container-karaf-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/pax-exam-container-karaf/4.0.0",
+    "Source":         "src/pax-exam-container-karaf/4.0.0/pax-exam-container-karaf-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/pax-exam-container-karaf/3.6.0",
+    "Source":         "src/pax-exam-container-karaf/3.6.0/pax-exam-container-karaf-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/pax-exam-container-karaf/3.5.0",
+    "Source":         "src/pax-exam-container-karaf/3.5.0/pax-exam-container-karaf-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/pax-exam-container-karaf/3.4.0",
+    "Source":         "src/pax-exam-container-karaf/3.4.0/pax-exam-container-karaf-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/pax-exam-container-karaf/3.3.0",
+    "Source":         "src/pax-exam-container-karaf/3.3.0/pax-exam-container-karaf-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/pax-exam-container-karaf/3.2.0",
+    "Source":         "src/pax-exam-container-karaf/3.2.0/pax-exam-container-karaf-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/pax-exam-container-karaf/3.1.0",
+    "Source":         "src/pax-exam-container-karaf/3.1.0/pax-exam-container-karaf-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

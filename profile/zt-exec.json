@@ -1,0 +1,58 @@
+{
+  "Name":           "zt-exec",
+  "Title":          "ZT Process Executor",
+  "SourceUrl":      "http://central.maven.org/maven2/org/zeroturnaround/zt-exec/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.10",
+    "Installed":      "src/zt-exec/1.10",
+    "Source":         "src/zt-exec/1.10/zt-exec-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/zt-exec/1.9",
+    "Source":         "src/zt-exec/1.9/zt-exec-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/zt-exec/1.8",
+    "Source":         "src/zt-exec/1.8/zt-exec-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/zt-exec/1.7",
+    "Source":         "src/zt-exec/1.7/zt-exec-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/zt-exec/1.6",
+    "Source":         "src/zt-exec/1.6/zt-exec-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/zt-exec/1.5",
+    "Source":         "src/zt-exec/1.5/zt-exec-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/zt-exec/1.4",
+    "Source":         "src/zt-exec/1.4/zt-exec-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

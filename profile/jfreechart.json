@@ -1,0 +1,44 @@
+{
+  "Name":           "jfreechart",
+  "Title":          "JFreeChart",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jfree/jfreechart/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.19",
+    "Installed":      "src/jfreechart/1.0.19",
+    "Source":         "src/jfreechart/1.0.19/jfreechart-1.0.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.18",
+    "Installed":      "src/jfreechart/1.0.18",
+    "Source":         "src/jfreechart/1.0.18/jfreechart-1.0.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.17",
+    "Installed":      "src/jfreechart/1.0.17",
+    "Source":         "src/jfreechart/1.0.17/jfreechart-1.0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.15",
+    "Installed":      "src/jfreechart/1.0.15",
+    "Source":         "src/jfreechart/1.0.15/jfreechart-1.0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.14",
+    "Installed":      "src/jfreechart/1.0.14",
+    "Source":         "src/jfreechart/1.0.14/jfreechart-1.0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -10,9 +10,24 @@
 
   "Versions": [
   {
+    "Number":         "5.0-alpha2",
+    "Installed":      "installed/httpclient/5.0-alpha2",
+    "Source":         "src/httpclient/5.0-alpha2/httpcomponents-client-5.0-alpha2-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.0-alpha1",
     "Installed":      "installed/httpclient/5.0-alpha1",
     "Source":         "src/httpclient/5.0-alpha1/httpcomponents-client-5.0-alpha1-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.5.3",
+    "Installed":      "installed/httpclient/4.5.3",
+    "Source":         "src/httpclient/4.5.3/httpcomponents-client-4.5.3-bin.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

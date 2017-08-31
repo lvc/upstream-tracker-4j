@@ -1,0 +1,150 @@
+{
+  "Name":           "chill",
+  "Title":          "Chill",
+  "SourceUrl":      "http://central.maven.org/maven2/com/twitter/chill_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "chill_2.11",
+
+  "Versions": [
+  {
+    "Number":         "0.9.2",
+    "Installed":      "src/chill/0.9.2",
+    "Source":         "src/chill/0.9.2/chill_2.11-0.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/chill/0.9.1",
+    "Source":         "src/chill/0.9.1/chill_2.11-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/chill/0.9.0",
+    "Source":         "src/chill/0.9.0/chill_2.11-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.4",
+    "Installed":      "src/chill/0.8.4",
+    "Source":         "src/chill/0.8.4/chill_2.11-0.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.3",
+    "Installed":      "src/chill/0.8.3",
+    "Source":         "src/chill/0.8.3/chill_2.11-0.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.2",
+    "Installed":      "src/chill/0.8.2",
+    "Source":         "src/chill/0.8.2/chill_2.11-0.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.1",
+    "Installed":      "src/chill/0.8.1",
+    "Source":         "src/chill/0.8.1/chill_2.11-0.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/chill/0.8.0",
+    "Source":         "src/chill/0.8.0/chill_2.11-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.7",
+    "Installed":      "src/chill/0.7.7",
+    "Source":         "src/chill/0.7.7/chill_2.11-0.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.6",
+    "Installed":      "src/chill/0.7.6",
+    "Source":         "src/chill/0.7.6/chill_2.11-0.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.5",
+    "Installed":      "src/chill/0.7.5",
+    "Source":         "src/chill/0.7.5/chill_2.11-0.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.4",
+    "Installed":      "src/chill/0.7.4",
+    "Source":         "src/chill/0.7.4/chill_2.11-0.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.3",
+    "Installed":      "src/chill/0.7.3",
+    "Source":         "src/chill/0.7.3/chill_2.11-0.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/chill/0.7.2",
+    "Source":         "src/chill/0.7.2/chill_2.11-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/chill/0.7.1",
+    "Source":         "src/chill/0.7.1/chill_2.11-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/chill/0.7.0",
+    "Source":         "src/chill/0.7.0/chill_2.11-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/chill/0.6.0",
+    "Source":         "src/chill/0.6.0/chill_2.11-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.2",
+    "Installed":      "src/chill/0.5.2",
+    "Source":         "src/chill/0.5.2/chill_2.11-0.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/chill/0.5.1",
+    "Source":         "src/chill/0.5.1/chill_2.11-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/chill/0.5.0",
+    "Source":         "src/chill/0.5.0/chill_2.11-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

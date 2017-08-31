@@ -1,0 +1,65 @@
+{
+  "Name":           "javaslang",
+  "Title":          "Javaslang",
+  "SourceUrl":      "http://central.maven.org/maven2/io/javaslang/javaslang/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.1.0-alpha",
+    "Installed":      "src/javaslang/2.1.0-alpha",
+    "Source":         "src/javaslang/2.1.0-alpha/javaslang-2.1.0-alpha.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/javaslang/2.0.6",
+    "Source":         "src/javaslang/2.0.6/javaslang-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/javaslang/2.0.5",
+    "Source":         "src/javaslang/2.0.5/javaslang-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/javaslang/2.0.4",
+    "Source":         "src/javaslang/2.0.4/javaslang-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/javaslang/2.0.3",
+    "Source":         "src/javaslang/2.0.3/javaslang-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/javaslang/2.0.2",
+    "Source":         "src/javaslang/2.0.2/javaslang-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/javaslang/2.0.1",
+    "Source":         "src/javaslang/2.0.1/javaslang-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/javaslang/2.0.0",
+    "Source":         "src/javaslang/2.0.0/javaslang-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

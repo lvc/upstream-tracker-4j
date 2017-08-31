@@ -1,0 +1,269 @@
+{
+  "Name":           "scalaz-concurrent",
+  "Title":          "Scalaz Concurrent",
+  "SourceUrl":      "http://central.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "scalaz-concurrent_2.11",
+
+  "Versions": [
+  {
+    "Number":         "7.3.0-M15",
+    "Installed":      "src/scalaz-concurrent/7.3.0-M15",
+    "Source":         "src/scalaz-concurrent/7.3.0-M15/scalaz-concurrent_2.11-7.3.0-M15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.15",
+    "Installed":      "src/scalaz-concurrent/7.2.15",
+    "Source":         "src/scalaz-concurrent/7.2.15/scalaz-concurrent_2.11-7.2.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.14",
+    "Installed":      "src/scalaz-concurrent/7.2.14",
+    "Source":         "src/scalaz-concurrent/7.2.14/scalaz-concurrent_2.11-7.2.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.13",
+    "Installed":      "src/scalaz-concurrent/7.2.13",
+    "Source":         "src/scalaz-concurrent/7.2.13/scalaz-concurrent_2.11-7.2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.12",
+    "Installed":      "src/scalaz-concurrent/7.2.12",
+    "Source":         "src/scalaz-concurrent/7.2.12/scalaz-concurrent_2.11-7.2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.11",
+    "Installed":      "src/scalaz-concurrent/7.2.11",
+    "Source":         "src/scalaz-concurrent/7.2.11/scalaz-concurrent_2.11-7.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.10",
+    "Installed":      "src/scalaz-concurrent/7.2.10",
+    "Source":         "src/scalaz-concurrent/7.2.10/scalaz-concurrent_2.11-7.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.9",
+    "Installed":      "src/scalaz-concurrent/7.2.9",
+    "Source":         "src/scalaz-concurrent/7.2.9/scalaz-concurrent_2.11-7.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.8",
+    "Installed":      "src/scalaz-concurrent/7.2.8",
+    "Source":         "src/scalaz-concurrent/7.2.8/scalaz-concurrent_2.11-7.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.7",
+    "Installed":      "src/scalaz-concurrent/7.2.7",
+    "Source":         "src/scalaz-concurrent/7.2.7/scalaz-concurrent_2.11-7.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.6",
+    "Installed":      "src/scalaz-concurrent/7.2.6",
+    "Source":         "src/scalaz-concurrent/7.2.6/scalaz-concurrent_2.11-7.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.5",
+    "Installed":      "src/scalaz-concurrent/7.2.5",
+    "Source":         "src/scalaz-concurrent/7.2.5/scalaz-concurrent_2.11-7.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.4",
+    "Installed":      "src/scalaz-concurrent/7.2.4",
+    "Source":         "src/scalaz-concurrent/7.2.4/scalaz-concurrent_2.11-7.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.3",
+    "Installed":      "src/scalaz-concurrent/7.2.3",
+    "Source":         "src/scalaz-concurrent/7.2.3/scalaz-concurrent_2.11-7.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.2",
+    "Installed":      "src/scalaz-concurrent/7.2.2",
+    "Source":         "src/scalaz-concurrent/7.2.2/scalaz-concurrent_2.11-7.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.1",
+    "Installed":      "src/scalaz-concurrent/7.2.1",
+    "Source":         "src/scalaz-concurrent/7.2.1/scalaz-concurrent_2.11-7.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0",
+    "Installed":      "src/scalaz-concurrent/7.2.0",
+    "Source":         "src/scalaz-concurrent/7.2.0/scalaz-concurrent_2.11-7.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.15",
+    "Installed":      "src/scalaz-concurrent/7.1.15",
+    "Source":         "src/scalaz-concurrent/7.1.15/scalaz-concurrent_2.11-7.1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.14",
+    "Installed":      "src/scalaz-concurrent/7.1.14",
+    "Source":         "src/scalaz-concurrent/7.1.14/scalaz-concurrent_2.11-7.1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.13",
+    "Installed":      "src/scalaz-concurrent/7.1.13",
+    "Source":         "src/scalaz-concurrent/7.1.13/scalaz-concurrent_2.11-7.1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.12",
+    "Installed":      "src/scalaz-concurrent/7.1.12",
+    "Source":         "src/scalaz-concurrent/7.1.12/scalaz-concurrent_2.11-7.1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.11",
+    "Installed":      "src/scalaz-concurrent/7.1.11",
+    "Source":         "src/scalaz-concurrent/7.1.11/scalaz-concurrent_2.11-7.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.10",
+    "Installed":      "src/scalaz-concurrent/7.1.10",
+    "Source":         "src/scalaz-concurrent/7.1.10/scalaz-concurrent_2.11-7.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.9",
+    "Installed":      "src/scalaz-concurrent/7.1.9",
+    "Source":         "src/scalaz-concurrent/7.1.9/scalaz-concurrent_2.11-7.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.8",
+    "Installed":      "src/scalaz-concurrent/7.1.8",
+    "Source":         "src/scalaz-concurrent/7.1.8/scalaz-concurrent_2.11-7.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.7",
+    "Installed":      "src/scalaz-concurrent/7.1.7",
+    "Source":         "src/scalaz-concurrent/7.1.7/scalaz-concurrent_2.11-7.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.6",
+    "Installed":      "src/scalaz-concurrent/7.1.6",
+    "Source":         "src/scalaz-concurrent/7.1.6/scalaz-concurrent_2.11-7.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.5",
+    "Installed":      "src/scalaz-concurrent/7.1.5",
+    "Source":         "src/scalaz-concurrent/7.1.5/scalaz-concurrent_2.11-7.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.4",
+    "Installed":      "src/scalaz-concurrent/7.1.4",
+    "Source":         "src/scalaz-concurrent/7.1.4/scalaz-concurrent_2.11-7.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.3",
+    "Installed":      "src/scalaz-concurrent/7.1.3",
+    "Source":         "src/scalaz-concurrent/7.1.3/scalaz-concurrent_2.11-7.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.2",
+    "Installed":      "src/scalaz-concurrent/7.1.2",
+    "Source":         "src/scalaz-concurrent/7.1.2/scalaz-concurrent_2.11-7.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.1",
+    "Installed":      "src/scalaz-concurrent/7.1.1",
+    "Source":         "src/scalaz-concurrent/7.1.1/scalaz-concurrent_2.11-7.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/scalaz-concurrent/7.1.0",
+    "Source":         "src/scalaz-concurrent/7.1.0/scalaz-concurrent_2.11-7.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.9",
+    "Installed":      "src/scalaz-concurrent/7.0.9",
+    "Source":         "src/scalaz-concurrent/7.0.9/scalaz-concurrent_2.11-7.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.8",
+    "Installed":      "src/scalaz-concurrent/7.0.8",
+    "Source":         "src/scalaz-concurrent/7.0.8/scalaz-concurrent_2.11-7.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.7",
+    "Installed":      "src/scalaz-concurrent/7.0.7",
+    "Source":         "src/scalaz-concurrent/7.0.7/scalaz-concurrent_2.11-7.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.6",
+    "Installed":      "src/scalaz-concurrent/7.0.6",
+    "Source":         "src/scalaz-concurrent/7.0.6/scalaz-concurrent_2.11-7.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

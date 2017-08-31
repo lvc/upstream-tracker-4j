@@ -1,0 +1,23 @@
+{
+  "Name":           "commons-vfs2",
+  "Title":          "Commons VFS Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/commons/commons-vfs2/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.1",
+    "Installed":      "src/commons-vfs2/2.1",
+    "Source":         "src/commons-vfs2/2.1/commons-vfs2-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/commons-vfs2/2.0",
+    "Source":         "src/commons-vfs2/2.0/commons-vfs2-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

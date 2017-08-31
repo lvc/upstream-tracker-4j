@@ -1,0 +1,123 @@
+{
+  "Name":           "thymeleaf",
+  "Title":          "Thymeleaf",
+  "SourceUrl":      "http://central.maven.org/maven2/org/thymeleaf/thymeleaf/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.0.20",
+  "ReleasePattern": "\A([\d\.]+)\.RELEASE\Z",
+
+  "Versions": [
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/thymeleaf/3.0.7",
+    "Source":         "src/thymeleaf/3.0.7/thymeleaf-3.0.7.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/thymeleaf/3.0.6",
+    "Source":         "src/thymeleaf/3.0.6/thymeleaf-3.0.6.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/thymeleaf/3.0.5",
+    "Source":         "src/thymeleaf/3.0.5/thymeleaf-3.0.5.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/thymeleaf/3.0.4",
+    "Source":         "src/thymeleaf/3.0.4/thymeleaf-3.0.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/thymeleaf/3.0.3",
+    "Source":         "src/thymeleaf/3.0.3/thymeleaf-3.0.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/thymeleaf/3.0.2",
+    "Source":         "src/thymeleaf/3.0.2/thymeleaf-3.0.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/thymeleaf/3.0.1",
+    "Source":         "src/thymeleaf/3.0.1/thymeleaf-3.0.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/thymeleaf/3.0.0",
+    "Source":         "src/thymeleaf/3.0.0/thymeleaf-3.0.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/thymeleaf/2.1.5",
+    "Source":         "src/thymeleaf/2.1.5/thymeleaf-2.1.5.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/thymeleaf/2.1.4",
+    "Source":         "src/thymeleaf/2.1.4/thymeleaf-2.1.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/thymeleaf/2.1.3",
+    "Source":         "src/thymeleaf/2.1.3/thymeleaf-2.1.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/thymeleaf/2.1.2",
+    "Source":         "src/thymeleaf/2.1.2/thymeleaf-2.1.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/thymeleaf/2.1.1",
+    "Source":         "src/thymeleaf/2.1.1/thymeleaf-2.1.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/thymeleaf/2.1.0",
+    "Source":         "src/thymeleaf/2.1.0/thymeleaf-2.1.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.21",
+    "Installed":      "src/thymeleaf/2.0.21",
+    "Source":         "src/thymeleaf/2.0.21/thymeleaf-2.0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.20",
+    "Installed":      "src/thymeleaf/2.0.20",
+    "Source":         "src/thymeleaf/2.0.20/thymeleaf-2.0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

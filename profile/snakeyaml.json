@@ -1,0 +1,114 @@
+{
+  "Name":           "snakeyaml",
+  "Title":          "SnakeYAML",
+  "SourceUrl":      "http://central.maven.org/maven2/org/yaml/snakeyaml/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.18",
+    "Installed":      "src/snakeyaml/1.18",
+    "Source":         "src/snakeyaml/1.18/snakeyaml-1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17",
+    "Installed":      "src/snakeyaml/1.17",
+    "Source":         "src/snakeyaml/1.17/snakeyaml-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/snakeyaml/1.16",
+    "Source":         "src/snakeyaml/1.16/snakeyaml-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/snakeyaml/1.15",
+    "Source":         "src/snakeyaml/1.15/snakeyaml-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "src/snakeyaml/1.14",
+    "Source":         "src/snakeyaml/1.14/snakeyaml-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/snakeyaml/1.13",
+    "Source":         "src/snakeyaml/1.13/snakeyaml-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/snakeyaml/1.12",
+    "Source":         "src/snakeyaml/1.12/snakeyaml-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/snakeyaml/1.11",
+    "Source":         "src/snakeyaml/1.11/snakeyaml-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/snakeyaml/1.10",
+    "Source":         "src/snakeyaml/1.10/snakeyaml-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/snakeyaml/1.9",
+    "Source":         "src/snakeyaml/1.9/snakeyaml-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/snakeyaml/1.8",
+    "Source":         "src/snakeyaml/1.8/snakeyaml-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/snakeyaml/1.7",
+    "Source":         "src/snakeyaml/1.7/snakeyaml-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/snakeyaml/1.6",
+    "Source":         "src/snakeyaml/1.6/snakeyaml-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/snakeyaml/1.5",
+    "Source":         "src/snakeyaml/1.5/snakeyaml-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/snakeyaml/1.4",
+    "Source":         "src/snakeyaml/1.4/snakeyaml-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

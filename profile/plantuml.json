@@ -1,0 +1,47 @@
+{
+  "Name":           "plantuml",
+  "Title":          "PlantUML",
+  "SourceUrl":      "http://central.maven.org/maven2/net/sourceforge/plantuml/plantuml/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "KeepMajorMult":  [ "10" ],
+  "MinimalVersion": "8010",
+
+  "Versions": [
+  {
+    "Number":         8050,
+    "Installed":      "src/plantuml/8050",
+    "Source":         "src/plantuml/8050/plantuml-8050.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         8040,
+    "Installed":      "src/plantuml/8040",
+    "Source":         "src/plantuml/8040/plantuml-8040.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         8030,
+    "Installed":      "src/plantuml/8030",
+    "Source":         "src/plantuml/8030/plantuml-8030.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         8020,
+    "Installed":      "src/plantuml/8020",
+    "Source":         "src/plantuml/8020/plantuml-8020.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         8010,
+    "Installed":      "src/plantuml/8010",
+    "Source":         "src/plantuml/8010/plantuml-8010.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,94 @@
+{
+  "Name":           "remoting-jmx",
+  "Title":          "Remoting Jmx",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/remotingjmx/remoting-jmx/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/remoting-jmx/3.0.0",
+    "Source":         "src/remoting-jmx/3.0.0/remoting-jmx-3.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0.CR1",
+    "Installed":      "src/remoting-jmx/3.0.0.CR1",
+    "Source":         "src/remoting-jmx/3.0.0.CR1/remoting-jmx-3.0.0.CR1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/remoting-jmx/2.0.1",
+    "Source":         "src/remoting-jmx/2.0.1/remoting-jmx-2.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/remoting-jmx/2.0.0",
+    "Source":         "src/remoting-jmx/2.0.0/remoting-jmx-2.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/remoting-jmx/1.1.3",
+    "Source":         "src/remoting-jmx/1.1.3/remoting-jmx-1.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/remoting-jmx/1.1.2",
+    "Source":         "src/remoting-jmx/1.1.2/remoting-jmx-1.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/remoting-jmx/1.1.1",
+    "Source":         "src/remoting-jmx/1.1.1/remoting-jmx-1.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/remoting-jmx/1.1.0",
+    "Source":         "src/remoting-jmx/1.1.0/remoting-jmx-1.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/remoting-jmx/1.0.5",
+    "Source":         "src/remoting-jmx/1.0.5/remoting-jmx-1.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/remoting-jmx/1.0.4",
+    "Source":         "src/remoting-jmx/1.0.4/remoting-jmx-1.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/remoting-jmx/1.0.3",
+    "Source":         "src/remoting-jmx/1.0.3/remoting-jmx-1.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/remoting-jmx/1.0.2",
+    "Source":         "src/remoting-jmx/1.0.2/remoting-jmx-1.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

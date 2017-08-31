@@ -1,0 +1,149 @@
+{
+  "Name":           "avro-ipc",
+  "Title":          "Avro IPC",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/avro/avro-ipc/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/avro-ipc/1.8.2",
+    "Source":         "src/avro-ipc/1.8.2/avro-ipc-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/avro-ipc/1.8.1",
+    "Source":         "src/avro-ipc/1.8.1/avro-ipc-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/avro-ipc/1.8.0",
+    "Source":         "src/avro-ipc/1.8.0/avro-ipc-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.7",
+    "Installed":      "src/avro-ipc/1.7.7",
+    "Source":         "src/avro-ipc/1.7.7/avro-ipc-1.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.6",
+    "Installed":      "src/avro-ipc/1.7.6",
+    "Source":         "src/avro-ipc/1.7.6/avro-ipc-1.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.5",
+    "Installed":      "src/avro-ipc/1.7.5",
+    "Source":         "src/avro-ipc/1.7.5/avro-ipc-1.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.4",
+    "Installed":      "src/avro-ipc/1.7.4",
+    "Source":         "src/avro-ipc/1.7.4/avro-ipc-1.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/avro-ipc/1.7.3",
+    "Source":         "src/avro-ipc/1.7.3/avro-ipc-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/avro-ipc/1.7.2",
+    "Source":         "src/avro-ipc/1.7.2/avro-ipc-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/avro-ipc/1.7.1",
+    "Source":         "src/avro-ipc/1.7.1/avro-ipc-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/avro-ipc/1.7.0",
+    "Source":         "src/avro-ipc/1.7.0/avro-ipc-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/avro-ipc/1.6.3",
+    "Source":         "src/avro-ipc/1.6.3/avro-ipc-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/avro-ipc/1.6.2",
+    "Source":         "src/avro-ipc/1.6.2/avro-ipc-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/avro-ipc/1.6.1",
+    "Source":         "src/avro-ipc/1.6.1/avro-ipc-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/avro-ipc/1.6.0",
+    "Source":         "src/avro-ipc/1.6.0/avro-ipc-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/avro-ipc/1.5.4",
+    "Source":         "src/avro-ipc/1.5.4/avro-ipc-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/avro-ipc/1.5.3",
+    "Source":         "src/avro-ipc/1.5.3/avro-ipc-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/avro-ipc/1.5.2",
+    "Source":         "src/avro-ipc/1.5.2/avro-ipc-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/avro-ipc/1.5.1",
+    "Source":         "src/avro-ipc/1.5.1/avro-ipc-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/avro-ipc/1.5.0",
+    "Source":         "src/avro-ipc/1.5.0/avro-ipc-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

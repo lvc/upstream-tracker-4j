@@ -1,0 +1,205 @@
+{
+  "Name":           "httpmime",
+  "Title":          "HttpClient Mime",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/httpcomponents/httpmime/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.5.3",
+    "Installed":      "src/httpmime/4.5.3",
+    "Source":         "src/httpmime/4.5.3/httpmime-4.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.2",
+    "Installed":      "src/httpmime/4.5.2",
+    "Source":         "src/httpmime/4.5.2/httpmime-4.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.1",
+    "Installed":      "src/httpmime/4.5.1",
+    "Source":         "src/httpmime/4.5.1/httpmime-4.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5",
+    "Installed":      "src/httpmime/4.5",
+    "Source":         "src/httpmime/4.5/httpmime-4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.1",
+    "Installed":      "src/httpmime/4.4.1",
+    "Source":         "src/httpmime/4.4.1/httpmime-4.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4",
+    "Installed":      "src/httpmime/4.4",
+    "Source":         "src/httpmime/4.4/httpmime-4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.6",
+    "Installed":      "src/httpmime/4.3.6",
+    "Source":         "src/httpmime/4.3.6/httpmime-4.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.5",
+    "Installed":      "src/httpmime/4.3.5",
+    "Source":         "src/httpmime/4.3.5/httpmime-4.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.4",
+    "Installed":      "src/httpmime/4.3.4",
+    "Source":         "src/httpmime/4.3.4/httpmime-4.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.3",
+    "Installed":      "src/httpmime/4.3.3",
+    "Source":         "src/httpmime/4.3.3/httpmime-4.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.2",
+    "Installed":      "src/httpmime/4.3.2",
+    "Source":         "src/httpmime/4.3.2/httpmime-4.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.1",
+    "Installed":      "src/httpmime/4.3.1",
+    "Source":         "src/httpmime/4.3.1/httpmime-4.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3",
+    "Installed":      "src/httpmime/4.3",
+    "Source":         "src/httpmime/4.3/httpmime-4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.6",
+    "Installed":      "src/httpmime/4.2.6",
+    "Source":         "src/httpmime/4.2.6/httpmime-4.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.5",
+    "Installed":      "src/httpmime/4.2.5",
+    "Source":         "src/httpmime/4.2.5/httpmime-4.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.4",
+    "Installed":      "src/httpmime/4.2.4",
+    "Source":         "src/httpmime/4.2.4/httpmime-4.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.3",
+    "Installed":      "src/httpmime/4.2.3",
+    "Source":         "src/httpmime/4.2.3/httpmime-4.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.2",
+    "Installed":      "src/httpmime/4.2.2",
+    "Source":         "src/httpmime/4.2.2/httpmime-4.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.1",
+    "Installed":      "src/httpmime/4.2.1",
+    "Source":         "src/httpmime/4.2.1/httpmime-4.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2",
+    "Installed":      "src/httpmime/4.2",
+    "Source":         "src/httpmime/4.2/httpmime-4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.3",
+    "Installed":      "src/httpmime/4.1.3",
+    "Source":         "src/httpmime/4.1.3/httpmime-4.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.2",
+    "Installed":      "src/httpmime/4.1.2",
+    "Source":         "src/httpmime/4.1.2/httpmime-4.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "src/httpmime/4.1.1",
+    "Source":         "src/httpmime/4.1.1/httpmime-4.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1",
+    "Installed":      "src/httpmime/4.1",
+    "Source":         "src/httpmime/4.1/httpmime-4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.3",
+    "Installed":      "src/httpmime/4.0.3",
+    "Source":         "src/httpmime/4.0.3/httpmime-4.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/httpmime/4.0.2",
+    "Source":         "src/httpmime/4.0.2/httpmime-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/httpmime/4.0.1",
+    "Source":         "src/httpmime/4.0.1/httpmime-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/httpmime/4.0",
+    "Source":         "src/httpmime/4.0/httpmime-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,87 @@
+{
+  "Name":           "datanucleus-core",
+  "Title":          "DataNucleus Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/datanucleus/datanucleus-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.0.1",
+
+  "Versions": [
+  {
+    "Number":         "5.1.1",
+    "Installed":      "src/datanucleus-core/5.1.1",
+    "Source":         "src/datanucleus-core/5.1.1/datanucleus-core-5.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "src/datanucleus-core/5.1.0",
+    "Source":         "src/datanucleus-core/5.1.0/datanucleus-core-5.1.0-release.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.9",
+    "Installed":      "src/datanucleus-core/5.0.9",
+    "Source":         "src/datanucleus-core/5.0.9/datanucleus-core-5.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.8",
+    "Installed":      "src/datanucleus-core/5.0.8",
+    "Source":         "src/datanucleus-core/5.0.8/datanucleus-core-5.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.7",
+    "Installed":      "src/datanucleus-core/5.0.7",
+    "Source":         "src/datanucleus-core/5.0.7/datanucleus-core-5.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.6",
+    "Installed":      "src/datanucleus-core/5.0.6",
+    "Source":         "src/datanucleus-core/5.0.6/datanucleus-core-5.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.5",
+    "Installed":      "src/datanucleus-core/5.0.5",
+    "Source":         "src/datanucleus-core/5.0.5/datanucleus-core-5.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.4",
+    "Installed":      "src/datanucleus-core/5.0.4",
+    "Source":         "src/datanucleus-core/5.0.4/datanucleus-core-5.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.3",
+    "Installed":      "src/datanucleus-core/5.0.3",
+    "Source":         "src/datanucleus-core/5.0.3/datanucleus-core-5.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.2",
+    "Installed":      "src/datanucleus-core/5.0.2",
+    "Source":         "src/datanucleus-core/5.0.2/datanucleus-core-5.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/datanucleus-core/5.0.1",
+    "Source":         "src/datanucleus-core/5.0.1/datanucleus-core-5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

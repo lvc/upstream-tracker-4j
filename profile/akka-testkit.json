@@ -1,0 +1,311 @@
+{
+  "Name":           "akka-testkit",
+  "Title":          "Akka Testkit",
+  "SourceUrl":      "http://central.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "akka-testkit_2.11",
+
+  "Versions": [
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/akka-testkit/2.5.4",
+    "Source":         "src/akka-testkit/2.5.4/akka-testkit_2.11-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/akka-testkit/2.5.3",
+    "Source":         "src/akka-testkit/2.5.3/akka-testkit_2.11-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/akka-testkit/2.5.2",
+    "Source":         "src/akka-testkit/2.5.2/akka-testkit_2.11-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/akka-testkit/2.5.1",
+    "Source":         "src/akka-testkit/2.5.1/akka-testkit_2.11-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/akka-testkit/2.5.0",
+    "Source":         "src/akka-testkit/2.5.0/akka-testkit_2.11-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.20",
+    "Installed":      "src/akka-testkit/2.4.20",
+    "Source":         "src/akka-testkit/2.4.20/akka-testkit_2.11-2.4.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.19",
+    "Installed":      "src/akka-testkit/2.4.19",
+    "Source":         "src/akka-testkit/2.4.19/akka-testkit_2.11-2.4.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.18",
+    "Installed":      "src/akka-testkit/2.4.18",
+    "Source":         "src/akka-testkit/2.4.18/akka-testkit_2.11-2.4.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.17",
+    "Installed":      "src/akka-testkit/2.4.17",
+    "Source":         "src/akka-testkit/2.4.17/akka-testkit_2.11-2.4.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.16",
+    "Installed":      "src/akka-testkit/2.4.16",
+    "Source":         "src/akka-testkit/2.4.16/akka-testkit_2.11-2.4.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.15",
+    "Installed":      "src/akka-testkit/2.4.15",
+    "Source":         "src/akka-testkit/2.4.15/akka-testkit_2.11-2.4.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.14",
+    "Installed":      "src/akka-testkit/2.4.14",
+    "Source":         "src/akka-testkit/2.4.14/akka-testkit_2.11-2.4.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.13",
+    "Installed":      "src/akka-testkit/2.4.13",
+    "Source":         "src/akka-testkit/2.4.13/akka-testkit_2.11-2.4.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.12",
+    "Installed":      "src/akka-testkit/2.4.12",
+    "Source":         "src/akka-testkit/2.4.12/akka-testkit_2.11-2.4.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.11.2",
+    "Installed":      "src/akka-testkit/2.4.11.2",
+    "Source":         "src/akka-testkit/2.4.11.2/akka-testkit_2.11-2.4.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.11.1",
+    "Installed":      "src/akka-testkit/2.4.11.1",
+    "Source":         "src/akka-testkit/2.4.11.1/akka-testkit_2.11-2.4.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.11",
+    "Installed":      "src/akka-testkit/2.4.11",
+    "Source":         "src/akka-testkit/2.4.11/akka-testkit_2.11-2.4.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.10",
+    "Installed":      "src/akka-testkit/2.4.10",
+    "Source":         "src/akka-testkit/2.4.10/akka-testkit_2.11-2.4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.9",
+    "Installed":      "src/akka-testkit/2.4.9",
+    "Source":         "src/akka-testkit/2.4.9/akka-testkit_2.11-2.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.8",
+    "Installed":      "src/akka-testkit/2.4.8",
+    "Source":         "src/akka-testkit/2.4.8/akka-testkit_2.11-2.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.7",
+    "Installed":      "src/akka-testkit/2.4.7",
+    "Source":         "src/akka-testkit/2.4.7/akka-testkit_2.11-2.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/akka-testkit/2.4.6",
+    "Source":         "src/akka-testkit/2.4.6/akka-testkit_2.11-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "src/akka-testkit/2.4.5",
+    "Source":         "src/akka-testkit/2.4.5/akka-testkit_2.11-2.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "src/akka-testkit/2.4.4",
+    "Source":         "src/akka-testkit/2.4.4/akka-testkit_2.11-2.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/akka-testkit/2.4.3",
+    "Source":         "src/akka-testkit/2.4.3/akka-testkit_2.11-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/akka-testkit/2.4.2",
+    "Source":         "src/akka-testkit/2.4.2/akka-testkit_2.11-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/akka-testkit/2.4.1",
+    "Source":         "src/akka-testkit/2.4.1/akka-testkit_2.11-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/akka-testkit/2.4.0",
+    "Source":         "src/akka-testkit/2.4.0/akka-testkit_2.11-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.16",
+    "Installed":      "src/akka-testkit/2.3.16",
+    "Source":         "src/akka-testkit/2.3.16/akka-testkit_2.11-2.3.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.15",
+    "Installed":      "src/akka-testkit/2.3.15",
+    "Source":         "src/akka-testkit/2.3.15/akka-testkit_2.11-2.3.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.14",
+    "Installed":      "src/akka-testkit/2.3.14",
+    "Source":         "src/akka-testkit/2.3.14/akka-testkit_2.11-2.3.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.13",
+    "Installed":      "src/akka-testkit/2.3.13",
+    "Source":         "src/akka-testkit/2.3.13/akka-testkit_2.11-2.3.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.12",
+    "Installed":      "src/akka-testkit/2.3.12",
+    "Source":         "src/akka-testkit/2.3.12/akka-testkit_2.11-2.3.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.11",
+    "Installed":      "src/akka-testkit/2.3.11",
+    "Source":         "src/akka-testkit/2.3.11/akka-testkit_2.11-2.3.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.10",
+    "Installed":      "src/akka-testkit/2.3.10",
+    "Source":         "src/akka-testkit/2.3.10/akka-testkit_2.11-2.3.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.9",
+    "Installed":      "src/akka-testkit/2.3.9",
+    "Source":         "src/akka-testkit/2.3.9/akka-testkit_2.11-2.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.8",
+    "Installed":      "src/akka-testkit/2.3.8",
+    "Source":         "src/akka-testkit/2.3.8/akka-testkit_2.11-2.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/akka-testkit/2.3.7",
+    "Source":         "src/akka-testkit/2.3.7/akka-testkit_2.11-2.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.6",
+    "Installed":      "src/akka-testkit/2.3.6",
+    "Source":         "src/akka-testkit/2.3.6/akka-testkit_2.11-2.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/akka-testkit/2.3.5",
+    "Source":         "src/akka-testkit/2.3.5/akka-testkit_2.11-2.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/akka-testkit/2.3.4",
+    "Source":         "src/akka-testkit/2.3.4/akka-testkit_2.11-2.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "src/akka-testkit/2.3.3",
+    "Source":         "src/akka-testkit/2.3.3/akka-testkit_2.11-2.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/akka-testkit/2.3.2",
+    "Source":         "src/akka-testkit/2.3.2/akka-testkit_2.11-2.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

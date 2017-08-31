@@ -1,0 +1,143 @@
+{
+  "Name":           "ognl",
+  "Title":          "OGNL",
+  "SourceUrl":      "http://central.maven.org/maven2/ognl/ognl/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.1",
+
+  "Versions": [
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/ognl/3.2.3",
+    "Source":         "src/ognl/3.2.3/ognl-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/ognl/3.2.2",
+    "Source":         "src/ognl/3.2.2/ognl-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/ognl/3.2.1",
+    "Source":         "src/ognl/3.2.1/ognl-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/ognl/3.2",
+    "Source":         "src/ognl/3.2/ognl-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.15",
+    "Installed":      "src/ognl/3.1.15",
+    "Source":         "src/ognl/3.1.15/ognl-3.1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.14",
+    "Installed":      "src/ognl/3.1.14",
+    "Source":         "src/ognl/3.1.14/ognl-3.1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.12",
+    "Installed":      "src/ognl/3.1.12",
+    "Source":         "src/ognl/3.1.12/ognl-3.1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.11",
+    "Installed":      "src/ognl/3.1.11",
+    "Source":         "src/ognl/3.1.11/ognl-3.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.10",
+    "Installed":      "src/ognl/3.1.10",
+    "Source":         "src/ognl/3.1.10/ognl-3.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.9",
+    "Installed":      "src/ognl/3.1.9",
+    "Source":         "src/ognl/3.1.9/ognl-3.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.8",
+    "Installed":      "src/ognl/3.1.8",
+    "Source":         "src/ognl/3.1.8/ognl-3.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.7",
+    "Installed":      "src/ognl/3.1.7",
+    "Source":         "src/ognl/3.1.7/ognl-3.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.6",
+    "Installed":      "src/ognl/3.1.6",
+    "Source":         "src/ognl/3.1.6/ognl-3.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.5",
+    "Installed":      "src/ognl/3.1.5",
+    "Source":         "src/ognl/3.1.5/ognl-3.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.4",
+    "Installed":      "src/ognl/3.1.4",
+    "Source":         "src/ognl/3.1.4/ognl-3.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.3",
+    "Installed":      "src/ognl/3.1.3",
+    "Source":         "src/ognl/3.1.3/ognl-3.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/ognl/3.1.2",
+    "Source":         "src/ognl/3.1.2/ognl-3.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/ognl/3.1.1",
+    "Source":         "src/ognl/3.1.1/ognl-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/ognl/3.1",
+    "Source":         "src/ognl/3.1/ognl-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

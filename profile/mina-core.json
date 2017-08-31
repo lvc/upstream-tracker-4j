@@ -1,0 +1,268 @@
+{
+  "Name":           "mina-core",
+  "Title":          "MINA Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/mina/mina-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.0-M2",
+    "Installed":      "src/mina-core/3.0.0-M2",
+    "Source":         "src/mina-core/3.0.0-M2/mina-core-3.0.0-M2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.16",
+    "Installed":      "src/mina-core/2.0.16",
+    "Source":         "src/mina-core/2.0.16/mina-core-2.0.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.15",
+    "Installed":      "src/mina-core/2.0.15",
+    "Source":         "src/mina-core/2.0.15/mina-core-2.0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.14",
+    "Installed":      "src/mina-core/2.0.14",
+    "Source":         "src/mina-core/2.0.14/mina-core-2.0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.13",
+    "Installed":      "src/mina-core/2.0.13",
+    "Source":         "src/mina-core/2.0.13/mina-core-2.0.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.12",
+    "Installed":      "src/mina-core/2.0.12",
+    "Source":         "src/mina-core/2.0.12/mina-core-2.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.11",
+    "Installed":      "src/mina-core/2.0.11",
+    "Source":         "src/mina-core/2.0.11/mina-core-2.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.10",
+    "Installed":      "src/mina-core/2.0.10",
+    "Source":         "src/mina-core/2.0.10/mina-core-2.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.9",
+    "Installed":      "src/mina-core/2.0.9",
+    "Source":         "src/mina-core/2.0.9/mina-core-2.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/mina-core/2.0.8",
+    "Source":         "src/mina-core/2.0.8/mina-core-2.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/mina-core/2.0.7",
+    "Source":         "src/mina-core/2.0.7/mina-core-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/mina-core/2.0.6",
+    "Source":         "src/mina-core/2.0.6/mina-core-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/mina-core/2.0.5",
+    "Source":         "src/mina-core/2.0.5/mina-core-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/mina-core/2.0.4",
+    "Source":         "src/mina-core/2.0.4/mina-core-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/mina-core/2.0.3",
+    "Source":         "src/mina-core/2.0.3/mina-core-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/mina-core/2.0.2",
+    "Source":         "src/mina-core/2.0.2/mina-core-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/mina-core/2.0.1",
+    "Source":         "src/mina-core/2.0.1/mina-core-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/mina-core/2.0.0",
+    "Source":         "src/mina-core/2.0.0/mina-core-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/mina-core/1.1.7",
+    "Source":         "src/mina-core/1.1.7/mina-core-1.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.6",
+    "Installed":      "src/mina-core/1.1.6",
+    "Source":         "src/mina-core/1.1.6/mina-core-1.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5",
+    "Installed":      "src/mina-core/1.1.5",
+    "Source":         "src/mina-core/1.1.5/mina-core-1.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/mina-core/1.1.4",
+    "Source":         "src/mina-core/1.1.4/mina-core-1.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/mina-core/1.1.3",
+    "Source":         "src/mina-core/1.1.3/mina-core-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/mina-core/1.1.2",
+    "Source":         "src/mina-core/1.1.2/mina-core-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/mina-core/1.1.1",
+    "Source":         "src/mina-core/1.1.1/mina-core-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/mina-core/1.1.0",
+    "Source":         "src/mina-core/1.1.0/mina-core-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.10",
+    "Installed":      "src/mina-core/1.0.10",
+    "Source":         "src/mina-core/1.0.10/mina-core-1.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.9",
+    "Installed":      "src/mina-core/1.0.9",
+    "Source":         "src/mina-core/1.0.9/mina-core-1.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.8",
+    "Installed":      "src/mina-core/1.0.8",
+    "Source":         "src/mina-core/1.0.8/mina-core-1.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/mina-core/1.0.7",
+    "Source":         "src/mina-core/1.0.7/mina-core-1.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/mina-core/1.0.6",
+    "Source":         "src/mina-core/1.0.6/mina-core-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/mina-core/1.0.5",
+    "Source":         "src/mina-core/1.0.5/mina-core-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/mina-core/1.0.4",
+    "Source":         "src/mina-core/1.0.4/mina-core-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/mina-core/1.0.3",
+    "Source":         "src/mina-core/1.0.3/mina-core-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/mina-core/1.0.2",
+    "Source":         "src/mina-core/1.0.2/mina-core-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/mina-core/1.0.1",
+    "Source":         "src/mina-core/1.0.1/mina-core-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/mina-core/1.0.0",
+    "Source":         "src/mina-core/1.0.0/mina-core-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

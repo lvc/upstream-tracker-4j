@@ -1,0 +1,67 @@
+{
+  "Name":           "immutables-value",
+  "Title":          "Org.immutables.value",
+  "SourceUrl":      "http://central.maven.org/maven2/org/immutables/value/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+  "Package":        "value",
+
+  "Versions": [
+  {
+    "Number":         "2.5.6",
+    "Installed":      "src/immutables-value/2.5.6",
+    "Source":         "src/immutables-value/2.5.6/value-2.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/immutables-value/2.4.6",
+    "Source":         "src/immutables-value/2.4.6/value-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.10",
+    "Installed":      "src/immutables-value/2.3.10",
+    "Source":         "src/immutables-value/2.3.10/value-2.3.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.12",
+    "Installed":      "src/immutables-value/2.2.12",
+    "Source":         "src/immutables-value/2.2.12/value-2.2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.19",
+    "Installed":      "src/immutables-value/2.1.19",
+    "Source":         "src/immutables-value/2.1.19/value-2.1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.21",
+    "Installed":      "src/immutables-value/2.0.21",
+    "Source":         "src/immutables-value/2.0.21/value-2.0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/immutables-value/1.1.3",
+    "Source":         "src/immutables-value/1.1.3/value-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/immutables-value/1.0.1",
+    "Source":         "src/immutables-value/1.0.1/value-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

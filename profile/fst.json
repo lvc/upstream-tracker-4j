@@ -1,0 +1,150 @@
+{
+  "Name":           "fst",
+  "Title":          "Fst",
+  "SourceUrl":      "http://central.maven.org/maven2/de/ruedigermoeller/fst/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.39",
+
+  "Versions": [
+  {
+    "Number":         "2.52",
+    "Installed":      "src/fst/2.52",
+    "Source":         "src/fst/2.52/fst-2.52.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.51",
+    "Installed":      "src/fst/2.51",
+    "Source":         "src/fst/2.51/fst-2.51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.50",
+    "Installed":      "src/fst/2.50",
+    "Source":         "src/fst/2.50/fst-2.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.49",
+    "Installed":      "src/fst/2.49",
+    "Source":         "src/fst/2.49/fst-2.49.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.48",
+    "Installed":      "src/fst/2.48",
+    "Source":         "src/fst/2.48/fst-2.48.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.47",
+    "Installed":      "src/fst/2.47",
+    "Source":         "src/fst/2.47/fst-2.47.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.46",
+    "Installed":      "src/fst/2.46",
+    "Source":         "src/fst/2.46/fst-2.46.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.45",
+    "Installed":      "src/fst/2.45",
+    "Source":         "src/fst/2.45/fst-2.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.6",
+    "Installed":      "src/fst/2.44.6",
+    "Source":         "src/fst/2.44.6/fst-2.44.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.5",
+    "Installed":      "src/fst/2.44.5",
+    "Source":         "src/fst/2.44.5/fst-2.44.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.4",
+    "Installed":      "src/fst/2.44.4",
+    "Source":         "src/fst/2.44.4/fst-2.44.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.3",
+    "Installed":      "src/fst/2.44.3",
+    "Source":         "src/fst/2.44.3/fst-2.44.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.2",
+    "Installed":      "src/fst/2.44.2",
+    "Source":         "src/fst/2.44.2/fst-2.44.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.1",
+    "Installed":      "src/fst/2.44.1",
+    "Source":         "src/fst/2.44.1/fst-2.44.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44",
+    "Installed":      "src/fst/2.44",
+    "Source":         "src/fst/2.44/fst-2.44.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.43",
+    "Installed":      "src/fst/2.43",
+    "Source":         "src/fst/2.43/fst-2.43.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.42",
+    "Installed":      "src/fst/2.42",
+    "Source":         "src/fst/2.42/fst-2.42.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.41",
+    "Installed":      "src/fst/2.41",
+    "Source":         "src/fst/2.41/fst-2.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.40",
+    "Installed":      "src/fst/2.40",
+    "Source":         "src/fst/2.40/fst-2.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.39",
+    "Installed":      "src/fst/2.39",
+    "Source":         "src/fst/2.39/fst-2.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

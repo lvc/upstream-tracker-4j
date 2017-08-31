@@ -1,0 +1,80 @@
+{
+  "Name":           "zcommon",
+  "Title":          "ZKoss Common Library",
+  "SourceUrl":      "http://central.maven.org/maven2/org/zkoss/common/zcommon/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "6.5.2",
+
+  "Versions": [
+  {
+    "Number":         "8.0.2.2",
+    "Installed":      "src/zcommon/8.0.2.2",
+    "Source":         "src/zcommon/8.0.2.2/zcommon-8.0.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.1.1",
+    "Installed":      "src/zcommon/8.0.1.1",
+    "Source":         "src/zcommon/8.0.1.1/zcommon-8.0.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.1",
+    "Installed":      "src/zcommon/8.0.1",
+    "Source":         "src/zcommon/8.0.1/zcommon-8.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.3",
+    "Installed":      "src/zcommon/7.0.3",
+    "Source":         "src/zcommon/7.0.3/zcommon-7.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.2",
+    "Installed":      "src/zcommon/7.0.2",
+    "Source":         "src/zcommon/7.0.2/zcommon-7.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.1",
+    "Installed":      "src/zcommon/7.0.1",
+    "Source":         "src/zcommon/7.0.1/zcommon-7.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/zcommon/7.0.0",
+    "Source":         "src/zcommon/7.0.0/zcommon-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.5.4",
+    "Installed":      "src/zcommon/6.5.4",
+    "Source":         "src/zcommon/6.5.4/zcommon-6.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.5.3",
+    "Installed":      "src/zcommon/6.5.3",
+    "Source":         "src/zcommon/6.5.3/zcommon-6.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.5.2",
+    "Installed":      "src/zcommon/6.5.2",
+    "Source":         "src/zcommon/6.5.2/zcommon-6.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,101 @@
+{
+  "Name":           "bcprov-jdk15on",
+  "Title":          "Bouncy Castle Provider",
+  "SourceUrl":      "http://central.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "1.58",
+    "Installed":      "src/bcprov-jdk15on/1.58",
+    "Source":         "src/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.57",
+    "Installed":      "src/bcprov-jdk15on/1.57",
+    "Source":         "src/bcprov-jdk15on/1.57/bcprov-jdk15on-1.57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.56",
+    "Installed":      "src/bcprov-jdk15on/1.56",
+    "Source":         "src/bcprov-jdk15on/1.56/bcprov-jdk15on-1.56.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.55",
+    "Installed":      "src/bcprov-jdk15on/1.55",
+    "Source":         "src/bcprov-jdk15on/1.55/bcprov-jdk15on-1.55.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.54",
+    "Installed":      "src/bcprov-jdk15on/1.54",
+    "Source":         "src/bcprov-jdk15on/1.54/bcprov-jdk15on-1.54.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.53",
+    "Installed":      "src/bcprov-jdk15on/1.53",
+    "Source":         "src/bcprov-jdk15on/1.53/bcprov-jdk15on-1.53.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.52",
+    "Installed":      "src/bcprov-jdk15on/1.52",
+    "Source":         "src/bcprov-jdk15on/1.52/bcprov-jdk15on-1.52.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.51",
+    "Installed":      "src/bcprov-jdk15on/1.51",
+    "Source":         "src/bcprov-jdk15on/1.51/bcprov-jdk15on-1.51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50",
+    "Installed":      "src/bcprov-jdk15on/1.50",
+    "Source":         "src/bcprov-jdk15on/1.50/bcprov-jdk15on-1.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.49",
+    "Installed":      "src/bcprov-jdk15on/1.49",
+    "Source":         "src/bcprov-jdk15on/1.49/bcprov-jdk15on-1.49.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.48",
+    "Installed":      "src/bcprov-jdk15on/1.48",
+    "Source":         "src/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47",
+    "Installed":      "src/bcprov-jdk15on/1.47",
+    "Source":         "src/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.46",
+    "Installed":      "src/bcprov-jdk15on/1.46",
+    "Source":         "src/bcprov-jdk15on/1.46/bcprov-jdk15on-1.46.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

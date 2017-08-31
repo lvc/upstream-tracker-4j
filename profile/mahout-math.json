@@ -1,0 +1,129 @@
+{
+  "Name":           "mahout-math",
+  "Title":          "Mahout Math",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/mahout/mahout-math/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "0.13.0",
+    "Installed":      "src/mahout-math/0.13.0",
+    "Source":         "src/mahout-math/0.13.0/mahout-math-0.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.2",
+    "Installed":      "src/mahout-math/0.12.2",
+    "Source":         "src/mahout-math/0.12.2/mahout-math-0.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.1",
+    "Installed":      "src/mahout-math/0.12.1",
+    "Source":         "src/mahout-math/0.12.1/mahout-math-0.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/mahout-math/0.12.0",
+    "Source":         "src/mahout-math/0.12.0/mahout-math-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.2",
+    "Installed":      "src/mahout-math/0.11.2",
+    "Source":         "src/mahout-math/0.11.2/mahout-math-0.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.1",
+    "Installed":      "src/mahout-math/0.11.1",
+    "Source":         "src/mahout-math/0.11.1/mahout-math-0.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/mahout-math/0.11.0",
+    "Source":         "src/mahout-math/0.11.0/mahout-math-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.2",
+    "Installed":      "src/mahout-math/0.10.2",
+    "Source":         "src/mahout-math/0.10.2/mahout-math-0.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.1",
+    "Installed":      "src/mahout-math/0.10.1",
+    "Source":         "src/mahout-math/0.10.1/mahout-math-0.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/mahout-math/0.10.0",
+    "Source":         "src/mahout-math/0.10.0/mahout-math-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/mahout-math/0.9",
+    "Source":         "src/mahout-math/0.9/mahout-math-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8",
+    "Installed":      "src/mahout-math/0.8",
+    "Source":         "src/mahout-math/0.8/mahout-math-0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/mahout-math/0.7",
+    "Source":         "src/mahout-math/0.7/mahout-math-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6",
+    "Installed":      "src/mahout-math/0.6",
+    "Source":         "src/mahout-math/0.6/mahout-math-0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/mahout-math/0.5",
+    "Source":         "src/mahout-math/0.5/mahout-math-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/mahout-math/0.4",
+    "Source":         "src/mahout-math/0.4/mahout-math-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/mahout-math/0.3",
+    "Source":         "src/mahout-math/0.3/mahout-math-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

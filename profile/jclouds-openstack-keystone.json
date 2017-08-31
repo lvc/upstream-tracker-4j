@@ -1,0 +1,108 @@
+{
+  "Name":           "jclouds-openstack-keystone",
+  "Title":          "Jclouds Openstack Keystone",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/jclouds/api/openstack-keystone/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "openstack-keystone",
+
+  "Versions": [
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/jclouds-openstack-keystone/2.0.2",
+    "Source":         "src/jclouds-openstack-keystone/2.0.2/openstack-keystone-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/jclouds-openstack-keystone/2.0.1",
+    "Source":         "src/jclouds-openstack-keystone/2.0.1/openstack-keystone-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/jclouds-openstack-keystone/2.0.0",
+    "Source":         "src/jclouds-openstack-keystone/2.0.0/openstack-keystone-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.3",
+    "Installed":      "src/jclouds-openstack-keystone/1.9.3",
+    "Source":         "src/jclouds-openstack-keystone/1.9.3/openstack-keystone-1.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.2",
+    "Installed":      "src/jclouds-openstack-keystone/1.9.2",
+    "Source":         "src/jclouds-openstack-keystone/1.9.2/openstack-keystone-1.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/jclouds-openstack-keystone/1.9.1",
+    "Source":         "src/jclouds-openstack-keystone/1.9.1/openstack-keystone-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/jclouds-openstack-keystone/1.9.0",
+    "Source":         "src/jclouds-openstack-keystone/1.9.0/openstack-keystone-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/jclouds-openstack-keystone/1.8.1",
+    "Source":         "src/jclouds-openstack-keystone/1.8.1/openstack-keystone-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/jclouds-openstack-keystone/1.8.0",
+    "Source":         "src/jclouds-openstack-keystone/1.8.0/openstack-keystone-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/jclouds-openstack-keystone/1.7.3",
+    "Source":         "src/jclouds-openstack-keystone/1.7.3/openstack-keystone-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/jclouds-openstack-keystone/1.7.2",
+    "Source":         "src/jclouds-openstack-keystone/1.7.2/openstack-keystone-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/jclouds-openstack-keystone/1.7.1",
+    "Source":         "src/jclouds-openstack-keystone/1.7.1/openstack-keystone-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/jclouds-openstack-keystone/1.7.0",
+    "Source":         "src/jclouds-openstack-keystone/1.7.0/openstack-keystone-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/jclouds-openstack-keystone/1.6.3",
+    "Source":         "src/jclouds-openstack-keystone/1.6.3/openstack-keystone-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

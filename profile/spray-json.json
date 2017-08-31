@@ -1,0 +1,45 @@
+{
+  "Name":           "spray-json",
+  "Title":          "Spray Json",
+  "SourceUrl":      "http://central.maven.org/maven2/io/spray/spray-json_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "spray-json_2.11",
+
+  "Versions": [
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/spray-json/1.3.3",
+    "Source":         "src/spray-json/1.3.3/spray-json_2.11-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/spray-json/1.3.2",
+    "Source":         "src/spray-json/1.3.2/spray-json_2.11-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/spray-json/1.3.1",
+    "Source":         "src/spray-json/1.3.1/spray-json_2.11-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/spray-json/1.3.0",
+    "Source":         "src/spray-json/1.3.0/spray-json_2.11-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.6",
+    "Installed":      "src/spray-json/1.2.6",
+    "Source":         "src/spray-json/1.2.6/spray-json_2.11-1.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

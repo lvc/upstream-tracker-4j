@@ -1,0 +1,101 @@
+{
+  "Name":           "sal-api",
+  "Title":          "SAL API",
+  "SourceUrl":      "https://projects.exoplatform.org/content/groups/ci/com/atlassian/sal/sal-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.9.0",
+
+  "Versions": [
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/sal-api/3.1.0",
+    "Source":         "src/sal-api/3.1.0/sal-api-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/sal-api/3.0.7",
+    "Source":         "src/sal-api/3.0.7/sal-api-3.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/sal-api/3.0.5",
+    "Source":         "src/sal-api/3.0.5/sal-api-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/sal-api/3.0.3",
+    "Source":         "src/sal-api/3.0.3/sal-api-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/sal-api/3.0.2",
+    "Source":         "src/sal-api/3.0.2/sal-api-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.6",
+    "Installed":      "src/sal-api/2.11.6",
+    "Source":         "src/sal-api/2.11.6/sal-api-2.11.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.24",
+    "Installed":      "src/sal-api/2.10.24",
+    "Source":         "src/sal-api/2.10.24/sal-api-2.10.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.20",
+    "Installed":      "src/sal-api/2.10.20",
+    "Source":         "src/sal-api/2.10.20/sal-api-2.10.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.11",
+    "Installed":      "src/sal-api/2.10.11",
+    "Source":         "src/sal-api/2.10.11/sal-api-2.10.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.9",
+    "Installed":      "src/sal-api/2.10.9",
+    "Source":         "src/sal-api/2.10.9/sal-api-2.10.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "src/sal-api/2.10.2",
+    "Source":         "src/sal-api/2.10.2/sal-api-2.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/sal-api/2.10.0",
+    "Source":         "src/sal-api/2.10.0/sal-api-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.4",
+    "Installed":      "src/sal-api/2.9.4",
+    "Source":         "src/sal-api/2.9.4/sal-api-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

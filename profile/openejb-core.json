@@ -1,0 +1,94 @@
+{
+  "Name":           "openejb-core",
+  "Title":          "OpenEJB Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/openejb/openejb-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.0.0",
+
+  "Versions": [
+  {
+    "Number":         "4.7.4",
+    "Installed":      "src/openejb-core/4.7.4",
+    "Source":         "src/openejb-core/4.7.4/openejb-core-4.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.3",
+    "Installed":      "src/openejb-core/4.7.3",
+    "Source":         "src/openejb-core/4.7.3/openejb-core-4.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.2",
+    "Installed":      "src/openejb-core/4.7.2",
+    "Source":         "src/openejb-core/4.7.2/openejb-core-4.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.1",
+    "Installed":      "src/openejb-core/4.7.1",
+    "Source":         "src/openejb-core/4.7.1/openejb-core-4.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.0",
+    "Installed":      "src/openejb-core/4.7.0",
+    "Source":         "src/openejb-core/4.7.0/openejb-core-4.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6.0.2",
+    "Installed":      "src/openejb-core/4.6.0.2",
+    "Source":         "src/openejb-core/4.6.0.2/openejb-core-4.6.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6.0.1",
+    "Installed":      "src/openejb-core/4.6.0.1",
+    "Source":         "src/openejb-core/4.6.0.1/openejb-core-4.6.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6.0",
+    "Installed":      "src/openejb-core/4.6.0",
+    "Source":         "src/openejb-core/4.6.0/openejb-core-4.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.2",
+    "Installed":      "src/openejb-core/4.5.2",
+    "Source":         "src/openejb-core/4.5.2/openejb-core-4.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.1",
+    "Installed":      "src/openejb-core/4.5.1",
+    "Source":         "src/openejb-core/4.5.1/openejb-core-4.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.0",
+    "Installed":      "src/openejb-core/4.5.0",
+    "Source":         "src/openejb-core/4.5.0/openejb-core-4.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/openejb-core/4.0.0",
+    "Source":         "src/openejb-core/4.0.0/openejb-core-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

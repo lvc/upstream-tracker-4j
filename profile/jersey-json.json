@@ -1,0 +1,303 @@
+{
+  "Name":           "jersey-json",
+  "Title":          "Jersey Json",
+  "SourceUrl":      "http://central.maven.org/maven2/com/sun/jersey/jersey-json/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.19.4",
+    "Installed":      "src/jersey-json/1.19.4",
+    "Source":         "src/jersey-json/1.19.4/jersey-json-1.19.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19.3",
+    "Installed":      "src/jersey-json/1.19.3",
+    "Source":         "src/jersey-json/1.19.3/jersey-json-1.19.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19.2",
+    "Installed":      "src/jersey-json/1.19.2",
+    "Source":         "src/jersey-json/1.19.2/jersey-json-1.19.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19.1",
+    "Installed":      "src/jersey-json/1.19.1",
+    "Source":         "src/jersey-json/1.19.1/jersey-json-1.19.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19",
+    "Installed":      "src/jersey-json/1.19",
+    "Source":         "src/jersey-json/1.19/jersey-json-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.6",
+    "Installed":      "src/jersey-json/1.18.6",
+    "Source":         "src/jersey-json/1.18.6/jersey-json-1.18.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.5",
+    "Installed":      "src/jersey-json/1.18.5",
+    "Source":         "src/jersey-json/1.18.5/jersey-json-1.18.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.4",
+    "Installed":      "src/jersey-json/1.18.4",
+    "Source":         "src/jersey-json/1.18.4/jersey-json-1.18.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.3",
+    "Installed":      "src/jersey-json/1.18.3",
+    "Source":         "src/jersey-json/1.18.3/jersey-json-1.18.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.2",
+    "Installed":      "src/jersey-json/1.18.2",
+    "Source":         "src/jersey-json/1.18.2/jersey-json-1.18.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18.1",
+    "Installed":      "src/jersey-json/1.18.1",
+    "Source":         "src/jersey-json/1.18.1/jersey-json-1.18.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18",
+    "Installed":      "src/jersey-json/1.18",
+    "Source":         "src/jersey-json/1.18/jersey-json-1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.1",
+    "Installed":      "src/jersey-json/1.17.1",
+    "Source":         "src/jersey-json/1.17.1/jersey-json-1.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17",
+    "Installed":      "src/jersey-json/1.17",
+    "Source":         "src/jersey-json/1.17/jersey-json-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/jersey-json/1.16",
+    "Source":         "src/jersey-json/1.16/jersey-json-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/jersey-json/1.15",
+    "Source":         "src/jersey-json/1.15/jersey-json-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "src/jersey-json/1.14",
+    "Source":         "src/jersey-json/1.14/jersey-json-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/jersey-json/1.13",
+    "Source":         "src/jersey-json/1.13/jersey-json-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/jersey-json/1.12",
+    "Source":         "src/jersey-json/1.12/jersey-json-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.2",
+    "Installed":      "src/jersey-json/1.11.2",
+    "Source":         "src/jersey-json/1.11.2/jersey-json-1.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.1",
+    "Installed":      "src/jersey-json/1.11.1",
+    "Source":         "src/jersey-json/1.11.1/jersey-json-1.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/jersey-json/1.11",
+    "Source":         "src/jersey-json/1.11/jersey-json-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/jersey-json/1.10",
+    "Source":         "src/jersey-json/1.10/jersey-json-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/jersey-json/1.9.1",
+    "Source":         "src/jersey-json/1.9.1/jersey-json-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/jersey-json/1.9",
+    "Source":         "src/jersey-json/1.9/jersey-json-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/jersey-json/1.8",
+    "Source":         "src/jersey-json/1.8/jersey-json-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/jersey-json/1.7",
+    "Source":         "src/jersey-json/1.7/jersey-json-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/jersey-json/1.6",
+    "Source":         "src/jersey-json/1.6/jersey-json-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/jersey-json/1.5",
+    "Source":         "src/jersey-json/1.5/jersey-json-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/jersey-json/1.4",
+    "Source":         "src/jersey-json/1.4/jersey-json-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/jersey-json/1.3",
+    "Source":         "src/jersey-json/1.3/jersey-json-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/jersey-json/1.2",
+    "Source":         "src/jersey-json/1.2/jersey-json-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5.2",
+    "Installed":      "src/jersey-json/1.1.5.2",
+    "Source":         "src/jersey-json/1.1.5.2/jersey-json-1.1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5.1",
+    "Installed":      "src/jersey-json/1.1.5.1",
+    "Source":         "src/jersey-json/1.1.5.1/jersey-json-1.1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5",
+    "Installed":      "src/jersey-json/1.1.5",
+    "Source":         "src/jersey-json/1.1.5/jersey-json-1.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4.1",
+    "Installed":      "src/jersey-json/1.1.4.1",
+    "Source":         "src/jersey-json/1.1.4.1/jersey-json-1.1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/jersey-json/1.1.4",
+    "Source":         "src/jersey-json/1.1.4/jersey-json-1.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3.1",
+    "Installed":      "src/jersey-json/1.0.3.1",
+    "Source":         "src/jersey-json/1.0.3.1/jersey-json-1.0.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/jersey-json/1.0.3",
+    "Source":         "src/jersey-json/1.0.3/jersey-json-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/jersey-json/1.0.2",
+    "Source":         "src/jersey-json/1.0.2/jersey-json-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/jersey-json/1.0.1",
+    "Source":         "src/jersey-json/1.0.1/jersey-json-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/jersey-json/1.0",
+    "Source":         "src/jersey-json/1.0/jersey-json-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

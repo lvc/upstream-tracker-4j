@@ -1,0 +1,93 @@
+{
+  "Name":           "shiro-core",
+  "Title":          "Shiro Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/shiro/shiro-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/shiro-core/1.4.0",
+    "Source":         "src/shiro-core/1.4.0/shiro-core-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/shiro-core/1.3.2",
+    "Source":         "src/shiro-core/1.3.2/shiro-core-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/shiro-core/1.3.1",
+    "Source":         "src/shiro-core/1.3.1/shiro-core-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/shiro-core/1.3.0",
+    "Source":         "src/shiro-core/1.3.0/shiro-core-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.6",
+    "Installed":      "src/shiro-core/1.2.6",
+    "Source":         "src/shiro-core/1.2.6/shiro-core-1.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.5",
+    "Installed":      "src/shiro-core/1.2.5",
+    "Source":         "src/shiro-core/1.2.5/shiro-core-1.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "src/shiro-core/1.2.4",
+    "Source":         "src/shiro-core/1.2.4/shiro-core-1.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/shiro-core/1.2.3",
+    "Source":         "src/shiro-core/1.2.3/shiro-core-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/shiro-core/1.2.2",
+    "Source":         "src/shiro-core/1.2.2/shiro-core-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/shiro-core/1.2.1",
+    "Source":         "src/shiro-core/1.2.1/shiro-core-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/shiro-core/1.2.0",
+    "Source":         "src/shiro-core/1.2.0/shiro-core-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/shiro-core/1.1.0",
+    "Source":         "src/shiro-core/1.1.0/shiro-core-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

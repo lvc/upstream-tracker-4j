@@ -1,0 +1,136 @@
+{
+  "Name":           "gchq-graph",
+  "Title":          "GCHQ Graph",
+  "SourceUrl":      "http://central.maven.org/maven2/uk/gov/gchq/gaffer/graph/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "graph",
+
+  "Versions": [
+  {
+    "Number":         "0.7.8",
+    "Installed":      "src/gchq-graph/0.7.8",
+    "Source":         "src/gchq-graph/0.7.8/graph-0.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.7",
+    "Installed":      "src/gchq-graph/0.7.7",
+    "Source":         "src/gchq-graph/0.7.7/graph-0.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.6",
+    "Installed":      "src/gchq-graph/0.7.6",
+    "Source":         "src/gchq-graph/0.7.6/graph-0.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.5",
+    "Installed":      "src/gchq-graph/0.7.5",
+    "Source":         "src/gchq-graph/0.7.5/graph-0.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.4",
+    "Installed":      "src/gchq-graph/0.7.4",
+    "Source":         "src/gchq-graph/0.7.4/graph-0.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.3",
+    "Installed":      "src/gchq-graph/0.7.3",
+    "Source":         "src/gchq-graph/0.7.3/graph-0.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/gchq-graph/0.7.2",
+    "Source":         "src/gchq-graph/0.7.2/graph-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/gchq-graph/0.7.1",
+    "Source":         "src/gchq-graph/0.7.1/graph-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/gchq-graph/0.7.0",
+    "Source":         "src/gchq-graph/0.7.0/graph-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.6",
+    "Installed":      "src/gchq-graph/0.6.6",
+    "Source":         "src/gchq-graph/0.6.6/graph-0.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.5",
+    "Installed":      "src/gchq-graph/0.6.5",
+    "Source":         "src/gchq-graph/0.6.5/graph-0.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.4",
+    "Installed":      "src/gchq-graph/0.6.4",
+    "Source":         "src/gchq-graph/0.6.4/graph-0.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.3",
+    "Installed":      "src/gchq-graph/0.6.3",
+    "Source":         "src/gchq-graph/0.6.3/graph-0.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.2",
+    "Installed":      "src/gchq-graph/0.6.2",
+    "Source":         "src/gchq-graph/0.6.2/graph-0.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/gchq-graph/0.6.1",
+    "Source":         "src/gchq-graph/0.6.1/graph-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/gchq-graph/0.6.0",
+    "Source":         "src/gchq-graph/0.6.0/graph-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/gchq-graph/0.5.1",
+    "Source":         "src/gchq-graph/0.5.1/graph-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/gchq-graph/0.5.0",
+    "Source":         "src/gchq-graph/0.5.0/graph-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

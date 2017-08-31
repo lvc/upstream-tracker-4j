@@ -1,0 +1,553 @@
+{
+  "Name":           "grizzly-http-server",
+  "Title":          "Grizzly Http Server",
+  "SourceUrl":      "http://central.maven.org/maven2/org/glassfish/grizzly/grizzly-http-server/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/grizzly-http-server/2.4.1",
+    "Source":         "src/grizzly-http-server/2.4.1/grizzly-http-server-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/grizzly-http-server/2.4.0",
+    "Source":         "src/grizzly-http-server/2.4.0/grizzly-http-server-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0-beta13",
+    "Installed":      "src/grizzly-http-server/2.4.0-beta13",
+    "Source":         "src/grizzly-http-server/2.4.0-beta13/grizzly-http-server-2.4.0-beta13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.4.0-beta12",
+    "Installed":      "src/grizzly-http-server/2.4.0-beta12",
+    "Source":         "src/grizzly-http-server/2.4.0-beta12/grizzly-http-server-2.4.0-beta12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.4.0-beta11",
+    "Installed":      "src/grizzly-http-server/2.4.0-beta11",
+    "Source":         "src/grizzly-http-server/2.4.0-beta11/grizzly-http-server-2.4.0-beta11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.4.0-beta10",
+    "Installed":      "src/grizzly-http-server/2.4.0-beta10",
+    "Source":         "src/grizzly-http-server/2.4.0-beta10/grizzly-http-server-2.4.0-beta10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.4.0-beta9",
+    "Installed":      "src/grizzly-http-server/2.4.0-beta9",
+    "Source":         "src/grizzly-http-server/2.4.0-beta9/grizzly-http-server-2.4.0-beta9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.3.32",
+    "Installed":      "src/grizzly-http-server/2.3.32",
+    "Source":         "src/grizzly-http-server/2.3.32/grizzly-http-server-2.3.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.31",
+    "Installed":      "src/grizzly-http-server/2.3.31",
+    "Source":         "src/grizzly-http-server/2.3.31/grizzly-http-server-2.3.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.30",
+    "Installed":      "src/grizzly-http-server/2.3.30",
+    "Source":         "src/grizzly-http-server/2.3.30/grizzly-http-server-2.3.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.29",
+    "Installed":      "src/grizzly-http-server/2.3.29",
+    "Source":         "src/grizzly-http-server/2.3.29/grizzly-http-server-2.3.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.28",
+    "Installed":      "src/grizzly-http-server/2.3.28",
+    "Source":         "src/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.27",
+    "Installed":      "src/grizzly-http-server/2.3.27",
+    "Source":         "src/grizzly-http-server/2.3.27/grizzly-http-server-2.3.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.26",
+    "Installed":      "src/grizzly-http-server/2.3.26",
+    "Source":         "src/grizzly-http-server/2.3.26/grizzly-http-server-2.3.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.25",
+    "Installed":      "src/grizzly-http-server/2.3.25",
+    "Source":         "src/grizzly-http-server/2.3.25/grizzly-http-server-2.3.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.24",
+    "Installed":      "src/grizzly-http-server/2.3.24",
+    "Source":         "src/grizzly-http-server/2.3.24/grizzly-http-server-2.3.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.23",
+    "Installed":      "src/grizzly-http-server/2.3.23",
+    "Source":         "src/grizzly-http-server/2.3.23/grizzly-http-server-2.3.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.22",
+    "Installed":      "src/grizzly-http-server/2.3.22",
+    "Source":         "src/grizzly-http-server/2.3.22/grizzly-http-server-2.3.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.21",
+    "Installed":      "src/grizzly-http-server/2.3.21",
+    "Source":         "src/grizzly-http-server/2.3.21/grizzly-http-server-2.3.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.20",
+    "Installed":      "src/grizzly-http-server/2.3.20",
+    "Source":         "src/grizzly-http-server/2.3.20/grizzly-http-server-2.3.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.19",
+    "Installed":      "src/grizzly-http-server/2.3.19",
+    "Source":         "src/grizzly-http-server/2.3.19/grizzly-http-server-2.3.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.18",
+    "Installed":      "src/grizzly-http-server/2.3.18",
+    "Source":         "src/grizzly-http-server/2.3.18/grizzly-http-server-2.3.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.17",
+    "Installed":      "src/grizzly-http-server/2.3.17",
+    "Source":         "src/grizzly-http-server/2.3.17/grizzly-http-server-2.3.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.16",
+    "Installed":      "src/grizzly-http-server/2.3.16",
+    "Source":         "src/grizzly-http-server/2.3.16/grizzly-http-server-2.3.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.15",
+    "Installed":      "src/grizzly-http-server/2.3.15",
+    "Source":         "src/grizzly-http-server/2.3.15/grizzly-http-server-2.3.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.14",
+    "Installed":      "src/grizzly-http-server/2.3.14",
+    "Source":         "src/grizzly-http-server/2.3.14/grizzly-http-server-2.3.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.13",
+    "Installed":      "src/grizzly-http-server/2.3.13",
+    "Source":         "src/grizzly-http-server/2.3.13/grizzly-http-server-2.3.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.12",
+    "Installed":      "src/grizzly-http-server/2.3.12",
+    "Source":         "src/grizzly-http-server/2.3.12/grizzly-http-server-2.3.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.11",
+    "Installed":      "src/grizzly-http-server/2.3.11",
+    "Source":         "src/grizzly-http-server/2.3.11/grizzly-http-server-2.3.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.10",
+    "Installed":      "src/grizzly-http-server/2.3.10",
+    "Source":         "src/grizzly-http-server/2.3.10/grizzly-http-server-2.3.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.9",
+    "Installed":      "src/grizzly-http-server/2.3.9",
+    "Source":         "src/grizzly-http-server/2.3.9/grizzly-http-server-2.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.8",
+    "Installed":      "src/grizzly-http-server/2.3.8",
+    "Source":         "src/grizzly-http-server/2.3.8/grizzly-http-server-2.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/grizzly-http-server/2.3.7",
+    "Source":         "src/grizzly-http-server/2.3.7/grizzly-http-server-2.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.6",
+    "Installed":      "src/grizzly-http-server/2.3.6",
+    "Source":         "src/grizzly-http-server/2.3.6/grizzly-http-server-2.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/grizzly-http-server/2.3.5",
+    "Source":         "src/grizzly-http-server/2.3.5/grizzly-http-server-2.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/grizzly-http-server/2.3.4",
+    "Source":         "src/grizzly-http-server/2.3.4/grizzly-http-server-2.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "src/grizzly-http-server/2.3.3",
+    "Source":         "src/grizzly-http-server/2.3.3/grizzly-http-server-2.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/grizzly-http-server/2.3.2",
+    "Source":         "src/grizzly-http-server/2.3.2/grizzly-http-server-2.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/grizzly-http-server/2.3.1",
+    "Source":         "src/grizzly-http-server/2.3.1/grizzly-http-server-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/grizzly-http-server/2.3",
+    "Source":         "src/grizzly-http-server/2.3/grizzly-http-server-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.22",
+    "Installed":      "src/grizzly-http-server/2.2.22",
+    "Source":         "src/grizzly-http-server/2.2.22/grizzly-http-server-2.2.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.21",
+    "Installed":      "src/grizzly-http-server/2.2.21",
+    "Source":         "src/grizzly-http-server/2.2.21/grizzly-http-server-2.2.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.20",
+    "Installed":      "src/grizzly-http-server/2.2.20",
+    "Source":         "src/grizzly-http-server/2.2.20/grizzly-http-server-2.2.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.19",
+    "Installed":      "src/grizzly-http-server/2.2.19",
+    "Source":         "src/grizzly-http-server/2.2.19/grizzly-http-server-2.2.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.18",
+    "Installed":      "src/grizzly-http-server/2.2.18",
+    "Source":         "src/grizzly-http-server/2.2.18/grizzly-http-server-2.2.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.17",
+    "Installed":      "src/grizzly-http-server/2.2.17",
+    "Source":         "src/grizzly-http-server/2.2.17/grizzly-http-server-2.2.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.16",
+    "Installed":      "src/grizzly-http-server/2.2.16",
+    "Source":         "src/grizzly-http-server/2.2.16/grizzly-http-server-2.2.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.15",
+    "Installed":      "src/grizzly-http-server/2.2.15",
+    "Source":         "src/grizzly-http-server/2.2.15/grizzly-http-server-2.2.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.14",
+    "Installed":      "src/grizzly-http-server/2.2.14",
+    "Source":         "src/grizzly-http-server/2.2.14/grizzly-http-server-2.2.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.13",
+    "Installed":      "src/grizzly-http-server/2.2.13",
+    "Source":         "src/grizzly-http-server/2.2.13/grizzly-http-server-2.2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.12",
+    "Installed":      "src/grizzly-http-server/2.2.12",
+    "Source":         "src/grizzly-http-server/2.2.12/grizzly-http-server-2.2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.11",
+    "Installed":      "src/grizzly-http-server/2.2.11",
+    "Source":         "src/grizzly-http-server/2.2.11/grizzly-http-server-2.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.10",
+    "Installed":      "src/grizzly-http-server/2.2.10",
+    "Source":         "src/grizzly-http-server/2.2.10/grizzly-http-server-2.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.9",
+    "Installed":      "src/grizzly-http-server/2.2.9",
+    "Source":         "src/grizzly-http-server/2.2.9/grizzly-http-server-2.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.8",
+    "Installed":      "src/grizzly-http-server/2.2.8",
+    "Source":         "src/grizzly-http-server/2.2.8/grizzly-http-server-2.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "src/grizzly-http-server/2.2.7",
+    "Source":         "src/grizzly-http-server/2.2.7/grizzly-http-server-2.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/grizzly-http-server/2.2.6",
+    "Source":         "src/grizzly-http-server/2.2.6/grizzly-http-server-2.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/grizzly-http-server/2.2.5",
+    "Source":         "src/grizzly-http-server/2.2.5/grizzly-http-server-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/grizzly-http-server/2.2.4",
+    "Source":         "src/grizzly-http-server/2.2.4/grizzly-http-server-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/grizzly-http-server/2.2.3",
+    "Source":         "src/grizzly-http-server/2.2.3/grizzly-http-server-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/grizzly-http-server/2.2.2",
+    "Source":         "src/grizzly-http-server/2.2.2/grizzly-http-server-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/grizzly-http-server/2.2.1",
+    "Source":         "src/grizzly-http-server/2.2.1/grizzly-http-server-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/grizzly-http-server/2.2",
+    "Source":         "src/grizzly-http-server/2.2/grizzly-http-server-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.11",
+    "Installed":      "src/grizzly-http-server/2.1.11",
+    "Source":         "src/grizzly-http-server/2.1.11/grizzly-http-server-2.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.10",
+    "Installed":      "src/grizzly-http-server/2.1.10",
+    "Source":         "src/grizzly-http-server/2.1.10/grizzly-http-server-2.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.9",
+    "Installed":      "src/grizzly-http-server/2.1.9",
+    "Source":         "src/grizzly-http-server/2.1.9/grizzly-http-server-2.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.8",
+    "Installed":      "src/grizzly-http-server/2.1.8",
+    "Source":         "src/grizzly-http-server/2.1.8/grizzly-http-server-2.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.7",
+    "Installed":      "src/grizzly-http-server/2.1.7",
+    "Source":         "src/grizzly-http-server/2.1.7/grizzly-http-server-2.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/grizzly-http-server/2.1.6",
+    "Source":         "src/grizzly-http-server/2.1.6/grizzly-http-server-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/grizzly-http-server/2.1.5",
+    "Source":         "src/grizzly-http-server/2.1.5/grizzly-http-server-2.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/grizzly-http-server/2.1.4",
+    "Source":         "src/grizzly-http-server/2.1.4/grizzly-http-server-2.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/grizzly-http-server/2.1.3",
+    "Source":         "src/grizzly-http-server/2.1.3/grizzly-http-server-2.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/grizzly-http-server/2.1.2",
+    "Source":         "src/grizzly-http-server/2.1.2/grizzly-http-server-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/grizzly-http-server/2.1.1",
+    "Source":         "src/grizzly-http-server/2.1.1/grizzly-http-server-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/grizzly-http-server/2.1",
+    "Source":         "src/grizzly-http-server/2.1/grizzly-http-server-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/grizzly-http-server/2.0.1",
+    "Source":         "src/grizzly-http-server/2.0.1/grizzly-http-server-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/grizzly-http-server/2.0",
+    "Source":         "src/grizzly-http-server/2.0/grizzly-http-server-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

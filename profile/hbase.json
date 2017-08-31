@@ -6,11 +6,63 @@
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "AnnotationList": "filters/annotation_list/hbase.list",
   "CheckArchives":  [ "hbase-.*" ],
+  "CompactReport":  "On",
+  "GraphFewXTics":  "On",
   "PackageSuffix":  "-hadoop2",
   "SkipArchives":   [ ".*-examples-.*", ".*-tests.*", "src/", "hbase-(resource-bundle|it|shell|hadoop-compat|hadoop2-compat|checkstyle|prefix-tree|protocol|testing-util|thrift|procedure|external-blockcache)-.*" ],
   "SkipVersions":   [ ".*\d\d\d\d.*" ],
 
   "Versions": [
+  {
+    "Number":         "2.0.0-alpha2",
+    "Installed":      "installed/hbase/2.0.0-alpha2",
+    "Source":         "src/hbase/2.0.0-alpha2/hbase-2.0.0-alpha2-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0-alpha-1",
+    "Installed":      "installed/hbase/2.0.0-alpha-1",
+    "Source":         "src/hbase/2.0.0-alpha-1/hbase-2.0.0-alpha-1-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "installed/hbase/1.3.1",
+    "Source":         "src/hbase/1.3.1/hbase-1.3.1-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "installed/hbase/1.3.0",
+    "Source":         "src/hbase/1.3.0/hbase-1.3.0-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.6",
+    "Installed":      "installed/hbase/1.2.6",
+    "Source":         "src/hbase/1.2.6/hbase-1.2.6-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.5",
+    "Installed":      "installed/hbase/1.2.5",
+    "Source":         "src/hbase/1.2.5/hbase-1.2.5-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "installed/hbase/1.2.4",
+    "Source":         "src/hbase/1.2.4/hbase-1.2.4-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.2.3",
     "Installed":      "installed/hbase/1.2.3",
@@ -36,6 +88,48 @@
     "Number":         "1.2.0",
     "Installed":      "installed/hbase/1.2.0",
     "Source":         "src/hbase/1.2.0/hbase-1.2.0-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.12",
+    "Installed":      "installed/hbase/1.1.12",
+    "Source":         "src/hbase/1.1.12/hbase-1.1.12-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.11",
+    "Installed":      "installed/hbase/1.1.11",
+    "Source":         "src/hbase/1.1.11/hbase-1.1.11-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.10",
+    "Installed":      "installed/hbase/1.1.10",
+    "Source":         "src/hbase/1.1.10/hbase-1.1.10-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.9",
+    "Installed":      "installed/hbase/1.1.9",
+    "Source":         "src/hbase/1.1.9/hbase-1.1.9-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.8",
+    "Installed":      "installed/hbase/1.1.8",
+    "Source":         "src/hbase/1.1.8/hbase-1.1.8-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "installed/hbase/1.1.7",
+    "Source":         "src/hbase/1.1.7/hbase-1.1.7-bin.tar.gz",
     "Changelog":      "CHANGES.txt",
     "PkgDiff":        "Off"
   },
@@ -148,6 +242,20 @@
     "Number":         "0.99.0",
     "Installed":      "installed/hbase/0.99.0",
     "Source":         "src/hbase/0.99.0/hbase-0.99.0-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.98.24",
+    "Installed":      "installed/hbase/0.98.24",
+    "Source":         "src/hbase/0.98.24/hbase-0.98.24-hadoop2-bin.tar.gz",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.98.23",
+    "Installed":      "installed/hbase/0.98.23",
+    "Source":         "src/hbase/0.98.23/hbase-0.98.23-hadoop2-bin.tar.gz",
     "Changelog":      "CHANGES.txt",
     "PkgDiff":        "Off"
   },

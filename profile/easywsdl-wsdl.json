@@ -1,0 +1,79 @@
+{
+  "Name":           "easywsdl-wsdl",
+  "Title":          "Easywsdl Wsdl",
+  "SourceUrl":      "http://central.maven.org/maven2/org/ow2/easywsdl/easywsdl-wsdl/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/easywsdl-wsdl/2.6.1",
+    "Source":         "src/easywsdl-wsdl/2.6.1/easywsdl-wsdl-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/easywsdl-wsdl/2.6.0",
+    "Source":         "src/easywsdl-wsdl/2.6.0/easywsdl-wsdl-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/easywsdl-wsdl/2.3",
+    "Source":         "src/easywsdl-wsdl/2.3/easywsdl-wsdl-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/easywsdl-wsdl/2.2",
+    "Source":         "src/easywsdl-wsdl/2.2/easywsdl-wsdl-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/easywsdl-wsdl/2.1",
+    "Source":         "src/easywsdl-wsdl/2.1/easywsdl-wsdl-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/easywsdl-wsdl/2.0.1",
+    "Source":         "src/easywsdl-wsdl/2.0.1/easywsdl-wsdl-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/easywsdl-wsdl/2.0",
+    "Source":         "src/easywsdl-wsdl/2.0/easywsdl-wsdl-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/easywsdl-wsdl/1.3.2",
+    "Source":         "src/easywsdl-wsdl/1.3.2/easywsdl-wsdl-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/easywsdl-wsdl/1.3.1",
+    "Source":         "src/easywsdl-wsdl/1.3.1/easywsdl-wsdl-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/easywsdl-wsdl/1.3",
+    "Source":         "src/easywsdl-wsdl/1.3/easywsdl-wsdl-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

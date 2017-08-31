@@ -1,0 +1,184 @@
+{
+  "Name":           "jline",
+  "Title":          "JLine",
+  "SourceUrl":      "http://central.maven.org/maven2/jline/jline/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.0.M1",
+    "Installed":      "src/jline/3.0.0.M1",
+    "Source":         "src/jline/3.0.0.M1/jline-3.0.0.M1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.5",
+    "Installed":      "src/jline/2.14.5",
+    "Source":         "src/jline/2.14.5/jline-2.14.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.4",
+    "Installed":      "src/jline/2.14.4",
+    "Source":         "src/jline/2.14.4/jline-2.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.3",
+    "Installed":      "src/jline/2.14.3",
+    "Source":         "src/jline/2.14.3/jline-2.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.2",
+    "Installed":      "src/jline/2.14.2",
+    "Source":         "src/jline/2.14.2/jline-2.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "src/jline/2.14.1",
+    "Source":         "src/jline/2.14.1/jline-2.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14",
+    "Installed":      "src/jline/2.14",
+    "Source":         "src/jline/2.14/jline-2.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13",
+    "Installed":      "src/jline/2.13",
+    "Source":         "src/jline/2.13/jline-2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.1",
+    "Installed":      "src/jline/2.12.1",
+    "Source":         "src/jline/2.12.1/jline-2.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12",
+    "Installed":      "src/jline/2.12",
+    "Source":         "src/jline/2.12/jline-2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11",
+    "Installed":      "src/jline/2.11",
+    "Source":         "src/jline/2.11/jline-2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10",
+    "Installed":      "src/jline/2.10",
+    "Source":         "src/jline/2.10/jline-2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/jline/2.9",
+    "Source":         "src/jline/2.9/jline-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/jline/2.8",
+    "Source":         "src/jline/2.8/jline-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/jline/2.7",
+    "Source":         "src/jline/2.7/jline-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/jline/2.6",
+    "Source":         "src/jline/2.6/jline-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/jline/1.0",
+    "Source":         "src/jline/1.0/jline-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.94",
+    "Installed":      "src/jline/0.9.94",
+    "Source":         "src/jline/0.9.94/jline-0.9.94.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.93",
+    "Installed":      "src/jline/0.9.93",
+    "Source":         "src/jline/0.9.93/jline-0.9.93.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.92",
+    "Installed":      "src/jline/0.9.92",
+    "Source":         "src/jline/0.9.92/jline-0.9.92.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.91",
+    "Installed":      "src/jline/0.9.91",
+    "Source":         "src/jline/0.9.91/jline-0.9.91.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.9",
+    "Installed":      "src/jline/0.9.9",
+    "Source":         "src/jline/0.9.9/jline-0.9.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5",
+    "Installed":      "src/jline/0.9.5",
+    "Source":         "src/jline/0.9.5/jline-0.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/jline/0.9.1",
+    "Source":         "src/jline/0.9.1/jline-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/jline/0.9.0",
+    "Source":         "src/jline/0.9.0/jline-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

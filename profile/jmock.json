@@ -1,0 +1,93 @@
+{
+  "Name":           "jmock",
+  "Title":          "JMock 2 Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jmock/jmock/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.8.3",
+    "Installed":      "src/jmock/2.8.3",
+    "Source":         "src/jmock/2.8.3/jmock-2.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/jmock/2.8.2",
+    "Source":         "src/jmock/2.8.2/jmock-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/jmock/2.8.1",
+    "Source":         "src/jmock/2.8.1/jmock-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/jmock/2.8.0",
+    "Source":         "src/jmock/2.8.0/jmock-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/jmock/2.6.0",
+    "Source":         "src/jmock/2.6.0/jmock-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/jmock/2.5.1",
+    "Source":         "src/jmock/2.5.1/jmock-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0.1",
+    "Installed":      "src/jmock/2.5.0.1",
+    "Source":         "src/jmock/2.5.0.1/jmock-2.5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/jmock/2.5.0",
+    "Source":         "src/jmock/2.5.0/jmock-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/jmock/2.4.0",
+    "Source":         "src/jmock/2.4.0/jmock-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/jmock/2.2.0",
+    "Source":         "src/jmock/2.2.0/jmock-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/jmock/2.1.0",
+    "Source":         "src/jmock/2.1.0/jmock-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/jmock/2.0.0",
+    "Source":         "src/jmock/2.0.0/jmock-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

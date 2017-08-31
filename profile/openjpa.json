@@ -1,0 +1,87 @@
+{
+  "Name":           "openjpa",
+  "Title":          "OpenJPA",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/openjpa/openjpa/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.0.0",
+
+  "Versions": [
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/openjpa/2.4.2",
+    "Source":         "src/openjpa/2.4.2/openjpa-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/openjpa/2.4.1",
+    "Source":         "src/openjpa/2.4.1/openjpa-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/openjpa/2.4.0",
+    "Source":         "src/openjpa/2.4.0/openjpa-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/openjpa/2.3.0",
+    "Source":         "src/openjpa/2.3.0/openjpa-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/openjpa/2.2.2",
+    "Source":         "src/openjpa/2.2.2/openjpa-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/openjpa/2.2.1",
+    "Source":         "src/openjpa/2.2.1/openjpa-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/openjpa/2.2.0",
+    "Source":         "src/openjpa/2.2.0/openjpa-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/openjpa/2.1.1",
+    "Source":         "src/openjpa/2.1.1/openjpa-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/openjpa/2.1.0",
+    "Source":         "src/openjpa/2.1.0/openjpa-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/openjpa/2.0.1",
+    "Source":         "src/openjpa/2.0.1/openjpa-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/openjpa/2.0.0",
+    "Source":         "src/openjpa/2.0.0/openjpa-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

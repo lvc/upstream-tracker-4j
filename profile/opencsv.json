@@ -1,0 +1,86 @@
+{
+  "Name":           "opencsv",
+  "Title":          "OpenCsv",
+  "SourceUrl":      "http://central.maven.org/maven2/com/opencsv/opencsv/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.0",
+    "Installed":      "src/opencsv/4.0",
+    "Source":         "src/opencsv/4.0/opencsv-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.10",
+    "Installed":      "src/opencsv/3.10",
+    "Source":         "src/opencsv/3.10/opencsv-3.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9",
+    "Installed":      "src/opencsv/3.9",
+    "Source":         "src/opencsv/3.9/opencsv-3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8",
+    "Installed":      "src/opencsv/3.8",
+    "Source":         "src/opencsv/3.8/opencsv-3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7",
+    "Installed":      "src/opencsv/3.7",
+    "Source":         "src/opencsv/3.7/opencsv-3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6",
+    "Installed":      "src/opencsv/3.6",
+    "Source":         "src/opencsv/3.6/opencsv-3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/opencsv/3.5",
+    "Source":         "src/opencsv/3.5/opencsv-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/opencsv/3.4",
+    "Source":         "src/opencsv/3.4/opencsv-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/opencsv/3.3",
+    "Source":         "src/opencsv/3.3/opencsv-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/opencsv/3.2",
+    "Source":         "src/opencsv/3.2/opencsv-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/opencsv/3.1",
+    "Source":         "src/opencsv/3.1/opencsv-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

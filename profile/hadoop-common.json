@@ -1,0 +1,130 @@
+{
+  "Name":           "hadoop-common",
+  "Title":          "Hadoop Common",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/hadoop/hadoop-common/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "MinimalVersion": "2.5.0",
+
+  "Versions": [
+  {
+    "Number":         "3.0.0-alpha4",
+    "Installed":      "src/hadoop-common/3.0.0-alpha4",
+    "Source":         "src/hadoop-common/3.0.0-alpha4/hadoop-common-3.0.0-alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/hadoop-common/2.8.1",
+    "Source":         "src/hadoop-common/2.8.1/hadoop-common-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/hadoop-common/2.8.0",
+    "Source":         "src/hadoop-common/2.8.0/hadoop-common-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/hadoop-common/2.7.4",
+    "Source":         "src/hadoop-common/2.7.4/hadoop-common-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "src/hadoop-common/2.7.3",
+    "Source":         "src/hadoop-common/2.7.3/hadoop-common-2.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/hadoop-common/2.7.2",
+    "Source":         "src/hadoop-common/2.7.2/hadoop-common-2.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/hadoop-common/2.7.1",
+    "Source":         "src/hadoop-common/2.7.1/hadoop-common-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/hadoop-common/2.7.0",
+    "Source":         "src/hadoop-common/2.7.0/hadoop-common-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "src/hadoop-common/2.6.5",
+    "Source":         "src/hadoop-common/2.6.5/hadoop-common-2.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.4",
+    "Installed":      "src/hadoop-common/2.6.4",
+    "Source":         "src/hadoop-common/2.6.4/hadoop-common-2.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.3",
+    "Installed":      "src/hadoop-common/2.6.3",
+    "Source":         "src/hadoop-common/2.6.3/hadoop-common-2.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/hadoop-common/2.6.2",
+    "Source":         "src/hadoop-common/2.6.2/hadoop-common-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/hadoop-common/2.6.1",
+    "Source":         "src/hadoop-common/2.6.1/hadoop-common-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/hadoop-common/2.6.0",
+    "Source":         "src/hadoop-common/2.6.0/hadoop-common-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/hadoop-common/2.5.2",
+    "Source":         "src/hadoop-common/2.5.2/hadoop-common-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/hadoop-common/2.5.1",
+    "Source":         "src/hadoop-common/2.5.1/hadoop-common-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/hadoop-common/2.5.0",
+    "Source":         "src/hadoop-common/2.5.0/hadoop-common-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

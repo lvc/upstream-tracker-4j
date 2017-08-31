@@ -4,14 +4,30 @@
   "SourceUrl":      "http://central.maven.org/maven2/com/google/gwt/gwt-user/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
 
   "Versions": [
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/gwt-user/2.8.1",
+    "Source":         "src/gwt-user/2.8.1/gwt-user-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/gwt-user/2.8.0",
+    "Source":         "src/gwt-user/2.8.0/gwt-user-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.8.0-rc3",
     "Installed":      "src/gwt-user/2.8.0-rc3",
     "Source":         "src/gwt-user/2.8.0-rc3/gwt-user-2.8.0-rc3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.8.0-rc2",

@@ -1,0 +1,116 @@
+{
+  "Name":           "curator-test",
+  "Title":          "Curator Testing",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/curator/curator-test/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.7.0",
+  "SkipInternalPackages": ".*\.com\.google.*",
+
+  "Versions": [
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/curator-test/4.0.0",
+    "Source":         "src/curator-test/4.0.0/curator-test-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/curator-test/3.3.0",
+    "Source":         "src/curator-test/3.3.0/curator-test-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/curator-test/3.2.1",
+    "Source":         "src/curator-test/3.2.1/curator-test-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/curator-test/3.2.0",
+    "Source":         "src/curator-test/3.2.0/curator-test-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/curator-test/3.1.0",
+    "Source":         "src/curator-test/3.1.0/curator-test-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/curator-test/3.0.0",
+    "Source":         "src/curator-test/3.0.0/curator-test-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/curator-test/2.12.0",
+    "Source":         "src/curator-test/2.12.0/curator-test-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.1",
+    "Installed":      "src/curator-test/2.11.1",
+    "Source":         "src/curator-test/2.11.1/curator-test-2.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/curator-test/2.11.0",
+    "Source":         "src/curator-test/2.11.0/curator-test-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/curator-test/2.10.0",
+    "Source":         "src/curator-test/2.10.0/curator-test-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/curator-test/2.9.1",
+    "Source":         "src/curator-test/2.9.1/curator-test-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/curator-test/2.9.0",
+    "Source":         "src/curator-test/2.9.0/curator-test-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/curator-test/2.8.0",
+    "Source":         "src/curator-test/2.8.0/curator-test-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/curator-test/2.7.1",
+    "Source":         "src/curator-test/2.7.1/curator-test-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/curator-test/2.7.0",
+    "Source":         "src/curator-test/2.7.0/curator-test-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

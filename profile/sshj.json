@@ -1,0 +1,121 @@
+{
+  "Name":           "sshj",
+  "Title":          "Sshj",
+  "SourceUrl":      "http://central.maven.org/maven2/com/hierynomus/sshj/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.22.0",
+    "Installed":      "src/sshj/0.22.0",
+    "Source":         "src/sshj/0.22.0/sshj-0.22.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21.1",
+    "Installed":      "src/sshj/0.21.1",
+    "Source":         "src/sshj/0.21.1/sshj-0.21.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21.0",
+    "Installed":      "src/sshj/0.21.0",
+    "Source":         "src/sshj/0.21.0/sshj-0.21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20.0",
+    "Installed":      "src/sshj/0.20.0",
+    "Source":         "src/sshj/0.20.0/sshj-0.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.19.1",
+    "Installed":      "src/sshj/0.19.1",
+    "Source":         "src/sshj/0.19.1/sshj-0.19.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.19.0",
+    "Installed":      "src/sshj/0.19.0",
+    "Source":         "src/sshj/0.19.0/sshj-0.19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.18.0",
+    "Installed":      "src/sshj/0.18.0",
+    "Source":         "src/sshj/0.18.0/sshj-0.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.2",
+    "Installed":      "src/sshj/0.17.2",
+    "Source":         "src/sshj/0.17.2/sshj-0.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.1",
+    "Installed":      "src/sshj/0.17.1",
+    "Source":         "src/sshj/0.17.1/sshj-0.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.0",
+    "Installed":      "src/sshj/0.17.0",
+    "Source":         "src/sshj/0.17.0/sshj-0.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.16.0",
+    "Installed":      "src/sshj/0.16.0",
+    "Source":         "src/sshj/0.16.0/sshj-0.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15.0",
+    "Installed":      "src/sshj/0.15.0",
+    "Source":         "src/sshj/0.15.0/sshj-0.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.14.0",
+    "Installed":      "src/sshj/0.14.0",
+    "Source":         "src/sshj/0.14.0/sshj-0.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.0",
+    "Installed":      "src/sshj/0.13.0",
+    "Source":         "src/sshj/0.13.0/sshj-0.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/sshj/0.12.0",
+    "Source":         "src/sshj/0.12.0/sshj-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/sshj/0.11.0",
+    "Source":         "src/sshj/0.11.0/sshj-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

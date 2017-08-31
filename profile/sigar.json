@@ -1,0 +1,37 @@
+{
+  "Name":           "sigar",
+  "Title":          "SIGAR",
+  "SourceUrl":      "https://maven.repository.redhat.com/ga/org/hyperic/sigar/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.6.5.132-6",
+    "Installed":      "src/sigar/1.6.5.132-6",
+    "Source":         "src/sigar/1.6.5.132-6/sigar-1.6.5.132-6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5.132-5",
+    "Installed":      "src/sigar/1.6.5.132-5",
+    "Source":         "src/sigar/1.6.5.132-5/sigar-1.6.5.132-5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5.132-3",
+    "Installed":      "src/sigar/1.6.5.132-3",
+    "Source":         "src/sigar/1.6.5.132-3/sigar-1.6.5.132-3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5.132",
+    "Installed":      "src/sigar/1.6.5.132",
+    "Source":         "src/sigar/1.6.5.132/sigar-1.6.5.132.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,184 @@
+{
+  "Name":           "imglib2",
+  "Title":          "ImgLib2 Core",
+  "SourceUrl":      "http://central.maven.org/maven2/net/imglib2/imglib2/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.3.0",
+    "Installed":      "src/imglib2/4.3.0",
+    "Source":         "src/imglib2/4.3.0/imglib2-4.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.1",
+    "Installed":      "src/imglib2/4.2.1",
+    "Source":         "src/imglib2/4.2.1/imglib2-4.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.0",
+    "Installed":      "src/imglib2/4.2.0",
+    "Source":         "src/imglib2/4.2.0/imglib2-4.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/imglib2/4.1.0",
+    "Source":         "src/imglib2/4.1.0/imglib2-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/imglib2/4.0.0",
+    "Source":         "src/imglib2/4.0.0/imglib2-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/imglib2/3.3.0",
+    "Source":         "src/imglib2/3.3.0/imglib2-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/imglib2/3.2.1",
+    "Source":         "src/imglib2/3.2.1/imglib2-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/imglib2/3.2.0",
+    "Source":         "src/imglib2/3.2.0/imglib2-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/imglib2/3.1.1",
+    "Source":         "src/imglib2/3.1.1/imglib2-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/imglib2/3.1.0",
+    "Source":         "src/imglib2/3.1.0/imglib2-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/imglib2/3.0.0",
+    "Source":         "src/imglib2/3.0.0/imglib2-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/imglib2/2.9.0",
+    "Source":         "src/imglib2/2.9.0/imglib2-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/imglib2/2.8.0",
+    "Source":         "src/imglib2/2.8.0/imglib2-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/imglib2/2.7.0",
+    "Source":         "src/imglib2/2.7.0/imglib2-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/imglib2/2.6.0",
+    "Source":         "src/imglib2/2.6.0/imglib2-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/imglib2/2.5.0",
+    "Source":         "src/imglib2/2.5.0/imglib2-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/imglib2/2.4.1",
+    "Source":         "src/imglib2/2.4.1/imglib2-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/imglib2/2.4.0",
+    "Source":         "src/imglib2/2.4.0/imglib2-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/imglib2/2.3.0",
+    "Source":         "src/imglib2/2.3.0/imglib2-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/imglib2/2.2.1",
+    "Source":         "src/imglib2/2.2.1/imglib2-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/imglib2/2.2.0",
+    "Source":         "src/imglib2/2.2.0/imglib2-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/imglib2/2.1.0",
+    "Source":         "src/imglib2/2.1.0/imglib2-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/imglib2/2.0.2",
+    "Source":         "src/imglib2/2.0.2/imglib2-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/imglib2/2.0.1",
+    "Source":         "src/imglib2/2.0.1/imglib2-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/imglib2/2.0.0",
+    "Source":         "src/imglib2/2.0.0/imglib2-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

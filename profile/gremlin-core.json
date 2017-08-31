@@ -1,0 +1,100 @@
+{
+  "Name":           "gremlin-core",
+  "Title":          "TinkerPop Gremlin Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/tinkerpop/gremlin-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/gremlin-core/3.3.0",
+    "Source":         "src/gremlin-core/3.3.0/gremlin-core-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.6",
+    "Installed":      "src/gremlin-core/3.2.6",
+    "Source":         "src/gremlin-core/3.2.6/gremlin-core-3.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/gremlin-core/3.2.5",
+    "Source":         "src/gremlin-core/3.2.5/gremlin-core-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.4",
+    "Installed":      "src/gremlin-core/3.2.4",
+    "Source":         "src/gremlin-core/3.2.4/gremlin-core-3.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/gremlin-core/3.2.3",
+    "Source":         "src/gremlin-core/3.2.3/gremlin-core-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/gremlin-core/3.2.2",
+    "Source":         "src/gremlin-core/3.2.2/gremlin-core-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/gremlin-core/3.2.1",
+    "Source":         "src/gremlin-core/3.2.1/gremlin-core-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.8",
+    "Installed":      "src/gremlin-core/3.1.8",
+    "Source":         "src/gremlin-core/3.1.8/gremlin-core-3.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.7",
+    "Installed":      "src/gremlin-core/3.1.7",
+    "Source":         "src/gremlin-core/3.1.7/gremlin-core-3.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.6",
+    "Installed":      "src/gremlin-core/3.1.6",
+    "Source":         "src/gremlin-core/3.1.6/gremlin-core-3.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.5",
+    "Installed":      "src/gremlin-core/3.1.5",
+    "Source":         "src/gremlin-core/3.1.5/gremlin-core-3.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.4",
+    "Installed":      "src/gremlin-core/3.1.4",
+    "Source":         "src/gremlin-core/3.1.4/gremlin-core-3.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.3",
+    "Installed":      "src/gremlin-core/3.1.3",
+    "Source":         "src/gremlin-core/3.1.3/gremlin-core-3.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,65 @@
+{
+  "Name":           "classpath-scanner",
+  "Title":          "Simple Classpath Scanner",
+  "SourceUrl":      "http://central.maven.org/maven2/com/bluetrainsoftware/classpath-scanner/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.8",
+    "Installed":      "src/classpath-scanner/1.8",
+    "Source":         "src/classpath-scanner/1.8/classpath-scanner-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/classpath-scanner/1.7",
+    "Source":         "src/classpath-scanner/1.7/classpath-scanner-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/classpath-scanner/1.6",
+    "Source":         "src/classpath-scanner/1.6/classpath-scanner-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/classpath-scanner/1.5",
+    "Source":         "src/classpath-scanner/1.5/classpath-scanner-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/classpath-scanner/1.4",
+    "Source":         "src/classpath-scanner/1.4/classpath-scanner-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/classpath-scanner/1.3",
+    "Source":         "src/classpath-scanner/1.3/classpath-scanner-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/classpath-scanner/1.2",
+    "Source":         "src/classpath-scanner/1.2/classpath-scanner-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/classpath-scanner/1.1",
+    "Source":         "src/classpath-scanner/1.1/classpath-scanner-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

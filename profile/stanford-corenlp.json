@@ -1,0 +1,52 @@
+{
+  "Name":           "stanford-corenlp",
+  "Title":          "Stanford CoreNLP",
+  "SourceUrl":      "http://central.maven.org/maven2/edu/stanford/nlp/stanford-corenlp/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.5.0",
+
+  "Versions": [
+  {
+    "Number":         "3.8.0",
+    "Installed":      "src/stanford-corenlp/3.8.0",
+    "Source":         "src/stanford-corenlp/3.8.0/stanford-corenlp-3.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.0",
+    "Installed":      "src/stanford-corenlp/3.7.0",
+    "Source":         "src/stanford-corenlp/3.7.0/stanford-corenlp-3.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/stanford-corenlp/3.6.0",
+    "Source":         "src/stanford-corenlp/3.6.0/stanford-corenlp-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.2",
+    "Installed":      "src/stanford-corenlp/3.5.2",
+    "Source":         "src/stanford-corenlp/3.5.2/stanford-corenlp-3.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/stanford-corenlp/3.5.1",
+    "Source":         "src/stanford-corenlp/3.5.1/stanford-corenlp-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/stanford-corenlp/3.5.0",
+    "Source":         "src/stanford-corenlp/3.5.0/stanford-corenlp-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

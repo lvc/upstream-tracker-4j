@@ -1,0 +1,181 @@
+{
+  "Name":           "redisson",
+  "Title":          "Redisson",
+  "SourceUrl":      "http://central.maven.org/maven2/org/redisson/redisson/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "LatestMicro":    "On",
+
+  "Versions": [
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/redisson/3.5.1",
+    "Source":         "src/redisson/3.5.1/redisson-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/redisson/3.5.0",
+    "Source":         "src/redisson/3.5.0/redisson-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.4.4",
+    "Installed":      "src/redisson/3.4.4",
+    "Source":         "src/redisson/3.4.4/redisson-3.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.2",
+    "Installed":      "src/redisson/3.3.2",
+    "Source":         "src/redisson/3.3.2/redisson-3.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.4",
+    "Installed":      "src/redisson/3.2.4",
+    "Source":         "src/redisson/3.2.4/redisson-3.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/redisson/3.1.0",
+    "Source":         "src/redisson/3.1.0/redisson-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/redisson/3.0.1",
+    "Source":         "src/redisson/3.0.1/redisson-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/redisson/2.10.1",
+    "Source":         "src/redisson/2.10.1/redisson-2.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/redisson/2.10.0",
+    "Source":         "src/redisson/2.10.0/redisson-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.9.4",
+    "Installed":      "src/redisson/2.9.4",
+    "Source":         "src/redisson/2.9.4/redisson-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/redisson/2.8.2",
+    "Source":         "src/redisson/2.8.2/redisson-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/redisson/2.7.4",
+    "Source":         "src/redisson/2.7.4/redisson-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/redisson/2.6.0",
+    "Source":         "src/redisson/2.6.0/redisson-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/redisson/2.5.1",
+    "Source":         "src/redisson/2.5.1/redisson-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/redisson/2.4.0",
+    "Source":         "src/redisson/2.4.0/redisson-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/redisson/2.3.0",
+    "Source":         "src/redisson/2.3.0/redisson-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.27",
+    "Installed":      "src/redisson/2.2.27",
+    "Source":         "src/redisson/2.2.27/redisson-2.2.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/redisson/2.1.6",
+    "Source":         "src/redisson/2.1.6/redisson-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/redisson/2.0.0",
+    "Source":         "src/redisson/2.0.0/redisson-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/redisson/1.3.1",
+    "Source":         "src/redisson/1.3.1/redisson-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/redisson/1.2.1",
+    "Source":         "src/redisson/1.2.1/redisson-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/redisson/1.1.7",
+    "Source":         "src/redisson/1.1.7/redisson-1.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/redisson/1.0.4",
+    "Source":         "src/redisson/1.0.4/redisson-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/redisson/0.9.0",
+    "Source":         "src/redisson/0.9.0/redisson-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,44 @@
+{
+  "Name":           "apacheds-core-jndi",
+  "Title":          "ApacheDS Core JNDI",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/directory/server/apacheds-core-jndi/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0-M24",
+    "Installed":      "src/apacheds-core-jndi/2.0.0-M24",
+    "Source":         "src/apacheds-core-jndi/2.0.0-M24/apacheds-core-jndi-2.0.0-M24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.7",
+    "Installed":      "src/apacheds-core-jndi/1.5.7",
+    "Source":         "src/apacheds-core-jndi/1.5.7/apacheds-core-jndi-1.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/apacheds-core-jndi/1.5.6",
+    "Source":         "src/apacheds-core-jndi/1.5.6/apacheds-core-jndi-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/apacheds-core-jndi/1.5.5",
+    "Source":         "src/apacheds-core-jndi/1.5.5/apacheds-core-jndi-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/apacheds-core-jndi/1.5.4",
+    "Source":         "src/apacheds-core-jndi/1.5.4/apacheds-core-jndi-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,235 @@
+{
+  "Name":           "mongo-java-driver",
+  "Title":          "MongoDB Java Driver",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mongodb/mongo-java-driver/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.12.0",
+
+  "Versions": [
+  {
+    "Number":         "3.6.0-beta1",
+    "Installed":      "src/mongo-java-driver/3.6.0-beta1",
+    "Source":         "src/mongo-java-driver/3.6.0-beta1/mongo-java-driver-3.6.0-beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/mongo-java-driver/3.5.0",
+    "Source":         "src/mongo-java-driver/3.5.0/mongo-java-driver-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0-alpha1",
+    "Installed":      "src/mongo-java-driver/3.5.0-alpha1",
+    "Source":         "src/mongo-java-driver/3.5.0-alpha1/mongo-java-driver-3.5.0-alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.4.3",
+    "Installed":      "src/mongo-java-driver/3.4.3",
+    "Source":         "src/mongo-java-driver/3.4.3/mongo-java-driver-3.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/mongo-java-driver/3.4.2",
+    "Source":         "src/mongo-java-driver/3.4.2/mongo-java-driver-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/mongo-java-driver/3.4.1",
+    "Source":         "src/mongo-java-driver/3.4.1/mongo-java-driver-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/mongo-java-driver/3.4.0",
+    "Source":         "src/mongo-java-driver/3.4.0/mongo-java-driver-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/mongo-java-driver/3.3.0",
+    "Source":         "src/mongo-java-driver/3.3.0/mongo-java-driver-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/mongo-java-driver/3.2.2",
+    "Source":         "src/mongo-java-driver/3.2.2/mongo-java-driver-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/mongo-java-driver/3.2.1",
+    "Source":         "src/mongo-java-driver/3.2.1/mongo-java-driver-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/mongo-java-driver/3.2.0",
+    "Source":         "src/mongo-java-driver/3.2.0/mongo-java-driver-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/mongo-java-driver/3.1.1",
+    "Source":         "src/mongo-java-driver/3.1.1/mongo-java-driver-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/mongo-java-driver/3.1.0",
+    "Source":         "src/mongo-java-driver/3.1.0/mongo-java-driver-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/mongo-java-driver/3.0.4",
+    "Source":         "src/mongo-java-driver/3.0.4/mongo-java-driver-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/mongo-java-driver/3.0.3",
+    "Source":         "src/mongo-java-driver/3.0.3/mongo-java-driver-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/mongo-java-driver/3.0.2",
+    "Source":         "src/mongo-java-driver/3.0.2/mongo-java-driver-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/mongo-java-driver/3.0.1",
+    "Source":         "src/mongo-java-driver/3.0.1/mongo-java-driver-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/mongo-java-driver/3.0.0",
+    "Source":         "src/mongo-java-driver/3.0.0/mongo-java-driver-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.3",
+    "Installed":      "src/mongo-java-driver/2.14.3",
+    "Source":         "src/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.2",
+    "Installed":      "src/mongo-java-driver/2.14.2",
+    "Source":         "src/mongo-java-driver/2.14.2/mongo-java-driver-2.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "src/mongo-java-driver/2.14.1",
+    "Source":         "src/mongo-java-driver/2.14.1/mongo-java-driver-2.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "src/mongo-java-driver/2.14.0",
+    "Source":         "src/mongo-java-driver/2.14.0/mongo-java-driver-2.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.3",
+    "Installed":      "src/mongo-java-driver/2.13.3",
+    "Source":         "src/mongo-java-driver/2.13.3/mongo-java-driver-2.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.2",
+    "Installed":      "src/mongo-java-driver/2.13.2",
+    "Source":         "src/mongo-java-driver/2.13.2/mongo-java-driver-2.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.1",
+    "Installed":      "src/mongo-java-driver/2.13.1",
+    "Source":         "src/mongo-java-driver/2.13.1/mongo-java-driver-2.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.0",
+    "Installed":      "src/mongo-java-driver/2.13.0",
+    "Source":         "src/mongo-java-driver/2.13.0/mongo-java-driver-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.5",
+    "Installed":      "src/mongo-java-driver/2.12.5",
+    "Source":         "src/mongo-java-driver/2.12.5/mongo-java-driver-2.12.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.4",
+    "Installed":      "src/mongo-java-driver/2.12.4",
+    "Source":         "src/mongo-java-driver/2.12.4/mongo-java-driver-2.12.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.3",
+    "Installed":      "src/mongo-java-driver/2.12.3",
+    "Source":         "src/mongo-java-driver/2.12.3/mongo-java-driver-2.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.2",
+    "Installed":      "src/mongo-java-driver/2.12.2",
+    "Source":         "src/mongo-java-driver/2.12.2/mongo-java-driver-2.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.1",
+    "Installed":      "src/mongo-java-driver/2.12.1",
+    "Source":         "src/mongo-java-driver/2.12.1/mongo-java-driver-2.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/mongo-java-driver/2.12.0",
+    "Source":         "src/mongo-java-driver/2.12.0/mongo-java-driver-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

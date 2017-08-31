@@ -1,0 +1,45 @@
+{
+  "Name":           "freemarker",
+  "Title":          "FreeMarker",
+  "SourceUrl":      "http://central.maven.org/maven2/org/freemarker/freemarker/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.3.19",
+
+  "Versions": [
+  {
+    "Number":         "2.3.23",
+    "Installed":      "src/freemarker/2.3.23",
+    "Source":         "src/freemarker/2.3.23/freemarker-2.3.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.22",
+    "Installed":      "src/freemarker/2.3.22",
+    "Source":         "src/freemarker/2.3.22/freemarker-2.3.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.21",
+    "Installed":      "src/freemarker/2.3.21",
+    "Source":         "src/freemarker/2.3.21/freemarker-2.3.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.20",
+    "Installed":      "src/freemarker/2.3.20",
+    "Source":         "src/freemarker/2.3.20/freemarker-2.3.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.19",
+    "Installed":      "src/freemarker/2.3.19",
+    "Source":         "src/freemarker/2.3.19/freemarker-2.3.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

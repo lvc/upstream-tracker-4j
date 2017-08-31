@@ -1,0 +1,31 @@
+{
+  "Name":           "commons-configuration",
+  "Title":          "Commons Configuration",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/commons/commons-configuration2/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "commons-configuration2",
+
+  "Versions": [
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/commons-configuration/2.1.1",
+    "Source":         "src/commons-configuration/2.1.1/commons-configuration2-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/commons-configuration/2.1",
+    "Source":         "src/commons-configuration/2.1/commons-configuration2-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/commons-configuration/2.0",
+    "Source":         "src/commons-configuration/2.0/commons-configuration2-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

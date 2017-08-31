@@ -1,0 +1,121 @@
+{
+  "Name":           "xercesimpl",
+  "Title":          "Xerces2 J",
+  "SourceUrl":      "http://central.maven.org/maven2/xerces/xercesImpl/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/xercesimpl/2.11.0",
+    "Source":         "src/xercesimpl/2.11.0/xercesImpl-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/xercesimpl/2.10.0",
+    "Source":         "src/xercesimpl/2.10.0/xercesImpl-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/xercesimpl/2.9.1",
+    "Source":         "src/xercesimpl/2.9.1/xercesImpl-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/xercesimpl/2.9.0",
+    "Source":         "src/xercesimpl/2.9.0/xercesImpl-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/xercesimpl/2.8.1",
+    "Source":         "src/xercesimpl/2.8.1/xercesImpl-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/xercesimpl/2.8.0",
+    "Source":         "src/xercesimpl/2.8.0/xercesImpl-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/xercesimpl/2.7.1",
+    "Source":         "src/xercesimpl/2.7.1/xercesImpl-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/xercesimpl/2.6.2",
+    "Source":         "src/xercesimpl/2.6.2/xercesImpl-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/xercesimpl/2.6.1",
+    "Source":         "src/xercesimpl/2.6.1/xercesImpl-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/xercesimpl/2.6.0",
+    "Source":         "src/xercesimpl/2.6.0/xercesImpl-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/xercesimpl/2.5.0",
+    "Source":         "src/xercesimpl/2.5.0/xercesImpl-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/xercesimpl/2.4.0",
+    "Source":         "src/xercesimpl/2.4.0/xercesImpl-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/xercesimpl/2.3.0",
+    "Source":         "src/xercesimpl/2.3.0/xercesImpl-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/xercesimpl/2.2.1",
+    "Source":         "src/xercesimpl/2.2.1/xercesImpl-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/xercesimpl/2.0.2",
+    "Source":         "src/xercesimpl/2.0.2/xercesImpl-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/xercesimpl/2.0.0",
+    "Source":         "src/xercesimpl/2.0.0/xercesImpl-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

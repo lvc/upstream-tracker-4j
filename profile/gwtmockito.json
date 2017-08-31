@@ -1,0 +1,65 @@
+{
+  "Name":           "gwtmockito",
+  "Title":          "GwtMockito",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/gwt/gwtmockito/gwtmockito/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.1.6",
+    "Installed":      "src/gwtmockito/1.1.6",
+    "Source":         "src/gwtmockito/1.1.6/gwtmockito-1.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5",
+    "Installed":      "src/gwtmockito/1.1.5",
+    "Source":         "src/gwtmockito/1.1.5/gwtmockito-1.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/gwtmockito/1.1.4",
+    "Source":         "src/gwtmockito/1.1.4/gwtmockito-1.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/gwtmockito/1.1.3",
+    "Source":         "src/gwtmockito/1.1.3/gwtmockito-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/gwtmockito/1.1.2",
+    "Source":         "src/gwtmockito/1.1.2/gwtmockito-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/gwtmockito/1.1.1",
+    "Source":         "src/gwtmockito/1.1.1/gwtmockito-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/gwtmockito/1.1.0",
+    "Source":         "src/gwtmockito/1.1.0/gwtmockito-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/gwtmockito/1.0.0",
+    "Source":         "src/gwtmockito/1.0.0/gwtmockito-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,143 @@
+{
+  "Name":           "spring-data-mongodb",
+  "Title":          "Spring Data MongoDB",
+  "SourceUrl":      "http://central.maven.org/maven2/org/springframework/data/spring-data-mongodb/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.9.0",
+
+  "Versions": [
+  {
+    "Number":         "1.10.6",
+    "Installed":      "src/spring-data-mongodb/1.10.6",
+    "Source":         "src/spring-data-mongodb/1.10.6/spring-data-mongodb-1.10.6.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.5",
+    "Installed":      "src/spring-data-mongodb/1.10.5",
+    "Source":         "src/spring-data-mongodb/1.10.5/spring-data-mongodb-1.10.5.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.4",
+    "Installed":      "src/spring-data-mongodb/1.10.4",
+    "Source":         "src/spring-data-mongodb/1.10.4/spring-data-mongodb-1.10.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.3",
+    "Installed":      "src/spring-data-mongodb/1.10.3",
+    "Source":         "src/spring-data-mongodb/1.10.3/spring-data-mongodb-1.10.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.2",
+    "Installed":      "src/spring-data-mongodb/1.10.2",
+    "Source":         "src/spring-data-mongodb/1.10.2/spring-data-mongodb-1.10.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.1",
+    "Installed":      "src/spring-data-mongodb/1.10.1",
+    "Source":         "src/spring-data-mongodb/1.10.1/spring-data-mongodb-1.10.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.0",
+    "Installed":      "src/spring-data-mongodb/1.10.0",
+    "Source":         "src/spring-data-mongodb/1.10.0/spring-data-mongodb-1.10.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.11",
+    "Installed":      "src/spring-data-mongodb/1.9.11",
+    "Source":         "src/spring-data-mongodb/1.9.11/spring-data-mongodb-1.9.11.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.10",
+    "Installed":      "src/spring-data-mongodb/1.9.10",
+    "Source":         "src/spring-data-mongodb/1.9.10/spring-data-mongodb-1.9.10.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.9",
+    "Installed":      "src/spring-data-mongodb/1.9.9",
+    "Source":         "src/spring-data-mongodb/1.9.9/spring-data-mongodb-1.9.9.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.8",
+    "Installed":      "src/spring-data-mongodb/1.9.8",
+    "Source":         "src/spring-data-mongodb/1.9.8/spring-data-mongodb-1.9.8.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.7",
+    "Installed":      "src/spring-data-mongodb/1.9.7",
+    "Source":         "src/spring-data-mongodb/1.9.7/spring-data-mongodb-1.9.7.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.6",
+    "Installed":      "src/spring-data-mongodb/1.9.6",
+    "Source":         "src/spring-data-mongodb/1.9.6/spring-data-mongodb-1.9.6.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.5",
+    "Installed":      "src/spring-data-mongodb/1.9.5",
+    "Source":         "src/spring-data-mongodb/1.9.5/spring-data-mongodb-1.9.5.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.4",
+    "Installed":      "src/spring-data-mongodb/1.9.4",
+    "Source":         "src/spring-data-mongodb/1.9.4/spring-data-mongodb-1.9.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.3",
+    "Installed":      "src/spring-data-mongodb/1.9.3",
+    "Source":         "src/spring-data-mongodb/1.9.3/spring-data-mongodb-1.9.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.2",
+    "Installed":      "src/spring-data-mongodb/1.9.2",
+    "Source":         "src/spring-data-mongodb/1.9.2/spring-data-mongodb-1.9.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/spring-data-mongodb/1.9.1",
+    "Source":         "src/spring-data-mongodb/1.9.1/spring-data-mongodb-1.9.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/spring-data-mongodb/1.9.0",
+    "Source":         "src/spring-data-mongodb/1.9.0/spring-data-mongodb-1.9.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,72 @@
+{
+  "Name":           "spring-security-jwt",
+  "Title":          "Spring Security JWT",
+  "SourceUrl":      "http://central.maven.org/maven2/org/springframework/security/spring-security-jwt/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.8",
+    "Installed":      "src/spring-security-jwt/1.0.8",
+    "Source":         "src/spring-security-jwt/1.0.8/spring-security-jwt-1.0.8.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/spring-security-jwt/1.0.7",
+    "Source":         "src/spring-security-jwt/1.0.7/spring-security-jwt-1.0.7.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/spring-security-jwt/1.0.6",
+    "Source":         "src/spring-security-jwt/1.0.6/spring-security-jwt-1.0.6.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/spring-security-jwt/1.0.5",
+    "Source":         "src/spring-security-jwt/1.0.5/spring-security-jwt-1.0.5.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/spring-security-jwt/1.0.4",
+    "Source":         "src/spring-security-jwt/1.0.4/spring-security-jwt-1.0.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/spring-security-jwt/1.0.3",
+    "Source":         "src/spring-security-jwt/1.0.3/spring-security-jwt-1.0.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/spring-security-jwt/1.0.2",
+    "Source":         "src/spring-security-jwt/1.0.2/spring-security-jwt-1.0.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/spring-security-jwt/1.0.1",
+    "Source":         "src/spring-security-jwt/1.0.1/spring-security-jwt-1.0.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/spring-security-jwt/1.0.0",
+    "Source":         "src/spring-security-jwt/1.0.0/spring-security-jwt-1.0.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

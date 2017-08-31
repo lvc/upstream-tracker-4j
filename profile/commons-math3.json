@@ -1,0 +1,80 @@
+{
+  "Name":           "commons-math3",
+  "Title":          "Commons Math",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/commons/commons-math3/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipExt":        [ "zip", "tar.gz" ],
+
+  "Versions": [
+  {
+    "Number":         "3.6.1",
+    "Installed":      "src/commons-math3/3.6.1",
+    "Source":         "src/commons-math3/3.6.1/commons-math3-3.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6",
+    "Installed":      "src/commons-math3/3.6",
+    "Source":         "src/commons-math3/3.6/commons-math3-3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/commons-math3/3.5",
+    "Source":         "src/commons-math3/3.5/commons-math3-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/commons-math3/3.4.1",
+    "Source":         "src/commons-math3/3.4.1/commons-math3-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/commons-math3/3.4",
+    "Source":         "src/commons-math3/3.4/commons-math3-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/commons-math3/3.3",
+    "Source":         "src/commons-math3/3.3/commons-math3-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/commons-math3/3.2",
+    "Source":         "src/commons-math3/3.2/commons-math3-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/commons-math3/3.1.1",
+    "Source":         "src/commons-math3/3.1.1/commons-math3-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/commons-math3/3.1",
+    "Source":         "src/commons-math3/3.1/commons-math3-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/commons-math3/3.0",
+    "Source":         "src/commons-math3/3.0/commons-math3-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

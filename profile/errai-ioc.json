@@ -1,0 +1,144 @@
+{
+  "Name":           "errai-ioc",
+  "Title":          "Errai IOC",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/errai/errai-ioc/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.0.0",
+
+  "Versions": [
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/errai-ioc/4.0.2",
+    "Source":         "src/errai-ioc/4.0.2/errai-ioc-4.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1.Beta2",
+    "Installed":      "src/errai-ioc/4.0.1.Beta2",
+    "Source":         "src/errai-ioc/4.0.1.Beta2/errai-ioc-4.0.1.Beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/errai-ioc/4.0.0",
+    "Source":         "src/errai-ioc/4.0.0/errai-ioc-4.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/errai-ioc/3.2.5",
+    "Source":         "src/errai-ioc/3.2.5/errai-ioc-3.2.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.4",
+    "Installed":      "src/errai-ioc/3.2.4",
+    "Source":         "src/errai-ioc/3.2.4/errai-ioc-3.2.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/errai-ioc/3.2.3",
+    "Source":         "src/errai-ioc/3.2.3/errai-ioc-3.2.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/errai-ioc/3.2.2",
+    "Source":         "src/errai-ioc/3.2.2/errai-ioc-3.2.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/errai-ioc/3.2.1",
+    "Source":         "src/errai-ioc/3.2.1/errai-ioc-3.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/errai-ioc/3.2.0",
+    "Source":         "src/errai-ioc/3.2.0/errai-ioc-3.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/errai-ioc/3.1.2",
+    "Source":         "src/errai-ioc/3.1.2/errai-ioc-3.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/errai-ioc/3.1.1",
+    "Source":         "src/errai-ioc/3.1.1/errai-ioc-3.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/errai-ioc/3.1.0",
+    "Source":         "src/errai-ioc/3.1.0/errai-ioc-3.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/errai-ioc/3.0.6",
+    "Source":         "src/errai-ioc/3.0.6/errai-ioc-3.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/errai-ioc/3.0.5",
+    "Source":         "src/errai-ioc/3.0.5/errai-ioc-3.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/errai-ioc/3.0.4",
+    "Source":         "src/errai-ioc/3.0.4/errai-ioc-3.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/errai-ioc/3.0.3",
+    "Source":         "src/errai-ioc/3.0.3/errai-ioc-3.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/errai-ioc/3.0.2",
+    "Source":         "src/errai-ioc/3.0.2/errai-ioc-3.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/errai-ioc/3.0.1",
+    "Source":         "src/errai-ioc/3.0.1/errai-ioc-3.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/errai-ioc/3.0.0",
+    "Source":         "src/errai-ioc/3.0.0/errai-ioc-3.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

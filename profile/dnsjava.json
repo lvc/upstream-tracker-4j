@@ -1,0 +1,85 @@
+{
+  "Name":           "dnsjava",
+  "SourceUrl":      "http://central.maven.org/maven2/dnsjava/dnsjava/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.1.8",
+    "Installed":      "src/dnsjava/2.1.8",
+    "Source":         "src/dnsjava/2.1.8/dnsjava-2.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.7",
+    "Installed":      "src/dnsjava/2.1.7",
+    "Source":         "src/dnsjava/2.1.7/dnsjava-2.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/dnsjava/2.1.6",
+    "Source":         "src/dnsjava/2.1.6/dnsjava-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/dnsjava/2.1.1",
+    "Source":         "src/dnsjava/2.1.1/dnsjava-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/dnsjava/2.1.0",
+    "Source":         "src/dnsjava/2.1.0/dnsjava-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/dnsjava/2.0.8",
+    "Source":         "src/dnsjava/2.0.8/dnsjava-2.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/dnsjava/2.0.7",
+    "Source":         "src/dnsjava/2.0.7/dnsjava-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/dnsjava/2.0.6",
+    "Source":         "src/dnsjava/2.0.6/dnsjava-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/dnsjava/2.0.1",
+    "Source":         "src/dnsjava/2.0.1/dnsjava-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/dnsjava/1.3.2",
+    "Source":         "src/dnsjava/1.3.2/dnsjava-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/dnsjava/1.2.3",
+    "Source":         "src/dnsjava/1.2.3/dnsjava-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

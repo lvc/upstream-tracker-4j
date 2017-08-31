@@ -1,0 +1,72 @@
+{
+  "Name":           "rome",
+  "Title":          "Rome",
+  "SourceUrl":      "http://central.maven.org/maven2/com/rometools/rome/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.7.4",
+    "Installed":      "src/rome/1.7.4",
+    "Source":         "src/rome/1.7.4/rome-1.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/rome/1.7.3",
+    "Source":         "src/rome/1.7.3/rome-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/rome/1.7.2",
+    "Source":         "src/rome/1.7.2/rome-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/rome/1.7.1",
+    "Source":         "src/rome/1.7.1/rome-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/rome/1.7.0",
+    "Source":         "src/rome/1.7.0/rome-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/rome/1.6.1",
+    "Source":         "src/rome/1.6.1/rome-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/rome/1.6.0",
+    "Source":         "src/rome/1.6.0/rome-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/rome/1.5.1",
+    "Source":         "src/rome/1.5.1/rome-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/rome/1.5.0",
+    "Source":         "src/rome/1.5.0/rome-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

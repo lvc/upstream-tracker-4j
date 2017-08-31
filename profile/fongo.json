@@ -1,0 +1,171 @@
+{
+  "Name":           "fongo",
+  "Title":          "Fongo",
+  "SourceUrl":      "http://central.maven.org/maven2/com/github/fakemongo/fongo/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.6.0",
+
+  "Versions": [
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/fongo/2.1.0",
+    "Source":         "src/fongo/2.1.0/fongo-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.13",
+    "Installed":      "src/fongo/2.0.13",
+    "Source":         "src/fongo/2.0.13/fongo-2.0.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.12",
+    "Installed":      "src/fongo/2.0.12",
+    "Source":         "src/fongo/2.0.12/fongo-2.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.11",
+    "Installed":      "src/fongo/2.0.11",
+    "Source":         "src/fongo/2.0.11/fongo-2.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.10",
+    "Installed":      "src/fongo/2.0.10",
+    "Source":         "src/fongo/2.0.10/fongo-2.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.9",
+    "Installed":      "src/fongo/2.0.9",
+    "Source":         "src/fongo/2.0.9/fongo-2.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/fongo/2.0.7",
+    "Source":         "src/fongo/2.0.7/fongo-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/fongo/2.0.6",
+    "Source":         "src/fongo/2.0.6/fongo-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/fongo/2.0.5",
+    "Source":         "src/fongo/2.0.5/fongo-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/fongo/2.0.4",
+    "Source":         "src/fongo/2.0.4/fongo-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/fongo/2.0.3",
+    "Source":         "src/fongo/2.0.3/fongo-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/fongo/2.0.2",
+    "Source":         "src/fongo/2.0.2/fongo-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/fongo/2.0.1",
+    "Source":         "src/fongo/2.0.1/fongo-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/fongo/2.0.0",
+    "Source":         "src/fongo/2.0.0/fongo-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.8",
+    "Installed":      "src/fongo/1.6.8",
+    "Source":         "src/fongo/1.6.8/fongo-1.6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.7",
+    "Installed":      "src/fongo/1.6.7",
+    "Source":         "src/fongo/1.6.7/fongo-1.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.6",
+    "Installed":      "src/fongo/1.6.6",
+    "Source":         "src/fongo/1.6.6/fongo-1.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5",
+    "Installed":      "src/fongo/1.6.5",
+    "Source":         "src/fongo/1.6.5/fongo-1.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "src/fongo/1.6.4",
+    "Source":         "src/fongo/1.6.4/fongo-1.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/fongo/1.6.3",
+    "Source":         "src/fongo/1.6.3/fongo-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/fongo/1.6.2",
+    "Source":         "src/fongo/1.6.2/fongo-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/fongo/1.6.1",
+    "Source":         "src/fongo/1.6.1/fongo-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/fongo/1.6.0",
+    "Source":         "src/fongo/1.6.0/fongo-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,80 @@
+{
+  "Name":           "wicket-extensions",
+  "Title":          "Wicket Extensions",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/wicket/wicket-extensions/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7.0.0",
+
+  "Versions": [
+  {
+    "Number":         "8.0.0-M7",
+    "Installed":      "src/wicket-extensions/8.0.0-M7",
+    "Source":         "src/wicket-extensions/8.0.0-M7/wicket-extensions-8.0.0-M7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.8.0",
+    "Installed":      "src/wicket-extensions/7.8.0",
+    "Source":         "src/wicket-extensions/7.8.0/wicket-extensions-7.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.0",
+    "Installed":      "src/wicket-extensions/7.7.0",
+    "Source":         "src/wicket-extensions/7.7.0/wicket-extensions-7.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6.0",
+    "Installed":      "src/wicket-extensions/7.6.0",
+    "Source":         "src/wicket-extensions/7.6.0/wicket-extensions-7.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.0",
+    "Installed":      "src/wicket-extensions/7.5.0",
+    "Source":         "src/wicket-extensions/7.5.0/wicket-extensions-7.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4.0",
+    "Installed":      "src/wicket-extensions/7.4.0",
+    "Source":         "src/wicket-extensions/7.4.0/wicket-extensions-7.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.3.0",
+    "Installed":      "src/wicket-extensions/7.3.0",
+    "Source":         "src/wicket-extensions/7.3.0/wicket-extensions-7.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0",
+    "Installed":      "src/wicket-extensions/7.2.0",
+    "Source":         "src/wicket-extensions/7.2.0/wicket-extensions-7.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/wicket-extensions/7.1.0",
+    "Source":         "src/wicket-extensions/7.1.0/wicket-extensions-7.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/wicket-extensions/7.0.0",
+    "Source":         "src/wicket-extensions/7.0.0/wicket-extensions-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,45 @@
+{
+  "Name":           "gridgain-core",
+  "Title":          "GridGain Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/gridgain/gridgain-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "6.6.4",
+
+  "Versions": [
+  {
+    "Number":         "6.6.9",
+    "Installed":      "src/gridgain-core/6.6.9",
+    "Source":         "src/gridgain-core/6.6.9/gridgain-core-6.6.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.8",
+    "Installed":      "src/gridgain-core/6.6.8",
+    "Source":         "src/gridgain-core/6.6.8/gridgain-core-6.6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.7",
+    "Installed":      "src/gridgain-core/6.6.7",
+    "Source":         "src/gridgain-core/6.6.7/gridgain-core-6.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.5",
+    "Installed":      "src/gridgain-core/6.6.5",
+    "Source":         "src/gridgain-core/6.6.5/gridgain-core-6.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.4",
+    "Installed":      "src/gridgain-core/6.6.4",
+    "Source":         "src/gridgain-core/6.6.4/gridgain-core-6.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

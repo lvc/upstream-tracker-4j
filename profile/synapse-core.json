@@ -1,0 +1,66 @@
+{
+  "Name":           "synapse-core",
+  "Title":          "Synapse Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/synapse/synapse-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/synapse-core/3.0.0",
+    "Source":         "src/synapse-core/3.0.0/synapse-core-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/synapse-core/2.1.0",
+    "Source":         "src/synapse-core/2.1.0/synapse-core-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/synapse-core/2.0.0",
+    "Source":         "src/synapse-core/2.0.0/synapse-core-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/synapse-core/1.2",
+    "Source":         "src/synapse-core/1.2/synapse-core-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/synapse-core/1.1.2",
+    "Source":         "src/synapse-core/1.1.2/synapse-core-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/synapse-core/1.1.1",
+    "Source":         "src/synapse-core/1.1.1/synapse-core-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/synapse-core/1.1",
+    "Source":         "src/synapse-core/1.1/synapse-core-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/synapse-core/1.0",
+    "Source":         "src/synapse-core/1.0/synapse-core-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

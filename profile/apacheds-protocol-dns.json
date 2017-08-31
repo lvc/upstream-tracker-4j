@@ -1,0 +1,93 @@
+{
+  "Name":           "apacheds-protocol-dns",
+  "Title":          "ApacheDS Protocol DNS",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/directory/server/apacheds-protocol-dns/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0-M24",
+    "Installed":      "src/apacheds-protocol-dns/2.0.0-M24",
+    "Source":         "src/apacheds-protocol-dns/2.0.0-M24/apacheds-protocol-dns-2.0.0-M24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.7",
+    "Installed":      "src/apacheds-protocol-dns/1.5.7",
+    "Source":         "src/apacheds-protocol-dns/1.5.7/apacheds-protocol-dns-1.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/apacheds-protocol-dns/1.5.6",
+    "Source":         "src/apacheds-protocol-dns/1.5.6/apacheds-protocol-dns-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/apacheds-protocol-dns/1.5.5",
+    "Source":         "src/apacheds-protocol-dns/1.5.5/apacheds-protocol-dns-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/apacheds-protocol-dns/1.5.4",
+    "Source":         "src/apacheds-protocol-dns/1.5.4/apacheds-protocol-dns-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/apacheds-protocol-dns/1.5.3",
+    "Source":         "src/apacheds-protocol-dns/1.5.3/apacheds-protocol-dns-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/apacheds-protocol-dns/1.5.2",
+    "Source":         "src/apacheds-protocol-dns/1.5.2/apacheds-protocol-dns-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/apacheds-protocol-dns/1.5.1",
+    "Source":         "src/apacheds-protocol-dns/1.5.1/apacheds-protocol-dns-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/apacheds-protocol-dns/1.5.0",
+    "Source":         "src/apacheds-protocol-dns/1.5.0/apacheds-protocol-dns-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/apacheds-protocol-dns/1.0.2",
+    "Source":         "src/apacheds-protocol-dns/1.0.2/apacheds-protocol-dns-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/apacheds-protocol-dns/1.0.1",
+    "Source":         "src/apacheds-protocol-dns/1.0.1/apacheds-protocol-dns-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/apacheds-protocol-dns/1.0.0",
+    "Source":         "src/apacheds-protocol-dns/1.0.0/apacheds-protocol-dns-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

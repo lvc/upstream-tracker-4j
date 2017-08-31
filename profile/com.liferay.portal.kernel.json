@@ -1,0 +1,46 @@
+{
+  "Name":           "com.liferay.portal.kernel",
+  "Title":          "Liferay Portal Kernel",
+  "SourceUrl":      "http://central.maven.org/maven2/com/liferay/portal/com.liferay.portal.kernel/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "KeepMiniMult":   [ "10" ],
+  "MinimalVersion": "2.0.0",
+
+  "Versions": [
+  {
+    "Number":         "2.40.0",
+    "Installed":      "src/com.liferay.portal.kernel/2.40.0",
+    "Source":         "src/com.liferay.portal.kernel/2.40.0/com.liferay.portal.kernel-2.40.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.30.0",
+    "Installed":      "src/com.liferay.portal.kernel/2.30.0",
+    "Source":         "src/com.liferay.portal.kernel/2.30.0/com.liferay.portal.kernel-2.30.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20.0",
+    "Installed":      "src/com.liferay.portal.kernel/2.20.0",
+    "Source":         "src/com.liferay.portal.kernel/2.20.0/com.liferay.portal.kernel-2.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/com.liferay.portal.kernel/2.10.0",
+    "Source":         "src/com.liferay.portal.kernel/2.10.0/com.liferay.portal.kernel-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/com.liferay.portal.kernel/2.0.0",
+    "Source":         "src/com.liferay.portal.kernel/2.0.0/com.liferay.portal.kernel-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

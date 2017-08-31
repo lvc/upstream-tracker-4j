@@ -1,0 +1,37 @@
+{
+  "Name":           "unit-api",
+  "Title":          "Units Of Measurement API",
+  "SourceUrl":      "http://central.maven.org/maven2/javax/measure/unit-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0",
+    "Installed":      "src/unit-api/1.0",
+    "Source":         "src/unit-api/1.0/unit-api-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/unit-api/0.9",
+    "Source":         "src/unit-api/0.9/unit-api-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8",
+    "Installed":      "src/unit-api/0.8",
+    "Source":         "src/unit-api/0.8/unit-api-0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/unit-api/0.7",
+    "Source":         "src/unit-api/0.7/unit-api-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

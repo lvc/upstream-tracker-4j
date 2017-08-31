@@ -1,0 +1,101 @@
+{
+  "Name":           "xwork-core",
+  "Title":          "XWork Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/struts/xwork/xwork-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.3.20",
+
+  "Versions": [
+  {
+    "Number":         "2.3.33",
+    "Installed":      "src/xwork-core/2.3.33",
+    "Source":         "src/xwork-core/2.3.33/xwork-core-2.3.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.32",
+    "Installed":      "src/xwork-core/2.3.32",
+    "Source":         "src/xwork-core/2.3.32/xwork-core-2.3.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.31",
+    "Installed":      "src/xwork-core/2.3.31",
+    "Source":         "src/xwork-core/2.3.31/xwork-core-2.3.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.30",
+    "Installed":      "src/xwork-core/2.3.30",
+    "Source":         "src/xwork-core/2.3.30/xwork-core-2.3.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.29",
+    "Installed":      "src/xwork-core/2.3.29",
+    "Source":         "src/xwork-core/2.3.29/xwork-core-2.3.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.28.1",
+    "Installed":      "src/xwork-core/2.3.28.1",
+    "Source":         "src/xwork-core/2.3.28.1/xwork-core-2.3.28.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.28",
+    "Installed":      "src/xwork-core/2.3.28",
+    "Source":         "src/xwork-core/2.3.28/xwork-core-2.3.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.24.3",
+    "Installed":      "src/xwork-core/2.3.24.3",
+    "Source":         "src/xwork-core/2.3.24.3/xwork-core-2.3.24.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.24.1",
+    "Installed":      "src/xwork-core/2.3.24.1",
+    "Source":         "src/xwork-core/2.3.24.1/xwork-core-2.3.24.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.24",
+    "Installed":      "src/xwork-core/2.3.24",
+    "Source":         "src/xwork-core/2.3.24/xwork-core-2.3.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.20.3",
+    "Installed":      "src/xwork-core/2.3.20.3",
+    "Source":         "src/xwork-core/2.3.20.3/xwork-core-2.3.20.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.20.1",
+    "Installed":      "src/xwork-core/2.3.20.1",
+    "Source":         "src/xwork-core/2.3.20.1/xwork-core-2.3.20.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.20",
+    "Installed":      "src/xwork-core/2.3.20",
+    "Source":         "src/xwork-core/2.3.20/xwork-core-2.3.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

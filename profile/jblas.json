@@ -1,0 +1,31 @@
+{
+  "Name":           "jblas",
+  "Title":          "Jblas",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jblas/jblas/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "1.2.4",
+    "Installed":      "src/jblas/1.2.4",
+    "Source":         "src/jblas/1.2.4/jblas-1.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/jblas/1.2.3",
+    "Source":         "src/jblas/1.2.3/jblas-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/jblas/1.2.2",
+    "Source":         "src/jblas/1.2.2/jblas-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

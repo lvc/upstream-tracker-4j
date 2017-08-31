@@ -1,0 +1,226 @@
+{
+  "Name":           "maven-plugin-api",
+  "Title":          "Maven Plugin API",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/maven/maven-plugin-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/maven-plugin-api/3.5.0",
+    "Source":         "src/maven-plugin-api/3.5.0/maven-plugin-api-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.9",
+    "Installed":      "src/maven-plugin-api/3.3.9",
+    "Source":         "src/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.3",
+    "Installed":      "src/maven-plugin-api/3.3.3",
+    "Source":         "src/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/maven-plugin-api/3.3.1",
+    "Source":         "src/maven-plugin-api/3.3.1/maven-plugin-api-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/maven-plugin-api/3.2.5",
+    "Source":         "src/maven-plugin-api/3.2.5/maven-plugin-api-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/maven-plugin-api/3.2.3",
+    "Source":         "src/maven-plugin-api/3.2.3/maven-plugin-api-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/maven-plugin-api/3.2.2",
+    "Source":         "src/maven-plugin-api/3.2.2/maven-plugin-api-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/maven-plugin-api/3.2.1",
+    "Source":         "src/maven-plugin-api/3.2.1/maven-plugin-api-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/maven-plugin-api/3.1.1",
+    "Source":         "src/maven-plugin-api/3.1.1/maven-plugin-api-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/maven-plugin-api/3.1.0",
+    "Source":         "src/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/maven-plugin-api/3.0.5",
+    "Source":         "src/maven-plugin-api/3.0.5/maven-plugin-api-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/maven-plugin-api/3.0.4",
+    "Source":         "src/maven-plugin-api/3.0.4/maven-plugin-api-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/maven-plugin-api/3.0.3",
+    "Source":         "src/maven-plugin-api/3.0.3/maven-plugin-api-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/maven-plugin-api/3.0.2",
+    "Source":         "src/maven-plugin-api/3.0.2/maven-plugin-api-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/maven-plugin-api/3.0.1",
+    "Source":         "src/maven-plugin-api/3.0.1/maven-plugin-api-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/maven-plugin-api/3.0",
+    "Source":         "src/maven-plugin-api/3.0/maven-plugin-api-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/maven-plugin-api/2.2.1",
+    "Source":         "src/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/maven-plugin-api/2.2.0",
+    "Source":         "src/maven-plugin-api/2.2.0/maven-plugin-api-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/maven-plugin-api/2.1.0",
+    "Source":         "src/maven-plugin-api/2.1.0/maven-plugin-api-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.11",
+    "Installed":      "src/maven-plugin-api/2.0.11",
+    "Source":         "src/maven-plugin-api/2.0.11/maven-plugin-api-2.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.10",
+    "Installed":      "src/maven-plugin-api/2.0.10",
+    "Source":         "src/maven-plugin-api/2.0.10/maven-plugin-api-2.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.9",
+    "Installed":      "src/maven-plugin-api/2.0.9",
+    "Source":         "src/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/maven-plugin-api/2.0.8",
+    "Source":         "src/maven-plugin-api/2.0.8/maven-plugin-api-2.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/maven-plugin-api/2.0.7",
+    "Source":         "src/maven-plugin-api/2.0.7/maven-plugin-api-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/maven-plugin-api/2.0.6",
+    "Source":         "src/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/maven-plugin-api/2.0.5",
+    "Source":         "src/maven-plugin-api/2.0.5/maven-plugin-api-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/maven-plugin-api/2.0.4",
+    "Source":         "src/maven-plugin-api/2.0.4/maven-plugin-api-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/maven-plugin-api/2.0.3",
+    "Source":         "src/maven-plugin-api/2.0.3/maven-plugin-api-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/maven-plugin-api/2.0.2",
+    "Source":         "src/maven-plugin-api/2.0.2/maven-plugin-api-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/maven-plugin-api/2.0.1",
+    "Source":         "src/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/maven-plugin-api/2.0",
+    "Source":         "src/maven-plugin-api/2.0/maven-plugin-api-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

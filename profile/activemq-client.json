@@ -1,0 +1,101 @@
+{
+  "Name":           "activemq-client",
+  "Title":          "ActiveMQ Client",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/activemq/activemq-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.13.0",
+
+  "Versions": [
+  {
+    "Number":         "5.15.0",
+    "Installed":      "src/activemq-client/5.15.0",
+    "Source":         "src/activemq-client/5.15.0/activemq-client-5.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.5",
+    "Installed":      "src/activemq-client/5.14.5",
+    "Source":         "src/activemq-client/5.14.5/activemq-client-5.14.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.4",
+    "Installed":      "src/activemq-client/5.14.4",
+    "Source":         "src/activemq-client/5.14.4/activemq-client-5.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.3",
+    "Installed":      "src/activemq-client/5.14.3",
+    "Source":         "src/activemq-client/5.14.3/activemq-client-5.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.2",
+    "Installed":      "src/activemq-client/5.14.2",
+    "Source":         "src/activemq-client/5.14.2/activemq-client-5.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.1",
+    "Installed":      "src/activemq-client/5.14.1",
+    "Source":         "src/activemq-client/5.14.1/activemq-client-5.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14.0",
+    "Installed":      "src/activemq-client/5.14.0",
+    "Source":         "src/activemq-client/5.14.0/activemq-client-5.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.5",
+    "Installed":      "src/activemq-client/5.13.5",
+    "Source":         "src/activemq-client/5.13.5/activemq-client-5.13.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.4",
+    "Installed":      "src/activemq-client/5.13.4",
+    "Source":         "src/activemq-client/5.13.4/activemq-client-5.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.3",
+    "Installed":      "src/activemq-client/5.13.3",
+    "Source":         "src/activemq-client/5.13.3/activemq-client-5.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.2",
+    "Installed":      "src/activemq-client/5.13.2",
+    "Source":         "src/activemq-client/5.13.2/activemq-client-5.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.1",
+    "Installed":      "src/activemq-client/5.13.1",
+    "Source":         "src/activemq-client/5.13.1/activemq-client-5.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13.0",
+    "Installed":      "src/activemq-client/5.13.0",
+    "Source":         "src/activemq-client/5.13.0/activemq-client-5.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

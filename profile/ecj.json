@@ -1,0 +1,52 @@
+{
+  "Name":           "ecj",
+  "Title":          "Eclipse ECJ",
+  "SourceUrl":      "http://central.maven.org/maven2/org/eclipse/jdt/core/compiler/ecj/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.4",
+
+  "Versions": [
+  {
+    "Number":         "4.6.1",
+    "Installed":      "src/ecj/4.6.1",
+    "Source":         "src/ecj/4.6.1/ecj-4.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.1",
+    "Installed":      "src/ecj/4.5.1",
+    "Source":         "src/ecj/4.5.1/ecj-4.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5",
+    "Installed":      "src/ecj/4.5",
+    "Source":         "src/ecj/4.5/ecj-4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.2",
+    "Installed":      "src/ecj/4.4.2",
+    "Source":         "src/ecj/4.4.2/ecj-4.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.1",
+    "Installed":      "src/ecj/4.4.1",
+    "Source":         "src/ecj/4.4.1/ecj-4.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4",
+    "Installed":      "src/ecj/4.4",
+    "Source":         "src/ecj/4.4/ecj-4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

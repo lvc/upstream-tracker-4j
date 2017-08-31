@@ -1,0 +1,301 @@
+{
+  "Name":           "specs2",
+  "Title":          "Specs2 Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/specs2/specs2-core_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.5",
+  "Package":        "specs2-core_2.11-",
+  "SkipVersions":   [ ".*\d\d\d\d+.*" ],
+
+  "Versions": [
+  {
+    "Number":         "4.0.0-RC3",
+    "Installed":      "src/specs2/4.0.0-RC3",
+    "Source":         "src/specs2/4.0.0-RC3/specs2-core_2.11-4.0.0-RC3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0-RC2",
+    "Installed":      "src/specs2/4.0.0-RC2",
+    "Source":         "src/specs2/4.0.0-RC2/specs2-core_2.11-4.0.0-RC2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0-RC1",
+    "Installed":      "src/specs2/4.0.0-RC1",
+    "Source":         "src/specs2/4.0.0-RC1/specs2-core_2.11-4.0.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.9.5",
+    "Installed":      "src/specs2/3.9.5",
+    "Source":         "src/specs2/3.9.5/specs2-core_2.11-3.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.4",
+    "Installed":      "src/specs2/3.9.4",
+    "Source":         "src/specs2/3.9.4/specs2-core_2.11-3.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.3",
+    "Installed":      "src/specs2/3.9.3",
+    "Source":         "src/specs2/3.9.3/specs2-core_2.11-3.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.2",
+    "Installed":      "src/specs2/3.9.2",
+    "Source":         "src/specs2/3.9.2/specs2-core_2.11-3.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.1",
+    "Installed":      "src/specs2/3.9.1",
+    "Source":         "src/specs2/3.9.1/specs2-core_2.11-3.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.0",
+    "Installed":      "src/specs2/3.9.0",
+    "Source":         "src/specs2/3.9.0/specs2-core_2.11-3.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.9",
+    "Installed":      "src/specs2/3.8.9",
+    "Source":         "src/specs2/3.8.9/specs2-core_2.11-3.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.8",
+    "Installed":      "src/specs2/3.8.8",
+    "Source":         "src/specs2/3.8.8/specs2-core_2.11-3.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.7",
+    "Installed":      "src/specs2/3.8.7",
+    "Source":         "src/specs2/3.8.7/specs2-core_2.11-3.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.6",
+    "Installed":      "src/specs2/3.8.6",
+    "Source":         "src/specs2/3.8.6/specs2-core_2.11-3.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.5.1",
+    "Installed":      "src/specs2/3.8.5.1",
+    "Source":         "src/specs2/3.8.5.1/specs2-core_2.11-3.8.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.5",
+    "Installed":      "src/specs2/3.8.5",
+    "Source":         "src/specs2/3.8.5/specs2-core_2.11-3.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.4",
+    "Installed":      "src/specs2/3.8.4",
+    "Source":         "src/specs2/3.8.4/specs2-core_2.11-3.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.3",
+    "Installed":      "src/specs2/3.8.3",
+    "Source":         "src/specs2/3.8.3/specs2-core_2.11-3.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.2",
+    "Installed":      "src/specs2/3.8.2",
+    "Source":         "src/specs2/3.8.2/specs2-core_2.11-3.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.1",
+    "Installed":      "src/specs2/3.8.1",
+    "Source":         "src/specs2/3.8.1/specs2-core_2.11-3.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8",
+    "Installed":      "src/specs2/3.8",
+    "Source":         "src/specs2/3.8/specs2-core_2.11-3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.3",
+    "Installed":      "src/specs2/3.7.3",
+    "Source":         "src/specs2/3.7.3/specs2-core_2.11-3.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.2",
+    "Installed":      "src/specs2/3.7.2",
+    "Source":         "src/specs2/3.7.2/specs2-core_2.11-3.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.1",
+    "Installed":      "src/specs2/3.7.1",
+    "Source":         "src/specs2/3.7.1/specs2-core_2.11-3.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7",
+    "Installed":      "src/specs2/3.7",
+    "Source":         "src/specs2/3.7/specs2-core_2.11-3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.6",
+    "Installed":      "src/specs2/3.6.6",
+    "Source":         "src/specs2/3.6.6/specs2-core_2.11-3.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.5",
+    "Installed":      "src/specs2/3.6.5",
+    "Source":         "src/specs2/3.6.5/specs2-core_2.11-3.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.4",
+    "Installed":      "src/specs2/3.6.4",
+    "Source":         "src/specs2/3.6.4/specs2-core_2.11-3.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.3",
+    "Installed":      "src/specs2/3.6.3",
+    "Source":         "src/specs2/3.6.3/specs2-core_2.11-3.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.2",
+    "Installed":      "src/specs2/3.6.2",
+    "Source":         "src/specs2/3.6.2/specs2-core_2.11-3.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.1",
+    "Installed":      "src/specs2/3.6.1",
+    "Source":         "src/specs2/3.6.1/specs2-core_2.11-3.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6",
+    "Installed":      "src/specs2/3.6",
+    "Source":         "src/specs2/3.6/specs2-core_2.11-3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/specs2/3.5",
+    "Source":         "src/specs2/3.5/specs2-core_2.11-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/specs2/3.4",
+    "Source":         "src/specs2/3.4/specs2-core_2.11-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/specs2/3.3.1",
+    "Source":         "src/specs2/3.3.1/specs2-core_2.11-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/specs2/3.3",
+    "Source":         "src/specs2/3.3/specs2-core_2.11-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/specs2/3.2",
+    "Source":         "src/specs2/3.2/specs2-core_2.11-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/specs2/3.1.1",
+    "Source":         "src/specs2/3.1.1/specs2-core_2.11-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/specs2/3.1",
+    "Source":         "src/specs2/3.1/specs2-core_2.11-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/specs2/3.0.1",
+    "Source":         "src/specs2/3.0.1/specs2-core_2.11-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/specs2/3.0",
+    "Source":         "src/specs2/3.0/specs2-core_2.11-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/specs2/2.5",
+    "Source":         "src/specs2/2.5/specs2-core_2.11-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

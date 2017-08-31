@@ -4,8 +4,16 @@
   "SourceUrl":      "http://central.maven.org/maven2/com/thoughtworks/xstream/xstream/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "ShowTotalProblems": "On",
 
   "Versions": [
+  {
+    "Number":         "1.4.10",
+    "Installed":      "src/xstream/1.4.10",
+    "Source":         "src/xstream/1.4.10/xstream-1.4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.4.9",
     "Installed":      "src/xstream/1.4.9",

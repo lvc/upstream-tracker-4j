@@ -1,0 +1,200 @@
+{
+  "Name":           "twitter-util-core",
+  "Title":          "Twitter Util Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/twitter/util-core_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "Package":        "util-core_2.11",
+
+  "Versions": [
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/twitter-util-core/7.0.0",
+    "Source":         "src/twitter-util-core/7.0.0/util-core_2.11-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.45.0",
+    "Installed":      "src/twitter-util-core/6.45.0",
+    "Source":         "src/twitter-util-core/6.45.0/util-core_2.11-6.45.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.43.0",
+    "Installed":      "src/twitter-util-core/6.43.0",
+    "Source":         "src/twitter-util-core/6.43.0/util-core_2.11-6.43.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.42.0",
+    "Installed":      "src/twitter-util-core/6.42.0",
+    "Source":         "src/twitter-util-core/6.42.0/util-core_2.11-6.42.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.41.0",
+    "Installed":      "src/twitter-util-core/6.41.0",
+    "Source":         "src/twitter-util-core/6.41.0/util-core_2.11-6.41.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.40.0",
+    "Installed":      "src/twitter-util-core/6.40.0",
+    "Source":         "src/twitter-util-core/6.40.0/util-core_2.11-6.40.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.39.0",
+    "Installed":      "src/twitter-util-core/6.39.0",
+    "Source":         "src/twitter-util-core/6.39.0/util-core_2.11-6.39.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.38.0",
+    "Installed":      "src/twitter-util-core/6.38.0",
+    "Source":         "src/twitter-util-core/6.38.0/util-core_2.11-6.38.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.37.0",
+    "Installed":      "src/twitter-util-core/6.37.0",
+    "Source":         "src/twitter-util-core/6.37.0/util-core_2.11-6.37.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.36.0",
+    "Installed":      "src/twitter-util-core/6.36.0",
+    "Source":         "src/twitter-util-core/6.36.0/util-core_2.11-6.36.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.35.0",
+    "Installed":      "src/twitter-util-core/6.35.0",
+    "Source":         "src/twitter-util-core/6.35.0/util-core_2.11-6.35.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.34.0",
+    "Installed":      "src/twitter-util-core/6.34.0",
+    "Source":         "src/twitter-util-core/6.34.0/util-core_2.11-6.34.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.33.0",
+    "Installed":      "src/twitter-util-core/6.33.0",
+    "Source":         "src/twitter-util-core/6.33.0/util-core_2.11-6.33.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.32.0",
+    "Installed":      "src/twitter-util-core/6.32.0",
+    "Source":         "src/twitter-util-core/6.32.0/util-core_2.11-6.32.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.30.0",
+    "Installed":      "src/twitter-util-core/6.30.0",
+    "Source":         "src/twitter-util-core/6.30.0/util-core_2.11-6.30.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.29.0",
+    "Installed":      "src/twitter-util-core/6.29.0",
+    "Source":         "src/twitter-util-core/6.29.0/util-core_2.11-6.29.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.28.0",
+    "Installed":      "src/twitter-util-core/6.28.0",
+    "Source":         "src/twitter-util-core/6.28.0/util-core_2.11-6.28.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.27.0",
+    "Installed":      "src/twitter-util-core/6.27.0",
+    "Source":         "src/twitter-util-core/6.27.0/util-core_2.11-6.27.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.26.0",
+    "Installed":      "src/twitter-util-core/6.26.0",
+    "Source":         "src/twitter-util-core/6.26.0/util-core_2.11-6.26.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.25.0",
+    "Installed":      "src/twitter-util-core/6.25.0",
+    "Source":         "src/twitter-util-core/6.25.0/util-core_2.11-6.25.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.24.0",
+    "Installed":      "src/twitter-util-core/6.24.0",
+    "Source":         "src/twitter-util-core/6.24.0/util-core_2.11-6.24.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.23.0",
+    "Installed":      "src/twitter-util-core/6.23.0",
+    "Source":         "src/twitter-util-core/6.23.0/util-core_2.11-6.23.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.22.2",
+    "Installed":      "src/twitter-util-core/6.22.2",
+    "Source":         "src/twitter-util-core/6.22.2/util-core_2.11-6.22.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.22.1",
+    "Installed":      "src/twitter-util-core/6.22.1",
+    "Source":         "src/twitter-util-core/6.22.1/util-core_2.11-6.22.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.22.0",
+    "Installed":      "src/twitter-util-core/6.22.0",
+    "Source":         "src/twitter-util-core/6.22.0/util-core_2.11-6.22.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.21.2",
+    "Installed":      "src/twitter-util-core/6.21.2",
+    "Source":         "src/twitter-util-core/6.21.2/util-core_2.11-6.21.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.20.0",
+    "Installed":      "src/twitter-util-core/6.20.0",
+    "Source":         "src/twitter-util-core/6.20.0/util-core_2.11-6.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

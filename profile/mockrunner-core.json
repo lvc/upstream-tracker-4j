@@ -1,0 +1,102 @@
+{
+  "Name":           "mockrunner-core",
+  "Title":          "MockRunner Core",
+  "SourceUrl":      "https://oss.sonatype.org/content/groups/public/com/mockrunner/mockrunner-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.0.0",
+  "SkipVersions":   [ ".*\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/mockrunner-core/1.1.2",
+    "Source":         "src/mockrunner-core/1.1.2/mockrunner-core-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/mockrunner-core/1.1.1",
+    "Source":         "src/mockrunner-core/1.1.1/mockrunner-core-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/mockrunner-core/1.1.0",
+    "Source":         "src/mockrunner-core/1.1.0/mockrunner-core-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.10",
+    "Installed":      "src/mockrunner-core/1.0.10",
+    "Source":         "src/mockrunner-core/1.0.10/mockrunner-core-1.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.9",
+    "Installed":      "src/mockrunner-core/1.0.9",
+    "Source":         "src/mockrunner-core/1.0.9/mockrunner-core-1.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.8",
+    "Installed":      "src/mockrunner-core/1.0.8",
+    "Source":         "src/mockrunner-core/1.0.8/mockrunner-core-1.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/mockrunner-core/1.0.7",
+    "Source":         "src/mockrunner-core/1.0.7/mockrunner-core-1.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/mockrunner-core/1.0.6",
+    "Source":         "src/mockrunner-core/1.0.6/mockrunner-core-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/mockrunner-core/1.0.5",
+    "Source":         "src/mockrunner-core/1.0.5/mockrunner-core-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/mockrunner-core/1.0.4",
+    "Source":         "src/mockrunner-core/1.0.4/mockrunner-core-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/mockrunner-core/1.0.3",
+    "Source":         "src/mockrunner-core/1.0.3/mockrunner-core-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/mockrunner-core/1.0.1",
+    "Source":         "src/mockrunner-core/1.0.1/mockrunner-core-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/mockrunner-core/1.0.0",
+    "Source":         "src/mockrunner-core/1.0.0/mockrunner-core-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

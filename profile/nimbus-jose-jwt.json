@@ -1,0 +1,360 @@
+{
+  "Name":           "nimbus-jose-jwt",
+  "Title":          "Nimbus JOSE+JWT",
+  "SourceUrl":      "http://central.maven.org/maven2/com/nimbusds/nimbus-jose-jwt/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.10",
+
+  "Versions": [
+  {
+    "Number":         "5.1",
+    "Installed":      "src/nimbus-jose-jwt/5.1",
+    "Source":         "src/nimbus-jose-jwt/5.1/nimbus-jose-jwt-5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0",
+    "Installed":      "src/nimbus-jose-jwt/5.0",
+    "Source":         "src/nimbus-jose-jwt/5.0/nimbus-jose-jwt-5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.41.2",
+    "Installed":      "src/nimbus-jose-jwt/4.41.2",
+    "Source":         "src/nimbus-jose-jwt/4.41.2/nimbus-jose-jwt-4.41.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.41.1",
+    "Installed":      "src/nimbus-jose-jwt/4.41.1",
+    "Source":         "src/nimbus-jose-jwt/4.41.1/nimbus-jose-jwt-4.41.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.41",
+    "Installed":      "src/nimbus-jose-jwt/4.41",
+    "Source":         "src/nimbus-jose-jwt/4.41/nimbus-jose-jwt-4.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.40",
+    "Installed":      "src/nimbus-jose-jwt/4.40",
+    "Source":         "src/nimbus-jose-jwt/4.40/nimbus-jose-jwt-4.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.39.2",
+    "Installed":      "src/nimbus-jose-jwt/4.39.2",
+    "Source":         "src/nimbus-jose-jwt/4.39.2/nimbus-jose-jwt-4.39.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.39.1",
+    "Installed":      "src/nimbus-jose-jwt/4.39.1",
+    "Source":         "src/nimbus-jose-jwt/4.39.1/nimbus-jose-jwt-4.39.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.39",
+    "Installed":      "src/nimbus-jose-jwt/4.39",
+    "Source":         "src/nimbus-jose-jwt/4.39/nimbus-jose-jwt-4.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.38",
+    "Installed":      "src/nimbus-jose-jwt/4.38",
+    "Source":         "src/nimbus-jose-jwt/4.38/nimbus-jose-jwt-4.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.37.1",
+    "Installed":      "src/nimbus-jose-jwt/4.37.1",
+    "Source":         "src/nimbus-jose-jwt/4.37.1/nimbus-jose-jwt-4.37.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.37",
+    "Installed":      "src/nimbus-jose-jwt/4.37",
+    "Source":         "src/nimbus-jose-jwt/4.37/nimbus-jose-jwt-4.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.36.1",
+    "Installed":      "src/nimbus-jose-jwt/4.36.1",
+    "Source":         "src/nimbus-jose-jwt/4.36.1/nimbus-jose-jwt-4.36.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.36",
+    "Installed":      "src/nimbus-jose-jwt/4.36",
+    "Source":         "src/nimbus-jose-jwt/4.36/nimbus-jose-jwt-4.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.35",
+    "Installed":      "src/nimbus-jose-jwt/4.35",
+    "Source":         "src/nimbus-jose-jwt/4.35/nimbus-jose-jwt-4.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.34.2",
+    "Installed":      "src/nimbus-jose-jwt/4.34.2",
+    "Source":         "src/nimbus-jose-jwt/4.34.2/nimbus-jose-jwt-4.34.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.34.1",
+    "Installed":      "src/nimbus-jose-jwt/4.34.1",
+    "Source":         "src/nimbus-jose-jwt/4.34.1/nimbus-jose-jwt-4.34.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.34",
+    "Installed":      "src/nimbus-jose-jwt/4.34",
+    "Source":         "src/nimbus-jose-jwt/4.34/nimbus-jose-jwt-4.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.33",
+    "Installed":      "src/nimbus-jose-jwt/4.33",
+    "Source":         "src/nimbus-jose-jwt/4.33/nimbus-jose-jwt-4.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.32",
+    "Installed":      "src/nimbus-jose-jwt/4.32",
+    "Source":         "src/nimbus-jose-jwt/4.32/nimbus-jose-jwt-4.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.31.1",
+    "Installed":      "src/nimbus-jose-jwt/4.31.1",
+    "Source":         "src/nimbus-jose-jwt/4.31.1/nimbus-jose-jwt-4.31.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.30",
+    "Installed":      "src/nimbus-jose-jwt/4.30",
+    "Source":         "src/nimbus-jose-jwt/4.30/nimbus-jose-jwt-4.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.29",
+    "Installed":      "src/nimbus-jose-jwt/4.29",
+    "Source":         "src/nimbus-jose-jwt/4.29/nimbus-jose-jwt-4.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.28",
+    "Installed":      "src/nimbus-jose-jwt/4.28",
+    "Source":         "src/nimbus-jose-jwt/4.28/nimbus-jose-jwt-4.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.27.1",
+    "Installed":      "src/nimbus-jose-jwt/4.27.1",
+    "Source":         "src/nimbus-jose-jwt/4.27.1/nimbus-jose-jwt-4.27.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.27",
+    "Installed":      "src/nimbus-jose-jwt/4.27",
+    "Source":         "src/nimbus-jose-jwt/4.27/nimbus-jose-jwt-4.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.26.1",
+    "Installed":      "src/nimbus-jose-jwt/4.26.1",
+    "Source":         "src/nimbus-jose-jwt/4.26.1/nimbus-jose-jwt-4.26.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.26",
+    "Installed":      "src/nimbus-jose-jwt/4.26",
+    "Source":         "src/nimbus-jose-jwt/4.26/nimbus-jose-jwt-4.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.25",
+    "Installed":      "src/nimbus-jose-jwt/4.25",
+    "Source":         "src/nimbus-jose-jwt/4.25/nimbus-jose-jwt-4.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.24",
+    "Installed":      "src/nimbus-jose-jwt/4.24",
+    "Source":         "src/nimbus-jose-jwt/4.24/nimbus-jose-jwt-4.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.23",
+    "Installed":      "src/nimbus-jose-jwt/4.23",
+    "Source":         "src/nimbus-jose-jwt/4.23/nimbus-jose-jwt-4.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.22",
+    "Installed":      "src/nimbus-jose-jwt/4.22",
+    "Source":         "src/nimbus-jose-jwt/4.22/nimbus-jose-jwt-4.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.21",
+    "Installed":      "src/nimbus-jose-jwt/4.21",
+    "Source":         "src/nimbus-jose-jwt/4.21/nimbus-jose-jwt-4.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.20",
+    "Installed":      "src/nimbus-jose-jwt/4.20",
+    "Source":         "src/nimbus-jose-jwt/4.20/nimbus-jose-jwt-4.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.19",
+    "Installed":      "src/nimbus-jose-jwt/4.19",
+    "Source":         "src/nimbus-jose-jwt/4.19/nimbus-jose-jwt-4.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.18",
+    "Installed":      "src/nimbus-jose-jwt/4.18",
+    "Source":         "src/nimbus-jose-jwt/4.18/nimbus-jose-jwt-4.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.17",
+    "Installed":      "src/nimbus-jose-jwt/4.17",
+    "Source":         "src/nimbus-jose-jwt/4.17/nimbus-jose-jwt-4.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.16.2",
+    "Installed":      "src/nimbus-jose-jwt/4.16.2",
+    "Source":         "src/nimbus-jose-jwt/4.16.2/nimbus-jose-jwt-4.16.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.16.1",
+    "Installed":      "src/nimbus-jose-jwt/4.16.1",
+    "Source":         "src/nimbus-jose-jwt/4.16.1/nimbus-jose-jwt-4.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.16",
+    "Installed":      "src/nimbus-jose-jwt/4.16",
+    "Source":         "src/nimbus-jose-jwt/4.16/nimbus-jose-jwt-4.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.15.1",
+    "Installed":      "src/nimbus-jose-jwt/4.15.1",
+    "Source":         "src/nimbus-jose-jwt/4.15.1/nimbus-jose-jwt-4.15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.15",
+    "Installed":      "src/nimbus-jose-jwt/4.15",
+    "Source":         "src/nimbus-jose-jwt/4.15/nimbus-jose-jwt-4.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.14",
+    "Installed":      "src/nimbus-jose-jwt/4.14",
+    "Source":         "src/nimbus-jose-jwt/4.14/nimbus-jose-jwt-4.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.13.1",
+    "Installed":      "src/nimbus-jose-jwt/4.13.1",
+    "Source":         "src/nimbus-jose-jwt/4.13.1/nimbus-jose-jwt-4.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.13",
+    "Installed":      "src/nimbus-jose-jwt/4.13",
+    "Source":         "src/nimbus-jose-jwt/4.13/nimbus-jose-jwt-4.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.12",
+    "Installed":      "src/nimbus-jose-jwt/4.12",
+    "Source":         "src/nimbus-jose-jwt/4.12/nimbus-jose-jwt-4.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.11.2",
+    "Installed":      "src/nimbus-jose-jwt/4.11.2",
+    "Source":         "src/nimbus-jose-jwt/4.11.2/nimbus-jose-jwt-4.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.11.1",
+    "Installed":      "src/nimbus-jose-jwt/4.11.1",
+    "Source":         "src/nimbus-jose-jwt/4.11.1/nimbus-jose-jwt-4.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.11",
+    "Installed":      "src/nimbus-jose-jwt/4.11",
+    "Source":         "src/nimbus-jose-jwt/4.11/nimbus-jose-jwt-4.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10",
+    "Installed":      "src/nimbus-jose-jwt/4.10",
+    "Source":         "src/nimbus-jose-jwt/4.10/nimbus-jose-jwt-4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

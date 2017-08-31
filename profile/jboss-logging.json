@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "3.3.1",
+    "Installed":      "src/jboss-logging/3.3.1",
+    "Source":         "src/jboss-logging/3.3.1/jboss-logging-3.3.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.3.0",
     "Installed":      "src/jboss-logging/3.3.0",
     "Source":         "src/jboss-logging/3.3.0/jboss-logging-3.3.0.Final.jar",

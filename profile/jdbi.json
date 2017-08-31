@@ -1,0 +1,108 @@
+{
+  "Name":           "jdbi",
+  "Title":          "jDBI",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jdbi/jdbi/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.60",
+
+  "Versions": [
+  {
+    "Number":         "2.78",
+    "Installed":      "src/jdbi/2.78",
+    "Source":         "src/jdbi/2.78/jdbi-2.78.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.77",
+    "Installed":      "src/jdbi/2.77",
+    "Source":         "src/jdbi/2.77/jdbi-2.77.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.76",
+    "Installed":      "src/jdbi/2.76",
+    "Source":         "src/jdbi/2.76/jdbi-2.76.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.75",
+    "Installed":      "src/jdbi/2.75",
+    "Source":         "src/jdbi/2.75/jdbi-2.75.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.74",
+    "Installed":      "src/jdbi/2.74",
+    "Source":         "src/jdbi/2.74/jdbi-2.74.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.73",
+    "Installed":      "src/jdbi/2.73",
+    "Source":         "src/jdbi/2.73/jdbi-2.73.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.72",
+    "Installed":      "src/jdbi/2.72",
+    "Source":         "src/jdbi/2.72/jdbi-2.72.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.71",
+    "Installed":      "src/jdbi/2.71",
+    "Source":         "src/jdbi/2.71/jdbi-2.71.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.70",
+    "Installed":      "src/jdbi/2.70",
+    "Source":         "src/jdbi/2.70/jdbi-2.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.63.1",
+    "Installed":      "src/jdbi/2.63.1",
+    "Source":         "src/jdbi/2.63.1/jdbi-2.63.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.63",
+    "Installed":      "src/jdbi/2.63",
+    "Source":         "src/jdbi/2.63/jdbi-2.63.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.62",
+    "Installed":      "src/jdbi/2.62",
+    "Source":         "src/jdbi/2.62/jdbi-2.62.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.61",
+    "Installed":      "src/jdbi/2.61",
+    "Source":         "src/jdbi/2.61/jdbi-2.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.60",
+    "Installed":      "src/jdbi/2.60",
+    "Source":         "src/jdbi/2.60/jdbi-2.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

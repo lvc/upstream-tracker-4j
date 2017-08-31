@@ -7,11 +7,19 @@
 
   "Versions": [
   {
+    "Number":         "3.22.0-CR2",
+    "Installed":      "src/javassist/3.22.0-CR2",
+    "Source":         "src/javassist/3.22.0-CR2/javassist-3.22.0-CR2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.22.0-CR1",
     "Installed":      "src/javassist/3.22.0-CR1",
     "Source":         "src/javassist/3.22.0-CR1/javassist-3.22.0-CR1.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "3.21.0",

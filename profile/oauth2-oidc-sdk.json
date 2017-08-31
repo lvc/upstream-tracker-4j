@@ -1,0 +1,430 @@
+{
+  "Name":           "oauth2-oidc-sdk",
+  "Title":          "OAuth 2.0 OIDC SDK",
+  "SourceUrl":      "http://central.maven.org/maven2/com/nimbusds/oauth2-oidc-sdk/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.0",
+
+  "Versions": [
+  {
+    "Number":         "5.36",
+    "Installed":      "src/oauth2-oidc-sdk/5.36",
+    "Source":         "src/oauth2-oidc-sdk/5.36/oauth2-oidc-sdk-5.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.35",
+    "Installed":      "src/oauth2-oidc-sdk/5.35",
+    "Source":         "src/oauth2-oidc-sdk/5.35/oauth2-oidc-sdk-5.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.34.2",
+    "Installed":      "src/oauth2-oidc-sdk/5.34.2",
+    "Source":         "src/oauth2-oidc-sdk/5.34.2/oauth2-oidc-sdk-5.34.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.34.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.34.1",
+    "Source":         "src/oauth2-oidc-sdk/5.34.1/oauth2-oidc-sdk-5.34.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.34",
+    "Installed":      "src/oauth2-oidc-sdk/5.34",
+    "Source":         "src/oauth2-oidc-sdk/5.34/oauth2-oidc-sdk-5.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.33",
+    "Installed":      "src/oauth2-oidc-sdk/5.33",
+    "Source":         "src/oauth2-oidc-sdk/5.33/oauth2-oidc-sdk-5.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.32",
+    "Installed":      "src/oauth2-oidc-sdk/5.32",
+    "Source":         "src/oauth2-oidc-sdk/5.32/oauth2-oidc-sdk-5.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.31",
+    "Installed":      "src/oauth2-oidc-sdk/5.31",
+    "Source":         "src/oauth2-oidc-sdk/5.31/oauth2-oidc-sdk-5.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.30",
+    "Installed":      "src/oauth2-oidc-sdk/5.30",
+    "Source":         "src/oauth2-oidc-sdk/5.30/oauth2-oidc-sdk-5.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.29",
+    "Installed":      "src/oauth2-oidc-sdk/5.29",
+    "Source":         "src/oauth2-oidc-sdk/5.29/oauth2-oidc-sdk-5.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.28",
+    "Installed":      "src/oauth2-oidc-sdk/5.28",
+    "Source":         "src/oauth2-oidc-sdk/5.28/oauth2-oidc-sdk-5.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.27.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.27.1",
+    "Source":         "src/oauth2-oidc-sdk/5.27.1/oauth2-oidc-sdk-5.27.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.27",
+    "Installed":      "src/oauth2-oidc-sdk/5.27",
+    "Source":         "src/oauth2-oidc-sdk/5.27/oauth2-oidc-sdk-5.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.26",
+    "Installed":      "src/oauth2-oidc-sdk/5.26",
+    "Source":         "src/oauth2-oidc-sdk/5.26/oauth2-oidc-sdk-5.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.25",
+    "Installed":      "src/oauth2-oidc-sdk/5.25",
+    "Source":         "src/oauth2-oidc-sdk/5.25/oauth2-oidc-sdk-5.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.24.2",
+    "Installed":      "src/oauth2-oidc-sdk/5.24.2",
+    "Source":         "src/oauth2-oidc-sdk/5.24.2/oauth2-oidc-sdk-5.24.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.24.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.24.1",
+    "Source":         "src/oauth2-oidc-sdk/5.24.1/oauth2-oidc-sdk-5.24.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.24",
+    "Installed":      "src/oauth2-oidc-sdk/5.24",
+    "Source":         "src/oauth2-oidc-sdk/5.24/oauth2-oidc-sdk-5.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.23",
+    "Installed":      "src/oauth2-oidc-sdk/5.23",
+    "Source":         "src/oauth2-oidc-sdk/5.23/oauth2-oidc-sdk-5.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.22.2",
+    "Installed":      "src/oauth2-oidc-sdk/5.22.2",
+    "Source":         "src/oauth2-oidc-sdk/5.22.2/oauth2-oidc-sdk-5.22.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.22.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.22.1",
+    "Source":         "src/oauth2-oidc-sdk/5.22.1/oauth2-oidc-sdk-5.22.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.22",
+    "Installed":      "src/oauth2-oidc-sdk/5.22",
+    "Source":         "src/oauth2-oidc-sdk/5.22/oauth2-oidc-sdk-5.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.21",
+    "Installed":      "src/oauth2-oidc-sdk/5.21",
+    "Source":         "src/oauth2-oidc-sdk/5.21/oauth2-oidc-sdk-5.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.20",
+    "Installed":      "src/oauth2-oidc-sdk/5.20",
+    "Source":         "src/oauth2-oidc-sdk/5.20/oauth2-oidc-sdk-5.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.2",
+    "Installed":      "src/oauth2-oidc-sdk/5.19.2",
+    "Source":         "src/oauth2-oidc-sdk/5.19.2/oauth2-oidc-sdk-5.19.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.19.1",
+    "Source":         "src/oauth2-oidc-sdk/5.19.1/oauth2-oidc-sdk-5.19.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19",
+    "Installed":      "src/oauth2-oidc-sdk/5.19",
+    "Source":         "src/oauth2-oidc-sdk/5.19/oauth2-oidc-sdk-5.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.18.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.18.1",
+    "Source":         "src/oauth2-oidc-sdk/5.18.1/oauth2-oidc-sdk-5.18.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.18",
+    "Installed":      "src/oauth2-oidc-sdk/5.18",
+    "Source":         "src/oauth2-oidc-sdk/5.18/oauth2-oidc-sdk-5.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.6",
+    "Installed":      "src/oauth2-oidc-sdk/5.17.6",
+    "Source":         "src/oauth2-oidc-sdk/5.17.6/oauth2-oidc-sdk-5.17.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.5",
+    "Installed":      "src/oauth2-oidc-sdk/5.17.5",
+    "Source":         "src/oauth2-oidc-sdk/5.17.5/oauth2-oidc-sdk-5.17.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.4",
+    "Installed":      "src/oauth2-oidc-sdk/5.17.4",
+    "Source":         "src/oauth2-oidc-sdk/5.17.4/oauth2-oidc-sdk-5.17.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.3",
+    "Installed":      "src/oauth2-oidc-sdk/5.17.3",
+    "Source":         "src/oauth2-oidc-sdk/5.17.3/oauth2-oidc-sdk-5.17.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.2",
+    "Installed":      "src/oauth2-oidc-sdk/5.17.2",
+    "Source":         "src/oauth2-oidc-sdk/5.17.2/oauth2-oidc-sdk-5.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.17.1",
+    "Source":         "src/oauth2-oidc-sdk/5.17.1/oauth2-oidc-sdk-5.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17",
+    "Installed":      "src/oauth2-oidc-sdk/5.17",
+    "Source":         "src/oauth2-oidc-sdk/5.17/oauth2-oidc-sdk-5.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.16.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.16.1",
+    "Source":         "src/oauth2-oidc-sdk/5.16.1/oauth2-oidc-sdk-5.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.16",
+    "Installed":      "src/oauth2-oidc-sdk/5.16",
+    "Source":         "src/oauth2-oidc-sdk/5.16/oauth2-oidc-sdk-5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.15",
+    "Installed":      "src/oauth2-oidc-sdk/5.15",
+    "Source":         "src/oauth2-oidc-sdk/5.15/oauth2-oidc-sdk-5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.14",
+    "Installed":      "src/oauth2-oidc-sdk/5.14",
+    "Source":         "src/oauth2-oidc-sdk/5.14/oauth2-oidc-sdk-5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.13",
+    "Installed":      "src/oauth2-oidc-sdk/5.13",
+    "Source":         "src/oauth2-oidc-sdk/5.13/oauth2-oidc-sdk-5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.12",
+    "Installed":      "src/oauth2-oidc-sdk/5.12",
+    "Source":         "src/oauth2-oidc-sdk/5.12/oauth2-oidc-sdk-5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.11",
+    "Installed":      "src/oauth2-oidc-sdk/5.11",
+    "Source":         "src/oauth2-oidc-sdk/5.11/oauth2-oidc-sdk-5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.10.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.10.1",
+    "Source":         "src/oauth2-oidc-sdk/5.10.1/oauth2-oidc-sdk-5.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.10",
+    "Installed":      "src/oauth2-oidc-sdk/5.10",
+    "Source":         "src/oauth2-oidc-sdk/5.10/oauth2-oidc-sdk-5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.9.1",
+    "Source":         "src/oauth2-oidc-sdk/5.9.1/oauth2-oidc-sdk-5.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9",
+    "Installed":      "src/oauth2-oidc-sdk/5.9",
+    "Source":         "src/oauth2-oidc-sdk/5.9/oauth2-oidc-sdk-5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8.2",
+    "Installed":      "src/oauth2-oidc-sdk/5.8.2",
+    "Source":         "src/oauth2-oidc-sdk/5.8.2/oauth2-oidc-sdk-5.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.8.1",
+    "Source":         "src/oauth2-oidc-sdk/5.8.1/oauth2-oidc-sdk-5.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8",
+    "Installed":      "src/oauth2-oidc-sdk/5.8",
+    "Source":         "src/oauth2-oidc-sdk/5.8/oauth2-oidc-sdk-5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.7",
+    "Installed":      "src/oauth2-oidc-sdk/5.7",
+    "Source":         "src/oauth2-oidc-sdk/5.7/oauth2-oidc-sdk-5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.6",
+    "Installed":      "src/oauth2-oidc-sdk/5.6",
+    "Source":         "src/oauth2-oidc-sdk/5.6/oauth2-oidc-sdk-5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.5.1",
+    "Source":         "src/oauth2-oidc-sdk/5.5.1/oauth2-oidc-sdk-5.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5",
+    "Installed":      "src/oauth2-oidc-sdk/5.5",
+    "Source":         "src/oauth2-oidc-sdk/5.5/oauth2-oidc-sdk-5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4",
+    "Installed":      "src/oauth2-oidc-sdk/5.4",
+    "Source":         "src/oauth2-oidc-sdk/5.4/oauth2-oidc-sdk-5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3",
+    "Installed":      "src/oauth2-oidc-sdk/5.3",
+    "Source":         "src/oauth2-oidc-sdk/5.3/oauth2-oidc-sdk-5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2",
+    "Installed":      "src/oauth2-oidc-sdk/5.2",
+    "Source":         "src/oauth2-oidc-sdk/5.2/oauth2-oidc-sdk-5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.1.1",
+    "Source":         "src/oauth2-oidc-sdk/5.1.1/oauth2-oidc-sdk-5.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1",
+    "Installed":      "src/oauth2-oidc-sdk/5.1",
+    "Source":         "src/oauth2-oidc-sdk/5.1/oauth2-oidc-sdk-5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0",
+    "Installed":      "src/oauth2-oidc-sdk/5.0",
+    "Source":         "src/oauth2-oidc-sdk/5.0/oauth2-oidc-sdk-5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

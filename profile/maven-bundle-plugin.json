@@ -1,0 +1,178 @@
+{
+  "Name":           "maven-bundle-plugin",
+  "Title":          "Maven Bundle Plugin",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/felix/maven-bundle-plugin/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipExt":        [ "zip", "tar.gz" ],
+
+  "Versions": [
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/maven-bundle-plugin/3.3.0",
+    "Source":         "src/maven-bundle-plugin/3.3.0/maven-bundle-plugin-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/maven-bundle-plugin/3.2.0",
+    "Source":         "src/maven-bundle-plugin/3.2.0/maven-bundle-plugin-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/maven-bundle-plugin/3.0.1",
+    "Source":         "src/maven-bundle-plugin/3.0.1/maven-bundle-plugin-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/maven-bundle-plugin/3.0.0",
+    "Source":         "src/maven-bundle-plugin/3.0.0/maven-bundle-plugin-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/maven-bundle-plugin/2.5.4",
+    "Source":         "src/maven-bundle-plugin/2.5.4/maven-bundle-plugin-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/maven-bundle-plugin/2.5.3",
+    "Source":         "src/maven-bundle-plugin/2.5.3/maven-bundle-plugin-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/maven-bundle-plugin/2.5.2",
+    "Source":         "src/maven-bundle-plugin/2.5.2/maven-bundle-plugin-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/maven-bundle-plugin/2.5.0",
+    "Source":         "src/maven-bundle-plugin/2.5.0/maven-bundle-plugin-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/maven-bundle-plugin/2.4.0",
+    "Source":         "src/maven-bundle-plugin/2.4.0/maven-bundle-plugin-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/maven-bundle-plugin/2.3.7",
+    "Source":         "src/maven-bundle-plugin/2.3.7/maven-bundle-plugin-2.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.6",
+    "Installed":      "src/maven-bundle-plugin/2.3.6",
+    "Source":         "src/maven-bundle-plugin/2.3.6/maven-bundle-plugin-2.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/maven-bundle-plugin/2.3.5",
+    "Source":         "src/maven-bundle-plugin/2.3.5/maven-bundle-plugin-2.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/maven-bundle-plugin/2.3.4",
+    "Source":         "src/maven-bundle-plugin/2.3.4/maven-bundle-plugin-2.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/maven-bundle-plugin/2.2.0",
+    "Source":         "src/maven-bundle-plugin/2.2.0/maven-bundle-plugin-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/maven-bundle-plugin/2.1.0",
+    "Source":         "src/maven-bundle-plugin/2.1.0/maven-bundle-plugin-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/maven-bundle-plugin/2.0.1",
+    "Source":         "src/maven-bundle-plugin/2.0.1/maven-bundle-plugin-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/maven-bundle-plugin/2.0.0",
+    "Source":         "src/maven-bundle-plugin/2.0.0/maven-bundle-plugin-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "src/maven-bundle-plugin/1.4.3",
+    "Source":         "src/maven-bundle-plugin/1.4.3/maven-bundle-plugin-1.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "src/maven-bundle-plugin/1.4.2",
+    "Source":         "src/maven-bundle-plugin/1.4.2/maven-bundle-plugin-1.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/maven-bundle-plugin/1.4.1",
+    "Source":         "src/maven-bundle-plugin/1.4.1/maven-bundle-plugin-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/maven-bundle-plugin/1.4.0",
+    "Source":         "src/maven-bundle-plugin/1.4.0/maven-bundle-plugin-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/maven-bundle-plugin/1.2.1",
+    "Source":         "src/maven-bundle-plugin/1.2.1/maven-bundle-plugin-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/maven-bundle-plugin/1.2.0",
+    "Source":         "src/maven-bundle-plugin/1.2.0/maven-bundle-plugin-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/maven-bundle-plugin/1.0.0",
+    "Source":         "src/maven-bundle-plugin/1.0.0/maven-bundle-plugin-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

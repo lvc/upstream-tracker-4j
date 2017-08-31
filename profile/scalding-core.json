@@ -1,0 +1,150 @@
+{
+  "Name":           "scalding-core",
+  "Title":          "Scalding Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/twitter/scalding-core_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "scalding-core_2.11",
+
+  "Versions": [
+  {
+    "Number":         "0.17.2",
+    "Installed":      "src/scalding-core/0.17.2",
+    "Source":         "src/scalding-core/0.17.2/scalding-core_2.11-0.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.1",
+    "Installed":      "src/scalding-core/0.17.1",
+    "Source":         "src/scalding-core/0.17.1/scalding-core_2.11-0.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.0",
+    "Installed":      "src/scalding-core/0.17.0",
+    "Source":         "src/scalding-core/0.17.0/scalding-core_2.11-0.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.16.0",
+    "Installed":      "src/scalding-core/0.16.0",
+    "Source":         "src/scalding-core/0.16.0/scalding-core_2.11-0.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15.0",
+    "Installed":      "src/scalding-core/0.15.0",
+    "Source":         "src/scalding-core/0.15.0/scalding-core_2.11-0.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.14.0",
+    "Installed":      "src/scalding-core/0.14.0",
+    "Source":         "src/scalding-core/0.14.0/scalding-core_2.11-0.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.1",
+    "Installed":      "src/scalding-core/0.13.1",
+    "Source":         "src/scalding-core/0.13.1/scalding-core_2.11-0.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.0",
+    "Installed":      "src/scalding-core/0.13.0",
+    "Source":         "src/scalding-core/0.13.0/scalding-core_2.11-0.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/scalding-core/0.12.0",
+    "Source":         "src/scalding-core/0.12.0/scalding-core_2.10-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.2",
+    "Installed":      "src/scalding-core/0.11.2",
+    "Source":         "src/scalding-core/0.11.2/scalding-core_2.10-0.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.1",
+    "Installed":      "src/scalding-core/0.11.1",
+    "Source":         "src/scalding-core/0.11.1/scalding-core_2.10-0.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/scalding-core/0.11.0",
+    "Source":         "src/scalding-core/0.11.0/scalding-core_2.10-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/scalding-core/0.10.0",
+    "Source":         "src/scalding-core/0.10.0/scalding-core_2.10-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/scalding-core/0.9.1",
+    "Source":         "src/scalding-core/0.9.1/scalding-core_2.10-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/scalding-core/0.9.0",
+    "Source":         "src/scalding-core/0.9.0/scalding-core_2.10-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.11",
+    "Installed":      "src/scalding-core/0.8.11",
+    "Source":         "src/scalding-core/0.8.11/scalding-core_2.10-0.8.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.8",
+    "Installed":      "src/scalding-core/0.8.8",
+    "Source":         "src/scalding-core/0.8.8/scalding-core_2.10-0.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.7",
+    "Installed":      "src/scalding-core/0.8.7",
+    "Source":         "src/scalding-core/0.8.7/scalding-core_2.10-0.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.6",
+    "Installed":      "src/scalding-core/0.8.6",
+    "Source":         "src/scalding-core/0.8.6/scalding-core_2.10-0.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.5",
+    "Installed":      "src/scalding-core/0.8.5",
+    "Source":         "src/scalding-core/0.8.5/scalding-core_2.10-0.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,23 @@
+{
+  "Name":           "mallet",
+  "Title":          "MALLET",
+  "SourceUrl":      "http://central.maven.org/maven2/cc/mallet/mallet/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/mallet/2.0.8",
+    "Source":         "src/mallet/2.0.8/mallet-2.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/mallet/2.0.7",
+    "Source":         "src/mallet/2.0.7/mallet-2.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

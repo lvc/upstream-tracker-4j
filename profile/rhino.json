@@ -1,0 +1,38 @@
+{
+  "Name":           "rhino",
+  "Title":          "Mozilla Rhino",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mozilla/rhino/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*R\d+" ],
+
+  "Versions": [
+  {
+    "Number":         "1.7.7.2",
+    "Installed":      "src/rhino/1.7.7.2",
+    "Source":         "src/rhino/1.7.7.2/rhino-1.7.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.7.1",
+    "Installed":      "src/rhino/1.7.7.1",
+    "Source":         "src/rhino/1.7.7.1/rhino-1.7.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.7",
+    "Installed":      "src/rhino/1.7.7",
+    "Source":         "src/rhino/1.7.7/rhino-1.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.6",
+    "Installed":      "src/rhino/1.7.6",
+    "Source":         "src/rhino/1.7.6/rhino-1.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

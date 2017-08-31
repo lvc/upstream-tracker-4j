@@ -1,0 +1,76 @@
+{
+  "Name":           "undertow-core",
+  "Title":          "Undertow Core",
+  "SourceUrl":      "http://central.maven.org/maven2/io/undertow/undertow-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0.Alpha1",
+    "Installed":      "src/undertow-core/2.0.0.Alpha1",
+    "Source":         "src/undertow-core/2.0.0.Alpha1/undertow-core-2.0.0.Alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.19",
+    "Installed":      "src/undertow-core/1.4.19",
+    "Source":         "src/undertow-core/1.4.19/undertow-core-1.4.19.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.18",
+    "Installed":      "src/undertow-core/1.4.18",
+    "Source":         "src/undertow-core/1.4.18/undertow-core-1.4.18.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.4.17",
+    "Installed":      "src/undertow-core/1.4.17",
+    "Source":         "src/undertow-core/1.4.17/undertow-core-1.4.17.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.3.31",
+    "Installed":      "src/undertow-core/1.3.31",
+    "Source":         "src/undertow-core/1.3.31/undertow-core-1.3.31.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.30",
+    "Installed":      "src/undertow-core/1.3.30",
+    "Source":         "src/undertow-core/1.3.30/undertow-core-1.3.30.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.2.12",
+    "Installed":      "src/undertow-core/1.2.12",
+    "Source":         "src/undertow-core/1.2.12/undertow-core-1.2.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.9",
+    "Installed":      "src/undertow-core/1.1.9",
+    "Source":         "src/undertow-core/1.1.9/undertow-core-1.1.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.19",
+    "Installed":      "src/undertow-core/1.0.19",
+    "Source":         "src/undertow-core/1.0.19/undertow-core-1.0.19.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

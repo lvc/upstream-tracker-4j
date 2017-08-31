@@ -1,0 +1,114 @@
+{
+  "Name":           "dagger",
+  "Title":          "Dagger",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/dagger/dagger/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.11",
+    "Installed":      "src/dagger/2.11",
+    "Source":         "src/dagger/2.11/dagger-2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10",
+    "Installed":      "src/dagger/2.10",
+    "Source":         "src/dagger/2.10/dagger-2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/dagger/2.9",
+    "Source":         "src/dagger/2.9/dagger-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/dagger/2.8",
+    "Source":         "src/dagger/2.8/dagger-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/dagger/2.7",
+    "Source":         "src/dagger/2.7/dagger-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/dagger/2.6.1",
+    "Source":         "src/dagger/2.6.1/dagger-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/dagger/2.6",
+    "Source":         "src/dagger/2.6/dagger-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/dagger/2.5",
+    "Source":         "src/dagger/2.5/dagger-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/dagger/2.4",
+    "Source":         "src/dagger/2.4/dagger-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/dagger/2.3",
+    "Source":         "src/dagger/2.3/dagger-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/dagger/2.2",
+    "Source":         "src/dagger/2.2/dagger-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/dagger/2.1",
+    "Source":         "src/dagger/2.1/dagger-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/dagger/2.0.2",
+    "Source":         "src/dagger/2.0.2/dagger-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/dagger/2.0.1",
+    "Source":         "src/dagger/2.0.1/dagger-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/dagger/2.0",
+    "Source":         "src/dagger/2.0/dagger-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

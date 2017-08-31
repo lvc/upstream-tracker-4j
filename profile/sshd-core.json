@@ -1,0 +1,59 @@
+{
+  "Name":           "sshd-core",
+  "Title":          "Mina SSHD Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/sshd/sshd-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.0.0",
+
+  "Versions": [
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/sshd-core/1.6.0",
+    "Source":         "src/sshd-core/1.6.0/sshd-core-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/sshd-core/1.4.0",
+    "Source":         "src/sshd-core/1.4.0/sshd-core-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/sshd-core/1.3.0",
+    "Source":         "src/sshd-core/1.3.0/sshd-core-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/sshd-core/1.2.0",
+    "Source":         "src/sshd-core/1.2.0/sshd-core-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/sshd-core/1.1.1",
+    "Source":         "src/sshd-core/1.1.1/sshd-core-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/sshd-core/1.1.0",
+    "Source":         "src/sshd-core/1.1.0/sshd-core-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/sshd-core/1.0.0",
+    "Source":         "src/sshd-core/1.0.0/sshd-core-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

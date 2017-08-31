@@ -1,0 +1,297 @@
+{
+  "Name":           "yandex-allure-junit-adaptor",
+  "Title":          "Yandex Allure JUnit Adaptor",
+  "SourceUrl":      "http://central.maven.org/maven2/ru/yandex/qatools/allure/allure-junit-adaptor/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "allure-junit-adaptor",
+
+  "Versions": [
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.5.4",
+    "Source":         "src/yandex-allure-junit-adaptor/1.5.4/allure-junit-adaptor-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.5.3",
+    "Source":         "src/yandex-allure-junit-adaptor/1.5.3/allure-junit-adaptor-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.5.2",
+    "Source":         "src/yandex-allure-junit-adaptor/1.5.2/allure-junit-adaptor-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.5.1",
+    "Source":         "src/yandex-allure-junit-adaptor/1.5.1/allure-junit-adaptor-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.5.0",
+    "Source":         "src/yandex-allure-junit-adaptor/1.5.0/allure-junit-adaptor-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.23",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.23",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.23/allure-junit-adaptor-1.4.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.22",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.22",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.22/allure-junit-adaptor-1.4.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.21",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.21",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.21/allure-junit-adaptor-1.4.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.20",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.20",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.20/allure-junit-adaptor-1.4.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.19",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.19",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.19/allure-junit-adaptor-1.4.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.18",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.18",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.18/allure-junit-adaptor-1.4.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.17",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.17",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.17/allure-junit-adaptor-1.4.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.16",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.16",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.16/allure-junit-adaptor-1.4.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.15",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.15",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.15/allure-junit-adaptor-1.4.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.14",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.14",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.14/allure-junit-adaptor-1.4.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.13",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.13",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.13/allure-junit-adaptor-1.4.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.12",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.12",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.12/allure-junit-adaptor-1.4.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.11",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.11",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.11/allure-junit-adaptor-1.4.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.10",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.10",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.10/allure-junit-adaptor-1.4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.9",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.9",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.9/allure-junit-adaptor-1.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.8",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.8",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.8/allure-junit-adaptor-1.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.7",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.7",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.7/allure-junit-adaptor-1.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.6",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.6",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.6/allure-junit-adaptor-1.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.5",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.5",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.5/allure-junit-adaptor-1.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.4",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.4",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.4/allure-junit-adaptor-1.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.3",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.3/allure-junit-adaptor-1.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.2",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.2/allure-junit-adaptor-1.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.1",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.1/allure-junit-adaptor-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.4.0",
+    "Source":         "src/yandex-allure-junit-adaptor/1.4.0/allure-junit-adaptor-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.9",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.9",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.9/allure-junit-adaptor-1.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.7",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.7",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.7/allure-junit-adaptor-1.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.6",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.6",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.6/allure-junit-adaptor-1.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.5",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.5",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.5/allure-junit-adaptor-1.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.4",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.4",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.4/allure-junit-adaptor-1.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.3",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.3/allure-junit-adaptor-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.2",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.2/allure-junit-adaptor-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.1",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.1/allure-junit-adaptor-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.3.0",
+    "Source":         "src/yandex-allure-junit-adaptor/1.3.0/allure-junit-adaptor-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.2.4",
+    "Source":         "src/yandex-allure-junit-adaptor/1.2.4/allure-junit-adaptor-1.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.2.3",
+    "Source":         "src/yandex-allure-junit-adaptor/1.2.3/allure-junit-adaptor-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/yandex-allure-junit-adaptor/1.2.2",
+    "Source":         "src/yandex-allure-junit-adaptor/1.2.2/allure-junit-adaptor-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

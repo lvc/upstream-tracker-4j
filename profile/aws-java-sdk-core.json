@@ -1,0 +1,247 @@
+{
+  "Name":           "aws-java-sdk-core",
+  "Title":          "AWS Java SDK Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/amazonaws/aws-java-sdk-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+  "LatestMicro":    "On",
+
+  "Versions": [
+  {
+    "Number":         "1.11.185",
+    "Installed":      "src/aws-java-sdk-core/1.11.185",
+    "Source":         "src/aws-java-sdk-core/1.11.185/aws-java-sdk-core-1.11.185.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.184",
+    "Installed":      "src/aws-java-sdk-core/1.11.184",
+    "Source":         "src/aws-java-sdk-core/1.11.184/aws-java-sdk-core-1.11.184.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.183",
+    "Installed":      "src/aws-java-sdk-core/1.11.183",
+    "Source":         "src/aws-java-sdk-core/1.11.183/aws-java-sdk-core-1.11.183.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.181",
+    "Installed":      "src/aws-java-sdk-core/1.11.181",
+    "Source":         "src/aws-java-sdk-core/1.11.181/aws-java-sdk-core-1.11.181.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.180",
+    "Installed":      "src/aws-java-sdk-core/1.11.180",
+    "Source":         "src/aws-java-sdk-core/1.11.180/aws-java-sdk-core-1.11.180.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.179",
+    "Installed":      "src/aws-java-sdk-core/1.11.179",
+    "Source":         "src/aws-java-sdk-core/1.11.179/aws-java-sdk-core-1.11.179.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.178",
+    "Installed":      "src/aws-java-sdk-core/1.11.178",
+    "Source":         "src/aws-java-sdk-core/1.11.178/aws-java-sdk-core-1.11.178.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.177",
+    "Installed":      "src/aws-java-sdk-core/1.11.177",
+    "Source":         "src/aws-java-sdk-core/1.11.177/aws-java-sdk-core-1.11.177.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.176",
+    "Installed":      "src/aws-java-sdk-core/1.11.176",
+    "Source":         "src/aws-java-sdk-core/1.11.176/aws-java-sdk-core-1.11.176.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.175",
+    "Installed":      "src/aws-java-sdk-core/1.11.175",
+    "Source":         "src/aws-java-sdk-core/1.11.175/aws-java-sdk-core-1.11.175.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.174",
+    "Installed":      "src/aws-java-sdk-core/1.11.174",
+    "Source":         "src/aws-java-sdk-core/1.11.174/aws-java-sdk-core-1.11.174.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.173",
+    "Installed":      "src/aws-java-sdk-core/1.11.173",
+    "Source":         "src/aws-java-sdk-core/1.11.173/aws-java-sdk-core-1.11.173.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.172",
+    "Installed":      "src/aws-java-sdk-core/1.11.172",
+    "Source":         "src/aws-java-sdk-core/1.11.172/aws-java-sdk-core-1.11.172.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.168",
+    "Installed":      "src/aws-java-sdk-core/1.11.168",
+    "Source":         "src/aws-java-sdk-core/1.11.168/aws-java-sdk-core-1.11.168.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.167",
+    "Installed":      "src/aws-java-sdk-core/1.11.167",
+    "Source":         "src/aws-java-sdk-core/1.11.167/aws-java-sdk-core-1.11.167.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.166",
+    "Installed":      "src/aws-java-sdk-core/1.11.166",
+    "Source":         "src/aws-java-sdk-core/1.11.166/aws-java-sdk-core-1.11.166.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.165",
+    "Installed":      "src/aws-java-sdk-core/1.11.165",
+    "Source":         "src/aws-java-sdk-core/1.11.165/aws-java-sdk-core-1.11.165.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.164",
+    "Installed":      "src/aws-java-sdk-core/1.11.164",
+    "Source":         "src/aws-java-sdk-core/1.11.164/aws-java-sdk-core-1.11.164.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.163",
+    "Installed":      "src/aws-java-sdk-core/1.11.163",
+    "Source":         "src/aws-java-sdk-core/1.11.163/aws-java-sdk-core-1.11.163.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.162",
+    "Installed":      "src/aws-java-sdk-core/1.11.162",
+    "Source":         "src/aws-java-sdk-core/1.11.162/aws-java-sdk-core-1.11.162.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.160",
+    "Installed":      "src/aws-java-sdk-core/1.11.160",
+    "Source":         "src/aws-java-sdk-core/1.11.160/aws-java-sdk-core-1.11.160.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.158",
+    "Installed":      "src/aws-java-sdk-core/1.11.158",
+    "Source":         "src/aws-java-sdk-core/1.11.158/aws-java-sdk-core-1.11.158.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.157",
+    "Installed":      "src/aws-java-sdk-core/1.11.157",
+    "Source":         "src/aws-java-sdk-core/1.11.157/aws-java-sdk-core-1.11.157.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.156",
+    "Installed":      "src/aws-java-sdk-core/1.11.156",
+    "Source":         "src/aws-java-sdk-core/1.11.156/aws-java-sdk-core-1.11.156.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.155",
+    "Installed":      "src/aws-java-sdk-core/1.11.155",
+    "Source":         "src/aws-java-sdk-core/1.11.155/aws-java-sdk-core-1.11.155.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.154",
+    "Installed":      "src/aws-java-sdk-core/1.11.154",
+    "Source":         "src/aws-java-sdk-core/1.11.154/aws-java-sdk-core-1.11.154.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.152",
+    "Installed":      "src/aws-java-sdk-core/1.11.152",
+    "Source":         "src/aws-java-sdk-core/1.11.152/aws-java-sdk-core-1.11.152.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.10.77",
+    "Installed":      "src/aws-java-sdk-core/1.10.77",
+    "Source":         "src/aws-java-sdk-core/1.10.77/aws-java-sdk-core-1.10.77.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.40",
+    "Installed":      "src/aws-java-sdk-core/1.9.40",
+    "Source":         "src/aws-java-sdk-core/1.9.40/aws-java-sdk-core-1.9.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.12",
+    "Installed":      "src/aws-java-sdk-core/1.8.12",
+    "Source":         "src/aws-java-sdk-core/1.8.12/aws-java-sdk-core-1.8.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

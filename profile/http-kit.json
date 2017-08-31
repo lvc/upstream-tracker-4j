@@ -1,0 +1,186 @@
+{
+  "Name":           "http-kit",
+  "Title":          "Http Kit",
+  "SourceUrl":      "https://clojars.org/repo/http-kit/http-kit/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*\d\d\d\d+.*" ],
+
+  "Versions": [
+  {
+    "Number":         "2.3.0-alpha3",
+    "Installed":      "src/http-kit/2.3.0-alpha3",
+    "Source":         "src/http-kit/2.3.0-alpha3/http-kit-2.3.0-alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0-alpha2",
+    "Installed":      "src/http-kit/2.3.0-alpha2",
+    "Source":         "src/http-kit/2.3.0-alpha2/http-kit-2.3.0-alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/http-kit/2.2.0",
+    "Source":         "src/http-kit/2.2.0/http-kit-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.19",
+    "Installed":      "src/http-kit/2.1.19",
+    "Source":         "src/http-kit/2.1.19/http-kit-2.1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.18",
+    "Installed":      "src/http-kit/2.1.18",
+    "Source":         "src/http-kit/2.1.18/http-kit-2.1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.17",
+    "Installed":      "src/http-kit/2.1.17",
+    "Source":         "src/http-kit/2.1.17/http-kit-2.1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.16",
+    "Installed":      "src/http-kit/2.1.16",
+    "Source":         "src/http-kit/2.1.16/http-kit-2.1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.15",
+    "Installed":      "src/http-kit/2.1.15",
+    "Source":         "src/http-kit/2.1.15/http-kit-2.1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.14",
+    "Installed":      "src/http-kit/2.1.14",
+    "Source":         "src/http-kit/2.1.14/http-kit-2.1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.13",
+    "Installed":      "src/http-kit/2.1.13",
+    "Source":         "src/http-kit/2.1.13/http-kit-2.1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.12",
+    "Installed":      "src/http-kit/2.1.12",
+    "Source":         "src/http-kit/2.1.12/http-kit-2.1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.11",
+    "Installed":      "src/http-kit/2.1.11",
+    "Source":         "src/http-kit/2.1.11/http-kit-2.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.10",
+    "Installed":      "src/http-kit/2.1.10",
+    "Source":         "src/http-kit/2.1.10/http-kit-2.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.9",
+    "Installed":      "src/http-kit/2.1.9",
+    "Source":         "src/http-kit/2.1.9/http-kit-2.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.8",
+    "Installed":      "src/http-kit/2.1.8",
+    "Source":         "src/http-kit/2.1.8/http-kit-2.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.7",
+    "Installed":      "src/http-kit/2.1.7",
+    "Source":         "src/http-kit/2.1.7/http-kit-2.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/http-kit/2.1.6",
+    "Source":         "src/http-kit/2.1.6/http-kit-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/http-kit/2.1.5",
+    "Source":         "src/http-kit/2.1.5/http-kit-2.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/http-kit/2.1.4",
+    "Source":         "src/http-kit/2.1.4/http-kit-2.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/http-kit/2.1.3",
+    "Source":         "src/http-kit/2.1.3/http-kit-2.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/http-kit/2.1.2",
+    "Source":         "src/http-kit/2.1.2/http-kit-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/http-kit/2.1.1",
+    "Source":         "src/http-kit/2.1.1/http-kit-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/http-kit/2.1.0",
+    "Source":         "src/http-kit/2.1.0/http-kit-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/http-kit/2.0.1",
+    "Source":         "src/http-kit/2.0.1/http-kit-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/http-kit/2.0.0",
+    "Source":         "src/http-kit/2.0.0/http-kit-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

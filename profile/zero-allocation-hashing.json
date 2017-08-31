@@ -1,0 +1,65 @@
+{
+  "Name":           "zero-allocation-hashing",
+  "Title":          "Zero Allocation Hashing",
+  "SourceUrl":      "http://central.maven.org/maven2/net/openhft/zero-allocation-hashing/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.8",
+    "Installed":      "src/zero-allocation-hashing/0.8",
+    "Source":         "src/zero-allocation-hashing/0.8/zero-allocation-hashing-0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/zero-allocation-hashing/0.7",
+    "Source":         "src/zero-allocation-hashing/0.7/zero-allocation-hashing-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6",
+    "Installed":      "src/zero-allocation-hashing/0.6",
+    "Source":         "src/zero-allocation-hashing/0.6/zero-allocation-hashing-0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/zero-allocation-hashing/0.5",
+    "Source":         "src/zero-allocation-hashing/0.5/zero-allocation-hashing-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/zero-allocation-hashing/0.4",
+    "Source":         "src/zero-allocation-hashing/0.4/zero-allocation-hashing-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/zero-allocation-hashing/0.3",
+    "Source":         "src/zero-allocation-hashing/0.3/zero-allocation-hashing-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/zero-allocation-hashing/0.2",
+    "Source":         "src/zero-allocation-hashing/0.2/zero-allocation-hashing-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1",
+    "Installed":      "src/zero-allocation-hashing/0.1",
+    "Source":         "src/zero-allocation-hashing/0.1/zero-allocation-hashing-0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

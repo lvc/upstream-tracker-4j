@@ -1,0 +1,66 @@
+{
+  "Name":           "xmlschema-core",
+  "Title":          "XmlSchema Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/ws/xmlschema/xmlschema-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipExt":        [ "zip", "tar.gz" ],
+
+  "Versions": [
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/xmlschema-core/2.2.2",
+    "Source":         "src/xmlschema-core/2.2.2/xmlschema-core-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/xmlschema-core/2.2.1",
+    "Source":         "src/xmlschema-core/2.2.1/xmlschema-core-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/xmlschema-core/2.2.0",
+    "Source":         "src/xmlschema-core/2.2.0/xmlschema-core-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/xmlschema-core/2.1.0",
+    "Source":         "src/xmlschema-core/2.1.0/xmlschema-core-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/xmlschema-core/2.0.3",
+    "Source":         "src/xmlschema-core/2.0.3/xmlschema-core-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/xmlschema-core/2.0.2",
+    "Source":         "src/xmlschema-core/2.0.2/xmlschema-core-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/xmlschema-core/2.0.1",
+    "Source":         "src/xmlschema-core/2.0.1/xmlschema-core-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/xmlschema-core/2.0",
+    "Source":         "src/xmlschema-core/2.0/xmlschema-core-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

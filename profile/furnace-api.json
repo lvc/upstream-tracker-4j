@@ -1,0 +1,527 @@
+{
+  "Name":           "furnace-api",
+  "Title":          "Furnace Runtime API",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/forge/furnace/furnace-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.26.2",
+    "Installed":      "src/furnace-api/2.26.2",
+    "Source":         "src/furnace-api/2.26.2/furnace-api-2.26.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.26.1",
+    "Installed":      "src/furnace-api/2.26.1",
+    "Source":         "src/furnace-api/2.26.1/furnace-api-2.26.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.26.0",
+    "Installed":      "src/furnace-api/2.26.0",
+    "Source":         "src/furnace-api/2.26.0/furnace-api-2.26.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25.4",
+    "Installed":      "src/furnace-api/2.25.4",
+    "Source":         "src/furnace-api/2.25.4/furnace-api-2.25.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25.3",
+    "Installed":      "src/furnace-api/2.25.3",
+    "Source":         "src/furnace-api/2.25.3/furnace-api-2.25.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25.2",
+    "Installed":      "src/furnace-api/2.25.2",
+    "Source":         "src/furnace-api/2.25.2/furnace-api-2.25.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25.1",
+    "Installed":      "src/furnace-api/2.25.1",
+    "Source":         "src/furnace-api/2.25.1/furnace-api-2.25.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25.0",
+    "Installed":      "src/furnace-api/2.25.0",
+    "Source":         "src/furnace-api/2.25.0/furnace-api-2.25.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.24.3",
+    "Installed":      "src/furnace-api/2.24.3",
+    "Source":         "src/furnace-api/2.24.3/furnace-api-2.24.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.24.2",
+    "Installed":      "src/furnace-api/2.24.2",
+    "Source":         "src/furnace-api/2.24.2/furnace-api-2.24.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.24.1",
+    "Installed":      "src/furnace-api/2.24.1",
+    "Source":         "src/furnace-api/2.24.1/furnace-api-2.24.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.24.0",
+    "Installed":      "src/furnace-api/2.24.0",
+    "Source":         "src/furnace-api/2.24.0/furnace-api-2.24.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.8",
+    "Installed":      "src/furnace-api/2.23.8",
+    "Source":         "src/furnace-api/2.23.8/furnace-api-2.23.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.7",
+    "Installed":      "src/furnace-api/2.23.7",
+    "Source":         "src/furnace-api/2.23.7/furnace-api-2.23.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.6",
+    "Installed":      "src/furnace-api/2.23.6",
+    "Source":         "src/furnace-api/2.23.6/furnace-api-2.23.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.5",
+    "Installed":      "src/furnace-api/2.23.5",
+    "Source":         "src/furnace-api/2.23.5/furnace-api-2.23.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.4",
+    "Installed":      "src/furnace-api/2.23.4",
+    "Source":         "src/furnace-api/2.23.4/furnace-api-2.23.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.3",
+    "Installed":      "src/furnace-api/2.23.3",
+    "Source":         "src/furnace-api/2.23.3/furnace-api-2.23.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.2",
+    "Installed":      "src/furnace-api/2.23.2",
+    "Source":         "src/furnace-api/2.23.2/furnace-api-2.23.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.1",
+    "Installed":      "src/furnace-api/2.23.1",
+    "Source":         "src/furnace-api/2.23.1/furnace-api-2.23.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.0",
+    "Installed":      "src/furnace-api/2.23.0",
+    "Source":         "src/furnace-api/2.23.0/furnace-api-2.23.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.10",
+    "Installed":      "src/furnace-api/2.22.10",
+    "Source":         "src/furnace-api/2.22.10/furnace-api-2.22.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.9",
+    "Installed":      "src/furnace-api/2.22.9",
+    "Source":         "src/furnace-api/2.22.9/furnace-api-2.22.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.8",
+    "Installed":      "src/furnace-api/2.22.8",
+    "Source":         "src/furnace-api/2.22.8/furnace-api-2.22.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.7",
+    "Installed":      "src/furnace-api/2.22.7",
+    "Source":         "src/furnace-api/2.22.7/furnace-api-2.22.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.6",
+    "Installed":      "src/furnace-api/2.22.6",
+    "Source":         "src/furnace-api/2.22.6/furnace-api-2.22.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.5",
+    "Installed":      "src/furnace-api/2.22.5",
+    "Source":         "src/furnace-api/2.22.5/furnace-api-2.22.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.4",
+    "Installed":      "src/furnace-api/2.22.4",
+    "Source":         "src/furnace-api/2.22.4/furnace-api-2.22.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.3",
+    "Installed":      "src/furnace-api/2.22.3",
+    "Source":         "src/furnace-api/2.22.3/furnace-api-2.22.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.2",
+    "Installed":      "src/furnace-api/2.22.2",
+    "Source":         "src/furnace-api/2.22.2/furnace-api-2.22.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.1",
+    "Installed":      "src/furnace-api/2.22.1",
+    "Source":         "src/furnace-api/2.22.1/furnace-api-2.22.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.0",
+    "Installed":      "src/furnace-api/2.22.0",
+    "Source":         "src/furnace-api/2.22.0/furnace-api-2.22.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.21.0",
+    "Installed":      "src/furnace-api/2.21.0",
+    "Source":         "src/furnace-api/2.21.0/furnace-api-2.21.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20.1",
+    "Installed":      "src/furnace-api/2.20.1",
+    "Source":         "src/furnace-api/2.20.1/furnace-api-2.20.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20.0",
+    "Installed":      "src/furnace-api/2.20.0",
+    "Source":         "src/furnace-api/2.20.0/furnace-api-2.20.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19.0",
+    "Installed":      "src/furnace-api/2.19.0",
+    "Source":         "src/furnace-api/2.19.0/furnace-api-2.19.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.2",
+    "Installed":      "src/furnace-api/2.18.2",
+    "Source":         "src/furnace-api/2.18.2/furnace-api-2.18.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.1",
+    "Installed":      "src/furnace-api/2.18.1",
+    "Source":         "src/furnace-api/2.18.1/furnace-api-2.18.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.0",
+    "Installed":      "src/furnace-api/2.18.0",
+    "Source":         "src/furnace-api/2.18.0/furnace-api-2.18.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.1",
+    "Installed":      "src/furnace-api/2.17.1",
+    "Source":         "src/furnace-api/2.17.1/furnace-api-2.17.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.0",
+    "Installed":      "src/furnace-api/2.17.0",
+    "Source":         "src/furnace-api/2.17.0/furnace-api-2.17.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.0",
+    "Installed":      "src/furnace-api/2.16.0",
+    "Source":         "src/furnace-api/2.16.0/furnace-api-2.16.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.4",
+    "Installed":      "src/furnace-api/2.15.4",
+    "Source":         "src/furnace-api/2.15.4/furnace-api-2.15.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.3",
+    "Installed":      "src/furnace-api/2.15.3",
+    "Source":         "src/furnace-api/2.15.3/furnace-api-2.15.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.2",
+    "Installed":      "src/furnace-api/2.15.2",
+    "Source":         "src/furnace-api/2.15.2/furnace-api-2.15.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.1",
+    "Installed":      "src/furnace-api/2.15.1",
+    "Source":         "src/furnace-api/2.15.1/furnace-api-2.15.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.0",
+    "Installed":      "src/furnace-api/2.15.0",
+    "Source":         "src/furnace-api/2.15.0/furnace-api-2.15.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "src/furnace-api/2.14.0",
+    "Source":         "src/furnace-api/2.14.0/furnace-api-2.14.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.1",
+    "Installed":      "src/furnace-api/2.13.1",
+    "Source":         "src/furnace-api/2.13.1/furnace-api-2.13.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.0",
+    "Installed":      "src/furnace-api/2.13.0",
+    "Source":         "src/furnace-api/2.13.0/furnace-api-2.13.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.3",
+    "Installed":      "src/furnace-api/2.12.3",
+    "Source":         "src/furnace-api/2.12.3/furnace-api-2.12.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.2",
+    "Installed":      "src/furnace-api/2.12.2",
+    "Source":         "src/furnace-api/2.12.2/furnace-api-2.12.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.1",
+    "Installed":      "src/furnace-api/2.12.1",
+    "Source":         "src/furnace-api/2.12.1/furnace-api-2.12.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/furnace-api/2.12.0",
+    "Source":         "src/furnace-api/2.12.0/furnace-api-2.12.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/furnace-api/2.11.0",
+    "Source":         "src/furnace-api/2.11.0/furnace-api-2.11.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/furnace-api/2.10.1",
+    "Source":         "src/furnace-api/2.10.1/furnace-api-2.10.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/furnace-api/2.10.0",
+    "Source":         "src/furnace-api/2.10.0/furnace-api-2.10.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/furnace-api/2.9.2",
+    "Source":         "src/furnace-api/2.9.2/furnace-api-2.9.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/furnace-api/2.9.1",
+    "Source":         "src/furnace-api/2.9.1/furnace-api-2.9.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/furnace-api/2.9.0",
+    "Source":         "src/furnace-api/2.9.0/furnace-api-2.9.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/furnace-api/2.8.1",
+    "Source":         "src/furnace-api/2.8.1/furnace-api-2.8.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/furnace-api/2.8.0",
+    "Source":         "src/furnace-api/2.8.0/furnace-api-2.8.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/furnace-api/2.7.2",
+    "Source":         "src/furnace-api/2.7.2/furnace-api-2.7.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/furnace-api/2.7.1",
+    "Source":         "src/furnace-api/2.7.1/furnace-api-2.7.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/furnace-api/2.7.0",
+    "Source":         "src/furnace-api/2.7.0/furnace-api-2.7.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/furnace-api/2.6.0",
+    "Source":         "src/furnace-api/2.6.0/furnace-api-2.6.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/furnace-api/2.5.0",
+    "Source":         "src/furnace-api/2.5.0/furnace-api-2.5.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/furnace-api/2.4.1",
+    "Source":         "src/furnace-api/2.4.1/furnace-api-2.4.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/furnace-api/2.4.0",
+    "Source":         "src/furnace-api/2.4.0/furnace-api-2.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/furnace-api/2.3.0",
+    "Source":         "src/furnace-api/2.3.0/furnace-api-2.3.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/furnace-api/2.2.0",
+    "Source":         "src/furnace-api/2.2.0/furnace-api-2.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/furnace-api/2.1.1",
+    "Source":         "src/furnace-api/2.1.1/furnace-api-2.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/furnace-api/2.1.0",
+    "Source":         "src/furnace-api/2.1.0/furnace-api-2.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/furnace-api/2.0.0",
+    "Source":         "src/furnace-api/2.0.0/furnace-api-2.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

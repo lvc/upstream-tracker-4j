@@ -1,0 +1,149 @@
+{
+  "Name":           "maven-archiver",
+  "Title":          "Maven Archiver",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/maven/maven-archiver/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/maven-archiver/3.2.0",
+    "Source":         "src/maven-archiver/3.2.0/maven-archiver-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/maven-archiver/3.1.1",
+    "Source":         "src/maven-archiver/3.1.1/maven-archiver-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/maven-archiver/3.1.0",
+    "Source":         "src/maven-archiver/3.1.0/maven-archiver-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/maven-archiver/3.0.2",
+    "Source":         "src/maven-archiver/3.0.2/maven-archiver-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/maven-archiver/3.0.1",
+    "Source":         "src/maven-archiver/3.0.1/maven-archiver-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/maven-archiver/3.0.0",
+    "Source":         "src/maven-archiver/3.0.0/maven-archiver-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/maven-archiver/2.6",
+    "Source":         "src/maven-archiver/2.6/maven-archiver-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/maven-archiver/2.5",
+    "Source":         "src/maven-archiver/2.5/maven-archiver-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/maven-archiver/2.4.2",
+    "Source":         "src/maven-archiver/2.4.2/maven-archiver-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/maven-archiver/2.4.1",
+    "Source":         "src/maven-archiver/2.4.1/maven-archiver-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/maven-archiver/2.4",
+    "Source":         "src/maven-archiver/2.4/maven-archiver-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/maven-archiver/2.3",
+    "Source":         "src/maven-archiver/2.3/maven-archiver-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/maven-archiver/2.2",
+    "Source":         "src/maven-archiver/2.2/maven-archiver-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/maven-archiver/2.1",
+    "Source":         "src/maven-archiver/2.1/maven-archiver-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/maven-archiver/2.0.5",
+    "Source":         "src/maven-archiver/2.0.5/maven-archiver-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/maven-archiver/2.0.4",
+    "Source":         "src/maven-archiver/2.0.4/maven-archiver-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/maven-archiver/2.0.3",
+    "Source":         "src/maven-archiver/2.0.3/maven-archiver-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/maven-archiver/2.0.2",
+    "Source":         "src/maven-archiver/2.0.2/maven-archiver-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/maven-archiver/2.0.1",
+    "Source":         "src/maven-archiver/2.0.1/maven-archiver-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/maven-archiver/2.0",
+    "Source":         "src/maven-archiver/2.0/maven-archiver-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

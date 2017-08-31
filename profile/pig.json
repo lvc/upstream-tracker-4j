@@ -1,0 +1,38 @@
+{
+  "Name":           "pig",
+  "Title":          "Pig",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/pig/pig/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.14.0",
+
+  "Versions": [
+  {
+    "Number":         "0.17.0",
+    "Installed":      "src/pig/0.17.0",
+    "Source":         "src/pig/0.17.0/pig-0.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.16.0",
+    "Installed":      "src/pig/0.16.0",
+    "Source":         "src/pig/0.16.0/pig-0.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15.0",
+    "Installed":      "src/pig/0.15.0",
+    "Source":         "src/pig/0.15.0/pig-0.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.14.0",
+    "Installed":      "src/pig/0.14.0",
+    "Source":         "src/pig/0.14.0/pig-0.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

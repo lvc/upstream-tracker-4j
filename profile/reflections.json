@@ -1,0 +1,58 @@
+{
+  "Name":           "reflections",
+  "Title":          "Reflections",
+  "SourceUrl":      "http://central.maven.org/maven2/org/reflections/reflections/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.9.11",
+    "Installed":      "src/reflections/0.9.11",
+    "Source":         "src/reflections/0.9.11/reflections-0.9.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.10",
+    "Installed":      "src/reflections/0.9.10",
+    "Source":         "src/reflections/0.9.10/reflections-0.9.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.9",
+    "Installed":      "src/reflections/0.9.9",
+    "Source":         "src/reflections/0.9.9/reflections-0.9.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.8",
+    "Installed":      "src/reflections/0.9.8",
+    "Source":         "src/reflections/0.9.8/reflections-0.9.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.7",
+    "Installed":      "src/reflections/0.9.7",
+    "Source":         "src/reflections/0.9.7/reflections-0.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.6",
+    "Installed":      "src/reflections/0.9.6",
+    "Source":         "src/reflections/0.9.6/reflections-0.9.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5",
+    "Installed":      "src/reflections/0.9.5",
+    "Source":         "src/reflections/0.9.5/reflections-0.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

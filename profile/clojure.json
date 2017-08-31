@@ -1,0 +1,104 @@
+{
+  "Name":           "clojure",
+  "Title":          "Clojure",
+  "SourceUrl":      "http://central.maven.org/maven2/org/clojure/clojure/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipInternalTypes": "__|_\.|\._|_QMARK",
+  "CompactReport":  "On",
+  "SkipExt":        [ "zip" ],
+
+  "Versions": [
+  {
+    "Number":         "1.9.0-alpha19",
+    "Installed":      "src/clojure/1.9.0-alpha19",
+    "Source":         "src/clojure/1.9.0-alpha19/clojure-1.9.0-alpha19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0-alpha17",
+    "Installed":      "src/clojure/1.9.0-alpha17",
+    "Source":         "src/clojure/1.9.0-alpha17/clojure-1.9.0-alpha17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/clojure/1.8.0",
+    "Source":         "src/clojure/1.8.0/clojure-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/clojure/1.7.0",
+    "Source":         "src/clojure/1.7.0/clojure-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/clojure/1.6.0",
+    "Source":         "src/clojure/1.6.0/clojure-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/clojure/1.5.1",
+    "Source":         "src/clojure/1.5.1/clojure-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/clojure/1.5.0",
+    "Source":         "src/clojure/1.5.0/clojure-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/clojure/1.4.0",
+    "Source":         "src/clojure/1.4.0/clojure-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/clojure/1.3.0",
+    "Source":         "src/clojure/1.3.0/clojure-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/clojure/1.2.1",
+    "Source":         "src/clojure/1.2.1/clojure-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/clojure/1.2.0",
+    "Source":         "src/clojure/1.2.0/clojure-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/clojure/1.1.0",
+    "Source":         "src/clojure/1.1.0/clojure-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/clojure/1.0.0",
+    "Source":         "src/clojure/1.0.0/clojure-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

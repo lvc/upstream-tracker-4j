@@ -1,0 +1,171 @@
+{
+  "Name":           "truezip-file",
+  "Title":          "TrueZIP File",
+  "SourceUrl":      "http://central.maven.org/maven2/de/schlichtherle/truezip/truezip-file/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7.5",
+
+  "Versions": [
+  {
+    "Number":         "7.7.10",
+    "Installed":      "src/truezip-file/7.7.10",
+    "Source":         "src/truezip-file/7.7.10/truezip-file-7.7.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.9",
+    "Installed":      "src/truezip-file/7.7.9",
+    "Source":         "src/truezip-file/7.7.9/truezip-file-7.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.8",
+    "Installed":      "src/truezip-file/7.7.8",
+    "Source":         "src/truezip-file/7.7.8/truezip-file-7.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.7",
+    "Installed":      "src/truezip-file/7.7.7",
+    "Source":         "src/truezip-file/7.7.7/truezip-file-7.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.6",
+    "Installed":      "src/truezip-file/7.7.6",
+    "Source":         "src/truezip-file/7.7.6/truezip-file-7.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.5",
+    "Installed":      "src/truezip-file/7.7.5",
+    "Source":         "src/truezip-file/7.7.5/truezip-file-7.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.4",
+    "Installed":      "src/truezip-file/7.7.4",
+    "Source":         "src/truezip-file/7.7.4/truezip-file-7.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.3",
+    "Installed":      "src/truezip-file/7.7.3",
+    "Source":         "src/truezip-file/7.7.3/truezip-file-7.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.2",
+    "Installed":      "src/truezip-file/7.7.2",
+    "Source":         "src/truezip-file/7.7.2/truezip-file-7.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7.1",
+    "Installed":      "src/truezip-file/7.7.1",
+    "Source":         "src/truezip-file/7.7.1/truezip-file-7.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.7",
+    "Installed":      "src/truezip-file/7.7",
+    "Source":         "src/truezip-file/7.7/truezip-file-7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6.6",
+    "Installed":      "src/truezip-file/7.6.6",
+    "Source":         "src/truezip-file/7.6.6/truezip-file-7.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6.5",
+    "Installed":      "src/truezip-file/7.6.5",
+    "Source":         "src/truezip-file/7.6.5/truezip-file-7.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6.4",
+    "Installed":      "src/truezip-file/7.6.4",
+    "Source":         "src/truezip-file/7.6.4/truezip-file-7.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6.3",
+    "Installed":      "src/truezip-file/7.6.3",
+    "Source":         "src/truezip-file/7.6.3/truezip-file-7.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6.1",
+    "Installed":      "src/truezip-file/7.6.1",
+    "Source":         "src/truezip-file/7.6.1/truezip-file-7.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.6",
+    "Installed":      "src/truezip-file/7.6",
+    "Source":         "src/truezip-file/7.6/truezip-file-7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.5",
+    "Installed":      "src/truezip-file/7.5.5",
+    "Source":         "src/truezip-file/7.5.5/truezip-file-7.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.4",
+    "Installed":      "src/truezip-file/7.5.4",
+    "Source":         "src/truezip-file/7.5.4/truezip-file-7.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.3",
+    "Installed":      "src/truezip-file/7.5.3",
+    "Source":         "src/truezip-file/7.5.3/truezip-file-7.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.2",
+    "Installed":      "src/truezip-file/7.5.2",
+    "Source":         "src/truezip-file/7.5.2/truezip-file-7.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.1",
+    "Installed":      "src/truezip-file/7.5.1",
+    "Source":         "src/truezip-file/7.5.1/truezip-file-7.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5",
+    "Installed":      "src/truezip-file/7.5",
+    "Source":         "src/truezip-file/7.5/truezip-file-7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

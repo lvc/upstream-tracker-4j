@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "1.4.196",
+    "Installed":      "src/h2/1.4.196",
+    "Source":         "src/h2/1.4.196/h2-1.4.196.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.195",
+    "Installed":      "src/h2/1.4.195",
+    "Source":         "src/h2/1.4.195/h2-1.4.195.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.194",
+    "Installed":      "src/h2/1.4.194",
+    "Source":         "src/h2/1.4.194/h2-1.4.194.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.193",
+    "Installed":      "src/h2/1.4.193",
+    "Source":         "src/h2/1.4.193/h2-1.4.193.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.4.192",
     "Installed":      "src/h2/1.4.192",
     "Source":         "src/h2/1.4.192/h2-1.4.192.jar",

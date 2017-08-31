@@ -9,6 +9,55 @@
 
   "Versions": [
   {
+    "Number":         "1.2.3",
+    "Installed":      "installed/logback/1.2.3",
+    "Source":         "src/logback/1.2.3/logback-1.2.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "installed/logback/1.2.2",
+    "Source":         "src/logback/1.2.2/logback-1.2.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "installed/logback/1.2.1",
+    "Source":         "src/logback/1.2.1/logback-1.2.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "installed/logback/1.2.0",
+    "Source":         "src/logback/1.2.0/logback-1.2.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.10",
+    "Installed":      "installed/logback/1.1.10",
+    "Source":         "src/logback/1.1.10/logback-1.1.10.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.9",
+    "Installed":      "installed/logback/1.1.9",
+    "Source":         "src/logback/1.1.9/logback-1.1.9.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.8",
+    "Installed":      "installed/logback/1.1.8",
+    "Source":         "src/logback/1.1.8/logback-1.1.8.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.1.7",
     "Installed":      "installed/logback/1.1.7",
     "Source":         "src/logback/1.1.7/logback-1.1.7.zip",

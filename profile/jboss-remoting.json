@@ -1,0 +1,208 @@
+{
+  "Name":           "jboss-remoting",
+  "Title":          "JBoss Remoting",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/remoting/jboss-remoting/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.0.0",
+
+  "Versions": [
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/jboss-remoting/5.0.0",
+    "Source":         "src/jboss-remoting/5.0.0/jboss-remoting-5.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0.CR5",
+    "Installed":      "src/jboss-remoting/5.0.0.CR5",
+    "Source":         "src/jboss-remoting/5.0.0.CR5/jboss-remoting-5.0.0.CR5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.0.0.CR4",
+    "Installed":      "src/jboss-remoting/5.0.0.CR4",
+    "Source":         "src/jboss-remoting/5.0.0.CR4/jboss-remoting-5.0.0.CR4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.24",
+    "Installed":      "src/jboss-remoting/4.0.24",
+    "Source":         "src/jboss-remoting/4.0.24/jboss-remoting-4.0.24.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.23",
+    "Installed":      "src/jboss-remoting/4.0.23",
+    "Source":         "src/jboss-remoting/4.0.23/jboss-remoting-4.0.23.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.22",
+    "Installed":      "src/jboss-remoting/4.0.22",
+    "Source":         "src/jboss-remoting/4.0.22/jboss-remoting-4.0.22.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.21",
+    "Installed":      "src/jboss-remoting/4.0.21",
+    "Source":         "src/jboss-remoting/4.0.21/jboss-remoting-4.0.21.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.20",
+    "Installed":      "src/jboss-remoting/4.0.20",
+    "Source":         "src/jboss-remoting/4.0.20/jboss-remoting-4.0.20.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.19",
+    "Installed":      "src/jboss-remoting/4.0.19",
+    "Source":         "src/jboss-remoting/4.0.19/jboss-remoting-4.0.19.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.18",
+    "Installed":      "src/jboss-remoting/4.0.18",
+    "Source":         "src/jboss-remoting/4.0.18/jboss-remoting-4.0.18.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.17",
+    "Installed":      "src/jboss-remoting/4.0.17",
+    "Source":         "src/jboss-remoting/4.0.17/jboss-remoting-4.0.17.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.16",
+    "Installed":      "src/jboss-remoting/4.0.16",
+    "Source":         "src/jboss-remoting/4.0.16/jboss-remoting-4.0.16.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.15",
+    "Installed":      "src/jboss-remoting/4.0.15",
+    "Source":         "src/jboss-remoting/4.0.15/jboss-remoting-4.0.15.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.14",
+    "Installed":      "src/jboss-remoting/4.0.14",
+    "Source":         "src/jboss-remoting/4.0.14/jboss-remoting-4.0.14.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.13",
+    "Installed":      "src/jboss-remoting/4.0.13",
+    "Source":         "src/jboss-remoting/4.0.13/jboss-remoting-4.0.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.12",
+    "Installed":      "src/jboss-remoting/4.0.12",
+    "Source":         "src/jboss-remoting/4.0.12/jboss-remoting-4.0.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.11",
+    "Installed":      "src/jboss-remoting/4.0.11",
+    "Source":         "src/jboss-remoting/4.0.11/jboss-remoting-4.0.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.10",
+    "Installed":      "src/jboss-remoting/4.0.10",
+    "Source":         "src/jboss-remoting/4.0.10/jboss-remoting-4.0.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.9",
+    "Installed":      "src/jboss-remoting/4.0.9",
+    "Source":         "src/jboss-remoting/4.0.9/jboss-remoting-4.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.8",
+    "Installed":      "src/jboss-remoting/4.0.8",
+    "Source":         "src/jboss-remoting/4.0.8/jboss-remoting-4.0.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.7",
+    "Installed":      "src/jboss-remoting/4.0.7",
+    "Source":         "src/jboss-remoting/4.0.7/jboss-remoting-4.0.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.6",
+    "Installed":      "src/jboss-remoting/4.0.6",
+    "Source":         "src/jboss-remoting/4.0.6/jboss-remoting-4.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.5",
+    "Installed":      "src/jboss-remoting/4.0.5",
+    "Source":         "src/jboss-remoting/4.0.5/jboss-remoting-4.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.4",
+    "Installed":      "src/jboss-remoting/4.0.4",
+    "Source":         "src/jboss-remoting/4.0.4/jboss-remoting-4.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.3",
+    "Installed":      "src/jboss-remoting/4.0.3",
+    "Source":         "src/jboss-remoting/4.0.3/jboss-remoting-4.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/jboss-remoting/4.0.2",
+    "Source":         "src/jboss-remoting/4.0.2/jboss-remoting-4.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/jboss-remoting/4.0.1",
+    "Source":         "src/jboss-remoting/4.0.1/jboss-remoting-4.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/jboss-remoting/4.0.0",
+    "Source":         "src/jboss-remoting/4.0.0/jboss-remoting-4.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

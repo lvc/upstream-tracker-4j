@@ -1,0 +1,367 @@
+{
+  "Name":           "tomcat-jdbc",
+  "Title":          "Tomcat JDBC",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/tomcat/tomcat-jdbc/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "8.0.0",
+
+  "Versions": [
+  {
+    "Number":         "9.0.0.M26",
+    "Installed":      "src/tomcat-jdbc/9.0.0.M26",
+    "Source":         "src/tomcat-jdbc/9.0.0.M26/tomcat-jdbc-9.0.0.M26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.20",
+    "Installed":      "src/tomcat-jdbc/8.5.20",
+    "Source":         "src/tomcat-jdbc/8.5.20/tomcat-jdbc-8.5.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.19",
+    "Installed":      "src/tomcat-jdbc/8.5.19",
+    "Source":         "src/tomcat-jdbc/8.5.19/tomcat-jdbc-8.5.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.16",
+    "Installed":      "src/tomcat-jdbc/8.5.16",
+    "Source":         "src/tomcat-jdbc/8.5.16/tomcat-jdbc-8.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.15",
+    "Installed":      "src/tomcat-jdbc/8.5.15",
+    "Source":         "src/tomcat-jdbc/8.5.15/tomcat-jdbc-8.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.14",
+    "Installed":      "src/tomcat-jdbc/8.5.14",
+    "Source":         "src/tomcat-jdbc/8.5.14/tomcat-jdbc-8.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.13",
+    "Installed":      "src/tomcat-jdbc/8.5.13",
+    "Source":         "src/tomcat-jdbc/8.5.13/tomcat-jdbc-8.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.12",
+    "Installed":      "src/tomcat-jdbc/8.5.12",
+    "Source":         "src/tomcat-jdbc/8.5.12/tomcat-jdbc-8.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.11",
+    "Installed":      "src/tomcat-jdbc/8.5.11",
+    "Source":         "src/tomcat-jdbc/8.5.11/tomcat-jdbc-8.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.9",
+    "Installed":      "src/tomcat-jdbc/8.5.9",
+    "Source":         "src/tomcat-jdbc/8.5.9/tomcat-jdbc-8.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.8",
+    "Installed":      "src/tomcat-jdbc/8.5.8",
+    "Source":         "src/tomcat-jdbc/8.5.8/tomcat-jdbc-8.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.6",
+    "Installed":      "src/tomcat-jdbc/8.5.6",
+    "Source":         "src/tomcat-jdbc/8.5.6/tomcat-jdbc-8.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.5",
+    "Installed":      "src/tomcat-jdbc/8.5.5",
+    "Source":         "src/tomcat-jdbc/8.5.5/tomcat-jdbc-8.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.4",
+    "Installed":      "src/tomcat-jdbc/8.5.4",
+    "Source":         "src/tomcat-jdbc/8.5.4/tomcat-jdbc-8.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.3",
+    "Installed":      "src/tomcat-jdbc/8.5.3",
+    "Source":         "src/tomcat-jdbc/8.5.3/tomcat-jdbc-8.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.2",
+    "Installed":      "src/tomcat-jdbc/8.5.2",
+    "Source":         "src/tomcat-jdbc/8.5.2/tomcat-jdbc-8.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.0",
+    "Installed":      "src/tomcat-jdbc/8.5.0",
+    "Source":         "src/tomcat-jdbc/8.5.0/tomcat-jdbc-8.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.46",
+    "Installed":      "src/tomcat-jdbc/8.0.46",
+    "Source":         "src/tomcat-jdbc/8.0.46/tomcat-jdbc-8.0.46.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.45",
+    "Installed":      "src/tomcat-jdbc/8.0.45",
+    "Source":         "src/tomcat-jdbc/8.0.45/tomcat-jdbc-8.0.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.44",
+    "Installed":      "src/tomcat-jdbc/8.0.44",
+    "Source":         "src/tomcat-jdbc/8.0.44/tomcat-jdbc-8.0.44.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.43",
+    "Installed":      "src/tomcat-jdbc/8.0.43",
+    "Source":         "src/tomcat-jdbc/8.0.43/tomcat-jdbc-8.0.43.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.42",
+    "Installed":      "src/tomcat-jdbc/8.0.42",
+    "Source":         "src/tomcat-jdbc/8.0.42/tomcat-jdbc-8.0.42.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.41",
+    "Installed":      "src/tomcat-jdbc/8.0.41",
+    "Source":         "src/tomcat-jdbc/8.0.41/tomcat-jdbc-8.0.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.39",
+    "Installed":      "src/tomcat-jdbc/8.0.39",
+    "Source":         "src/tomcat-jdbc/8.0.39/tomcat-jdbc-8.0.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.38",
+    "Installed":      "src/tomcat-jdbc/8.0.38",
+    "Source":         "src/tomcat-jdbc/8.0.38/tomcat-jdbc-8.0.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.37",
+    "Installed":      "src/tomcat-jdbc/8.0.37",
+    "Source":         "src/tomcat-jdbc/8.0.37/tomcat-jdbc-8.0.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.36",
+    "Installed":      "src/tomcat-jdbc/8.0.36",
+    "Source":         "src/tomcat-jdbc/8.0.36/tomcat-jdbc-8.0.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.35",
+    "Installed":      "src/tomcat-jdbc/8.0.35",
+    "Source":         "src/tomcat-jdbc/8.0.35/tomcat-jdbc-8.0.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.33",
+    "Installed":      "src/tomcat-jdbc/8.0.33",
+    "Source":         "src/tomcat-jdbc/8.0.33/tomcat-jdbc-8.0.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.32",
+    "Installed":      "src/tomcat-jdbc/8.0.32",
+    "Source":         "src/tomcat-jdbc/8.0.32/tomcat-jdbc-8.0.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.30",
+    "Installed":      "src/tomcat-jdbc/8.0.30",
+    "Source":         "src/tomcat-jdbc/8.0.30/tomcat-jdbc-8.0.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.29",
+    "Installed":      "src/tomcat-jdbc/8.0.29",
+    "Source":         "src/tomcat-jdbc/8.0.29/tomcat-jdbc-8.0.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.28",
+    "Installed":      "src/tomcat-jdbc/8.0.28",
+    "Source":         "src/tomcat-jdbc/8.0.28/tomcat-jdbc-8.0.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.27",
+    "Installed":      "src/tomcat-jdbc/8.0.27",
+    "Source":         "src/tomcat-jdbc/8.0.27/tomcat-jdbc-8.0.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.26",
+    "Installed":      "src/tomcat-jdbc/8.0.26",
+    "Source":         "src/tomcat-jdbc/8.0.26/tomcat-jdbc-8.0.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.24",
+    "Installed":      "src/tomcat-jdbc/8.0.24",
+    "Source":         "src/tomcat-jdbc/8.0.24/tomcat-jdbc-8.0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.23",
+    "Installed":      "src/tomcat-jdbc/8.0.23",
+    "Source":         "src/tomcat-jdbc/8.0.23/tomcat-jdbc-8.0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.22",
+    "Installed":      "src/tomcat-jdbc/8.0.22",
+    "Source":         "src/tomcat-jdbc/8.0.22/tomcat-jdbc-8.0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.21",
+    "Installed":      "src/tomcat-jdbc/8.0.21",
+    "Source":         "src/tomcat-jdbc/8.0.21/tomcat-jdbc-8.0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.20",
+    "Installed":      "src/tomcat-jdbc/8.0.20",
+    "Source":         "src/tomcat-jdbc/8.0.20/tomcat-jdbc-8.0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.18",
+    "Installed":      "src/tomcat-jdbc/8.0.18",
+    "Source":         "src/tomcat-jdbc/8.0.18/tomcat-jdbc-8.0.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.17",
+    "Installed":      "src/tomcat-jdbc/8.0.17",
+    "Source":         "src/tomcat-jdbc/8.0.17/tomcat-jdbc-8.0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.15",
+    "Installed":      "src/tomcat-jdbc/8.0.15",
+    "Source":         "src/tomcat-jdbc/8.0.15/tomcat-jdbc-8.0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.14",
+    "Installed":      "src/tomcat-jdbc/8.0.14",
+    "Source":         "src/tomcat-jdbc/8.0.14/tomcat-jdbc-8.0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.12",
+    "Installed":      "src/tomcat-jdbc/8.0.12",
+    "Source":         "src/tomcat-jdbc/8.0.12/tomcat-jdbc-8.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.11",
+    "Installed":      "src/tomcat-jdbc/8.0.11",
+    "Source":         "src/tomcat-jdbc/8.0.11/tomcat-jdbc-8.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.9",
+    "Installed":      "src/tomcat-jdbc/8.0.9",
+    "Source":         "src/tomcat-jdbc/8.0.9/tomcat-jdbc-8.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.8",
+    "Installed":      "src/tomcat-jdbc/8.0.8",
+    "Source":         "src/tomcat-jdbc/8.0.8/tomcat-jdbc-8.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.5",
+    "Installed":      "src/tomcat-jdbc/8.0.5",
+    "Source":         "src/tomcat-jdbc/8.0.5/tomcat-jdbc-8.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.3",
+    "Installed":      "src/tomcat-jdbc/8.0.3",
+    "Source":         "src/tomcat-jdbc/8.0.3/tomcat-jdbc-8.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.1",
+    "Installed":      "src/tomcat-jdbc/8.0.1",
+    "Source":         "src/tomcat-jdbc/8.0.1/tomcat-jdbc-8.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

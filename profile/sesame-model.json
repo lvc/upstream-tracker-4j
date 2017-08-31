@@ -1,0 +1,268 @@
+{
+  "Name":           "sesame-model",
+  "Title":          "OpenRDF Sesame Model",
+  "SourceUrl":      "http://central.maven.org/maven2/org/openrdf/sesame/sesame-model/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.1.2",
+    "Installed":      "src/sesame-model/4.1.2",
+    "Source":         "src/sesame-model/4.1.2/sesame-model-4.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "src/sesame-model/4.1.1",
+    "Source":         "src/sesame-model/4.1.1/sesame-model-4.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/sesame-model/4.1.0",
+    "Source":         "src/sesame-model/4.1.0/sesame-model-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/sesame-model/4.0.2",
+    "Source":         "src/sesame-model/4.0.2/sesame-model-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/sesame-model/4.0.1",
+    "Source":         "src/sesame-model/4.0.1/sesame-model-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/sesame-model/4.0.0",
+    "Source":         "src/sesame-model/4.0.0/sesame-model-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/sesame-model/2.9.0",
+    "Source":         "src/sesame-model/2.9.0/sesame-model-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.11",
+    "Installed":      "src/sesame-model/2.8.11",
+    "Source":         "src/sesame-model/2.8.11/sesame-model-2.8.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.10",
+    "Installed":      "src/sesame-model/2.8.10",
+    "Source":         "src/sesame-model/2.8.10/sesame-model-2.8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.9",
+    "Installed":      "src/sesame-model/2.8.9",
+    "Source":         "src/sesame-model/2.8.9/sesame-model-2.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.8",
+    "Installed":      "src/sesame-model/2.8.8",
+    "Source":         "src/sesame-model/2.8.8/sesame-model-2.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.7",
+    "Installed":      "src/sesame-model/2.8.7",
+    "Source":         "src/sesame-model/2.8.7/sesame-model-2.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.6",
+    "Installed":      "src/sesame-model/2.8.6",
+    "Source":         "src/sesame-model/2.8.6/sesame-model-2.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.5",
+    "Installed":      "src/sesame-model/2.8.5",
+    "Source":         "src/sesame-model/2.8.5/sesame-model-2.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.4",
+    "Installed":      "src/sesame-model/2.8.4",
+    "Source":         "src/sesame-model/2.8.4/sesame-model-2.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.3",
+    "Installed":      "src/sesame-model/2.8.3",
+    "Source":         "src/sesame-model/2.8.3/sesame-model-2.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/sesame-model/2.8.2",
+    "Source":         "src/sesame-model/2.8.2/sesame-model-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/sesame-model/2.8.1",
+    "Source":         "src/sesame-model/2.8.1/sesame-model-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/sesame-model/2.8.0",
+    "Source":         "src/sesame-model/2.8.0/sesame-model-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.16",
+    "Installed":      "src/sesame-model/2.7.16",
+    "Source":         "src/sesame-model/2.7.16/sesame-model-2.7.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.15",
+    "Installed":      "src/sesame-model/2.7.15",
+    "Source":         "src/sesame-model/2.7.15/sesame-model-2.7.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.14",
+    "Installed":      "src/sesame-model/2.7.14",
+    "Source":         "src/sesame-model/2.7.14/sesame-model-2.7.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.13",
+    "Installed":      "src/sesame-model/2.7.13",
+    "Source":         "src/sesame-model/2.7.13/sesame-model-2.7.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.12",
+    "Installed":      "src/sesame-model/2.7.12",
+    "Source":         "src/sesame-model/2.7.12/sesame-model-2.7.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.11",
+    "Installed":      "src/sesame-model/2.7.11",
+    "Source":         "src/sesame-model/2.7.11/sesame-model-2.7.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.10",
+    "Installed":      "src/sesame-model/2.7.10",
+    "Source":         "src/sesame-model/2.7.10/sesame-model-2.7.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.9",
+    "Installed":      "src/sesame-model/2.7.9",
+    "Source":         "src/sesame-model/2.7.9/sesame-model-2.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.8",
+    "Installed":      "src/sesame-model/2.7.8",
+    "Source":         "src/sesame-model/2.7.8/sesame-model-2.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.7",
+    "Installed":      "src/sesame-model/2.7.7",
+    "Source":         "src/sesame-model/2.7.7/sesame-model-2.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.6",
+    "Installed":      "src/sesame-model/2.7.6",
+    "Source":         "src/sesame-model/2.7.6/sesame-model-2.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/sesame-model/2.7.5",
+    "Source":         "src/sesame-model/2.7.5/sesame-model-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/sesame-model/2.7.4",
+    "Source":         "src/sesame-model/2.7.4/sesame-model-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "src/sesame-model/2.7.3",
+    "Source":         "src/sesame-model/2.7.3/sesame-model-2.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/sesame-model/2.7.2",
+    "Source":         "src/sesame-model/2.7.2/sesame-model-2.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/sesame-model/2.7.1",
+    "Source":         "src/sesame-model/2.7.1/sesame-model-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/sesame-model/2.7.0",
+    "Source":         "src/sesame-model/2.7.0/sesame-model-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.10",
+    "Installed":      "src/sesame-model/2.6.10",
+    "Source":         "src/sesame-model/2.6.10/sesame-model-2.6.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

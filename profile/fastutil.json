@@ -1,0 +1,40 @@
+{
+  "Name":           "fastutil",
+  "Title":          "Fastutil",
+  "SourceUrl":      "http://central.maven.org/maven2/it/unimi/dsi/fastutil/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "MinimalVersion": "7.1.0",
+  "SkipVersions":   [ "7.2.1" ],
+
+  "Versions": [
+  {
+    "Number":         "8.1.0",
+    "Installed":      "src/fastutil/8.1.0",
+    "Source":         "src/fastutil/8.1.0/fastutil-8.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.1",
+    "Installed":      "src/fastutil/7.2.1",
+    "Source":         "src/fastutil/7.2.1/fastutil-7.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0",
+    "Installed":      "src/fastutil/7.2.0",
+    "Source":         "src/fastutil/7.2.0/fastutil-7.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/fastutil/7.1.0",
+    "Source":         "src/fastutil/7.1.0/fastutil-7.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

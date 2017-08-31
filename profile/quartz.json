@@ -1,0 +1,184 @@
+{
+  "Name":           "quartz",
+  "Title":          "Quartz",
+  "SourceUrl":      "http://central.maven.org/maven2/org/quartz-scheduler/quartz/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/quartz/2.3.0",
+    "Source":         "src/quartz/2.3.0/quartz-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/quartz/2.2.3",
+    "Source":         "src/quartz/2.2.3/quartz-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/quartz/2.2.2",
+    "Source":         "src/quartz/2.2.2/quartz-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/quartz/2.2.1",
+    "Source":         "src/quartz/2.2.1/quartz-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/quartz/2.2.0",
+    "Source":         "src/quartz/2.2.0/quartz-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.7",
+    "Installed":      "src/quartz/2.1.7",
+    "Source":         "src/quartz/2.1.7/quartz-2.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/quartz/2.1.6",
+    "Source":         "src/quartz/2.1.6/quartz-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/quartz/2.1.5",
+    "Source":         "src/quartz/2.1.5/quartz-2.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/quartz/2.1.4",
+    "Source":         "src/quartz/2.1.4/quartz-2.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/quartz/2.1.3",
+    "Source":         "src/quartz/2.1.3/quartz-2.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/quartz/2.1.2",
+    "Source":         "src/quartz/2.1.2/quartz-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/quartz/2.1.1",
+    "Source":         "src/quartz/2.1.1/quartz-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/quartz/2.1.0",
+    "Source":         "src/quartz/2.1.0/quartz-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/quartz/2.0.2",
+    "Source":         "src/quartz/2.0.2/quartz-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/quartz/2.0.1",
+    "Source":         "src/quartz/2.0.1/quartz-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/quartz/2.0.0",
+    "Source":         "src/quartz/2.0.0/quartz-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.6",
+    "Installed":      "src/quartz/1.8.6",
+    "Source":         "src/quartz/1.8.6/quartz-1.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.5",
+    "Installed":      "src/quartz/1.8.5",
+    "Source":         "src/quartz/1.8.5/quartz-1.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.4",
+    "Installed":      "src/quartz/1.8.4",
+    "Source":         "src/quartz/1.8.4/quartz-1.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/quartz/1.8.3",
+    "Source":         "src/quartz/1.8.3/quartz-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/quartz/1.8.2",
+    "Source":         "src/quartz/1.8.2/quartz-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/quartz/1.8.1",
+    "Source":         "src/quartz/1.8.1/quartz-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/quartz/1.8.0",
+    "Source":         "src/quartz/1.8.0/quartz-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/quartz/1.7.3",
+    "Source":         "src/quartz/1.7.3/quartz-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/quartz/1.7.2",
+    "Source":         "src/quartz/1.7.2/quartz-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,53 @@
+{
+  "Name":           "unboundid-ldapsdk",
+  "Title":          "UnboundID LDAP SDK",
+  "SourceUrl":      "http://central.maven.org/maven2/com/unboundid/unboundid-ldapsdk/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "MinimalVersion": "3.0.0",
+
+  "Versions": [
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/unboundid-ldapsdk/4.0.0",
+    "Source":         "src/unboundid-ldapsdk/4.0.0/unboundid-ldapsdk-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/unboundid-ldapsdk/3.2.1",
+    "Source":         "src/unboundid-ldapsdk/3.2.1/unboundid-ldapsdk-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/unboundid-ldapsdk/3.2.0",
+    "Source":         "src/unboundid-ldapsdk/3.2.0/unboundid-ldapsdk-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/unboundid-ldapsdk/3.1.1",
+    "Source":         "src/unboundid-ldapsdk/3.1.1/unboundid-ldapsdk-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/unboundid-ldapsdk/3.1.0",
+    "Source":         "src/unboundid-ldapsdk/3.1.0/unboundid-ldapsdk-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/unboundid-ldapsdk/3.0.0",
+    "Source":         "src/unboundid-ldapsdk/3.0.0/unboundid-ldapsdk-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

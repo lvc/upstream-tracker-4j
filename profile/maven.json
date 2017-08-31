@@ -11,6 +11,29 @@
 
   "Versions": [
   {
+    "Number":         "3.5.0",
+    "Installed":      "installed/maven/3.5.0",
+    "Source":         "src/maven/3.5.0/apache-maven-3.5.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0-beta-1",
+    "Installed":      "installed/maven/3.5.0-beta-1",
+    "Source":         "src/maven/3.5.0-beta-1/apache-maven-3.5.0-beta-1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.0-alpha-1",
+    "Installed":      "installed/maven/3.5.0-alpha-1",
+    "Source":         "src/maven/3.5.0-alpha-1/apache-maven-3.5.0-alpha-1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "3.3.9",
     "Installed":      "installed/maven/3.3.9",
     "Source":         "src/maven/3.3.9/apache-maven-3.3.9-bin.tar.gz",

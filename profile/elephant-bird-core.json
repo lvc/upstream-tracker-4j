@@ -1,0 +1,116 @@
+{
+  "Name":           "elephant-bird-core",
+  "Title":          "Elephant Bird Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/twitter/elephantbird/elephant-bird-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.0",
+  "SkipInternalPackages": ".*thrift.*",
+
+  "Versions": [
+  {
+    "Number":         "4.15",
+    "Installed":      "src/elephant-bird-core/4.15",
+    "Source":         "src/elephant-bird-core/4.15/elephant-bird-core-4.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.14",
+    "Installed":      "src/elephant-bird-core/4.14",
+    "Source":         "src/elephant-bird-core/4.14/elephant-bird-core-4.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.13",
+    "Installed":      "src/elephant-bird-core/4.13",
+    "Source":         "src/elephant-bird-core/4.13/elephant-bird-core-4.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.12",
+    "Installed":      "src/elephant-bird-core/4.12",
+    "Source":         "src/elephant-bird-core/4.12/elephant-bird-core-4.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10",
+    "Installed":      "src/elephant-bird-core/4.10",
+    "Source":         "src/elephant-bird-core/4.10/elephant-bird-core-4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9",
+    "Installed":      "src/elephant-bird-core/4.9",
+    "Source":         "src/elephant-bird-core/4.9/elephant-bird-core-4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8",
+    "Installed":      "src/elephant-bird-core/4.8",
+    "Source":         "src/elephant-bird-core/4.8/elephant-bird-core-4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7",
+    "Installed":      "src/elephant-bird-core/4.7",
+    "Source":         "src/elephant-bird-core/4.7/elephant-bird-core-4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6",
+    "Installed":      "src/elephant-bird-core/4.6",
+    "Source":         "src/elephant-bird-core/4.6/elephant-bird-core-4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5",
+    "Installed":      "src/elephant-bird-core/4.5",
+    "Source":         "src/elephant-bird-core/4.5/elephant-bird-core-4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4",
+    "Installed":      "src/elephant-bird-core/4.4",
+    "Source":         "src/elephant-bird-core/4.4/elephant-bird-core-4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3",
+    "Installed":      "src/elephant-bird-core/4.3",
+    "Source":         "src/elephant-bird-core/4.3/elephant-bird-core-4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2",
+    "Installed":      "src/elephant-bird-core/4.2",
+    "Source":         "src/elephant-bird-core/4.2/elephant-bird-core-4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1",
+    "Installed":      "src/elephant-bird-core/4.1",
+    "Source":         "src/elephant-bird-core/4.1/elephant-bird-core-4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/elephant-bird-core/4.0",
+    "Source":         "src/elephant-bird-core/4.0/elephant-bird-core-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

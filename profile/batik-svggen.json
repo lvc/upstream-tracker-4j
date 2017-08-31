@@ -1,0 +1,44 @@
+{
+  "Name":           "batik-svggen",
+  "Title":          "Batik SVG generator",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/xmlgraphics/batik-svggen/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/batik-svggen/1.9.1",
+    "Source":         "src/batik-svggen/1.9.1/batik-svggen-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/batik-svggen/1.9",
+    "Source":         "src/batik-svggen/1.9/batik-svggen-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/batik-svggen/1.8",
+    "Source":         "src/batik-svggen/1.8/batik-svggen-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/batik-svggen/1.7",
+    "Source":         "src/batik-svggen/1.7/batik-svggen-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/batik-svggen/1.6.1",
+    "Source":         "src/batik-svggen/1.6.1/batik-svggen-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

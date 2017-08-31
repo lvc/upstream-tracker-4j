@@ -1,0 +1,401 @@
+{
+  "Name":           "aliyun-java-sdk-core",
+  "Title":          "Aliyun Java Sdk Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/aliyun/aliyun-java-sdk-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.2.9",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.9",
+    "Source":         "src/aliyun-java-sdk-core/3.2.9/aliyun-java-sdk-core-3.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.8",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.8",
+    "Source":         "src/aliyun-java-sdk-core/3.2.8/aliyun-java-sdk-core-3.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.7",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.7",
+    "Source":         "src/aliyun-java-sdk-core/3.2.7/aliyun-java-sdk-core-3.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.6",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.6",
+    "Source":         "src/aliyun-java-sdk-core/3.2.6/aliyun-java-sdk-core-3.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.5",
+    "Source":         "src/aliyun-java-sdk-core/3.2.5/aliyun-java-sdk-core-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.4",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.4",
+    "Source":         "src/aliyun-java-sdk-core/3.2.4/aliyun-java-sdk-core-3.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.3",
+    "Source":         "src/aliyun-java-sdk-core/3.2.3/aliyun-java-sdk-core-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.2",
+    "Source":         "src/aliyun-java-sdk-core/3.2.2/aliyun-java-sdk-core-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.1",
+    "Source":         "src/aliyun-java-sdk-core/3.2.1/aliyun-java-sdk-core-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.0",
+    "Source":         "src/aliyun-java-sdk-core/3.2.0/aliyun-java-sdk-core-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/aliyun-java-sdk-core/3.1.1",
+    "Source":         "src/aliyun-java-sdk-core/3.1.1/aliyun-java-sdk-core-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/aliyun-java-sdk-core/3.1.0",
+    "Source":         "src/aliyun-java-sdk-core/3.1.0/aliyun-java-sdk-core-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.10",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.10",
+    "Source":         "src/aliyun-java-sdk-core/3.0.10/aliyun-java-sdk-core-3.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.9",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.9",
+    "Source":         "src/aliyun-java-sdk-core/3.0.9/aliyun-java-sdk-core-3.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.8",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.8",
+    "Source":         "src/aliyun-java-sdk-core/3.0.8/aliyun-java-sdk-core-3.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.7",
+    "Source":         "src/aliyun-java-sdk-core/3.0.7/aliyun-java-sdk-core-3.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.6",
+    "Source":         "src/aliyun-java-sdk-core/3.0.6/aliyun-java-sdk-core-3.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.5",
+    "Source":         "src/aliyun-java-sdk-core/3.0.5/aliyun-java-sdk-core-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.4",
+    "Source":         "src/aliyun-java-sdk-core/3.0.4/aliyun-java-sdk-core-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.3",
+    "Source":         "src/aliyun-java-sdk-core/3.0.3/aliyun-java-sdk-core-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.1",
+    "Source":         "src/aliyun-java-sdk-core/3.0.1/aliyun-java-sdk-core-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/aliyun-java-sdk-core/3.0.0",
+    "Source":         "src/aliyun-java-sdk-core/3.0.0/aliyun-java-sdk-core-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "src/aliyun-java-sdk-core/2.4.4",
+    "Source":         "src/aliyun-java-sdk-core/2.4.4/aliyun-java-sdk-core-2.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/aliyun-java-sdk-core/2.4.3",
+    "Source":         "src/aliyun-java-sdk-core/2.4.3/aliyun-java-sdk-core-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/aliyun-java-sdk-core/2.4.2",
+    "Source":         "src/aliyun-java-sdk-core/2.4.2/aliyun-java-sdk-core-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/aliyun-java-sdk-core/2.4.1",
+    "Source":         "src/aliyun-java-sdk-core/2.4.1/aliyun-java-sdk-core-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/aliyun-java-sdk-core/2.4.0",
+    "Source":         "src/aliyun-java-sdk-core/2.4.0/aliyun-java-sdk-core-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.9",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.9",
+    "Source":         "src/aliyun-java-sdk-core/2.3.9/aliyun-java-sdk-core-2.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.8",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.8",
+    "Source":         "src/aliyun-java-sdk-core/2.3.8/aliyun-java-sdk-core-2.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.7",
+    "Source":         "src/aliyun-java-sdk-core/2.3.7/aliyun-java-sdk-core-2.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.6",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.6",
+    "Source":         "src/aliyun-java-sdk-core/2.3.6/aliyun-java-sdk-core-2.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.5",
+    "Source":         "src/aliyun-java-sdk-core/2.3.5/aliyun-java-sdk-core-2.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.4",
+    "Source":         "src/aliyun-java-sdk-core/2.3.4/aliyun-java-sdk-core-2.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.3",
+    "Source":         "src/aliyun-java-sdk-core/2.3.3/aliyun-java-sdk-core-2.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.2",
+    "Source":         "src/aliyun-java-sdk-core/2.3.2/aliyun-java-sdk-core-2.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.1",
+    "Source":         "src/aliyun-java-sdk-core/2.3.1/aliyun-java-sdk-core-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/aliyun-java-sdk-core/2.3.0",
+    "Source":         "src/aliyun-java-sdk-core/2.3.0/aliyun-java-sdk-core-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.9",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.9",
+    "Source":         "src/aliyun-java-sdk-core/2.2.9/aliyun-java-sdk-core-2.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.8",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.8",
+    "Source":         "src/aliyun-java-sdk-core/2.2.8/aliyun-java-sdk-core-2.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.6",
+    "Source":         "src/aliyun-java-sdk-core/2.2.6/aliyun-java-sdk-core-2.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.5",
+    "Source":         "src/aliyun-java-sdk-core/2.2.5/aliyun-java-sdk-core-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.4",
+    "Source":         "src/aliyun-java-sdk-core/2.2.4/aliyun-java-sdk-core-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.3",
+    "Source":         "src/aliyun-java-sdk-core/2.2.3/aliyun-java-sdk-core-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.2",
+    "Source":         "src/aliyun-java-sdk-core/2.2.2/aliyun-java-sdk-core-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.1",
+    "Source":         "src/aliyun-java-sdk-core/2.2.1/aliyun-java-sdk-core-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/aliyun-java-sdk-core/2.2.0",
+    "Source":         "src/aliyun-java-sdk-core/2.2.0/aliyun-java-sdk-core-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.9",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.9",
+    "Source":         "src/aliyun-java-sdk-core/2.1.9/aliyun-java-sdk-core-2.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.8",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.8",
+    "Source":         "src/aliyun-java-sdk-core/2.1.8/aliyun-java-sdk-core-2.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.7",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.7",
+    "Source":         "src/aliyun-java-sdk-core/2.1.7/aliyun-java-sdk-core-2.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.6",
+    "Source":         "src/aliyun-java-sdk-core/2.1.6/aliyun-java-sdk-core-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.5",
+    "Source":         "src/aliyun-java-sdk-core/2.1.5/aliyun-java-sdk-core-2.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.4",
+    "Source":         "src/aliyun-java-sdk-core/2.1.4/aliyun-java-sdk-core-2.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.3",
+    "Source":         "src/aliyun-java-sdk-core/2.1.3/aliyun-java-sdk-core-2.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.2",
+    "Source":         "src/aliyun-java-sdk-core/2.1.2/aliyun-java-sdk-core-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.1",
+    "Source":         "src/aliyun-java-sdk-core/2.1.1/aliyun-java-sdk-core-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/aliyun-java-sdk-core/2.1.0",
+    "Source":         "src/aliyun-java-sdk-core/2.1.0/aliyun-java-sdk-core-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,72 @@
+{
+  "Name":           "zt-zip",
+  "Title":          "ZT Zip",
+  "SourceUrl":      "http://central.maven.org/maven2/org/zeroturnaround/zt-zip/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.12",
+    "Installed":      "src/zt-zip/1.12",
+    "Source":         "src/zt-zip/1.12/zt-zip-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/zt-zip/1.11",
+    "Source":         "src/zt-zip/1.11/zt-zip-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/zt-zip/1.10",
+    "Source":         "src/zt-zip/1.10/zt-zip-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/zt-zip/1.9",
+    "Source":         "src/zt-zip/1.9/zt-zip-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/zt-zip/1.8",
+    "Source":         "src/zt-zip/1.8/zt-zip-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/zt-zip/1.7",
+    "Source":         "src/zt-zip/1.7/zt-zip-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/zt-zip/1.6",
+    "Source":         "src/zt-zip/1.6/zt-zip-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/zt-zip/1.5",
+    "Source":         "src/zt-zip/1.5/zt-zip-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/zt-zip/1.4",
+    "Source":         "src/zt-zip/1.4/zt-zip-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

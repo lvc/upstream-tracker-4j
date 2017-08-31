@@ -1,0 +1,122 @@
+{
+  "Name":           "mapdb",
+  "Title":          "MapDB",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mapdb/mapdb/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.0.0",
+
+  "Versions": [
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/mapdb/3.0.5",
+    "Source":         "src/mapdb/3.0.5/mapdb-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/mapdb/3.0.4",
+    "Source":         "src/mapdb/3.0.4/mapdb-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/mapdb/3.0.3",
+    "Source":         "src/mapdb/3.0.3/mapdb-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/mapdb/3.0.2",
+    "Source":         "src/mapdb/3.0.2/mapdb-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/mapdb/3.0.1",
+    "Source":         "src/mapdb/3.0.1/mapdb-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/mapdb/3.0.0",
+    "Source":         "src/mapdb/3.0.0/mapdb-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.9",
+    "Installed":      "src/mapdb/1.0.9",
+    "Source":         "src/mapdb/1.0.9/mapdb-1.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.8",
+    "Installed":      "src/mapdb/1.0.8",
+    "Source":         "src/mapdb/1.0.8/mapdb-1.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/mapdb/1.0.7",
+    "Source":         "src/mapdb/1.0.7/mapdb-1.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/mapdb/1.0.6",
+    "Source":         "src/mapdb/1.0.6/mapdb-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/mapdb/1.0.5",
+    "Source":         "src/mapdb/1.0.5/mapdb-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/mapdb/1.0.4",
+    "Source":         "src/mapdb/1.0.4/mapdb-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/mapdb/1.0.3",
+    "Source":         "src/mapdb/1.0.3/mapdb-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/mapdb/1.0.2",
+    "Source":         "src/mapdb/1.0.2/mapdb-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/mapdb/1.0.1",
+    "Source":         "src/mapdb/1.0.1/mapdb-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/mapdb/1.0.0",
+    "Source":         "src/mapdb/1.0.0/mapdb-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

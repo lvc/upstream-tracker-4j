@@ -1,0 +1,240 @@
+{
+  "Name":           "jcommander",
+  "Title":          "Jcommander",
+  "SourceUrl":      "http://central.maven.org/maven2/com/beust/jcommander/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.72",
+    "Installed":      "src/jcommander/1.72",
+    "Source":         "src/jcommander/1.72/jcommander-1.72.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.69",
+    "Installed":      "src/jcommander/1.69",
+    "Source":         "src/jcommander/1.69/jcommander-1.69.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.64",
+    "Installed":      "src/jcommander/1.64",
+    "Source":         "src/jcommander/1.64/jcommander-1.64.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.60",
+    "Installed":      "src/jcommander/1.60",
+    "Source":         "src/jcommander/1.60/jcommander-1.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.58",
+    "Installed":      "src/jcommander/1.58",
+    "Source":         "src/jcommander/1.58/jcommander-1.58.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.48",
+    "Installed":      "src/jcommander/1.48",
+    "Source":         "src/jcommander/1.48/jcommander-1.48.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47",
+    "Installed":      "src/jcommander/1.47",
+    "Source":         "src/jcommander/1.47/jcommander-1.47.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.35",
+    "Installed":      "src/jcommander/1.35",
+    "Source":         "src/jcommander/1.35/jcommander-1.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.32",
+    "Installed":      "src/jcommander/1.32",
+    "Source":         "src/jcommander/1.32/jcommander-1.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.30",
+    "Installed":      "src/jcommander/1.30",
+    "Source":         "src/jcommander/1.30/jcommander-1.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.29",
+    "Installed":      "src/jcommander/1.29",
+    "Source":         "src/jcommander/1.29/jcommander-1.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.27",
+    "Installed":      "src/jcommander/1.27",
+    "Source":         "src/jcommander/1.27/jcommander-1.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.26",
+    "Installed":      "src/jcommander/1.26",
+    "Source":         "src/jcommander/1.26/jcommander-1.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.25",
+    "Installed":      "src/jcommander/1.25",
+    "Source":         "src/jcommander/1.25/jcommander-1.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.23",
+    "Installed":      "src/jcommander/1.23",
+    "Source":         "src/jcommander/1.23/jcommander-1.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20",
+    "Installed":      "src/jcommander/1.20",
+    "Source":         "src/jcommander/1.20/jcommander-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19",
+    "Installed":      "src/jcommander/1.19",
+    "Source":         "src/jcommander/1.19/jcommander-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18",
+    "Installed":      "src/jcommander/1.18",
+    "Source":         "src/jcommander/1.18/jcommander-1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17",
+    "Installed":      "src/jcommander/1.17",
+    "Source":         "src/jcommander/1.17/jcommander-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/jcommander/1.16",
+    "Source":         "src/jcommander/1.16/jcommander-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/jcommander/1.15",
+    "Source":         "src/jcommander/1.15/jcommander-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/jcommander/1.13",
+    "Source":         "src/jcommander/1.13/jcommander-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/jcommander/1.12",
+    "Source":         "src/jcommander/1.12/jcommander-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/jcommander/1.11",
+    "Source":         "src/jcommander/1.11/jcommander-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/jcommander/1.10",
+    "Source":         "src/jcommander/1.10/jcommander-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/jcommander/1.7",
+    "Source":         "src/jcommander/1.7/jcommander-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/jcommander/1.6",
+    "Source":         "src/jcommander/1.6/jcommander-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/jcommander/1.5",
+    "Source":         "src/jcommander/1.5/jcommander-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/jcommander/1.4",
+    "Source":         "src/jcommander/1.4/jcommander-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/jcommander/1.3",
+    "Source":         "src/jcommander/1.3/jcommander-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/jcommander/1.2",
+    "Source":         "src/jcommander/1.2/jcommander-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/jcommander/1.1",
+    "Source":         "src/jcommander/1.1/jcommander-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/jcommander/1.0",
+    "Source":         "src/jcommander/1.0/jcommander-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

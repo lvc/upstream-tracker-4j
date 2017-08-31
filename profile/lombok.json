@@ -1,0 +1,226 @@
+{
+  "Name":           "lombok",
+  "Title":          "Project Lombok",
+  "SourceUrl":      "http://central.maven.org/maven2/org/projectlombok/lombok/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.16.18",
+    "Installed":      "src/lombok/1.16.18",
+    "Source":         "src/lombok/1.16.18/lombok-1.16.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.16",
+    "Installed":      "src/lombok/1.16.16",
+    "Source":         "src/lombok/1.16.16/lombok-1.16.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.14",
+    "Installed":      "src/lombok/1.16.14",
+    "Source":         "src/lombok/1.16.14/lombok-1.16.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.12",
+    "Installed":      "src/lombok/1.16.12",
+    "Source":         "src/lombok/1.16.12/lombok-1.16.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.10",
+    "Installed":      "src/lombok/1.16.10",
+    "Source":         "src/lombok/1.16.10/lombok-1.16.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.8",
+    "Installed":      "src/lombok/1.16.8",
+    "Source":         "src/lombok/1.16.8/lombok-1.16.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.6",
+    "Installed":      "src/lombok/1.16.6",
+    "Source":         "src/lombok/1.16.6/lombok-1.16.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.4",
+    "Installed":      "src/lombok/1.16.4",
+    "Source":         "src/lombok/1.16.4/lombok-1.16.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.2",
+    "Installed":      "src/lombok/1.16.2",
+    "Source":         "src/lombok/1.16.2/lombok-1.16.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.0",
+    "Installed":      "src/lombok/1.16.0",
+    "Source":         "src/lombok/1.16.0/lombok-1.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.8",
+    "Installed":      "src/lombok/1.14.8",
+    "Source":         "src/lombok/1.14.8/lombok-1.14.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.6",
+    "Installed":      "src/lombok/1.14.6",
+    "Source":         "src/lombok/1.14.6/lombok-1.14.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.4",
+    "Installed":      "src/lombok/1.14.4",
+    "Source":         "src/lombok/1.14.4/lombok-1.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.2",
+    "Installed":      "src/lombok/1.14.2",
+    "Source":         "src/lombok/1.14.2/lombok-1.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.0",
+    "Installed":      "src/lombok/1.14.0",
+    "Source":         "src/lombok/1.14.0/lombok-1.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.6",
+    "Installed":      "src/lombok/1.12.6",
+    "Source":         "src/lombok/1.12.6/lombok-1.12.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.4",
+    "Installed":      "src/lombok/1.12.4",
+    "Source":         "src/lombok/1.12.4/lombok-1.12.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.2",
+    "Installed":      "src/lombok/1.12.2",
+    "Source":         "src/lombok/1.12.2/lombok-1.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/lombok/0.12.0",
+    "Source":         "src/lombok/0.12.0/lombok-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.8",
+    "Installed":      "src/lombok/0.11.8",
+    "Source":         "src/lombok/0.11.8/lombok-0.11.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.6",
+    "Installed":      "src/lombok/0.11.6",
+    "Source":         "src/lombok/0.11.6/lombok-0.11.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.4",
+    "Installed":      "src/lombok/0.11.4",
+    "Source":         "src/lombok/0.11.4/lombok-0.11.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.2",
+    "Installed":      "src/lombok/0.11.2",
+    "Source":         "src/lombok/0.11.2/lombok-0.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/lombok/0.11.0",
+    "Source":         "src/lombok/0.11.0/lombok-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.8",
+    "Installed":      "src/lombok/0.10.8",
+    "Source":         "src/lombok/0.10.8/lombok-0.10.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.6",
+    "Installed":      "src/lombok/0.10.6",
+    "Source":         "src/lombok/0.10.6/lombok-0.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.4",
+    "Installed":      "src/lombok/0.10.4",
+    "Source":         "src/lombok/0.10.4/lombok-0.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.2",
+    "Installed":      "src/lombok/0.10.2",
+    "Source":         "src/lombok/0.10.2/lombok-0.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.1",
+    "Installed":      "src/lombok/0.10.1",
+    "Source":         "src/lombok/0.10.1/lombok-0.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/lombok/0.10.0",
+    "Source":         "src/lombok/0.10.0/lombok-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.3",
+    "Installed":      "src/lombok/0.9.3",
+    "Source":         "src/lombok/0.9.3/lombok-0.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

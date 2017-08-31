@@ -1,0 +1,93 @@
+{
+  "Name":           "assertion",
+  "Title":          "Objectos Assertion",
+  "SourceUrl":      "http://central.maven.org/maven2/br/com/objectos/assertion/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/assertion/0.9.0",
+    "Source":         "src/assertion/0.9.0/assertion-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/assertion/0.8.0",
+    "Source":         "src/assertion/0.8.0/assertion-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/assertion/0.7.0",
+    "Source":         "src/assertion/0.7.0/assertion-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/assertion/0.6.1",
+    "Source":         "src/assertion/0.6.1/assertion-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/assertion/0.6.0",
+    "Source":         "src/assertion/0.6.0/assertion-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/assertion/0.5.0",
+    "Source":         "src/assertion/0.5.0/assertion-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/assertion/0.4.0",
+    "Source":         "src/assertion/0.4.0/assertion-0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.0",
+    "Installed":      "src/assertion/0.3.0",
+    "Source":         "src/assertion/0.3.0/assertion-0.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.0",
+    "Installed":      "src/assertion/0.2.0",
+    "Source":         "src/assertion/0.2.0/assertion-0.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.2",
+    "Installed":      "src/assertion/0.1.2",
+    "Source":         "src/assertion/0.1.2/assertion-0.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.1",
+    "Installed":      "src/assertion/0.1.1",
+    "Source":         "src/assertion/0.1.1/assertion-0.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.0",
+    "Installed":      "src/assertion/0.1.0",
+    "Source":         "src/assertion/0.1.0/assertion-0.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

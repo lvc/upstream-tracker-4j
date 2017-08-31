@@ -1,0 +1,100 @@
+{
+  "Name":           "cglib-nodep",
+  "Title":          "Cglib Nodep",
+  "SourceUrl":      "http://central.maven.org/maven2/cglib/cglib-nodep/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/cglib-nodep/3.2.5",
+    "Source":         "src/cglib-nodep/3.2.5/cglib-nodep-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.4",
+    "Installed":      "src/cglib-nodep/3.2.4",
+    "Source":         "src/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/cglib-nodep/3.2.3",
+    "Source":         "src/cglib-nodep/3.2.3/cglib-nodep-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/cglib-nodep/3.2.2",
+    "Source":         "src/cglib-nodep/3.2.2/cglib-nodep-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/cglib-nodep/3.2.1",
+    "Source":         "src/cglib-nodep/3.2.1/cglib-nodep-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/cglib-nodep/3.2.0",
+    "Source":         "src/cglib-nodep/3.2.0/cglib-nodep-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/cglib-nodep/3.1",
+    "Source":         "src/cglib-nodep/3.1/cglib-nodep-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/cglib-nodep/3.0",
+    "Source":         "src/cglib-nodep/3.0/cglib-nodep-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/cglib-nodep/2.2.2",
+    "Source":         "src/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/cglib-nodep/2.2",
+    "Source":         "src/cglib-nodep/2.2/cglib-nodep-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1_3",
+    "Installed":      "src/cglib-nodep/2.1_3",
+    "Source":         "src/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1_2",
+    "Installed":      "src/cglib-nodep/2.1_2",
+    "Source":         "src/cglib-nodep/2.1_2/cglib-nodep-2.1_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/cglib-nodep/2.1",
+    "Source":         "src/cglib-nodep/2.1/cglib-nodep-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

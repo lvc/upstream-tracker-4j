@@ -1,0 +1,156 @@
+{
+  "Name":           "spymemcached",
+  "Title":          "Spymemcached",
+  "SourceUrl":      "http://central.maven.org/maven2/net/spy/spymemcached/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.12.3",
+    "Installed":      "src/spymemcached/2.12.3",
+    "Source":         "src/spymemcached/2.12.3/spymemcached-2.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.2",
+    "Installed":      "src/spymemcached/2.12.2",
+    "Source":         "src/spymemcached/2.12.2/spymemcached-2.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.1",
+    "Installed":      "src/spymemcached/2.12.1",
+    "Source":         "src/spymemcached/2.12.1/spymemcached-2.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/spymemcached/2.12.0",
+    "Source":         "src/spymemcached/2.12.0/spymemcached-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.7",
+    "Installed":      "src/spymemcached/2.11.7",
+    "Source":         "src/spymemcached/2.11.7/spymemcached-2.11.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.6",
+    "Installed":      "src/spymemcached/2.11.6",
+    "Source":         "src/spymemcached/2.11.6/spymemcached-2.11.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.5",
+    "Installed":      "src/spymemcached/2.11.5",
+    "Source":         "src/spymemcached/2.11.5/spymemcached-2.11.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.4",
+    "Installed":      "src/spymemcached/2.11.4",
+    "Source":         "src/spymemcached/2.11.4/spymemcached-2.11.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.3",
+    "Installed":      "src/spymemcached/2.11.3",
+    "Source":         "src/spymemcached/2.11.3/spymemcached-2.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.2",
+    "Installed":      "src/spymemcached/2.11.2",
+    "Source":         "src/spymemcached/2.11.2/spymemcached-2.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.1",
+    "Installed":      "src/spymemcached/2.11.1",
+    "Source":         "src/spymemcached/2.11.1/spymemcached-2.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/spymemcached/2.11.0",
+    "Source":         "src/spymemcached/2.11.0/spymemcached-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.6",
+    "Installed":      "src/spymemcached/2.10.6",
+    "Source":         "src/spymemcached/2.10.6/spymemcached-2.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.5",
+    "Installed":      "src/spymemcached/2.10.5",
+    "Source":         "src/spymemcached/2.10.5/spymemcached-2.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.4",
+    "Installed":      "src/spymemcached/2.10.4",
+    "Source":         "src/spymemcached/2.10.4/spymemcached-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/spymemcached/2.10.3",
+    "Source":         "src/spymemcached/2.10.3/spymemcached-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "src/spymemcached/2.10.2",
+    "Source":         "src/spymemcached/2.10.2/spymemcached-2.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/spymemcached/2.10.1",
+    "Source":         "src/spymemcached/2.10.1/spymemcached-2.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/spymemcached/2.10.0",
+    "Source":         "src/spymemcached/2.10.0/spymemcached-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/spymemcached/2.9.1",
+    "Source":         "src/spymemcached/2.9.1/spymemcached-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/spymemcached/2.9.0",
+    "Source":         "src/spymemcached/2.9.0/spymemcached-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

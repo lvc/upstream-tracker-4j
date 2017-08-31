@@ -1,0 +1,186 @@
+{
+  "Name":           "byteman",
+  "Title":          "Byteman",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/byteman/byteman/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "GraphFewXTics":  "On",
+
+  "Versions": [
+  {
+    "Number":         "4.0.0-BETA5",
+    "Installed":      "src/byteman/4.0.0-BETA5",
+    "Source":         "src/byteman/4.0.0-BETA5/byteman-4.0.0-BETA5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.10",
+    "Installed":      "src/byteman/3.0.10",
+    "Source":         "src/byteman/3.0.10/byteman-3.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.9",
+    "Installed":      "src/byteman/3.0.9",
+    "Source":         "src/byteman/3.0.9/byteman-3.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.8",
+    "Installed":      "src/byteman/3.0.8",
+    "Source":         "src/byteman/3.0.8/byteman-3.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/byteman/3.0.7",
+    "Source":         "src/byteman/3.0.7/byteman-3.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/byteman/3.0.6",
+    "Source":         "src/byteman/3.0.6/byteman-3.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/byteman/3.0.5",
+    "Source":         "src/byteman/3.0.5/byteman-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/byteman/3.0.4",
+    "Source":         "src/byteman/3.0.4/byteman-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/byteman/3.0.3",
+    "Source":         "src/byteman/3.0.3/byteman-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/byteman/3.0.2",
+    "Source":         "src/byteman/3.0.2/byteman-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/byteman/3.0.1",
+    "Source":         "src/byteman/3.0.1/byteman-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/byteman/3.0.0",
+    "Source":         "src/byteman/3.0.0/byteman-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/byteman/2.2.2",
+    "Source":         "src/byteman/2.2.2/byteman-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/byteman/2.2.1",
+    "Source":         "src/byteman/2.2.1/byteman-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0.1",
+    "Installed":      "src/byteman/2.2.0.1",
+    "Source":         "src/byteman/2.2.0.1/byteman-2.2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/byteman/2.2.0",
+    "Source":         "src/byteman/2.2.0/byteman-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4.1",
+    "Installed":      "src/byteman/2.1.4.1",
+    "Source":         "src/byteman/2.1.4.1/byteman-2.1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/byteman/2.1.4",
+    "Source":         "src/byteman/2.1.4/byteman-2.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/byteman/2.1.3",
+    "Source":         "src/byteman/2.1.3/byteman-2.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/byteman/2.1.2",
+    "Source":         "src/byteman/2.1.2/byteman-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/byteman/2.1.1",
+    "Source":         "src/byteman/2.1.1/byteman-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/byteman/2.1.0",
+    "Source":         "src/byteman/2.1.0/byteman-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/byteman/2.0.4",
+    "Source":         "src/byteman/2.0.4/byteman-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/byteman/2.0.3",
+    "Source":         "src/byteman/2.0.3/byteman-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/byteman/2.0.2",
+    "Source":         "src/byteman/2.0.2/byteman-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

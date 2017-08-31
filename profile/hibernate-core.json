@@ -1,0 +1,255 @@
+{
+  "Name":           "hibernate-core",
+  "Title":          "Hibernate O/RM Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/hibernate/hibernate-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.0.0",
+
+  "Versions": [
+  {
+    "Number":         "5.2.10",
+    "Installed":      "src/hibernate-core/5.2.10",
+    "Source":         "src/hibernate-core/5.2.10/hibernate-core-5.2.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.9",
+    "Installed":      "src/hibernate-core/5.2.9",
+    "Source":         "src/hibernate-core/5.2.9/hibernate-core-5.2.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.8",
+    "Installed":      "src/hibernate-core/5.2.8",
+    "Source":         "src/hibernate-core/5.2.8/hibernate-core-5.2.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.7",
+    "Installed":      "src/hibernate-core/5.2.7",
+    "Source":         "src/hibernate-core/5.2.7/hibernate-core-5.2.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.6",
+    "Installed":      "src/hibernate-core/5.2.6",
+    "Source":         "src/hibernate-core/5.2.6/hibernate-core-5.2.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.5",
+    "Installed":      "src/hibernate-core/5.2.5",
+    "Source":         "src/hibernate-core/5.2.5/hibernate-core-5.2.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.4",
+    "Installed":      "src/hibernate-core/5.2.4",
+    "Source":         "src/hibernate-core/5.2.4/hibernate-core-5.2.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.3",
+    "Installed":      "src/hibernate-core/5.2.3",
+    "Source":         "src/hibernate-core/5.2.3/hibernate-core-5.2.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.2",
+    "Installed":      "src/hibernate-core/5.2.2",
+    "Source":         "src/hibernate-core/5.2.2/hibernate-core-5.2.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.1",
+    "Installed":      "src/hibernate-core/5.2.1",
+    "Source":         "src/hibernate-core/5.2.1/hibernate-core-5.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.0",
+    "Installed":      "src/hibernate-core/5.2.0",
+    "Source":         "src/hibernate-core/5.2.0/hibernate-core-5.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.10",
+    "Installed":      "src/hibernate-core/5.1.10",
+    "Source":         "src/hibernate-core/5.1.10/hibernate-core-5.1.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.9",
+    "Installed":      "src/hibernate-core/5.1.9",
+    "Source":         "src/hibernate-core/5.1.9/hibernate-core-5.1.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.8",
+    "Installed":      "src/hibernate-core/5.1.8",
+    "Source":         "src/hibernate-core/5.1.8/hibernate-core-5.1.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.7",
+    "Installed":      "src/hibernate-core/5.1.7",
+    "Source":         "src/hibernate-core/5.1.7/hibernate-core-5.1.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.6",
+    "Installed":      "src/hibernate-core/5.1.6",
+    "Source":         "src/hibernate-core/5.1.6/hibernate-core-5.1.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.5",
+    "Installed":      "src/hibernate-core/5.1.5",
+    "Source":         "src/hibernate-core/5.1.5/hibernate-core-5.1.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.4",
+    "Installed":      "src/hibernate-core/5.1.4",
+    "Source":         "src/hibernate-core/5.1.4/hibernate-core-5.1.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.3",
+    "Installed":      "src/hibernate-core/5.1.3",
+    "Source":         "src/hibernate-core/5.1.3/hibernate-core-5.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.2",
+    "Installed":      "src/hibernate-core/5.1.2",
+    "Source":         "src/hibernate-core/5.1.2/hibernate-core-5.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.1",
+    "Installed":      "src/hibernate-core/5.1.1",
+    "Source":         "src/hibernate-core/5.1.1/hibernate-core-5.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "src/hibernate-core/5.1.0",
+    "Source":         "src/hibernate-core/5.1.0/hibernate-core-5.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.12",
+    "Installed":      "src/hibernate-core/5.0.12",
+    "Source":         "src/hibernate-core/5.0.12/hibernate-core-5.0.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.11",
+    "Installed":      "src/hibernate-core/5.0.11",
+    "Source":         "src/hibernate-core/5.0.11/hibernate-core-5.0.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.10",
+    "Installed":      "src/hibernate-core/5.0.10",
+    "Source":         "src/hibernate-core/5.0.10/hibernate-core-5.0.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.9",
+    "Installed":      "src/hibernate-core/5.0.9",
+    "Source":         "src/hibernate-core/5.0.9/hibernate-core-5.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.8",
+    "Installed":      "src/hibernate-core/5.0.8",
+    "Source":         "src/hibernate-core/5.0.8/hibernate-core-5.0.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.7",
+    "Installed":      "src/hibernate-core/5.0.7",
+    "Source":         "src/hibernate-core/5.0.7/hibernate-core-5.0.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.6",
+    "Installed":      "src/hibernate-core/5.0.6",
+    "Source":         "src/hibernate-core/5.0.6/hibernate-core-5.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.5",
+    "Installed":      "src/hibernate-core/5.0.5",
+    "Source":         "src/hibernate-core/5.0.5/hibernate-core-5.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.4",
+    "Installed":      "src/hibernate-core/5.0.4",
+    "Source":         "src/hibernate-core/5.0.4/hibernate-core-5.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.3",
+    "Installed":      "src/hibernate-core/5.0.3",
+    "Source":         "src/hibernate-core/5.0.3/hibernate-core-5.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.2",
+    "Installed":      "src/hibernate-core/5.0.2",
+    "Source":         "src/hibernate-core/5.0.2/hibernate-core-5.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/hibernate-core/5.0.1",
+    "Source":         "src/hibernate-core/5.0.1/hibernate-core-5.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/hibernate-core/5.0.0",
+    "Source":         "src/hibernate-core/5.0.0/hibernate-core-5.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

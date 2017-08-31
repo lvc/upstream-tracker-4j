@@ -1,0 +1,198 @@
+{
+  "Name":           "pegasus-common",
+  "Title":          "Pegasus Common",
+  "SourceUrl":      "http://central.maven.org/maven2/com/linkedin/pegasus/pegasus-common/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "11.0.17",
+    "Installed":      "src/pegasus-common/11.0.17",
+    "Source":         "src/pegasus-common/11.0.17/pegasus-common-11.0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "11.0.0",
+    "Installed":      "src/pegasus-common/11.0.0",
+    "Source":         "src/pegasus-common/11.0.0/pegasus-common-11.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "10.1.3",
+    "Installed":      "src/pegasus-common/10.1.3",
+    "Source":         "src/pegasus-common/10.1.3/pegasus-common-10.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.12",
+    "Installed":      "src/pegasus-common/6.0.12",
+    "Source":         "src/pegasus-common/6.0.12/pegasus-common-6.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.19",
+    "Installed":      "src/pegasus-common/5.0.19",
+    "Source":         "src/pegasus-common/5.0.19/pegasus-common-5.0.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/pegasus-common/3.1.2",
+    "Source":         "src/pegasus-common/3.1.2/pegasus-common-3.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/pegasus-common/3.1.1",
+    "Source":         "src/pegasus-common/3.1.1/pegasus-common-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.7",
+    "Installed":      "src/pegasus-common/2.12.7",
+    "Source":         "src/pegasus-common/2.12.7/pegasus-common-2.12.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/pegasus-common/2.6.0",
+    "Source":         "src/pegasus-common/2.6.0/pegasus-common-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "src/pegasus-common/2.2.5",
+    "Source":         "src/pegasus-common/2.2.5/pegasus-common-2.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/pegasus-common/2.1.0",
+    "Source":         "src/pegasus-common/2.1.0/pegasus-common-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20.0",
+    "Installed":      "src/pegasus-common/1.20.0",
+    "Source":         "src/pegasus-common/1.20.0/pegasus-common-1.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.18",
+    "Installed":      "src/pegasus-common/1.15.18",
+    "Source":         "src/pegasus-common/1.15.18/pegasus-common-1.15.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.12",
+    "Installed":      "src/pegasus-common/1.15.12",
+    "Source":         "src/pegasus-common/1.15.12/pegasus-common-1.15.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.9",
+    "Installed":      "src/pegasus-common/1.15.9",
+    "Source":         "src/pegasus-common/1.15.9/pegasus-common-1.15.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.7",
+    "Installed":      "src/pegasus-common/1.15.7",
+    "Source":         "src/pegasus-common/1.15.7/pegasus-common-1.15.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.4",
+    "Installed":      "src/pegasus-common/1.15.4",
+    "Source":         "src/pegasus-common/1.15.4/pegasus-common-1.15.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.2",
+    "Installed":      "src/pegasus-common/1.15.2",
+    "Source":         "src/pegasus-common/1.15.2/pegasus-common-1.15.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.4",
+    "Installed":      "src/pegasus-common/1.13.4",
+    "Source":         "src/pegasus-common/1.13.4/pegasus-common-1.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.6",
+    "Installed":      "src/pegasus-common/1.10.6",
+    "Source":         "src/pegasus-common/1.10.6/pegasus-common-1.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.40",
+    "Installed":      "src/pegasus-common/1.9.40",
+    "Source":         "src/pegasus-common/1.9.40/pegasus-common-1.9.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.23",
+    "Installed":      "src/pegasus-common/1.9.23",
+    "Source":         "src/pegasus-common/1.9.23/pegasus-common-1.9.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.18",
+    "Installed":      "src/pegasus-common/1.9.18",
+    "Source":         "src/pegasus-common/1.9.18/pegasus-common-1.9.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.5",
+    "Installed":      "src/pegasus-common/1.9.5",
+    "Source":         "src/pegasus-common/1.9.5/pegasus-common-1.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.3",
+    "Installed":      "src/pegasus-common/1.9.3",
+    "Source":         "src/pegasus-common/1.9.3/pegasus-common-1.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/pegasus-common/1.9.1",
+    "Source":         "src/pegasus-common/1.9.1/pegasus-common-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/pegasus-common/1.8.3",
+    "Source":         "src/pegasus-common/1.8.3/pegasus-common-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

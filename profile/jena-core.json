@@ -1,0 +1,59 @@
+{
+  "Name":           "jena-core",
+  "Title":          "Jena Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/jena/jena-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.0.0",
+
+  "Versions": [
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/jena-core/3.4.0",
+    "Source":         "src/jena-core/3.4.0/jena-core-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/jena-core/3.3.0",
+    "Source":         "src/jena-core/3.3.0/jena-core-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/jena-core/3.2.0",
+    "Source":         "src/jena-core/3.2.0/jena-core-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/jena-core/3.1.1",
+    "Source":         "src/jena-core/3.1.1/jena-core-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/jena-core/3.1.0",
+    "Source":         "src/jena-core/3.1.0/jena-core-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/jena-core/3.0.1",
+    "Source":         "src/jena-core/3.0.1/jena-core-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/jena-core/3.0.0",
+    "Source":         "src/jena-core/3.0.0/jena-core-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

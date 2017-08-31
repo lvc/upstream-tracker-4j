@@ -1,0 +1,473 @@
+{
+  "Name":           "jetty-server",
+  "Title":          "Jetty Server Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/eclipse/jetty/jetty-server/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphShortXTics": "On",
+  "MinimalVersion": "9.0.0",
+
+  "Versions": [
+  {
+    "Number":         "9.4.7.RC0",
+    "Installed":      "src/jetty-server/9.4.7.RC0",
+    "Source":         "src/jetty-server/9.4.7.RC0/jetty-server-9.4.7.RC0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.6.v20170531",
+    "Installed":      "src/jetty-server/9.4.6.v20170531",
+    "Source":         "src/jetty-server/9.4.6.v20170531/jetty-server-9.4.6.v20170531.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.5.v20170502",
+    "Installed":      "src/jetty-server/9.4.5.v20170502",
+    "Source":         "src/jetty-server/9.4.5.v20170502/jetty-server-9.4.5.v20170502.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.4.v20170414",
+    "Installed":      "src/jetty-server/9.4.4.v20170414",
+    "Source":         "src/jetty-server/9.4.4.v20170414/jetty-server-9.4.4.v20170414.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.3.v20170317",
+    "Installed":      "src/jetty-server/9.4.3.v20170317",
+    "Source":         "src/jetty-server/9.4.3.v20170317/jetty-server-9.4.3.v20170317.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.2.v20170220",
+    "Installed":      "src/jetty-server/9.4.2.v20170220",
+    "Source":         "src/jetty-server/9.4.2.v20170220/jetty-server-9.4.2.v20170220.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.1.v20170120",
+    "Installed":      "src/jetty-server/9.4.1.v20170120",
+    "Source":         "src/jetty-server/9.4.1.v20170120/jetty-server-9.4.1.v20170120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.0.v20161208",
+    "Installed":      "src/jetty-server/9.4.0.v20161208",
+    "Source":         "src/jetty-server/9.4.0.v20161208/jetty-server-9.4.0.v20161208.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.20.v20170531",
+    "Installed":      "src/jetty-server/9.3.20.v20170531",
+    "Source":         "src/jetty-server/9.3.20.v20170531/jetty-server-9.3.20.v20170531.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.19.v20170502",
+    "Installed":      "src/jetty-server/9.3.19.v20170502",
+    "Source":         "src/jetty-server/9.3.19.v20170502/jetty-server-9.3.19.v20170502.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.18.v20170406",
+    "Installed":      "src/jetty-server/9.3.18.v20170406",
+    "Source":         "src/jetty-server/9.3.18.v20170406/jetty-server-9.3.18.v20170406.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.17.v20170317",
+    "Installed":      "src/jetty-server/9.3.17.v20170317",
+    "Source":         "src/jetty-server/9.3.17.v20170317/jetty-server-9.3.17.v20170317.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.16.v20170120",
+    "Installed":      "src/jetty-server/9.3.16.v20170120",
+    "Source":         "src/jetty-server/9.3.16.v20170120/jetty-server-9.3.16.v20170120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.15.v20161220",
+    "Installed":      "src/jetty-server/9.3.15.v20161220",
+    "Source":         "src/jetty-server/9.3.15.v20161220/jetty-server-9.3.15.v20161220.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.14.v20161028",
+    "Installed":      "src/jetty-server/9.3.14.v20161028",
+    "Source":         "src/jetty-server/9.3.14.v20161028/jetty-server-9.3.14.v20161028.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.13.v20161014",
+    "Installed":      "src/jetty-server/9.3.13.v20161014",
+    "Source":         "src/jetty-server/9.3.13.v20161014/jetty-server-9.3.13.v20161014.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.12.v20160915",
+    "Installed":      "src/jetty-server/9.3.12.v20160915",
+    "Source":         "src/jetty-server/9.3.12.v20160915/jetty-server-9.3.12.v20160915.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.11.v20160721",
+    "Installed":      "src/jetty-server/9.3.11.v20160721",
+    "Source":         "src/jetty-server/9.3.11.v20160721/jetty-server-9.3.11.v20160721.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.10.v20160621",
+    "Installed":      "src/jetty-server/9.3.10.v20160621",
+    "Source":         "src/jetty-server/9.3.10.v20160621/jetty-server-9.3.10.v20160621.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.9.v20160517",
+    "Installed":      "src/jetty-server/9.3.9.v20160517",
+    "Source":         "src/jetty-server/9.3.9.v20160517/jetty-server-9.3.9.v20160517.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.8.v20160314",
+    "Installed":      "src/jetty-server/9.3.8.v20160314",
+    "Source":         "src/jetty-server/9.3.8.v20160314/jetty-server-9.3.8.v20160314.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.7.v20160115",
+    "Installed":      "src/jetty-server/9.3.7.v20160115",
+    "Source":         "src/jetty-server/9.3.7.v20160115/jetty-server-9.3.7.v20160115.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.6.v20151106",
+    "Installed":      "src/jetty-server/9.3.6.v20151106",
+    "Source":         "src/jetty-server/9.3.6.v20151106/jetty-server-9.3.6.v20151106.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.5.v20151012",
+    "Installed":      "src/jetty-server/9.3.5.v20151012",
+    "Source":         "src/jetty-server/9.3.5.v20151012/jetty-server-9.3.5.v20151012.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.4.v20151007",
+    "Installed":      "src/jetty-server/9.3.4.v20151007",
+    "Source":         "src/jetty-server/9.3.4.v20151007/jetty-server-9.3.4.v20151007.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.3.v20150827",
+    "Installed":      "src/jetty-server/9.3.3.v20150827",
+    "Source":         "src/jetty-server/9.3.3.v20150827/jetty-server-9.3.3.v20150827.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.2.v20150730",
+    "Installed":      "src/jetty-server/9.3.2.v20150730",
+    "Source":         "src/jetty-server/9.3.2.v20150730/jetty-server-9.3.2.v20150730.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.1.v20150714",
+    "Installed":      "src/jetty-server/9.3.1.v20150714",
+    "Source":         "src/jetty-server/9.3.1.v20150714/jetty-server-9.3.1.v20150714.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.0.v20150612",
+    "Installed":      "src/jetty-server/9.3.0.v20150612",
+    "Source":         "src/jetty-server/9.3.0.v20150612/jetty-server-9.3.0.v20150612.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.22.v20170606",
+    "Installed":      "src/jetty-server/9.2.22.v20170606",
+    "Source":         "src/jetty-server/9.2.22.v20170606/jetty-server-9.2.22.v20170606.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.21.v20170120",
+    "Installed":      "src/jetty-server/9.2.21.v20170120",
+    "Source":         "src/jetty-server/9.2.21.v20170120/jetty-server-9.2.21.v20170120.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.20.v20161216",
+    "Installed":      "src/jetty-server/9.2.20.v20161216",
+    "Source":         "src/jetty-server/9.2.20.v20161216/jetty-server-9.2.20.v20161216.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.19.v20160908",
+    "Installed":      "src/jetty-server/9.2.19.v20160908",
+    "Source":         "src/jetty-server/9.2.19.v20160908/jetty-server-9.2.19.v20160908.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.18.v20160721",
+    "Installed":      "src/jetty-server/9.2.18.v20160721",
+    "Source":         "src/jetty-server/9.2.18.v20160721/jetty-server-9.2.18.v20160721.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.17.v20160517",
+    "Installed":      "src/jetty-server/9.2.17.v20160517",
+    "Source":         "src/jetty-server/9.2.17.v20160517/jetty-server-9.2.17.v20160517.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.16.v20160414",
+    "Installed":      "src/jetty-server/9.2.16.v20160414",
+    "Source":         "src/jetty-server/9.2.16.v20160414/jetty-server-9.2.16.v20160414.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.15.v20160210",
+    "Installed":      "src/jetty-server/9.2.15.v20160210",
+    "Source":         "src/jetty-server/9.2.15.v20160210/jetty-server-9.2.15.v20160210.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.14.v20151106",
+    "Installed":      "src/jetty-server/9.2.14.v20151106",
+    "Source":         "src/jetty-server/9.2.14.v20151106/jetty-server-9.2.14.v20151106.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.13.v20150730",
+    "Installed":      "src/jetty-server/9.2.13.v20150730",
+    "Source":         "src/jetty-server/9.2.13.v20150730/jetty-server-9.2.13.v20150730.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.12.v20150709",
+    "Installed":      "src/jetty-server/9.2.12.v20150709",
+    "Source":         "src/jetty-server/9.2.12.v20150709/jetty-server-9.2.12.v20150709.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.11.v20150529",
+    "Installed":      "src/jetty-server/9.2.11.v20150529",
+    "Source":         "src/jetty-server/9.2.11.v20150529/jetty-server-9.2.11.v20150529.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.10.v20150310",
+    "Installed":      "src/jetty-server/9.2.10.v20150310",
+    "Source":         "src/jetty-server/9.2.10.v20150310/jetty-server-9.2.10.v20150310.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.9.v20150224",
+    "Installed":      "src/jetty-server/9.2.9.v20150224",
+    "Source":         "src/jetty-server/9.2.9.v20150224/jetty-server-9.2.9.v20150224.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.8.v20150217",
+    "Installed":      "src/jetty-server/9.2.8.v20150217",
+    "Source":         "src/jetty-server/9.2.8.v20150217/jetty-server-9.2.8.v20150217.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.7.v20150116",
+    "Installed":      "src/jetty-server/9.2.7.v20150116",
+    "Source":         "src/jetty-server/9.2.7.v20150116/jetty-server-9.2.7.v20150116.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.6.v20141205",
+    "Installed":      "src/jetty-server/9.2.6.v20141205",
+    "Source":         "src/jetty-server/9.2.6.v20141205/jetty-server-9.2.6.v20141205.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.5.v20141112",
+    "Installed":      "src/jetty-server/9.2.5.v20141112",
+    "Source":         "src/jetty-server/9.2.5.v20141112/jetty-server-9.2.5.v20141112.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.4.v20141103",
+    "Installed":      "src/jetty-server/9.2.4.v20141103",
+    "Source":         "src/jetty-server/9.2.4.v20141103/jetty-server-9.2.4.v20141103.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.3.v20140905",
+    "Installed":      "src/jetty-server/9.2.3.v20140905",
+    "Source":         "src/jetty-server/9.2.3.v20140905/jetty-server-9.2.3.v20140905.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.2.v20140723",
+    "Installed":      "src/jetty-server/9.2.2.v20140723",
+    "Source":         "src/jetty-server/9.2.2.v20140723/jetty-server-9.2.2.v20140723.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.1.v20140609",
+    "Installed":      "src/jetty-server/9.2.1.v20140609",
+    "Source":         "src/jetty-server/9.2.1.v20140609/jetty-server-9.2.1.v20140609.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.0.v20140526",
+    "Installed":      "src/jetty-server/9.2.0.v20140526",
+    "Source":         "src/jetty-server/9.2.0.v20140526/jetty-server-9.2.0.v20140526.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.6.v20160112",
+    "Installed":      "src/jetty-server/9.1.6.v20160112",
+    "Source":         "src/jetty-server/9.1.6.v20160112/jetty-server-9.1.6.v20160112.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.5.v20140505",
+    "Installed":      "src/jetty-server/9.1.5.v20140505",
+    "Source":         "src/jetty-server/9.1.5.v20140505/jetty-server-9.1.5.v20140505.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.4.v20140401",
+    "Installed":      "src/jetty-server/9.1.4.v20140401",
+    "Source":         "src/jetty-server/9.1.4.v20140401/jetty-server-9.1.4.v20140401.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.3.v20140225",
+    "Installed":      "src/jetty-server/9.1.3.v20140225",
+    "Source":         "src/jetty-server/9.1.3.v20140225/jetty-server-9.1.3.v20140225.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.2.v20140210",
+    "Installed":      "src/jetty-server/9.1.2.v20140210",
+    "Source":         "src/jetty-server/9.1.2.v20140210/jetty-server-9.1.2.v20140210.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.1.v20140108",
+    "Installed":      "src/jetty-server/9.1.1.v20140108",
+    "Source":         "src/jetty-server/9.1.1.v20140108/jetty-server-9.1.1.v20140108.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.0.v20131115",
+    "Installed":      "src/jetty-server/9.1.0.v20131115",
+    "Source":         "src/jetty-server/9.1.0.v20131115/jetty-server-9.1.0.v20131115.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.7.v20131107",
+    "Installed":      "src/jetty-server/9.0.7.v20131107",
+    "Source":         "src/jetty-server/9.0.7.v20131107/jetty-server-9.0.7.v20131107.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.6.v20130930",
+    "Installed":      "src/jetty-server/9.0.6.v20130930",
+    "Source":         "src/jetty-server/9.0.6.v20130930/jetty-server-9.0.6.v20130930.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.5.v20130815",
+    "Installed":      "src/jetty-server/9.0.5.v20130815",
+    "Source":         "src/jetty-server/9.0.5.v20130815/jetty-server-9.0.5.v20130815.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.4.v20130625",
+    "Installed":      "src/jetty-server/9.0.4.v20130625",
+    "Source":         "src/jetty-server/9.0.4.v20130625/jetty-server-9.0.4.v20130625.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.3.v20130506",
+    "Installed":      "src/jetty-server/9.0.3.v20130506",
+    "Source":         "src/jetty-server/9.0.3.v20130506/jetty-server-9.0.3.v20130506.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.2.v20130417",
+    "Installed":      "src/jetty-server/9.0.2.v20130417",
+    "Source":         "src/jetty-server/9.0.2.v20130417/jetty-server-9.0.2.v20130417.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1.v20130408",
+    "Installed":      "src/jetty-server/9.0.1.v20130408",
+    "Source":         "src/jetty-server/9.0.1.v20130408/jetty-server-9.0.1.v20130408.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

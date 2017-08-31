@@ -1,0 +1,282 @@
+{
+  "Name":           "mariadb-java-client",
+  "Title":          "Mariadb Java Client",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/mariadb-java-client/2.1.0",
+    "Source":         "src/mariadb-java-client/2.1.0/mariadb-java-client-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/mariadb-java-client/2.0.3",
+    "Source":         "src/mariadb-java-client/2.0.3/mariadb-java-client-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/mariadb-java-client/2.0.2",
+    "Source":         "src/mariadb-java-client/2.0.2/mariadb-java-client-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/mariadb-java-client/2.0.1",
+    "Source":         "src/mariadb-java-client/2.0.1/mariadb-java-client-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/mariadb-java-client/1.6.3",
+    "Source":         "src/mariadb-java-client/1.6.3/mariadb-java-client-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/mariadb-java-client/1.6.2",
+    "Source":         "src/mariadb-java-client/1.6.2/mariadb-java-client-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/mariadb-java-client/1.6.1",
+    "Source":         "src/mariadb-java-client/1.6.1/mariadb-java-client-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/mariadb-java-client/1.6.0",
+    "Source":         "src/mariadb-java-client/1.6.0/mariadb-java-client-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.9",
+    "Installed":      "src/mariadb-java-client/1.5.9",
+    "Source":         "src/mariadb-java-client/1.5.9/mariadb-java-client-1.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.8",
+    "Installed":      "src/mariadb-java-client/1.5.8",
+    "Source":         "src/mariadb-java-client/1.5.8/mariadb-java-client-1.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.7",
+    "Installed":      "src/mariadb-java-client/1.5.7",
+    "Source":         "src/mariadb-java-client/1.5.7/mariadb-java-client-1.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/mariadb-java-client/1.5.6",
+    "Source":         "src/mariadb-java-client/1.5.6/mariadb-java-client-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/mariadb-java-client/1.5.5",
+    "Source":         "src/mariadb-java-client/1.5.5/mariadb-java-client-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/mariadb-java-client/1.5.4",
+    "Source":         "src/mariadb-java-client/1.5.4/mariadb-java-client-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/mariadb-java-client/1.5.3",
+    "Source":         "src/mariadb-java-client/1.5.3/mariadb-java-client-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/mariadb-java-client/1.5.2",
+    "Source":         "src/mariadb-java-client/1.5.2/mariadb-java-client-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.6",
+    "Installed":      "src/mariadb-java-client/1.4.6",
+    "Source":         "src/mariadb-java-client/1.4.6/mariadb-java-client-1.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.5",
+    "Installed":      "src/mariadb-java-client/1.4.5",
+    "Source":         "src/mariadb-java-client/1.4.5/mariadb-java-client-1.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.4",
+    "Installed":      "src/mariadb-java-client/1.4.4",
+    "Source":         "src/mariadb-java-client/1.4.4/mariadb-java-client-1.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "src/mariadb-java-client/1.4.3",
+    "Source":         "src/mariadb-java-client/1.4.3/mariadb-java-client-1.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "src/mariadb-java-client/1.4.2",
+    "Source":         "src/mariadb-java-client/1.4.2/mariadb-java-client-1.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/mariadb-java-client/1.4.1",
+    "Source":         "src/mariadb-java-client/1.4.1/mariadb-java-client-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/mariadb-java-client/1.4.0",
+    "Source":         "src/mariadb-java-client/1.4.0/mariadb-java-client-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.7",
+    "Installed":      "src/mariadb-java-client/1.3.7",
+    "Source":         "src/mariadb-java-client/1.3.7/mariadb-java-client-1.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.6",
+    "Installed":      "src/mariadb-java-client/1.3.6",
+    "Source":         "src/mariadb-java-client/1.3.6/mariadb-java-client-1.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.5",
+    "Installed":      "src/mariadb-java-client/1.3.5",
+    "Source":         "src/mariadb-java-client/1.3.5/mariadb-java-client-1.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.4",
+    "Installed":      "src/mariadb-java-client/1.3.4",
+    "Source":         "src/mariadb-java-client/1.3.4/mariadb-java-client-1.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/mariadb-java-client/1.3.3",
+    "Source":         "src/mariadb-java-client/1.3.3/mariadb-java-client-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/mariadb-java-client/1.3.2",
+    "Source":         "src/mariadb-java-client/1.3.2/mariadb-java-client-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/mariadb-java-client/1.3.1",
+    "Source":         "src/mariadb-java-client/1.3.1/mariadb-java-client-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/mariadb-java-client/1.3.0",
+    "Source":         "src/mariadb-java-client/1.3.0/mariadb-java-client-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/mariadb-java-client/1.2.3",
+    "Source":         "src/mariadb-java-client/1.2.3/mariadb-java-client-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/mariadb-java-client/1.2.2",
+    "Source":         "src/mariadb-java-client/1.2.2/mariadb-java-client-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/mariadb-java-client/1.2.1",
+    "Source":         "src/mariadb-java-client/1.2.1/mariadb-java-client-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/mariadb-java-client/1.2.0",
+    "Source":         "src/mariadb-java-client/1.2.0/mariadb-java-client-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.10",
+    "Installed":      "src/mariadb-java-client/1.1.10",
+    "Source":         "src/mariadb-java-client/1.1.10/mariadb-java-client-1.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.9",
+    "Installed":      "src/mariadb-java-client/1.1.9",
+    "Source":         "src/mariadb-java-client/1.1.9/mariadb-java-client-1.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.8",
+    "Installed":      "src/mariadb-java-client/1.1.8",
+    "Source":         "src/mariadb-java-client/1.1.8/mariadb-java-client-1.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/mariadb-java-client/1.1.7",
+    "Source":         "src/mariadb-java-client/1.1.7/mariadb-java-client-1.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

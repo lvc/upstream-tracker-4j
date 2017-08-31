@@ -1,0 +1,23 @@
+{
+  "Name":           "javax.annotation-api",
+  "Title":          "Javax.annotation API",
+  "SourceUrl":      "http://central.maven.org/maven2/javax/annotation/javax.annotation-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.3",
+    "Installed":      "src/javax.annotation-api/1.3",
+    "Source":         "src/javax.annotation-api/1.3/javax.annotation-api-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/javax.annotation-api/1.2",
+    "Source":         "src/javax.annotation-api/1.2/javax.annotation-api-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

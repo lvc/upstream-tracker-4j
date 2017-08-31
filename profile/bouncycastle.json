@@ -5,10 +5,32 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "SkipInternalTypes": "Spi(\.|\Z)",
+  "CompactReport":  "On",
   "Package":        "crypto",
-  "SkipArchives":   [ "lib/", "jce-.*", "bctest-.*", "bcprov-ext-.*", ".*-debug-.*", ".*-jdk(12|13|15|15on|16|17|18)-.*" ],
+  "SkipArchives":   [ "lib/", "test/", "jce-.*", "bctest-.*", "bcprov-ext-.*", ".*-debug-.*", ".*-jdk(12|13|15|15on|16|17|18)-.*" ],
 
   "Versions": [
+  {
+    "Number":         158,
+    "Installed":      "installed/bouncycastle/158",
+    "Source":         "src/bouncycastle/158/crypto-158.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         157,
+    "Installed":      "installed/bouncycastle/157",
+    "Source":         "src/bouncycastle/157/crypto-157.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         156,
+    "Installed":      "installed/bouncycastle/156",
+    "Source":         "src/bouncycastle/156/crypto-156.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         155,
     "Installed":      "installed/bouncycastle/155",

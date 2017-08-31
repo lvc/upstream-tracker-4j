@@ -1,0 +1,58 @@
+{
+  "Name":           "openid4java",
+  "Title":          "OpenID4Java",
+  "SourceUrl":      "http://central.maven.org/maven2/org/openid4java/openid4java/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/openid4java/1.0.0",
+    "Source":         "src/openid4java/1.0.0/openid4java-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.8",
+    "Installed":      "src/openid4java/0.9.8",
+    "Source":         "src/openid4java/0.9.8/openid4java-0.9.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.7",
+    "Installed":      "src/openid4java/0.9.7",
+    "Source":         "src/openid4java/0.9.7/openid4java-0.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5",
+    "Installed":      "src/openid4java/0.9.5",
+    "Source":         "src/openid4java/0.9.5/openid4java-0.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.4.339",
+    "Installed":      "src/openid4java/0.9.4.339",
+    "Source":         "src/openid4java/0.9.4.339/openid4java-0.9.4.339.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.3",
+    "Installed":      "src/openid4java/0.9.3",
+    "Source":         "src/openid4java/0.9.3/openid4java-0.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.2",
+    "Installed":      "src/openid4java/0.9.2",
+    "Source":         "src/openid4java/0.9.2/openid4java-0.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,37 @@
+{
+  "Name":           "parallels-desktop",
+  "Title":          "Parallels Desktop Cloud",
+  "SourceUrl":      "http://repo.jenkins-ci.org/releases/com/parallels/parallels-desktop/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.6",
+    "Installed":      "src/parallels-desktop/0.6",
+    "Source":         "src/parallels-desktop/0.6/parallels-desktop-0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/parallels-desktop/0.5",
+    "Source":         "src/parallels-desktop/0.5/parallels-desktop-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/parallels-desktop/0.4",
+    "Source":         "src/parallels-desktop/0.4/parallels-desktop-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/parallels-desktop/0.3",
+    "Source":         "src/parallels-desktop/0.3/parallels-desktop-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

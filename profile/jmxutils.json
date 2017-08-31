@@ -1,0 +1,52 @@
+{
+  "Name":           "jmxutils",
+  "Title":          "Jmxutils",
+  "SourceUrl":      "http://central.maven.org/maven2/org/weakref/jmxutils/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.14",
+
+  "Versions": [
+  {
+    "Number":         "1.19",
+    "Installed":      "src/jmxutils/1.19",
+    "Source":         "src/jmxutils/1.19/jmxutils-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18",
+    "Installed":      "src/jmxutils/1.18",
+    "Source":         "src/jmxutils/1.18/jmxutils-1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17",
+    "Installed":      "src/jmxutils/1.17",
+    "Source":         "src/jmxutils/1.17/jmxutils-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/jmxutils/1.16",
+    "Source":         "src/jmxutils/1.16/jmxutils-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/jmxutils/1.15",
+    "Source":         "src/jmxutils/1.15/jmxutils-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "src/jmxutils/1.14",
+    "Source":         "src/jmxutils/1.14/jmxutils-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

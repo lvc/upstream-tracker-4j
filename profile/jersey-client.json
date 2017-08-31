@@ -1,0 +1,164 @@
+{
+  "Name":           "jersey-client",
+  "Title":          "Jersey Core Client",
+  "SourceUrl":      "http://central.maven.org/maven2/org/glassfish/jersey/core/jersey-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.14",
+
+  "Versions": [
+  {
+    "Number":         "2.26-b09",
+    "Installed":      "src/jersey-client/2.26-b09",
+    "Source":         "src/jersey-client/2.26-b09/jersey-client-2.26-b09.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25.1",
+    "Installed":      "src/jersey-client/2.25.1",
+    "Source":         "src/jersey-client/2.25.1/jersey-client-2.25.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.25",
+    "Installed":      "src/jersey-client/2.25",
+    "Source":         "src/jersey-client/2.25/jersey-client-2.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.24.1",
+    "Installed":      "src/jersey-client/2.24.1",
+    "Source":         "src/jersey-client/2.24.1/jersey-client-2.24.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.24",
+    "Installed":      "src/jersey-client/2.24",
+    "Source":         "src/jersey-client/2.24/jersey-client-2.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.2",
+    "Installed":      "src/jersey-client/2.23.2",
+    "Source":         "src/jersey-client/2.23.2/jersey-client-2.23.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23.1",
+    "Installed":      "src/jersey-client/2.23.1",
+    "Source":         "src/jersey-client/2.23.1/jersey-client-2.23.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.23",
+    "Installed":      "src/jersey-client/2.23",
+    "Source":         "src/jersey-client/2.23/jersey-client-2.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.4",
+    "Installed":      "src/jersey-client/2.22.4",
+    "Source":         "src/jersey-client/2.22.4/jersey-client-2.22.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.3",
+    "Installed":      "src/jersey-client/2.22.3",
+    "Source":         "src/jersey-client/2.22.3/jersey-client-2.22.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.2",
+    "Installed":      "src/jersey-client/2.22.2",
+    "Source":         "src/jersey-client/2.22.2/jersey-client-2.22.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22.1",
+    "Installed":      "src/jersey-client/2.22.1",
+    "Source":         "src/jersey-client/2.22.1/jersey-client-2.22.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.22",
+    "Installed":      "src/jersey-client/2.22",
+    "Source":         "src/jersey-client/2.22/jersey-client-2.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.21.1",
+    "Installed":      "src/jersey-client/2.21.1",
+    "Source":         "src/jersey-client/2.21.1/jersey-client-2.21.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.21",
+    "Installed":      "src/jersey-client/2.21",
+    "Source":         "src/jersey-client/2.21/jersey-client-2.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20",
+    "Installed":      "src/jersey-client/2.20",
+    "Source":         "src/jersey-client/2.20/jersey-client-2.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19",
+    "Installed":      "src/jersey-client/2.19",
+    "Source":         "src/jersey-client/2.19/jersey-client-2.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18",
+    "Installed":      "src/jersey-client/2.18",
+    "Source":         "src/jersey-client/2.18/jersey-client-2.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17",
+    "Installed":      "src/jersey-client/2.17",
+    "Source":         "src/jersey-client/2.17/jersey-client-2.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16",
+    "Installed":      "src/jersey-client/2.16",
+    "Source":         "src/jersey-client/2.16/jersey-client-2.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15",
+    "Installed":      "src/jersey-client/2.15",
+    "Source":         "src/jersey-client/2.15/jersey-client-2.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14",
+    "Installed":      "src/jersey-client/2.14",
+    "Source":         "src/jersey-client/2.14/jersey-client-2.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

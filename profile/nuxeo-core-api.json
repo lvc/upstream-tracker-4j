@@ -1,0 +1,200 @@
+{
+  "Name":           "nuxeo-core-api",
+  "Title":          "Nuxeo Core API",
+  "SourceUrl":      "https://maven-eu.nuxeo.org/nexus/content/repositories/public-releases/org/nuxeo/ecm/core/nuxeo-core-api/",
+  "SkipUrl":        [ "HF\d", "I\d", "PATXT", "NXP", "CP\d", "m\d" ],
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.4.0",
+
+  "Versions": [
+  {
+    "Number":         "9.2",
+    "Installed":      "src/nuxeo-core-api/9.2",
+    "Source":         "src/nuxeo-core-api/9.2/nuxeo-core-api-9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1",
+    "Installed":      "src/nuxeo-core-api/9.1",
+    "Source":         "src/nuxeo-core-api/9.1/nuxeo-core-api-9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.10",
+    "Installed":      "src/nuxeo-core-api/8.10",
+    "Source":         "src/nuxeo-core-api/8.10/nuxeo-core-api-8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.3",
+    "Installed":      "src/nuxeo-core-api/8.3",
+    "Source":         "src/nuxeo-core-api/8.3/nuxeo-core-api-8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2",
+    "Installed":      "src/nuxeo-core-api/8.2",
+    "Source":         "src/nuxeo-core-api/8.2/nuxeo-core-api-8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.1",
+    "Installed":      "src/nuxeo-core-api/8.1",
+    "Source":         "src/nuxeo-core-api/8.1/nuxeo-core-api-8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.10",
+    "Installed":      "src/nuxeo-core-api/7.10",
+    "Source":         "src/nuxeo-core-api/7.10/nuxeo-core-api-7.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4",
+    "Installed":      "src/nuxeo-core-api/7.4",
+    "Source":         "src/nuxeo-core-api/7.4/nuxeo-core-api-7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.3",
+    "Installed":      "src/nuxeo-core-api/7.3",
+    "Source":         "src/nuxeo-core-api/7.3/nuxeo-core-api-7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2",
+    "Installed":      "src/nuxeo-core-api/7.2",
+    "Source":         "src/nuxeo-core-api/7.2/nuxeo-core-api-7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1",
+    "Installed":      "src/nuxeo-core-api/7.1",
+    "Source":         "src/nuxeo-core-api/7.1/nuxeo-core-api-7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0",
+    "Installed":      "src/nuxeo-core-api/6.0",
+    "Source":         "src/nuxeo-core-api/6.0/nuxeo-core-api-6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.5",
+    "Installed":      "src/nuxeo-core-api/5.9.5",
+    "Source":         "src/nuxeo-core-api/5.9.5/nuxeo-core-api-5.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.4",
+    "Installed":      "src/nuxeo-core-api/5.9.4",
+    "Source":         "src/nuxeo-core-api/5.9.4/nuxeo-core-api-5.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.3",
+    "Installed":      "src/nuxeo-core-api/5.9.3",
+    "Source":         "src/nuxeo-core-api/5.9.3/nuxeo-core-api-5.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.2",
+    "Installed":      "src/nuxeo-core-api/5.9.2",
+    "Source":         "src/nuxeo-core-api/5.9.2/nuxeo-core-api-5.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.1",
+    "Installed":      "src/nuxeo-core-api/5.9.1",
+    "Source":         "src/nuxeo-core-api/5.9.1/nuxeo-core-api-5.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8",
+    "Installed":      "src/nuxeo-core-api/5.8",
+    "Source":         "src/nuxeo-core-api/5.8/nuxeo-core-api-5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.7.3",
+    "Installed":      "src/nuxeo-core-api/5.7.3",
+    "Source":         "src/nuxeo-core-api/5.7.3/nuxeo-core-api-5.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.7.2",
+    "Installed":      "src/nuxeo-core-api/5.7.2",
+    "Source":         "src/nuxeo-core-api/5.7.2/nuxeo-core-api-5.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.7.1",
+    "Installed":      "src/nuxeo-core-api/5.7.1",
+    "Source":         "src/nuxeo-core-api/5.7.1/nuxeo-core-api-5.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.6",
+    "Installed":      "src/nuxeo-core-api/5.6",
+    "Source":         "src/nuxeo-core-api/5.6/nuxeo-core-api-5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5",
+    "Installed":      "src/nuxeo-core-api/5.5",
+    "Source":         "src/nuxeo-core-api/5.5/nuxeo-core-api-5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.2",
+    "Installed":      "src/nuxeo-core-api/5.4.2",
+    "Source":         "src/nuxeo-core-api/5.4.2/nuxeo-core-api-5.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.1",
+    "Installed":      "src/nuxeo-core-api/5.4.1",
+    "Source":         "src/nuxeo-core-api/5.4.1/nuxeo-core-api-5.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.0.1",
+    "Installed":      "src/nuxeo-core-api/5.4.0.1",
+    "Source":         "src/nuxeo-core-api/5.4.0.1/nuxeo-core-api-5.4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.0",
+    "Installed":      "src/nuxeo-core-api/5.4.0",
+    "Source":         "src/nuxeo-core-api/5.4.0/nuxeo-core-api-5.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,44 @@
+{
+  "Name":           "c3p0",
+  "Title":          "C3p0",
+  "SourceUrl":      "http://central.maven.org/maven2/com/mchange/c3p0/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.9.5.2",
+    "Installed":      "src/c3p0/0.9.5.2",
+    "Source":         "src/c3p0/0.9.5.2/c3p0-0.9.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5.1",
+    "Installed":      "src/c3p0/0.9.5.1",
+    "Source":         "src/c3p0/0.9.5.1/c3p0-0.9.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5",
+    "Installed":      "src/c3p0/0.9.5",
+    "Source":         "src/c3p0/0.9.5/c3p0-0.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.2.1",
+    "Installed":      "src/c3p0/0.9.2.1",
+    "Source":         "src/c3p0/0.9.2.1/c3p0-0.9.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.2",
+    "Installed":      "src/c3p0/0.9.2",
+    "Source":         "src/c3p0/0.9.2/c3p0-0.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

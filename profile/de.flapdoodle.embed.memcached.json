@@ -1,0 +1,100 @@
+{
+  "Name":           "de.flapdoodle.embed.memcached",
+  "Title":          "Flapdoodle Embedded Memcache",
+  "SourceUrl":      "http://central.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.memcached/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.06.4",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.06.4",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.06.4/de.flapdoodle.embed.memcached-1.06.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.06.3",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.06.3",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.06.3/de.flapdoodle.embed.memcached-1.06.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.06.2",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.06.2",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.06.2/de.flapdoodle.embed.memcached-1.06.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.06.1",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.06.1",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.06.1/de.flapdoodle.embed.memcached-1.06.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.05.3",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.05.3",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.05.3/de.flapdoodle.embed.memcached-1.05.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.05.2",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.05.2",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.05.2/de.flapdoodle.embed.memcached-1.05.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.05.1",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.05.1",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.05.1/de.flapdoodle.embed.memcached-1.05.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.05.0",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.05.0",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.05.0/de.flapdoodle.embed.memcached-1.05.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.04",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.04",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.04/de.flapdoodle.embed.memcached-1.04.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.03",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.03",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.03/de.flapdoodle.embed.memcached-1.03.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.02",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.02",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.02/de.flapdoodle.embed.memcached-1.02.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.01",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.01",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.01/de.flapdoodle.embed.memcached-1.01.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/de.flapdoodle.embed.memcached/1.0",
+    "Source":         "src/de.flapdoodle.embed.memcached/1.0/de.flapdoodle.embed.memcached-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

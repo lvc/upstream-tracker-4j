@@ -1,0 +1,45 @@
+{
+  "Name":           "io7m-jtensors-core",
+  "Title":          "Io7m Jtensors Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/io7m/jtensors/io7m-jtensors-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/io7m-jtensors-core/7.1.0",
+    "Source":         "src/io7m-jtensors-core/7.1.0/io7m-jtensors-core-7.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/io7m-jtensors-core/7.0.0",
+    "Source":         "src/io7m-jtensors-core/7.0.0/io7m-jtensors-core-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.2",
+    "Installed":      "src/io7m-jtensors-core/6.0.2",
+    "Source":         "src/io7m-jtensors-core/6.0.2/io7m-jtensors-core-6.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.1",
+    "Installed":      "src/io7m-jtensors-core/6.0.1",
+    "Source":         "src/io7m-jtensors-core/6.0.1/io7m-jtensors-core-6.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.0",
+    "Installed":      "src/io7m-jtensors-core/6.0.0",
+    "Source":         "src/io7m-jtensors-core/6.0.0/io7m-jtensors-core-6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

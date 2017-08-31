@@ -1,0 +1,373 @@
+{
+  "Name":           "resteasy-jaxrs",
+  "Title":          "RESTEasy JAX RS",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jboss/resteasy/resteasy-jaxrs/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.1.4",
+    "Installed":      "src/resteasy-jaxrs/3.1.4",
+    "Source":         "src/resteasy-jaxrs/3.1.4/resteasy-jaxrs-3.1.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.3",
+    "Installed":      "src/resteasy-jaxrs/3.1.3",
+    "Source":         "src/resteasy-jaxrs/3.1.3/resteasy-jaxrs-3.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/resteasy-jaxrs/3.1.2",
+    "Source":         "src/resteasy-jaxrs/3.1.2/resteasy-jaxrs-3.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/resteasy-jaxrs/3.1.1",
+    "Source":         "src/resteasy-jaxrs/3.1.1/resteasy-jaxrs-3.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/resteasy-jaxrs/3.1.0",
+    "Source":         "src/resteasy-jaxrs/3.1.0/resteasy-jaxrs-3.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.24",
+    "Installed":      "src/resteasy-jaxrs/3.0.24",
+    "Source":         "src/resteasy-jaxrs/3.0.24/resteasy-jaxrs-3.0.24.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.23",
+    "Installed":      "src/resteasy-jaxrs/3.0.23",
+    "Source":         "src/resteasy-jaxrs/3.0.23/resteasy-jaxrs-3.0.23.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.22",
+    "Installed":      "src/resteasy-jaxrs/3.0.22",
+    "Source":         "src/resteasy-jaxrs/3.0.22/resteasy-jaxrs-3.0.22.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.21",
+    "Installed":      "src/resteasy-jaxrs/3.0.21",
+    "Source":         "src/resteasy-jaxrs/3.0.21/resteasy-jaxrs-3.0.21.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.20",
+    "Installed":      "src/resteasy-jaxrs/3.0.20",
+    "Source":         "src/resteasy-jaxrs/3.0.20/resteasy-jaxrs-3.0.20.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.19",
+    "Installed":      "src/resteasy-jaxrs/3.0.19",
+    "Source":         "src/resteasy-jaxrs/3.0.19/resteasy-jaxrs-3.0.19.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.18",
+    "Installed":      "src/resteasy-jaxrs/3.0.18",
+    "Source":         "src/resteasy-jaxrs/3.0.18/resteasy-jaxrs-3.0.18.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.17",
+    "Installed":      "src/resteasy-jaxrs/3.0.17",
+    "Source":         "src/resteasy-jaxrs/3.0.17/resteasy-jaxrs-3.0.17.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.16",
+    "Installed":      "src/resteasy-jaxrs/3.0.16",
+    "Source":         "src/resteasy-jaxrs/3.0.16/resteasy-jaxrs-3.0.16.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.15",
+    "Installed":      "src/resteasy-jaxrs/3.0.15",
+    "Source":         "src/resteasy-jaxrs/3.0.15/resteasy-jaxrs-3.0.15.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.14",
+    "Installed":      "src/resteasy-jaxrs/3.0.14",
+    "Source":         "src/resteasy-jaxrs/3.0.14/resteasy-jaxrs-3.0.14.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.13",
+    "Installed":      "src/resteasy-jaxrs/3.0.13",
+    "Source":         "src/resteasy-jaxrs/3.0.13/resteasy-jaxrs-3.0.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.12",
+    "Installed":      "src/resteasy-jaxrs/3.0.12",
+    "Source":         "src/resteasy-jaxrs/3.0.12/resteasy-jaxrs-3.0.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.11",
+    "Installed":      "src/resteasy-jaxrs/3.0.11",
+    "Source":         "src/resteasy-jaxrs/3.0.11/resteasy-jaxrs-3.0.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.10",
+    "Installed":      "src/resteasy-jaxrs/3.0.10",
+    "Source":         "src/resteasy-jaxrs/3.0.10/resteasy-jaxrs-3.0.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.9",
+    "Installed":      "src/resteasy-jaxrs/3.0.9",
+    "Source":         "src/resteasy-jaxrs/3.0.9/resteasy-jaxrs-3.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.8",
+    "Installed":      "src/resteasy-jaxrs/3.0.8",
+    "Source":         "src/resteasy-jaxrs/3.0.8/resteasy-jaxrs-3.0.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/resteasy-jaxrs/3.0.7",
+    "Source":         "src/resteasy-jaxrs/3.0.7/resteasy-jaxrs-3.0.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/resteasy-jaxrs/3.0.6",
+    "Source":         "src/resteasy-jaxrs/3.0.6/resteasy-jaxrs-3.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/resteasy-jaxrs/3.0.5",
+    "Source":         "src/resteasy-jaxrs/3.0.5/resteasy-jaxrs-3.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/resteasy-jaxrs/3.0.4",
+    "Source":         "src/resteasy-jaxrs/3.0.4/resteasy-jaxrs-3.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/resteasy-jaxrs/3.0.3",
+    "Source":         "src/resteasy-jaxrs/3.0.3/resteasy-jaxrs-3.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/resteasy-jaxrs/3.0.2",
+    "Source":         "src/resteasy-jaxrs/3.0.2/resteasy-jaxrs-3.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/resteasy-jaxrs/3.0.1",
+    "Source":         "src/resteasy-jaxrs/3.0.1/resteasy-jaxrs-3.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/resteasy-jaxrs/3.0.0",
+    "Source":         "src/resteasy-jaxrs/3.0.0/resteasy-jaxrs-3.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.10",
+    "Installed":      "src/resteasy-jaxrs/2.3.10",
+    "Source":         "src/resteasy-jaxrs/2.3.10/resteasy-jaxrs-2.3.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/resteasy-jaxrs/2.3.7",
+    "Source":         "src/resteasy-jaxrs/2.3.7/resteasy-jaxrs-2.3.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.6",
+    "Installed":      "src/resteasy-jaxrs/2.3.6",
+    "Source":         "src/resteasy-jaxrs/2.3.6/resteasy-jaxrs-2.3.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/resteasy-jaxrs/2.3.5",
+    "Source":         "src/resteasy-jaxrs/2.3.5/resteasy-jaxrs-2.3.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.4",
+    "Installed":      "src/resteasy-jaxrs/2.3.4",
+    "Source":         "src/resteasy-jaxrs/2.3.4/resteasy-jaxrs-2.3.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.3",
+    "Installed":      "src/resteasy-jaxrs/2.3.3",
+    "Source":         "src/resteasy-jaxrs/2.3.3/resteasy-jaxrs-2.3.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/resteasy-jaxrs/2.3.2",
+    "Source":         "src/resteasy-jaxrs/2.3.2/resteasy-jaxrs-2.3.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/resteasy-jaxrs/2.3.1",
+    "Source":         "src/resteasy-jaxrs/2.3.1/resteasy-jaxrs-2.3.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/resteasy-jaxrs/2.3.0",
+    "Source":         "src/resteasy-jaxrs/2.3.0/resteasy-jaxrs-2.3.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/resteasy-jaxrs/2.2.3",
+    "Source":         "src/resteasy-jaxrs/2.2.3/resteasy-jaxrs-2.2.3.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/resteasy-jaxrs/2.2.2",
+    "Source":         "src/resteasy-jaxrs/2.2.2/resteasy-jaxrs-2.2.2.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/resteasy-jaxrs/2.2.1",
+    "Source":         "src/resteasy-jaxrs/2.2.1/resteasy-jaxrs-2.2.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/resteasy-jaxrs/2.2.0",
+    "Source":         "src/resteasy-jaxrs/2.2.0/resteasy-jaxrs-2.2.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/resteasy-jaxrs/2.1.0",
+    "Source":         "src/resteasy-jaxrs/2.1.0/resteasy-jaxrs-2.1.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/resteasy-jaxrs/2.0.1",
+    "Source":         "src/resteasy-jaxrs/2.0.1/resteasy-jaxrs-2.0.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/resteasy-jaxrs/2.0.0",
+    "Source":         "src/resteasy-jaxrs/2.0.0/resteasy-jaxrs-2.0.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/resteasy-jaxrs/1.2.1",
+    "Source":         "src/resteasy-jaxrs/1.2.1/resteasy-jaxrs-1.2.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/resteasy-jaxrs/1.2",
+    "Source":         "src/resteasy-jaxrs/1.2/resteasy-jaxrs-1.2.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/resteasy-jaxrs/1.1",
+    "Source":         "src/resteasy-jaxrs/1.1/resteasy-jaxrs-1.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/resteasy-jaxrs/1.0.2",
+    "Source":         "src/resteasy-jaxrs/1.0.2/resteasy-jaxrs-1.0.2.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/resteasy-jaxrs/1.0.1",
+    "Source":         "src/resteasy-jaxrs/1.0.1/resteasy-jaxrs-1.0.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/resteasy-jaxrs/1.0.0",
+    "Source":         "src/resteasy-jaxrs/1.0.0/resteasy-jaxrs-1.0.0.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

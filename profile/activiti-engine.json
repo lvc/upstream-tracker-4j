@@ -1,0 +1,80 @@
+{
+  "Name":           "activiti-engine",
+  "Title":          "Activiti Engine",
+  "SourceUrl":      "http://central.maven.org/maven2/org/activiti/activiti-engine/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.17.0",
+
+  "Versions": [
+  {
+    "Number":         "6.0.0",
+    "Installed":      "src/activiti-engine/6.0.0",
+    "Source":         "src/activiti-engine/6.0.0/activiti-engine-6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.22.0",
+    "Installed":      "src/activiti-engine/5.22.0",
+    "Source":         "src/activiti-engine/5.22.0/activiti-engine-5.22.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.21.0",
+    "Installed":      "src/activiti-engine/5.21.0",
+    "Source":         "src/activiti-engine/5.21.0/activiti-engine-5.21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.20.0",
+    "Installed":      "src/activiti-engine/5.20.0",
+    "Source":         "src/activiti-engine/5.20.0/activiti-engine-5.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.0.3",
+    "Installed":      "src/activiti-engine/5.19.0.3",
+    "Source":         "src/activiti-engine/5.19.0.3/activiti-engine-5.19.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.0.2",
+    "Installed":      "src/activiti-engine/5.19.0.2",
+    "Source":         "src/activiti-engine/5.19.0.2/activiti-engine-5.19.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.0.1",
+    "Installed":      "src/activiti-engine/5.19.0.1",
+    "Source":         "src/activiti-engine/5.19.0.1/activiti-engine-5.19.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.0",
+    "Installed":      "src/activiti-engine/5.19.0",
+    "Source":         "src/activiti-engine/5.19.0/activiti-engine-5.19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.18.0",
+    "Installed":      "src/activiti-engine/5.18.0",
+    "Source":         "src/activiti-engine/5.18.0/activiti-engine-5.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.0",
+    "Installed":      "src/activiti-engine/5.17.0",
+    "Source":         "src/activiti-engine/5.17.0/activiti-engine-5.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

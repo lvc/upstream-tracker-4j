@@ -1,0 +1,107 @@
+{
+  "Name":           "transactions-jta",
+  "Title":          "Transactions JTA",
+  "SourceUrl":      "http://central.maven.org/maven2/com/atomikos/transactions-jta/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "4.0.4",
+    "Installed":      "src/transactions-jta/4.0.4",
+    "Source":         "src/transactions-jta/4.0.4/transactions-jta-4.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.3",
+    "Installed":      "src/transactions-jta/4.0.3",
+    "Source":         "src/transactions-jta/4.0.3/transactions-jta-4.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/transactions-jta/4.0.2",
+    "Source":         "src/transactions-jta/4.0.2/transactions-jta-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/transactions-jta/4.0.1",
+    "Source":         "src/transactions-jta/4.0.1/transactions-jta-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/transactions-jta/4.0.0",
+    "Source":         "src/transactions-jta/4.0.0/transactions-jta-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.3",
+    "Installed":      "src/transactions-jta/3.9.3",
+    "Source":         "src/transactions-jta/3.9.3/transactions-jta-3.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.2",
+    "Installed":      "src/transactions-jta/3.9.2",
+    "Source":         "src/transactions-jta/3.9.2/transactions-jta-3.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.1",
+    "Installed":      "src/transactions-jta/3.9.1",
+    "Source":         "src/transactions-jta/3.9.1/transactions-jta-3.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.0",
+    "Installed":      "src/transactions-jta/3.9.0",
+    "Source":         "src/transactions-jta/3.9.0/transactions-jta-3.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.0",
+    "Installed":      "src/transactions-jta/3.8.0",
+    "Source":         "src/transactions-jta/3.8.0/transactions-jta-3.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.1",
+    "Installed":      "src/transactions-jta/3.7.1",
+    "Source":         "src/transactions-jta/3.7.1/transactions-jta-3.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.0",
+    "Installed":      "src/transactions-jta/3.7.0",
+    "Source":         "src/transactions-jta/3.7.0/transactions-jta-3.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.4",
+    "Installed":      "src/transactions-jta/3.6.4",
+    "Source":         "src/transactions-jta/3.6.4/transactions-jta-3.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/transactions-jta/3.2.3",
+    "Source":         "src/transactions-jta/3.2.3/transactions-jta-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

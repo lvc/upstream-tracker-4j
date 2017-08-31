@@ -1,0 +1,185 @@
+{
+  "Name":           "jopt-simple",
+  "Title":          "JOpt Simple",
+  "SourceUrl":      "http://central.maven.org/maven2/net/sf/jopt-simple/jopt-simple/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "6.0-alpha-2",
+    "Installed":      "src/jopt-simple/6.0-alpha-2",
+    "Source":         "src/jopt-simple/6.0-alpha-2/jopt-simple-6.0-alpha-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0-alpha-1",
+    "Installed":      "src/jopt-simple/6.0-alpha-1",
+    "Source":         "src/jopt-simple/6.0-alpha-1/jopt-simple-6.0-alpha-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.0.4",
+    "Installed":      "src/jopt-simple/5.0.4",
+    "Source":         "src/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.3",
+    "Installed":      "src/jopt-simple/5.0.3",
+    "Source":         "src/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.2",
+    "Installed":      "src/jopt-simple/5.0.2",
+    "Source":         "src/jopt-simple/5.0.2/jopt-simple-5.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/jopt-simple/5.0.1",
+    "Source":         "src/jopt-simple/5.0.1/jopt-simple-5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0",
+    "Installed":      "src/jopt-simple/5.0",
+    "Source":         "src/jopt-simple/5.0/jopt-simple-5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9",
+    "Installed":      "src/jopt-simple/4.9",
+    "Source":         "src/jopt-simple/4.9/jopt-simple-4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8",
+    "Installed":      "src/jopt-simple/4.8",
+    "Source":         "src/jopt-simple/4.8/jopt-simple-4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7",
+    "Installed":      "src/jopt-simple/4.7",
+    "Source":         "src/jopt-simple/4.7/jopt-simple-4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6",
+    "Installed":      "src/jopt-simple/4.6",
+    "Source":         "src/jopt-simple/4.6/jopt-simple-4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5",
+    "Installed":      "src/jopt-simple/4.5",
+    "Source":         "src/jopt-simple/4.5/jopt-simple-4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4",
+    "Installed":      "src/jopt-simple/4.4",
+    "Source":         "src/jopt-simple/4.4/jopt-simple-4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3",
+    "Installed":      "src/jopt-simple/4.3",
+    "Source":         "src/jopt-simple/4.3/jopt-simple-4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2",
+    "Installed":      "src/jopt-simple/4.2",
+    "Source":         "src/jopt-simple/4.2/jopt-simple-4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1",
+    "Installed":      "src/jopt-simple/4.1",
+    "Source":         "src/jopt-simple/4.1/jopt-simple-4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/jopt-simple/4.0",
+    "Source":         "src/jopt-simple/4.0/jopt-simple-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/jopt-simple/3.3",
+    "Source":         "src/jopt-simple/3.3/jopt-simple-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/jopt-simple/3.2",
+    "Source":         "src/jopt-simple/3.2/jopt-simple-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/jopt-simple/3.1",
+    "Source":         "src/jopt-simple/3.1/jopt-simple-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/jopt-simple/3.0.1",
+    "Source":         "src/jopt-simple/3.0.1/jopt-simple-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/jopt-simple/3.0",
+    "Source":         "src/jopt-simple/3.0/jopt-simple-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/jopt-simple/2.4.1",
+    "Source":         "src/jopt-simple/2.4.1/jopt-simple-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/jopt-simple/2.4",
+    "Source":         "src/jopt-simple/2.4/jopt-simple-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.6",
+    "Installed":      "src/jopt-simple/2.3.6",
+    "Source":         "src/jopt-simple/2.3.6/jopt-simple-2.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

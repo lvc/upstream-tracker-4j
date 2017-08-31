@@ -1,0 +1,177 @@
+{
+  "Name":           "spring-security-oauth2",
+  "Title":          "Spring Security OAuth2",
+  "SourceUrl":      "http://central.maven.org/maven2/org/springframework/security/oauth/spring-security-oauth2/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/spring-security-oauth2/2.2.0",
+    "Source":         "src/spring-security-oauth2/2.2.0/spring-security-oauth2-2.2.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/spring-security-oauth2/2.1.1",
+    "Source":         "src/spring-security-oauth2/2.1.1/spring-security-oauth2-2.1.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/spring-security-oauth2/2.1.0",
+    "Source":         "src/spring-security-oauth2/2.1.0/spring-security-oauth2-2.1.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.14",
+    "Installed":      "src/spring-security-oauth2/2.0.14",
+    "Source":         "src/spring-security-oauth2/2.0.14/spring-security-oauth2-2.0.14.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.13",
+    "Installed":      "src/spring-security-oauth2/2.0.13",
+    "Source":         "src/spring-security-oauth2/2.0.13/spring-security-oauth2-2.0.13.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.12",
+    "Installed":      "src/spring-security-oauth2/2.0.12",
+    "Source":         "src/spring-security-oauth2/2.0.12/spring-security-oauth2-2.0.12.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.11",
+    "Installed":      "src/spring-security-oauth2/2.0.11",
+    "Source":         "src/spring-security-oauth2/2.0.11/spring-security-oauth2-2.0.11.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.10",
+    "Installed":      "src/spring-security-oauth2/2.0.10",
+    "Source":         "src/spring-security-oauth2/2.0.10/spring-security-oauth2-2.0.10.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.9",
+    "Installed":      "src/spring-security-oauth2/2.0.9",
+    "Source":         "src/spring-security-oauth2/2.0.9/spring-security-oauth2-2.0.9.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/spring-security-oauth2/2.0.8",
+    "Source":         "src/spring-security-oauth2/2.0.8/spring-security-oauth2-2.0.8.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/spring-security-oauth2/2.0.7",
+    "Source":         "src/spring-security-oauth2/2.0.7/spring-security-oauth2-2.0.7.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/spring-security-oauth2/2.0.6",
+    "Source":         "src/spring-security-oauth2/2.0.6/spring-security-oauth2-2.0.6.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/spring-security-oauth2/2.0.5",
+    "Source":         "src/spring-security-oauth2/2.0.5/spring-security-oauth2-2.0.5.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/spring-security-oauth2/2.0.4",
+    "Source":         "src/spring-security-oauth2/2.0.4/spring-security-oauth2-2.0.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/spring-security-oauth2/2.0.3",
+    "Source":         "src/spring-security-oauth2/2.0.3/spring-security-oauth2-2.0.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/spring-security-oauth2/2.0.2",
+    "Source":         "src/spring-security-oauth2/2.0.2/spring-security-oauth2-2.0.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/spring-security-oauth2/2.0.1",
+    "Source":         "src/spring-security-oauth2/2.0.1/spring-security-oauth2-2.0.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/spring-security-oauth2/2.0.0",
+    "Source":         "src/spring-security-oauth2/2.0.0/spring-security-oauth2-2.0.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/spring-security-oauth2/1.0.5",
+    "Source":         "src/spring-security-oauth2/1.0.5/spring-security-oauth2-1.0.5.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/spring-security-oauth2/1.0.4",
+    "Source":         "src/spring-security-oauth2/1.0.4/spring-security-oauth2-1.0.4.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/spring-security-oauth2/1.0.3",
+    "Source":         "src/spring-security-oauth2/1.0.3/spring-security-oauth2-1.0.3.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/spring-security-oauth2/1.0.2",
+    "Source":         "src/spring-security-oauth2/1.0.2/spring-security-oauth2-1.0.2.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/spring-security-oauth2/1.0.1",
+    "Source":         "src/spring-security-oauth2/1.0.1/spring-security-oauth2-1.0.1.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/spring-security-oauth2/1.0.0",
+    "Source":         "src/spring-security-oauth2/1.0.0/spring-security-oauth2-1.0.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

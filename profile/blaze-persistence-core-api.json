@@ -1,0 +1,79 @@
+{
+  "Name":           "blaze-persistence-core-api",
+  "Title":          "Blazebit Persistence Core API",
+  "SourceUrl":      "http://central.maven.org/maven2/com/blazebit/blaze-persistence-core-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.2.0-Alpha3",
+    "Installed":      "src/blaze-persistence-core-api/1.2.0-Alpha3",
+    "Source":         "src/blaze-persistence-core-api/1.2.0-Alpha3/blaze-persistence-core-api-1.2.0-Alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/blaze-persistence-core-api/1.1.1",
+    "Source":         "src/blaze-persistence-core-api/1.1.1/blaze-persistence-core-api-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/blaze-persistence-core-api/1.1.0",
+    "Source":         "src/blaze-persistence-core-api/1.1.0/blaze-persistence-core-api-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/blaze-persistence-core-api/1.0.6",
+    "Source":         "src/blaze-persistence-core-api/1.0.6/blaze-persistence-core-api-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/blaze-persistence-core-api/1.0.5",
+    "Source":         "src/blaze-persistence-core-api/1.0.5/blaze-persistence-core-api-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/blaze-persistence-core-api/1.0.4",
+    "Source":         "src/blaze-persistence-core-api/1.0.4/blaze-persistence-core-api-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/blaze-persistence-core-api/1.0.3",
+    "Source":         "src/blaze-persistence-core-api/1.0.3/blaze-persistence-core-api-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/blaze-persistence-core-api/1.0.2",
+    "Source":         "src/blaze-persistence-core-api/1.0.2/blaze-persistence-core-api-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/blaze-persistence-core-api/1.0.1",
+    "Source":         "src/blaze-persistence-core-api/1.0.1/blaze-persistence-core-api-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/blaze-persistence-core-api/1.0.0",
+    "Source":         "src/blaze-persistence-core-api/1.0.0/blaze-persistence-core-api-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

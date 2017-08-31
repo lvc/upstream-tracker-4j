@@ -1,0 +1,182 @@
+{
+  "Name":           "wildfly-server",
+  "Title":          "WildFly Server",
+  "SourceUrl":      "http://central.maven.org/maven2/org/wildfly/core/wildfly-server/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/wildfly-server/3.0.1",
+    "Source":         "src/wildfly-server/3.0.1/wildfly-server-3.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/wildfly-server/3.0.0",
+    "Source":         "src/wildfly-server/3.0.0/wildfly-server-3.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0.CR1",
+    "Installed":      "src/wildfly-server/3.0.0.CR1",
+    "Source":         "src/wildfly-server/3.0.0.CR1/wildfly-server-3.0.0.CR1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.0.Beta31",
+    "Installed":      "src/wildfly-server/3.0.0.Beta31",
+    "Source":         "src/wildfly-server/3.0.0.Beta31/wildfly-server-3.0.0.Beta31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.0.Beta30",
+    "Installed":      "src/wildfly-server/3.0.0.Beta30",
+    "Source":         "src/wildfly-server/3.0.0.Beta30/wildfly-server-3.0.0.Beta30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.0.Beta28",
+    "Installed":      "src/wildfly-server/3.0.0.Beta28",
+    "Source":         "src/wildfly-server/3.0.0.Beta28/wildfly-server-3.0.0.Beta28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.0.Beta27",
+    "Installed":      "src/wildfly-server/3.0.0.Beta27",
+    "Source":         "src/wildfly-server/3.0.0.Beta27/wildfly-server-3.0.0.Beta27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/wildfly-server/2.2.1",
+    "Source":         "src/wildfly-server/2.2.1/wildfly-server-2.2.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/wildfly-server/2.2.0",
+    "Source":         "src/wildfly-server/2.2.0/wildfly-server-2.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/wildfly-server/2.1.0",
+    "Source":         "src/wildfly-server/2.1.0/wildfly-server-2.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.10",
+    "Installed":      "src/wildfly-server/2.0.10",
+    "Source":         "src/wildfly-server/2.0.10/wildfly-server-2.0.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.9",
+    "Installed":      "src/wildfly-server/2.0.9",
+    "Source":         "src/wildfly-server/2.0.9/wildfly-server-2.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/wildfly-server/2.0.8",
+    "Source":         "src/wildfly-server/2.0.8/wildfly-server-2.0.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.7",
+    "Installed":      "src/wildfly-server/2.0.7",
+    "Source":         "src/wildfly-server/2.0.7/wildfly-server-2.0.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.6",
+    "Installed":      "src/wildfly-server/2.0.6",
+    "Source":         "src/wildfly-server/2.0.6/wildfly-server-2.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/wildfly-server/2.0.5",
+    "Source":         "src/wildfly-server/2.0.5/wildfly-server-2.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/wildfly-server/2.0.4",
+    "Source":         "src/wildfly-server/2.0.4/wildfly-server-2.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/wildfly-server/2.0.3",
+    "Source":         "src/wildfly-server/2.0.3/wildfly-server-2.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/wildfly-server/2.0.2",
+    "Source":         "src/wildfly-server/2.0.2/wildfly-server-2.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/wildfly-server/2.0.1",
+    "Source":         "src/wildfly-server/2.0.1/wildfly-server-2.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/wildfly-server/2.0.0",
+    "Source":         "src/wildfly-server/2.0.0/wildfly-server-2.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/wildfly-server/1.0.2",
+    "Source":         "src/wildfly-server/1.0.2/wildfly-server-1.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/wildfly-server/1.0.1",
+    "Source":         "src/wildfly-server/1.0.1/wildfly-server-1.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/wildfly-server/1.0.0",
+    "Source":         "src/wildfly-server/1.0.0/wildfly-server-1.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

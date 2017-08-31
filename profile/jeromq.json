@@ -1,0 +1,79 @@
+{
+  "Name":           "jeromq",
+  "Title":          "JeroMQ",
+  "SourceUrl":      "http://central.maven.org/maven2/org/zeromq/jeromq/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.4.2",
+    "Installed":      "src/jeromq/0.4.2",
+    "Source":         "src/jeromq/0.4.2/jeromq-0.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.1",
+    "Installed":      "src/jeromq/0.4.1",
+    "Source":         "src/jeromq/0.4.1/jeromq-0.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/jeromq/0.4.0",
+    "Source":         "src/jeromq/0.4.0/jeromq-0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.6",
+    "Installed":      "src/jeromq/0.3.6",
+    "Source":         "src/jeromq/0.3.6/jeromq-0.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.5",
+    "Installed":      "src/jeromq/0.3.5",
+    "Source":         "src/jeromq/0.3.5/jeromq-0.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.4",
+    "Installed":      "src/jeromq/0.3.4",
+    "Source":         "src/jeromq/0.3.4/jeromq-0.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.3",
+    "Installed":      "src/jeromq/0.3.3",
+    "Source":         "src/jeromq/0.3.3/jeromq-0.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.2",
+    "Installed":      "src/jeromq/0.3.2",
+    "Source":         "src/jeromq/0.3.2/jeromq-0.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.1",
+    "Installed":      "src/jeromq/0.3.1",
+    "Source":         "src/jeromq/0.3.1/jeromq-0.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.0",
+    "Installed":      "src/jeromq/0.3.0",
+    "Source":         "src/jeromq/0.3.0/jeromq-0.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

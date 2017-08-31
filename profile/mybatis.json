@@ -1,0 +1,186 @@
+{
+  "Name":           "mybatis",
+  "Title":          "MyBatis",
+  "SourceUrl":      "http://central.maven.org/maven2/org/mybatis/mybatis/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.0.0",
+  "SkipExt":        [ "zip", "tar.gz" ],
+
+  "Versions": [
+  {
+    "Number":         "3.4.5",
+    "Installed":      "src/mybatis/3.4.5",
+    "Source":         "src/mybatis/3.4.5/mybatis-3.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.4",
+    "Installed":      "src/mybatis/3.4.4",
+    "Source":         "src/mybatis/3.4.4/mybatis-3.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.3",
+    "Installed":      "src/mybatis/3.4.3",
+    "Source":         "src/mybatis/3.4.3/mybatis-3.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/mybatis/3.4.2",
+    "Source":         "src/mybatis/3.4.2/mybatis-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/mybatis/3.4.1",
+    "Source":         "src/mybatis/3.4.1/mybatis-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/mybatis/3.4.0",
+    "Source":         "src/mybatis/3.4.0/mybatis-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/mybatis/3.3.1",
+    "Source":         "src/mybatis/3.3.1/mybatis-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/mybatis/3.3.0",
+    "Source":         "src/mybatis/3.3.0/mybatis-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.8",
+    "Installed":      "src/mybatis/3.2.8",
+    "Source":         "src/mybatis/3.2.8/mybatis-3.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.7",
+    "Installed":      "src/mybatis/3.2.7",
+    "Source":         "src/mybatis/3.2.7/mybatis-3.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.6",
+    "Installed":      "src/mybatis/3.2.6",
+    "Source":         "src/mybatis/3.2.6/mybatis-3.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/mybatis/3.2.5",
+    "Source":         "src/mybatis/3.2.5/mybatis-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.4",
+    "Installed":      "src/mybatis/3.2.4",
+    "Source":         "src/mybatis/3.2.4/mybatis-3.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/mybatis/3.2.3",
+    "Source":         "src/mybatis/3.2.3/mybatis-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/mybatis/3.2.2",
+    "Source":         "src/mybatis/3.2.2/mybatis-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/mybatis/3.2.1",
+    "Source":         "src/mybatis/3.2.1/mybatis-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/mybatis/3.2.0",
+    "Source":         "src/mybatis/3.2.0/mybatis-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/mybatis/3.1.1",
+    "Source":         "src/mybatis/3.1.1/mybatis-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/mybatis/3.1.0",
+    "Source":         "src/mybatis/3.1.0/mybatis-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/mybatis/3.0.6",
+    "Source":         "src/mybatis/3.0.6/mybatis-3.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/mybatis/3.0.5",
+    "Source":         "src/mybatis/3.0.5/mybatis-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/mybatis/3.0.4",
+    "Source":         "src/mybatis/3.0.4/mybatis-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/mybatis/3.0.3",
+    "Source":         "src/mybatis/3.0.3/mybatis-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/mybatis/3.0.2",
+    "Source":         "src/mybatis/3.0.2/mybatis-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/mybatis/3.0.1",
+    "Source":         "src/mybatis/3.0.1/mybatis-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

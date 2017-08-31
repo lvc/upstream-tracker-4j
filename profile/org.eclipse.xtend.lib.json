@@ -1,0 +1,191 @@
+{
+  "Name":           "org.eclipse.xtend.lib",
+  "Title":          "Eclipse Xtend Runtime Library",
+  "SourceUrl":      "http://central.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.12.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.12.0/org.eclipse.xtend.lib-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.11.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.11.0/org.eclipse.xtend.lib-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.10.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.10.0/org.eclipse.xtend.lib-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/org.eclipse.xtend.lib/2.9.2",
+    "Source":         "src/org.eclipse.xtend.lib/2.9.2/org.eclipse.xtend.lib-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/org.eclipse.xtend.lib/2.9.1",
+    "Source":         "src/org.eclipse.xtend.lib/2.9.1/org.eclipse.xtend.lib-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.9.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.9.0/org.eclipse.xtend.lib-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.4",
+    "Installed":      "src/org.eclipse.xtend.lib/2.8.4",
+    "Source":         "src/org.eclipse.xtend.lib/2.8.4/org.eclipse.xtend.lib-2.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.3",
+    "Installed":      "src/org.eclipse.xtend.lib/2.8.3",
+    "Source":         "src/org.eclipse.xtend.lib/2.8.3/org.eclipse.xtend.lib-2.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/org.eclipse.xtend.lib/2.8.2",
+    "Source":         "src/org.eclipse.xtend.lib/2.8.2/org.eclipse.xtend.lib-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/org.eclipse.xtend.lib/2.8.1",
+    "Source":         "src/org.eclipse.xtend.lib/2.8.1/org.eclipse.xtend.lib-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.8.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.8.0/org.eclipse.xtend.lib-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "src/org.eclipse.xtend.lib/2.7.3",
+    "Source":         "src/org.eclipse.xtend.lib/2.7.3/org.eclipse.xtend.lib-2.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/org.eclipse.xtend.lib/2.7.2",
+    "Source":         "src/org.eclipse.xtend.lib/2.7.2/org.eclipse.xtend.lib-2.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/org.eclipse.xtend.lib/2.7.1",
+    "Source":         "src/org.eclipse.xtend.lib/2.7.1/org.eclipse.xtend.lib-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.7.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.7.0/org.eclipse.xtend.lib-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/org.eclipse.xtend.lib/2.6.2",
+    "Source":         "src/org.eclipse.xtend.lib/2.6.2/org.eclipse.xtend.lib-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/org.eclipse.xtend.lib/2.6.1",
+    "Source":         "src/org.eclipse.xtend.lib/2.6.1/org.eclipse.xtend.lib-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.6.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.6.0/org.eclipse.xtend.lib-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/org.eclipse.xtend.lib/2.5.4",
+    "Source":         "src/org.eclipse.xtend.lib/2.5.4/org.eclipse.xtend.lib-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/org.eclipse.xtend.lib/2.5.3",
+    "Source":         "src/org.eclipse.xtend.lib/2.5.3/org.eclipse.xtend.lib-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/org.eclipse.xtend.lib/2.5.2",
+    "Source":         "src/org.eclipse.xtend.lib/2.5.2/org.eclipse.xtend.lib-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/org.eclipse.xtend.lib/2.5.1",
+    "Source":         "src/org.eclipse.xtend.lib/2.5.1/org.eclipse.xtend.lib-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.5.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.5.0/org.eclipse.xtend.lib-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/org.eclipse.xtend.lib/2.4.3",
+    "Source":         "src/org.eclipse.xtend.lib/2.4.3/org.eclipse.xtend.lib-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/org.eclipse.xtend.lib/2.4.2",
+    "Source":         "src/org.eclipse.xtend.lib/2.4.2/org.eclipse.xtend.lib-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/org.eclipse.xtend.lib/2.4.1",
+    "Source":         "src/org.eclipse.xtend.lib/2.4.1/org.eclipse.xtend.lib-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,53 @@
+{
+  "Name":           "spire",
+  "Title":          "Spire Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/spire-math/spire_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.9.0",
+  "Package":        "spire_2.11",
+
+  "Versions": [
+  {
+    "Number":         "0.13.0",
+    "Installed":      "src/spire/0.13.0",
+    "Source":         "src/spire/0.13.0/spire_2.11-0.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/spire/0.12.0",
+    "Source":         "src/spire/0.12.0/spire_2.11-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/spire/0.11.0",
+    "Source":         "src/spire/0.11.0/spire_2.11-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.1",
+    "Installed":      "src/spire/0.10.1",
+    "Source":         "src/spire/0.10.1/spire_2.11-0.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/spire/0.9.1",
+    "Source":         "src/spire/0.9.1/spire_2.11-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/spire/0.9.0",
+    "Source":         "src/spire/0.9.0/spire_2.11-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

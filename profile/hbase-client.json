@@ -1,0 +1,221 @@
+{
+  "Name":           "hbase-client",
+  "Title":          "HBase Client",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/hbase/hbase-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.0.0",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0-alpha2",
+    "Installed":      "src/hbase-client/2.0.0-alpha2",
+    "Source":         "src/hbase-client/2.0.0-alpha2/hbase-client-2.0.0-alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0-alpha-1",
+    "Installed":      "src/hbase-client/2.0.0-alpha-1",
+    "Source":         "src/hbase-client/2.0.0-alpha-1/hbase-client-2.0.0-alpha-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/hbase-client/1.3.1",
+    "Source":         "src/hbase-client/1.3.1/hbase-client-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/hbase-client/1.3.0",
+    "Source":         "src/hbase-client/1.3.0/hbase-client-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.6",
+    "Installed":      "src/hbase-client/1.2.6",
+    "Source":         "src/hbase-client/1.2.6/hbase-client-1.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.5",
+    "Installed":      "src/hbase-client/1.2.5",
+    "Source":         "src/hbase-client/1.2.5/hbase-client-1.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "src/hbase-client/1.2.4",
+    "Source":         "src/hbase-client/1.2.4/hbase-client-1.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/hbase-client/1.2.3",
+    "Source":         "src/hbase-client/1.2.3/hbase-client-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/hbase-client/1.2.2",
+    "Source":         "src/hbase-client/1.2.2/hbase-client-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/hbase-client/1.2.1",
+    "Source":         "src/hbase-client/1.2.1/hbase-client-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/hbase-client/1.2.0",
+    "Source":         "src/hbase-client/1.2.0/hbase-client-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.12",
+    "Installed":      "src/hbase-client/1.1.12",
+    "Source":         "src/hbase-client/1.1.12/hbase-client-1.1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.11",
+    "Installed":      "src/hbase-client/1.1.11",
+    "Source":         "src/hbase-client/1.1.11/hbase-client-1.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.10",
+    "Installed":      "src/hbase-client/1.1.10",
+    "Source":         "src/hbase-client/1.1.10/hbase-client-1.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.9",
+    "Installed":      "src/hbase-client/1.1.9",
+    "Source":         "src/hbase-client/1.1.9/hbase-client-1.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.8",
+    "Installed":      "src/hbase-client/1.1.8",
+    "Source":         "src/hbase-client/1.1.8/hbase-client-1.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/hbase-client/1.1.7",
+    "Source":         "src/hbase-client/1.1.7/hbase-client-1.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.6",
+    "Installed":      "src/hbase-client/1.1.6",
+    "Source":         "src/hbase-client/1.1.6/hbase-client-1.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5",
+    "Installed":      "src/hbase-client/1.1.5",
+    "Source":         "src/hbase-client/1.1.5/hbase-client-1.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/hbase-client/1.1.4",
+    "Source":         "src/hbase-client/1.1.4/hbase-client-1.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/hbase-client/1.1.3",
+    "Source":         "src/hbase-client/1.1.3/hbase-client-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/hbase-client/1.1.2",
+    "Source":         "src/hbase-client/1.1.2/hbase-client-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/hbase-client/1.1.1",
+    "Source":         "src/hbase-client/1.1.1/hbase-client-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0.1",
+    "Installed":      "src/hbase-client/1.1.0.1",
+    "Source":         "src/hbase-client/1.1.0.1/hbase-client-1.1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/hbase-client/1.1.0",
+    "Source":         "src/hbase-client/1.1.0/hbase-client-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/hbase-client/1.0.3",
+    "Source":         "src/hbase-client/1.0.3/hbase-client-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/hbase-client/1.0.2",
+    "Source":         "src/hbase-client/1.0.2/hbase-client-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1.1",
+    "Installed":      "src/hbase-client/1.0.1.1",
+    "Source":         "src/hbase-client/1.0.1.1/hbase-client-1.0.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/hbase-client/1.0.1",
+    "Source":         "src/hbase-client/1.0.1/hbase-client-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/hbase-client/1.0.0",
+    "Source":         "src/hbase-client/1.0.0/hbase-client-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

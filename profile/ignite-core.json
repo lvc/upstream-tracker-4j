@@ -1,0 +1,45 @@
+{
+  "Name":           "ignite-core",
+  "Title":          "Ignite Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/ignite/ignite-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.7.0",
+
+  "Versions": [
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/ignite-core/2.1.0",
+    "Source":         "src/ignite-core/2.1.0/ignite-core-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/ignite-core/2.0.0",
+    "Source":         "src/ignite-core/2.0.0/ignite-core-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/ignite-core/1.9.0",
+    "Source":         "src/ignite-core/1.9.0/ignite-core-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/ignite-core/1.8.0",
+    "Source":         "src/ignite-core/1.8.0/ignite-core-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/ignite-core/1.7.0",
+    "Source":         "src/ignite-core/1.7.0/ignite-core-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

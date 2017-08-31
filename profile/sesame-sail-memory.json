@@ -1,0 +1,143 @@
+{
+  "Name":           "sesame-sail-memory",
+  "Title":          "OpenRDF Sesame MemoryStore",
+  "SourceUrl":      "http://central.maven.org/maven2/org/openrdf/sesame/sesame-sail-memory/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.8.0",
+
+  "Versions": [
+  {
+    "Number":         "4.1.2",
+    "Installed":      "src/sesame-sail-memory/4.1.2",
+    "Source":         "src/sesame-sail-memory/4.1.2/sesame-sail-memory-4.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "src/sesame-sail-memory/4.1.1",
+    "Source":         "src/sesame-sail-memory/4.1.1/sesame-sail-memory-4.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/sesame-sail-memory/4.1.0",
+    "Source":         "src/sesame-sail-memory/4.1.0/sesame-sail-memory-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/sesame-sail-memory/4.0.2",
+    "Source":         "src/sesame-sail-memory/4.0.2/sesame-sail-memory-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/sesame-sail-memory/4.0.1",
+    "Source":         "src/sesame-sail-memory/4.0.1/sesame-sail-memory-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/sesame-sail-memory/4.0.0",
+    "Source":         "src/sesame-sail-memory/4.0.0/sesame-sail-memory-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/sesame-sail-memory/2.9.0",
+    "Source":         "src/sesame-sail-memory/2.9.0/sesame-sail-memory-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.11",
+    "Installed":      "src/sesame-sail-memory/2.8.11",
+    "Source":         "src/sesame-sail-memory/2.8.11/sesame-sail-memory-2.8.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.10",
+    "Installed":      "src/sesame-sail-memory/2.8.10",
+    "Source":         "src/sesame-sail-memory/2.8.10/sesame-sail-memory-2.8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.9",
+    "Installed":      "src/sesame-sail-memory/2.8.9",
+    "Source":         "src/sesame-sail-memory/2.8.9/sesame-sail-memory-2.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.8",
+    "Installed":      "src/sesame-sail-memory/2.8.8",
+    "Source":         "src/sesame-sail-memory/2.8.8/sesame-sail-memory-2.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.7",
+    "Installed":      "src/sesame-sail-memory/2.8.7",
+    "Source":         "src/sesame-sail-memory/2.8.7/sesame-sail-memory-2.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.6",
+    "Installed":      "src/sesame-sail-memory/2.8.6",
+    "Source":         "src/sesame-sail-memory/2.8.6/sesame-sail-memory-2.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.5",
+    "Installed":      "src/sesame-sail-memory/2.8.5",
+    "Source":         "src/sesame-sail-memory/2.8.5/sesame-sail-memory-2.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.4",
+    "Installed":      "src/sesame-sail-memory/2.8.4",
+    "Source":         "src/sesame-sail-memory/2.8.4/sesame-sail-memory-2.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.3",
+    "Installed":      "src/sesame-sail-memory/2.8.3",
+    "Source":         "src/sesame-sail-memory/2.8.3/sesame-sail-memory-2.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/sesame-sail-memory/2.8.2",
+    "Source":         "src/sesame-sail-memory/2.8.2/sesame-sail-memory-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/sesame-sail-memory/2.8.1",
+    "Source":         "src/sesame-sail-memory/2.8.1/sesame-sail-memory-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/sesame-sail-memory/2.8.0",
+    "Source":         "src/sesame-sail-memory/2.8.0/sesame-sail-memory-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

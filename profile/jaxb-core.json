@@ -1,0 +1,38 @@
+{
+  "Name":           "jaxb-core",
+  "Title":          "Old JAXB Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/sun/xml/bind/jaxb-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "2.2.11",
+    "Installed":      "src/jaxb-core/2.2.11",
+    "Source":         "src/jaxb-core/2.2.11/jaxb-core-2.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.10",
+    "Installed":      "src/jaxb-core/2.2.10",
+    "Source":         "src/jaxb-core/2.2.10/jaxb-core-2.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "src/jaxb-core/2.2.7",
+    "Source":         "src/jaxb-core/2.2.7/jaxb-core-2.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.14",
+    "Installed":      "src/jaxb-core/2.1.14",
+    "Source":         "src/jaxb-core/2.1.14/jaxb-core-2.1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

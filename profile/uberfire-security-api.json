@@ -1,0 +1,192 @@
+{
+  "Name":           "uberfire-security-api",
+  "Title":          "UberFire Security API",
+  "SourceUrl":      "http://central.maven.org/maven2/org/uberfire/uberfire-security-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/uberfire-security-api/1.2.0",
+    "Source":         "src/uberfire-security-api/1.2.0/uberfire-security-api-1.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/uberfire-security-api/1.1.0",
+    "Source":         "src/uberfire-security-api/1.1.0/uberfire-security-api-1.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0.Beta3",
+    "Installed":      "src/uberfire-security-api/1.1.0.Beta3",
+    "Source":         "src/uberfire-security-api/1.1.0.Beta3/uberfire-security-api-1.1.0.Beta3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/uberfire-security-api/1.0.0",
+    "Source":         "src/uberfire-security-api/1.0.0/uberfire-security-api-1.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/uberfire-security-api/0.9.0",
+    "Source":         "src/uberfire-security-api/0.9.0/uberfire-security-api-0.9.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/uberfire-security-api/0.8.0",
+    "Source":         "src/uberfire-security-api/0.8.0/uberfire-security-api-0.8.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.4",
+    "Installed":      "src/uberfire-security-api/0.7.4",
+    "Source":         "src/uberfire-security-api/0.7.4/uberfire-security-api-0.7.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.3",
+    "Installed":      "src/uberfire-security-api/0.7.3",
+    "Source":         "src/uberfire-security-api/0.7.3/uberfire-security-api-0.7.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/uberfire-security-api/0.7.2",
+    "Source":         "src/uberfire-security-api/0.7.2/uberfire-security-api-0.7.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/uberfire-security-api/0.7.1",
+    "Source":         "src/uberfire-security-api/0.7.1/uberfire-security-api-0.7.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/uberfire-security-api/0.7.0",
+    "Source":         "src/uberfire-security-api/0.7.0/uberfire-security-api-0.7.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.7",
+    "Installed":      "src/uberfire-security-api/0.5.7",
+    "Source":         "src/uberfire-security-api/0.5.7/uberfire-security-api-0.5.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.6",
+    "Installed":      "src/uberfire-security-api/0.5.6",
+    "Source":         "src/uberfire-security-api/0.5.6/uberfire-security-api-0.5.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.5",
+    "Installed":      "src/uberfire-security-api/0.5.5",
+    "Source":         "src/uberfire-security-api/0.5.5/uberfire-security-api-0.5.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.4",
+    "Installed":      "src/uberfire-security-api/0.5.4",
+    "Source":         "src/uberfire-security-api/0.5.4/uberfire-security-api-0.5.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.3",
+    "Installed":      "src/uberfire-security-api/0.5.3",
+    "Source":         "src/uberfire-security-api/0.5.3/uberfire-security-api-0.5.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.2",
+    "Installed":      "src/uberfire-security-api/0.5.2",
+    "Source":         "src/uberfire-security-api/0.5.2/uberfire-security-api-0.5.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/uberfire-security-api/0.5.1",
+    "Source":         "src/uberfire-security-api/0.5.1/uberfire-security-api-0.5.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/uberfire-security-api/0.5.0",
+    "Source":         "src/uberfire-security-api/0.5.0/uberfire-security-api-0.5.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/uberfire-security-api/0.4.0",
+    "Source":         "src/uberfire-security-api/0.4.0/uberfire-security-api-0.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.1",
+    "Installed":      "src/uberfire-security-api/0.3.1",
+    "Source":         "src/uberfire-security-api/0.3.1/uberfire-security-api-0.3.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.0",
+    "Installed":      "src/uberfire-security-api/0.3.0",
+    "Source":         "src/uberfire-security-api/0.3.0/uberfire-security-api-0.3.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.4",
+    "Installed":      "src/uberfire-security-api/0.1.4",
+    "Source":         "src/uberfire-security-api/0.1.4/uberfire-security-api-0.1.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.3",
+    "Installed":      "src/uberfire-security-api/0.1.3",
+    "Source":         "src/uberfire-security-api/0.1.3/uberfire-security-api-0.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.2",
+    "Installed":      "src/uberfire-security-api/0.1.2",
+    "Source":         "src/uberfire-security-api/0.1.2/uberfire-security-api-0.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.1",
+    "Installed":      "src/uberfire-security-api/0.1.1",
+    "Source":         "src/uberfire-security-api/0.1.1/uberfire-security-api-0.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

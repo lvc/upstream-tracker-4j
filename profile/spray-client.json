@@ -1,0 +1,38 @@
+{
+  "Name":           "spray-client",
+  "Title":          "Spray Client",
+  "SourceUrl":      "http://central.maven.org/maven2/io/spray/spray-client_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "spray-client_2.11",
+
+  "Versions": [
+  {
+    "Number":         "1.3.4",
+    "Installed":      "src/spray-client/1.3.4",
+    "Source":         "src/spray-client/1.3.4/spray-client_2.11-1.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/spray-client/1.3.3",
+    "Source":         "src/spray-client/1.3.3/spray-client_2.11-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/spray-client/1.3.2",
+    "Source":         "src/spray-client/1.3.2/spray-client_2.11-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/spray-client/1.3.1",
+    "Source":         "src/spray-client/1.3.1/spray-client_2.11-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

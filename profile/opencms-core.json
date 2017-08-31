@@ -1,0 +1,88 @@
+{
+  "Name":           "opencms-core",
+  "Title":          "OpenCms",
+  "SourceUrl":      "http://central.maven.org/maven2/org/opencms/opencms-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "MinimalVersion": "9.0.0",
+
+  "Versions": [
+  {
+    "Number":         "10.5.2",
+    "Installed":      "src/opencms-core/10.5.2",
+    "Source":         "src/opencms-core/10.5.2/opencms-core-10.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "10.5.1",
+    "Installed":      "src/opencms-core/10.5.1",
+    "Source":         "src/opencms-core/10.5.1/opencms-core-10.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "10.5.0",
+    "Installed":      "src/opencms-core/10.5.0",
+    "Source":         "src/opencms-core/10.5.0/opencms-core-10.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "10.0.1",
+    "Installed":      "src/opencms-core/10.0.1",
+    "Source":         "src/opencms-core/10.0.1/opencms-core-10.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "10.0.0",
+    "Installed":      "src/opencms-core/10.0.0",
+    "Source":         "src/opencms-core/10.0.0/opencms-core-10.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.5.3",
+    "Installed":      "src/opencms-core/9.5.3",
+    "Source":         "src/opencms-core/9.5.3/opencms-core-9.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.5.2",
+    "Installed":      "src/opencms-core/9.5.2",
+    "Source":         "src/opencms-core/9.5.2/opencms-core-9.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.5.1",
+    "Installed":      "src/opencms-core/9.5.1",
+    "Source":         "src/opencms-core/9.5.1/opencms-core-9.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.5.0",
+    "Installed":      "src/opencms-core/9.5.0",
+    "Source":         "src/opencms-core/9.5.0/opencms-core-9.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1",
+    "Installed":      "src/opencms-core/9.0.1",
+    "Source":         "src/opencms-core/9.0.1/opencms-core-9.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.0",
+    "Installed":      "src/opencms-core/9.0.0",
+    "Source":         "src/opencms-core/9.0.0/opencms-core-9.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

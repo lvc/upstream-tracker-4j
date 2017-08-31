@@ -1,0 +1,31 @@
+{
+  "Name":           "portlet-api",
+  "Title":          "Java Portlet API",
+  "SourceUrl":      "http://central.maven.org/maven2/javax/portlet/portlet-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ "2.0-r12" ],
+
+  "Versions": [
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/portlet-api/3.0.0",
+    "Source":         "src/portlet-api/3.0.0/portlet-api-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/portlet-api/2.0",
+    "Source":         "src/portlet-api/2.0/portlet-api-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/portlet-api/1.0",
+    "Source":         "src/portlet-api/1.0/portlet-api-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

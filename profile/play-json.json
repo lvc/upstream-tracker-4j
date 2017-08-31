@@ -1,0 +1,88 @@
+{
+  "Name":           "play-json",
+  "Title":          "Play Json",
+  "SourceUrl":      "http://central.maven.org/maven2/com/typesafe/play/play-json_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.5.10",
+  "Package":        "play-json_2.11",
+
+  "Versions": [
+  {
+    "Number":         "2.6.3",
+    "Installed":      "src/play-json/2.6.3",
+    "Source":         "src/play-json/2.6.3/play-json_2.11-2.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/play-json/2.6.2",
+    "Source":         "src/play-json/2.6.2/play-json_2.11-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/play-json/2.6.1",
+    "Source":         "src/play-json/2.6.1/play-json_2.11-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/play-json/2.6.0",
+    "Source":         "src/play-json/2.6.0/play-json_2.11-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.16",
+    "Installed":      "src/play-json/2.5.16",
+    "Source":         "src/play-json/2.5.16/play-json_2.11-2.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.15",
+    "Installed":      "src/play-json/2.5.15",
+    "Source":         "src/play-json/2.5.15/play-json_2.11-2.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.14",
+    "Installed":      "src/play-json/2.5.14",
+    "Source":         "src/play-json/2.5.14/play-json_2.11-2.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.13",
+    "Installed":      "src/play-json/2.5.13",
+    "Source":         "src/play-json/2.5.13/play-json_2.11-2.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.12",
+    "Installed":      "src/play-json/2.5.12",
+    "Source":         "src/play-json/2.5.12/play-json_2.11-2.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.11",
+    "Installed":      "src/play-json/2.5.11",
+    "Source":         "src/play-json/2.5.11/play-json_2.11-2.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.10",
+    "Installed":      "src/play-json/2.5.10",
+    "Source":         "src/play-json/2.5.10/play-json_2.11-2.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,109 @@
+{
+  "Name":           "mysql-connector-java",
+  "Title":          "MySQL Connector/J",
+  "SourceUrl":      "http://central.maven.org/maven2/mysql/mysql-connector-java/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "MinimalVersion": "5.1.35",
+
+  "Versions": [
+  {
+    "Number":         "6.0.6",
+    "Installed":      "src/mysql-connector-java/6.0.6",
+    "Source":         "src/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.5",
+    "Installed":      "src/mysql-connector-java/6.0.5",
+    "Source":         "src/mysql-connector-java/6.0.5/mysql-connector-java-6.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.4",
+    "Installed":      "src/mysql-connector-java/6.0.4",
+    "Source":         "src/mysql-connector-java/6.0.4/mysql-connector-java-6.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.3",
+    "Installed":      "src/mysql-connector-java/6.0.3",
+    "Source":         "src/mysql-connector-java/6.0.3/mysql-connector-java-6.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.2",
+    "Installed":      "src/mysql-connector-java/6.0.2",
+    "Source":         "src/mysql-connector-java/6.0.2/mysql-connector-java-6.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.43",
+    "Installed":      "src/mysql-connector-java/5.1.43",
+    "Source":         "src/mysql-connector-java/5.1.43/mysql-connector-java-5.1.43.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.42",
+    "Installed":      "src/mysql-connector-java/5.1.42",
+    "Source":         "src/mysql-connector-java/5.1.42/mysql-connector-java-5.1.42.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.41",
+    "Installed":      "src/mysql-connector-java/5.1.41",
+    "Source":         "src/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.40",
+    "Installed":      "src/mysql-connector-java/5.1.40",
+    "Source":         "src/mysql-connector-java/5.1.40/mysql-connector-java-5.1.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.39",
+    "Installed":      "src/mysql-connector-java/5.1.39",
+    "Source":         "src/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.38",
+    "Installed":      "src/mysql-connector-java/5.1.38",
+    "Source":         "src/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.37",
+    "Installed":      "src/mysql-connector-java/5.1.37",
+    "Source":         "src/mysql-connector-java/5.1.37/mysql-connector-java-5.1.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.36",
+    "Installed":      "src/mysql-connector-java/5.1.36",
+    "Source":         "src/mysql-connector-java/5.1.36/mysql-connector-java-5.1.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.35",
+    "Installed":      "src/mysql-connector-java/5.1.35",
+    "Source":         "src/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

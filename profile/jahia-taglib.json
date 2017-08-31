@@ -1,0 +1,311 @@
+{
+  "Name":           "jahia-taglib",
+  "Title":          "Jahia Tag Libraries",
+  "SourceUrl":      "https://devtools.jahia.com/nexus/content/groups/maven-jahia-org/org/jahia/server/jahia-taglib/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ ".*\d\d\d\d.*" ],
+
+  "Versions": [
+  {
+    "Number":         "7.2.1.0",
+    "Installed":      "src/jahia-taglib/7.2.1.0",
+    "Source":         "src/jahia-taglib/7.2.1.0/jahia-taglib-7.2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0.3",
+    "Installed":      "src/jahia-taglib/7.2.0.3",
+    "Source":         "src/jahia-taglib/7.2.0.3/jahia-taglib-7.2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0.2",
+    "Installed":      "src/jahia-taglib/7.2.0.2",
+    "Source":         "src/jahia-taglib/7.2.0.2/jahia-taglib-7.2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0.1",
+    "Installed":      "src/jahia-taglib/7.2.0.1",
+    "Source":         "src/jahia-taglib/7.2.0.1/jahia-taglib-7.2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0.0",
+    "Installed":      "src/jahia-taglib/7.2.0.0",
+    "Source":         "src/jahia-taglib/7.2.0.0/jahia-taglib-7.2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.2.5",
+    "Installed":      "src/jahia-taglib/7.1.2.5",
+    "Source":         "src/jahia-taglib/7.1.2.5/jahia-taglib-7.1.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.2.4",
+    "Installed":      "src/jahia-taglib/7.1.2.4",
+    "Source":         "src/jahia-taglib/7.1.2.4/jahia-taglib-7.1.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.2.3",
+    "Installed":      "src/jahia-taglib/7.1.2.3",
+    "Source":         "src/jahia-taglib/7.1.2.3/jahia-taglib-7.1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.2.2",
+    "Installed":      "src/jahia-taglib/7.1.2.2",
+    "Source":         "src/jahia-taglib/7.1.2.2/jahia-taglib-7.1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.2.1",
+    "Installed":      "src/jahia-taglib/7.1.2.1",
+    "Source":         "src/jahia-taglib/7.1.2.1/jahia-taglib-7.1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.2.0",
+    "Installed":      "src/jahia-taglib/7.1.2.0",
+    "Source":         "src/jahia-taglib/7.1.2.0/jahia-taglib-7.1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.1.0",
+    "Installed":      "src/jahia-taglib/7.1.1.0",
+    "Source":         "src/jahia-taglib/7.1.1.0/jahia-taglib-7.1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0.1",
+    "Installed":      "src/jahia-taglib/7.1.0.1",
+    "Source":         "src/jahia-taglib/7.1.0.1/jahia-taglib-7.1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0.0",
+    "Installed":      "src/jahia-taglib/7.1.0.0",
+    "Source":         "src/jahia-taglib/7.1.0.0/jahia-taglib-7.1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.8",
+    "Installed":      "src/jahia-taglib/7.0.0.8",
+    "Source":         "src/jahia-taglib/7.0.0.8/jahia-taglib-7.0.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.7",
+    "Installed":      "src/jahia-taglib/7.0.0.7",
+    "Source":         "src/jahia-taglib/7.0.0.7/jahia-taglib-7.0.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.6",
+    "Installed":      "src/jahia-taglib/7.0.0.6",
+    "Source":         "src/jahia-taglib/7.0.0.6/jahia-taglib-7.0.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.5",
+    "Installed":      "src/jahia-taglib/7.0.0.5",
+    "Source":         "src/jahia-taglib/7.0.0.5/jahia-taglib-7.0.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.4",
+    "Installed":      "src/jahia-taglib/7.0.0.4",
+    "Source":         "src/jahia-taglib/7.0.0.4/jahia-taglib-7.0.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.3",
+    "Installed":      "src/jahia-taglib/7.0.0.3",
+    "Source":         "src/jahia-taglib/7.0.0.3/jahia-taglib-7.0.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.2",
+    "Installed":      "src/jahia-taglib/7.0.0.2",
+    "Source":         "src/jahia-taglib/7.0.0.2/jahia-taglib-7.0.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.1",
+    "Installed":      "src/jahia-taglib/7.0.0.1",
+    "Source":         "src/jahia-taglib/7.0.0.1/jahia-taglib-7.0.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0.0",
+    "Installed":      "src/jahia-taglib/7.0.0.0",
+    "Source":         "src/jahia-taglib/7.0.0.0/jahia-taglib-7.0.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.11",
+    "Installed":      "src/jahia-taglib/6.6.2.11",
+    "Source":         "src/jahia-taglib/6.6.2.11/jahia-taglib-6.6.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.10",
+    "Installed":      "src/jahia-taglib/6.6.2.10",
+    "Source":         "src/jahia-taglib/6.6.2.10/jahia-taglib-6.6.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.9",
+    "Installed":      "src/jahia-taglib/6.6.2.9",
+    "Source":         "src/jahia-taglib/6.6.2.9/jahia-taglib-6.6.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.8",
+    "Installed":      "src/jahia-taglib/6.6.2.8",
+    "Source":         "src/jahia-taglib/6.6.2.8/jahia-taglib-6.6.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.7",
+    "Installed":      "src/jahia-taglib/6.6.2.7",
+    "Source":         "src/jahia-taglib/6.6.2.7/jahia-taglib-6.6.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.6",
+    "Installed":      "src/jahia-taglib/6.6.2.6",
+    "Source":         "src/jahia-taglib/6.6.2.6/jahia-taglib-6.6.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.5",
+    "Installed":      "src/jahia-taglib/6.6.2.5",
+    "Source":         "src/jahia-taglib/6.6.2.5/jahia-taglib-6.6.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.4",
+    "Installed":      "src/jahia-taglib/6.6.2.4",
+    "Source":         "src/jahia-taglib/6.6.2.4/jahia-taglib-6.6.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.3",
+    "Installed":      "src/jahia-taglib/6.6.2.3",
+    "Source":         "src/jahia-taglib/6.6.2.3/jahia-taglib-6.6.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.2",
+    "Installed":      "src/jahia-taglib/6.6.2.2",
+    "Source":         "src/jahia-taglib/6.6.2.2/jahia-taglib-6.6.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.1",
+    "Installed":      "src/jahia-taglib/6.6.2.1",
+    "Source":         "src/jahia-taglib/6.6.2.1/jahia-taglib-6.6.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2.0",
+    "Installed":      "src/jahia-taglib/6.6.2.0",
+    "Source":         "src/jahia-taglib/6.6.2.0/jahia-taglib-6.6.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1.7",
+    "Installed":      "src/jahia-taglib/6.6.1.7",
+    "Source":         "src/jahia-taglib/6.6.1.7/jahia-taglib-6.6.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1.6",
+    "Installed":      "src/jahia-taglib/6.6.1.6",
+    "Source":         "src/jahia-taglib/6.6.1.6/jahia-taglib-6.6.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1.5",
+    "Installed":      "src/jahia-taglib/6.6.1.5",
+    "Source":         "src/jahia-taglib/6.6.1.5/jahia-taglib-6.6.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1.4",
+    "Installed":      "src/jahia-taglib/6.6.1.4",
+    "Source":         "src/jahia-taglib/6.6.1.4/jahia-taglib-6.6.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1.3",
+    "Installed":      "src/jahia-taglib/6.6.1.3",
+    "Source":         "src/jahia-taglib/6.6.1.3/jahia-taglib-6.6.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1.0",
+    "Installed":      "src/jahia-taglib/6.6.1.0",
+    "Source":         "src/jahia-taglib/6.6.1.0/jahia-taglib-6.6.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.0.1",
+    "Installed":      "src/jahia-taglib/6.6.0.1",
+    "Source":         "src/jahia-taglib/6.6.0.1/jahia-taglib-6.6.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.0.0",
+    "Installed":      "src/jahia-taglib/6.6.0.0",
+    "Source":         "src/jahia-taglib/6.6.0.0/jahia-taglib-6.6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

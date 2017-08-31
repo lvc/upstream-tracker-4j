@@ -1,0 +1,53 @@
+{
+  "Name":           "phoenix-core",
+  "Title":          "Phoenix Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/phoenix/phoenix-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "4.6.0",
+  "ReleasePattern": "\A([\d\.]+)\-HBase-[\d\.]+\Z",
+
+  "Versions": [
+  {
+    "Number":         "4.11.0",
+    "Installed":      "src/phoenix-core/4.11.0",
+    "Source":         "src/phoenix-core/4.11.0/phoenix-core-4.11.0-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10.0",
+    "Installed":      "src/phoenix-core/4.10.0",
+    "Source":         "src/phoenix-core/4.10.0/phoenix-core-4.10.0-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9.0",
+    "Installed":      "src/phoenix-core/4.9.0",
+    "Source":         "src/phoenix-core/4.9.0/phoenix-core-4.9.0-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8.1",
+    "Installed":      "src/phoenix-core/4.8.1",
+    "Source":         "src/phoenix-core/4.8.1/phoenix-core-4.8.1-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8.0",
+    "Installed":      "src/phoenix-core/4.8.0",
+    "Source":         "src/phoenix-core/4.8.0/phoenix-core-4.8.0-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7.0",
+    "Installed":      "src/phoenix-core/4.7.0",
+    "Source":         "src/phoenix-core/4.7.0/phoenix-core-4.7.0-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

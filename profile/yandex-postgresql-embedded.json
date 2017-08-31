@@ -1,0 +1,206 @@
+{
+  "Name":           "yandex-postgresql-embedded",
+  "Title":          "Yandex Embedded PostgreSQL",
+  "SourceUrl":      "http://central.maven.org/maven2/ru/yandex/qatools/embed/postgresql-embedded/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "postgresql-embedded",
+
+  "Versions": [
+  {
+    "Number":         "2.4",
+    "Installed":      "src/yandex-postgresql-embedded/2.4",
+    "Source":         "src/yandex-postgresql-embedded/2.4/postgresql-embedded-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/yandex-postgresql-embedded/2.3",
+    "Source":         "src/yandex-postgresql-embedded/2.3/postgresql-embedded-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/yandex-postgresql-embedded/2.2",
+    "Source":         "src/yandex-postgresql-embedded/2.2/postgresql-embedded-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/yandex-postgresql-embedded/2.1",
+    "Source":         "src/yandex-postgresql-embedded/2.1/postgresql-embedded-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/yandex-postgresql-embedded/2.0",
+    "Source":         "src/yandex-postgresql-embedded/2.0/postgresql-embedded-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.23",
+    "Installed":      "src/yandex-postgresql-embedded/1.23",
+    "Source":         "src/yandex-postgresql-embedded/1.23/postgresql-embedded-1.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.22",
+    "Installed":      "src/yandex-postgresql-embedded/1.22",
+    "Source":         "src/yandex-postgresql-embedded/1.22/postgresql-embedded-1.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.21",
+    "Installed":      "src/yandex-postgresql-embedded/1.21",
+    "Source":         "src/yandex-postgresql-embedded/1.21/postgresql-embedded-1.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20",
+    "Installed":      "src/yandex-postgresql-embedded/1.20",
+    "Source":         "src/yandex-postgresql-embedded/1.20/postgresql-embedded-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19",
+    "Installed":      "src/yandex-postgresql-embedded/1.19",
+    "Source":         "src/yandex-postgresql-embedded/1.19/postgresql-embedded-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18",
+    "Installed":      "src/yandex-postgresql-embedded/1.18",
+    "Source":         "src/yandex-postgresql-embedded/1.18/postgresql-embedded-1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17",
+    "Installed":      "src/yandex-postgresql-embedded/1.17",
+    "Source":         "src/yandex-postgresql-embedded/1.17/postgresql-embedded-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/yandex-postgresql-embedded/1.16",
+    "Source":         "src/yandex-postgresql-embedded/1.16/postgresql-embedded-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/yandex-postgresql-embedded/1.15",
+    "Source":         "src/yandex-postgresql-embedded/1.15/postgresql-embedded-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "src/yandex-postgresql-embedded/1.14",
+    "Source":         "src/yandex-postgresql-embedded/1.14/postgresql-embedded-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/yandex-postgresql-embedded/1.13",
+    "Source":         "src/yandex-postgresql-embedded/1.13/postgresql-embedded-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/yandex-postgresql-embedded/1.12",
+    "Source":         "src/yandex-postgresql-embedded/1.12/postgresql-embedded-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/yandex-postgresql-embedded/1.11",
+    "Source":         "src/yandex-postgresql-embedded/1.11/postgresql-embedded-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/yandex-postgresql-embedded/1.10",
+    "Source":         "src/yandex-postgresql-embedded/1.10/postgresql-embedded-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/yandex-postgresql-embedded/1.9",
+    "Source":         "src/yandex-postgresql-embedded/1.9/postgresql-embedded-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/yandex-postgresql-embedded/1.8",
+    "Source":         "src/yandex-postgresql-embedded/1.8/postgresql-embedded-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/yandex-postgresql-embedded/1.7",
+    "Source":         "src/yandex-postgresql-embedded/1.7/postgresql-embedded-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/yandex-postgresql-embedded/1.6",
+    "Source":         "src/yandex-postgresql-embedded/1.6/postgresql-embedded-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/yandex-postgresql-embedded/1.4",
+    "Source":         "src/yandex-postgresql-embedded/1.4/postgresql-embedded-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/yandex-postgresql-embedded/1.3",
+    "Source":         "src/yandex-postgresql-embedded/1.3/postgresql-embedded-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/yandex-postgresql-embedded/1.2",
+    "Source":         "src/yandex-postgresql-embedded/1.2/postgresql-embedded-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/yandex-postgresql-embedded/1.1",
+    "Source":         "src/yandex-postgresql-embedded/1.1/postgresql-embedded-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/yandex-postgresql-embedded/1.0",
+    "Source":         "src/yandex-postgresql-embedded/1.0/postgresql-embedded-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

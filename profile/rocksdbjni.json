@@ -1,0 +1,138 @@
+{
+  "Name":           "rocksdbjni",
+  "Title":          "RocksDB JNI",
+  "SourceUrl":      "http://central.maven.org/maven2/org/rocksdb/rocksdbjni/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "LatestMicro":    "On",
+  "MinimalVersion": "4.0",
+
+  "Versions": [
+  {
+    "Number":         "5.7.2",
+    "Installed":      "src/rocksdbjni/5.7.2",
+    "Source":         "src/rocksdbjni/5.7.2/rocksdbjni-5.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.6.1",
+    "Installed":      "src/rocksdbjni/5.6.1",
+    "Source":         "src/rocksdbjni/5.6.1/rocksdbjni-5.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.5",
+    "Installed":      "src/rocksdbjni/5.5.5",
+    "Source":         "src/rocksdbjni/5.5.5/rocksdbjni-5.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.7",
+    "Installed":      "src/rocksdbjni/5.4.7",
+    "Source":         "src/rocksdbjni/5.4.7/rocksdbjni-5.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.6",
+    "Installed":      "src/rocksdbjni/5.3.6",
+    "Source":         "src/rocksdbjni/5.3.6/rocksdbjni-5.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.1",
+    "Installed":      "src/rocksdbjni/5.2.1",
+    "Source":         "src/rocksdbjni/5.2.1/rocksdbjni-5.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.4",
+    "Installed":      "src/rocksdbjni/5.1.4",
+    "Source":         "src/rocksdbjni/5.1.4/rocksdbjni-5.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/rocksdbjni/5.0.1",
+    "Source":         "src/rocksdbjni/5.0.1/rocksdbjni-5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.13.5",
+    "Installed":      "src/rocksdbjni/4.13.5",
+    "Source":         "src/rocksdbjni/4.13.5/rocksdbjni-4.13.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.11.2",
+    "Installed":      "src/rocksdbjni/4.11.2",
+    "Source":         "src/rocksdbjni/4.11.2/rocksdbjni-4.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9.0",
+    "Installed":      "src/rocksdbjni/4.9.0",
+    "Source":         "src/rocksdbjni/4.9.0/rocksdbjni-4.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8.0",
+    "Installed":      "src/rocksdbjni/4.8.0",
+    "Source":         "src/rocksdbjni/4.8.0/rocksdbjni-4.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.1",
+    "Installed":      "src/rocksdbjni/4.5.1",
+    "Source":         "src/rocksdbjni/4.5.1/rocksdbjni-4.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.1",
+    "Installed":      "src/rocksdbjni/4.4.1",
+    "Source":         "src/rocksdbjni/4.4.1/rocksdbjni-4.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.1",
+    "Installed":      "src/rocksdbjni/4.3.1",
+    "Source":         "src/rocksdbjni/4.3.1/rocksdbjni-4.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.0",
+    "Installed":      "src/rocksdbjni/4.2.0",
+    "Source":         "src/rocksdbjni/4.2.0/rocksdbjni-4.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/rocksdbjni/4.1.0",
+    "Source":         "src/rocksdbjni/4.1.0/rocksdbjni-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/rocksdbjni/4.0",
+    "Source":         "src/rocksdbjni/4.0/rocksdbjni-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

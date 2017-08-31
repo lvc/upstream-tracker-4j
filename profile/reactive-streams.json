@@ -1,0 +1,30 @@
+{
+  "Name":           "reactive-streams",
+  "Title":          "Reactive Streams",
+  "SourceUrl":      "http://central.maven.org/maven2/org/reactivestreams/reactive-streams/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/reactive-streams/1.0.1",
+    "Source":         "src/reactive-streams/1.0.1/reactive-streams-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/reactive-streams/1.0.0",
+    "Source":         "src/reactive-streams/1.0.0/reactive-streams-1.0.0.final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/reactive-streams/0.4.0",
+    "Source":         "src/reactive-streams/0.4.0/reactive-streams-0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -11,6 +11,13 @@
 
   "Versions": [
   {
+    "Number":         "1.8.2",
+    "Installed":      "src/avro/1.8.2",
+    "Source":         "src/avro/1.8.2/avro-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.1",
     "Installed":      "src/avro/1.8.1",
     "Source":         "src/avro/1.8.1/avro-1.8.1.jar",

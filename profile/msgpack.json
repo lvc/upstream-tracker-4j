@@ -1,0 +1,100 @@
+{
+  "Name":           "msgpack",
+  "Title":          "MessagePack For Java",
+  "SourceUrl":      "http://central.maven.org/maven2/org/msgpack/msgpack/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.6.12",
+    "Installed":      "src/msgpack/0.6.12",
+    "Source":         "src/msgpack/0.6.12/msgpack-0.6.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.11",
+    "Installed":      "src/msgpack/0.6.11",
+    "Source":         "src/msgpack/0.6.11/msgpack-0.6.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.10",
+    "Installed":      "src/msgpack/0.6.10",
+    "Source":         "src/msgpack/0.6.10/msgpack-0.6.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.9",
+    "Installed":      "src/msgpack/0.6.9",
+    "Source":         "src/msgpack/0.6.9/msgpack-0.6.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.8",
+    "Installed":      "src/msgpack/0.6.8",
+    "Source":         "src/msgpack/0.6.8/msgpack-0.6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.7",
+    "Installed":      "src/msgpack/0.6.7",
+    "Source":         "src/msgpack/0.6.7/msgpack-0.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.6",
+    "Installed":      "src/msgpack/0.6.6",
+    "Source":         "src/msgpack/0.6.6/msgpack-0.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.5",
+    "Installed":      "src/msgpack/0.6.5",
+    "Source":         "src/msgpack/0.6.5/msgpack-0.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.4",
+    "Installed":      "src/msgpack/0.6.4",
+    "Source":         "src/msgpack/0.6.4/msgpack-0.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.3",
+    "Installed":      "src/msgpack/0.6.3",
+    "Source":         "src/msgpack/0.6.3/msgpack-0.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.2",
+    "Installed":      "src/msgpack/0.6.2",
+    "Source":         "src/msgpack/0.6.2/msgpack-0.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/msgpack/0.6.1",
+    "Source":         "src/msgpack/0.6.1/msgpack-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/msgpack/0.6.0",
+    "Source":         "src/msgpack/0.6.0/msgpack-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,37 @@
+{
+  "Name":           "jcommon",
+  "Title":          "JCommon",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jfree/jcommon/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.24",
+    "Installed":      "src/jcommon/1.0.24",
+    "Source":         "src/jcommon/1.0.24/jcommon-1.0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.23",
+    "Installed":      "src/jcommon/1.0.23",
+    "Source":         "src/jcommon/1.0.23/jcommon-1.0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.21",
+    "Installed":      "src/jcommon/1.0.21",
+    "Source":         "src/jcommon/1.0.21/jcommon-1.0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.17",
+    "Installed":      "src/jcommon/1.0.17",
+    "Source":         "src/jcommon/1.0.17/jcommon-1.0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,157 @@
+{
+  "Name":           "gearpump-core",
+  "Title":          "Gearpump Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/github/intel-hadoop/gearpump-core_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "gearpump-core_2.11",
+
+  "Versions": [
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/gearpump-core/0.8.0",
+    "Source":         "src/gearpump-core/0.8.0/gearpump-core_2.11-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.6",
+    "Installed":      "src/gearpump-core/0.7.6",
+    "Source":         "src/gearpump-core/0.7.6/gearpump-core_2.11-0.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.5",
+    "Installed":      "src/gearpump-core/0.7.5",
+    "Source":         "src/gearpump-core/0.7.5/gearpump-core_2.11-0.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.4",
+    "Installed":      "src/gearpump-core/0.7.4",
+    "Source":         "src/gearpump-core/0.7.4/gearpump-core_2.11-0.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.3",
+    "Installed":      "src/gearpump-core/0.7.3",
+    "Source":         "src/gearpump-core/0.7.3/gearpump-core_2.11-0.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/gearpump-core/0.7.2",
+    "Source":         "src/gearpump-core/0.7.2/gearpump-core_2.11-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/gearpump-core/0.7.1",
+    "Source":         "src/gearpump-core/0.7.1/gearpump-core_2.11-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/gearpump-core/0.7.0",
+    "Source":         "src/gearpump-core/0.7.0/gearpump-core_2.11-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1.4",
+    "Installed":      "src/gearpump-core/0.6.1.4",
+    "Source":         "src/gearpump-core/0.6.1.4/gearpump-core_2.11-0.6.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.2",
+    "Installed":      "src/gearpump-core/0.4.2",
+    "Source":         "src/gearpump-core/0.4.2/gearpump-core_2.11-0.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.1",
+    "Installed":      "src/gearpump-core/0.4.1",
+    "Source":         "src/gearpump-core/0.4.1/gearpump-core_2.11-0.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/gearpump-core/0.4",
+    "Source":         "src/gearpump-core/0.4/gearpump-core_2.11-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.7",
+    "Installed":      "src/gearpump-core/0.3.7",
+    "Source":         "src/gearpump-core/0.3.7/gearpump-core_2.11-0.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.6",
+    "Installed":      "src/gearpump-core/0.3.6",
+    "Source":         "src/gearpump-core/0.3.6/gearpump-core_2.11-0.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.4",
+    "Installed":      "src/gearpump-core/0.3.4",
+    "Source":         "src/gearpump-core/0.3.4/gearpump-core_2.11-0.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.3",
+    "Installed":      "src/gearpump-core/0.3.3",
+    "Source":         "src/gearpump-core/0.3.3/gearpump-core_2.11-0.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.2",
+    "Installed":      "src/gearpump-core/0.3.2",
+    "Source":         "src/gearpump-core/0.3.2/gearpump-core_2.11-0.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.1",
+    "Installed":      "src/gearpump-core/0.3.1",
+    "Source":         "src/gearpump-core/0.3.1/gearpump-core_2.11-0.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.3",
+    "Installed":      "src/gearpump-core/0.2.3",
+    "Source":         "src/gearpump-core/0.2.3/gearpump-core_2.11-0.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.2",
+    "Installed":      "src/gearpump-core/0.2.2",
+    "Source":         "src/gearpump-core/0.2.2/gearpump-core_2.11-0.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/gearpump-core/0.2",
+    "Source":         "src/gearpump-core/0.2/gearpump-core_2.11-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

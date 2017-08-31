@@ -1,0 +1,142 @@
+{
+  "Name":           "jul.storage",
+  "Title":          "JUL Storage",
+  "SourceUrl":      "http://central.maven.org/maven2/org/openbase/jul.storage/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/jul.storage/1.4.1",
+    "Source":         "src/jul.storage/1.4.1/jul.storage-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/jul.storage/1.4.0",
+    "Source":         "src/jul.storage/1.4.0/jul.storage-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.12",
+    "Installed":      "src/jul.storage/1.3.12",
+    "Source":         "src/jul.storage/1.3.12/jul.storage-1.3.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.11",
+    "Installed":      "src/jul.storage/1.3.11",
+    "Source":         "src/jul.storage/1.3.11/jul.storage-1.3.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.9",
+    "Installed":      "src/jul.storage/1.3.9",
+    "Source":         "src/jul.storage/1.3.9/jul.storage-1.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.5",
+    "Installed":      "src/jul.storage/1.3.5",
+    "Source":         "src/jul.storage/1.3.5/jul.storage-1.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.4",
+    "Installed":      "src/jul.storage/1.3.4",
+    "Source":         "src/jul.storage/1.3.4/jul.storage-1.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/jul.storage/1.3.3",
+    "Source":         "src/jul.storage/1.3.3/jul.storage-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/jul.storage/1.3.2",
+    "Source":         "src/jul.storage/1.3.2/jul.storage-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/jul.storage/1.3.1",
+    "Source":         "src/jul.storage/1.3.1/jul.storage-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/jul.storage/1.3.0",
+    "Source":         "src/jul.storage/1.3.0/jul.storage-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/jul.storage/1.2.0",
+    "Source":         "src/jul.storage/1.2.0/jul.storage-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.6",
+    "Installed":      "src/jul.storage/1.1.6",
+    "Source":         "src/jul.storage/1.1.6/jul.storage-1.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5",
+    "Installed":      "src/jul.storage/1.1.5",
+    "Source":         "src/jul.storage/1.1.5/jul.storage-1.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/jul.storage/1.1.4",
+    "Source":         "src/jul.storage/1.1.4/jul.storage-1.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/jul.storage/1.1.3",
+    "Source":         "src/jul.storage/1.1.3/jul.storage-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/jul.storage/1.1.2",
+    "Source":         "src/jul.storage/1.1.2/jul.storage-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/jul.storage/1.1.1",
+    "Source":         "src/jul.storage/1.1.1/jul.storage-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/jul.storage/1.1.0",
+    "Source":         "src/jul.storage/1.1.0/jul.storage-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

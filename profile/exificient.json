@@ -1,0 +1,44 @@
+{
+  "Name":           "exificient",
+  "Title":          "EXIficient",
+  "SourceUrl":      "http://central.maven.org/maven2/com/siemens/ct/exi/exificient/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.9.6",
+    "Installed":      "src/exificient/0.9.6",
+    "Source":         "src/exificient/0.9.6/exificient-0.9.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.5",
+    "Installed":      "src/exificient/0.9.5",
+    "Source":         "src/exificient/0.9.5/exificient-0.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.4",
+    "Installed":      "src/exificient/0.9.4",
+    "Source":         "src/exificient/0.9.4/exificient-0.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.3",
+    "Installed":      "src/exificient/0.9.3",
+    "Source":         "src/exificient/0.9.3/exificient-0.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.2",
+    "Installed":      "src/exificient/0.9.2",
+    "Source":         "src/exificient/0.9.2/exificient-0.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,73 @@
+{
+  "Name":           "itextpdf",
+  "Title":          "IText Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/itextpdf/itextpdf/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "5.5.4",
+
+  "Versions": [
+  {
+    "Number":         "5.5.12",
+    "Installed":      "src/itextpdf/5.5.12",
+    "Source":         "src/itextpdf/5.5.12/itextpdf-5.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.11",
+    "Installed":      "src/itextpdf/5.5.11",
+    "Source":         "src/itextpdf/5.5.11/itextpdf-5.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.10",
+    "Installed":      "src/itextpdf/5.5.10",
+    "Source":         "src/itextpdf/5.5.10/itextpdf-5.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.9",
+    "Installed":      "src/itextpdf/5.5.9",
+    "Source":         "src/itextpdf/5.5.9/itextpdf-5.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.8",
+    "Installed":      "src/itextpdf/5.5.8",
+    "Source":         "src/itextpdf/5.5.8/itextpdf-5.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.7",
+    "Installed":      "src/itextpdf/5.5.7",
+    "Source":         "src/itextpdf/5.5.7/itextpdf-5.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.6",
+    "Installed":      "src/itextpdf/5.5.6",
+    "Source":         "src/itextpdf/5.5.6/itextpdf-5.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.5",
+    "Installed":      "src/itextpdf/5.5.5",
+    "Source":         "src/itextpdf/5.5.5/itextpdf-5.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.4",
+    "Installed":      "src/itextpdf/5.5.4",
+    "Source":         "src/itextpdf/5.5.4/itextpdf-5.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

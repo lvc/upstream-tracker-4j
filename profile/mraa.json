@@ -1,0 +1,23 @@
+{
+  "Name":           "mraa",
+  "Title":          "Mraa",
+  "SourceUrl":      "http://central.maven.org/maven2/io/mraa/at/mraa/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.7.0",
+    "Installed":      "installed/mraa/1.7.0",
+    "Source":         "src/mraa/1.7.0/mraa-1.7.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "installed/mraa/1.6.1",
+    "Source":         "src/mraa/1.6.1/mraa-1.6.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

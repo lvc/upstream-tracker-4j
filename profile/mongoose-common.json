@@ -1,0 +1,44 @@
+{
+  "Name":           "mongoose-common",
+  "Title":          "Mongoose Common",
+  "SourceUrl":      "http://central.maven.org/maven2/com/github/emc-mongoose/mongoose-common/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/mongoose-common/3.5.0",
+    "Source":         "src/mongoose-common/3.5.0/mongoose-common-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/mongoose-common/3.4.1",
+    "Source":         "src/mongoose-common/3.4.1/mongoose-common-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/mongoose-common/3.4.0",
+    "Source":         "src/mongoose-common/3.4.0/mongoose-common-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/mongoose-common/3.3.1",
+    "Source":         "src/mongoose-common/3.3.1/mongoose-common-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/mongoose-common/3.3.0",
+    "Source":         "src/mongoose-common/3.3.0/mongoose-common-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

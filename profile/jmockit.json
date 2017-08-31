@@ -1,0 +1,198 @@
+{
+  "Name":           "jmockit",
+  "Title":          "JMockit",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jmockit/jmockit/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.34",
+    "Installed":      "src/jmockit/1.34",
+    "Source":         "src/jmockit/1.34/jmockit-1.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.33",
+    "Installed":      "src/jmockit/1.33",
+    "Source":         "src/jmockit/1.33/jmockit-1.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.32",
+    "Installed":      "src/jmockit/1.32",
+    "Source":         "src/jmockit/1.32/jmockit-1.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.31",
+    "Installed":      "src/jmockit/1.31",
+    "Source":         "src/jmockit/1.31/jmockit-1.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.30",
+    "Installed":      "src/jmockit/1.30",
+    "Source":         "src/jmockit/1.30/jmockit-1.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.29",
+    "Installed":      "src/jmockit/1.29",
+    "Source":         "src/jmockit/1.29/jmockit-1.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.28",
+    "Installed":      "src/jmockit/1.28",
+    "Source":         "src/jmockit/1.28/jmockit-1.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.27",
+    "Installed":      "src/jmockit/1.27",
+    "Source":         "src/jmockit/1.27/jmockit-1.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.26",
+    "Installed":      "src/jmockit/1.26",
+    "Source":         "src/jmockit/1.26/jmockit-1.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.25",
+    "Installed":      "src/jmockit/1.25",
+    "Source":         "src/jmockit/1.25/jmockit-1.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.24",
+    "Installed":      "src/jmockit/1.24",
+    "Source":         "src/jmockit/1.24/jmockit-1.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.23",
+    "Installed":      "src/jmockit/1.23",
+    "Source":         "src/jmockit/1.23/jmockit-1.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.22",
+    "Installed":      "src/jmockit/1.22",
+    "Source":         "src/jmockit/1.22/jmockit-1.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.21",
+    "Installed":      "src/jmockit/1.21",
+    "Source":         "src/jmockit/1.21/jmockit-1.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20",
+    "Installed":      "src/jmockit/1.20",
+    "Source":         "src/jmockit/1.20/jmockit-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19",
+    "Installed":      "src/jmockit/1.19",
+    "Source":         "src/jmockit/1.19/jmockit-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18",
+    "Installed":      "src/jmockit/1.18",
+    "Source":         "src/jmockit/1.18/jmockit-1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17",
+    "Installed":      "src/jmockit/1.17",
+    "Source":         "src/jmockit/1.17/jmockit-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/jmockit/1.16",
+    "Source":         "src/jmockit/1.16/jmockit-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/jmockit/1.15",
+    "Source":         "src/jmockit/1.15/jmockit-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "src/jmockit/1.14",
+    "Source":         "src/jmockit/1.14/jmockit-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/jmockit/1.13",
+    "Source":         "src/jmockit/1.13/jmockit-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/jmockit/1.12",
+    "Source":         "src/jmockit/1.12/jmockit-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/jmockit/1.11",
+    "Source":         "src/jmockit/1.11/jmockit-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/jmockit/1.10",
+    "Source":         "src/jmockit/1.10/jmockit-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/jmockit/1.9",
+    "Source":         "src/jmockit/1.9/jmockit-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/jmockit/1.8",
+    "Source":         "src/jmockit/1.8/jmockit-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

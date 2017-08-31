@@ -4,16 +4,48 @@
   "SourceUrl":      "http://central.maven.org/maven2/javax/enterprise/cdi-api/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
-  "GraphShortXTics": "1",
+  "GraphShortXTics": "On",
   "SkipVersions":   [ ".*\-\d\d\d\d\d\d\d\d" ],
 
   "Versions": [
+  {
+    "Number":         "2.0",
+    "Installed":      "src/cdi-api/2.0",
+    "Source":         "src/cdi-api/2.0/cdi-api-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.Beta1",
+    "Installed":      "src/cdi-api/2.0.Beta1",
+    "Source":         "src/cdi-api/2.0.Beta1/cdi-api-2.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.Alpha6",
+    "Installed":      "src/cdi-api/2.0.Alpha6",
+    "Source":         "src/cdi-api/2.0.Alpha6/cdi-api-2.0.Alpha6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.Alpha5",
+    "Installed":      "src/cdi-api/2.0.Alpha5",
+    "Source":         "src/cdi-api/2.0.Alpha5/cdi-api-2.0.Alpha5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
   {
     "Number":         "2.0.Alpha4",
     "Installed":      "src/cdi-api/2.0.Alpha4",
     "Source":         "src/cdi-api/2.0.Alpha4/cdi-api-2.0.Alpha4.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "1.2",

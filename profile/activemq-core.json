@@ -1,0 +1,121 @@
+{
+  "Name":           "activemq-core",
+  "Title":          "ActiveMQ Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/activemq/activemq-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "5.7.0",
+    "Installed":      "src/activemq-core/5.7.0",
+    "Source":         "src/activemq-core/5.7.0/activemq-core-5.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.6.0",
+    "Installed":      "src/activemq-core/5.6.0",
+    "Source":         "src/activemq-core/5.6.0/activemq-core-5.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.1",
+    "Installed":      "src/activemq-core/5.5.1",
+    "Source":         "src/activemq-core/5.5.1/activemq-core-5.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.0",
+    "Installed":      "src/activemq-core/5.5.0",
+    "Source":         "src/activemq-core/5.5.0/activemq-core-5.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.3",
+    "Installed":      "src/activemq-core/5.4.3",
+    "Source":         "src/activemq-core/5.4.3/activemq-core-5.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.2",
+    "Installed":      "src/activemq-core/5.4.2",
+    "Source":         "src/activemq-core/5.4.2/activemq-core-5.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.1",
+    "Installed":      "src/activemq-core/5.4.1",
+    "Source":         "src/activemq-core/5.4.1/activemq-core-5.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.0",
+    "Installed":      "src/activemq-core/5.4.0",
+    "Source":         "src/activemq-core/5.4.0/activemq-core-5.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.2",
+    "Installed":      "src/activemq-core/5.3.2",
+    "Source":         "src/activemq-core/5.3.2/activemq-core-5.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.1",
+    "Installed":      "src/activemq-core/5.3.1",
+    "Source":         "src/activemq-core/5.3.1/activemq-core-5.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.0",
+    "Installed":      "src/activemq-core/5.3.0",
+    "Source":         "src/activemq-core/5.3.0/activemq-core-5.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.0",
+    "Installed":      "src/activemq-core/5.2.0",
+    "Source":         "src/activemq-core/5.2.0/activemq-core-5.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "src/activemq-core/5.1.0",
+    "Source":         "src/activemq-core/5.1.0/activemq-core-5.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/activemq-core/5.0.0",
+    "Source":         "src/activemq-core/5.0.0/activemq-core-5.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.2",
+    "Installed":      "src/activemq-core/4.1.2",
+    "Source":         "src/activemq-core/4.1.2/activemq-core-4.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.1",
+    "Installed":      "src/activemq-core/4.1.1",
+    "Source":         "src/activemq-core/4.1.1/activemq-core-4.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

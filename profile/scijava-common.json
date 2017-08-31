@@ -1,0 +1,332 @@
+{
+  "Name":           "scijava-common",
+  "Title":          "SciJava Common",
+  "SourceUrl":      "http://central.maven.org/maven2/org/scijava/scijava-common/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.36.0",
+
+  "Versions": [
+  {
+    "Number":         "2.65.0",
+    "Installed":      "src/scijava-common/2.65.0",
+    "Source":         "src/scijava-common/2.65.0/scijava-common-2.65.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.64.0",
+    "Installed":      "src/scijava-common/2.64.0",
+    "Source":         "src/scijava-common/2.64.0/scijava-common-2.64.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.63.0",
+    "Installed":      "src/scijava-common/2.63.0",
+    "Source":         "src/scijava-common/2.63.0/scijava-common-2.63.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.62.1",
+    "Installed":      "src/scijava-common/2.62.1",
+    "Source":         "src/scijava-common/2.62.1/scijava-common-2.62.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.62.0",
+    "Installed":      "src/scijava-common/2.62.0",
+    "Source":         "src/scijava-common/2.62.0/scijava-common-2.62.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.61.0",
+    "Installed":      "src/scijava-common/2.61.0",
+    "Source":         "src/scijava-common/2.61.0/scijava-common-2.61.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.60.2",
+    "Installed":      "src/scijava-common/2.60.2",
+    "Source":         "src/scijava-common/2.60.2/scijava-common-2.60.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.60.1",
+    "Installed":      "src/scijava-common/2.60.1",
+    "Source":         "src/scijava-common/2.60.1/scijava-common-2.60.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.60.0",
+    "Installed":      "src/scijava-common/2.60.0",
+    "Source":         "src/scijava-common/2.60.0/scijava-common-2.60.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.59.0",
+    "Installed":      "src/scijava-common/2.59.0",
+    "Source":         "src/scijava-common/2.59.0/scijava-common-2.59.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.58.3",
+    "Installed":      "src/scijava-common/2.58.3",
+    "Source":         "src/scijava-common/2.58.3/scijava-common-2.58.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.58.2",
+    "Installed":      "src/scijava-common/2.58.2",
+    "Source":         "src/scijava-common/2.58.2/scijava-common-2.58.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.58.1",
+    "Installed":      "src/scijava-common/2.58.1",
+    "Source":         "src/scijava-common/2.58.1/scijava-common-2.58.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.57.0",
+    "Installed":      "src/scijava-common/2.57.0",
+    "Source":         "src/scijava-common/2.57.0/scijava-common-2.57.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.56.0",
+    "Installed":      "src/scijava-common/2.56.0",
+    "Source":         "src/scijava-common/2.56.0/scijava-common-2.56.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.55.1",
+    "Installed":      "src/scijava-common/2.55.1",
+    "Source":         "src/scijava-common/2.55.1/scijava-common-2.55.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.55.0",
+    "Installed":      "src/scijava-common/2.55.0",
+    "Source":         "src/scijava-common/2.55.0/scijava-common-2.55.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.54.0",
+    "Installed":      "src/scijava-common/2.54.0",
+    "Source":         "src/scijava-common/2.54.0/scijava-common-2.54.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.53.1",
+    "Installed":      "src/scijava-common/2.53.1",
+    "Source":         "src/scijava-common/2.53.1/scijava-common-2.53.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.53.0",
+    "Installed":      "src/scijava-common/2.53.0",
+    "Source":         "src/scijava-common/2.53.0/scijava-common-2.53.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.52.1",
+    "Installed":      "src/scijava-common/2.52.1",
+    "Source":         "src/scijava-common/2.52.1/scijava-common-2.52.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.52.0",
+    "Installed":      "src/scijava-common/2.52.0",
+    "Source":         "src/scijava-common/2.52.0/scijava-common-2.52.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.51.0",
+    "Installed":      "src/scijava-common/2.51.0",
+    "Source":         "src/scijava-common/2.51.0/scijava-common-2.51.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.50.1",
+    "Installed":      "src/scijava-common/2.50.1",
+    "Source":         "src/scijava-common/2.50.1/scijava-common-2.50.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.50.0",
+    "Installed":      "src/scijava-common/2.50.0",
+    "Source":         "src/scijava-common/2.50.0/scijava-common-2.50.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.49.1",
+    "Installed":      "src/scijava-common/2.49.1",
+    "Source":         "src/scijava-common/2.49.1/scijava-common-2.49.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.49.0",
+    "Installed":      "src/scijava-common/2.49.0",
+    "Source":         "src/scijava-common/2.49.0/scijava-common-2.49.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.48.0",
+    "Installed":      "src/scijava-common/2.48.0",
+    "Source":         "src/scijava-common/2.48.0/scijava-common-2.48.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.47.0",
+    "Installed":      "src/scijava-common/2.47.0",
+    "Source":         "src/scijava-common/2.47.0/scijava-common-2.47.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.46.0",
+    "Installed":      "src/scijava-common/2.46.0",
+    "Source":         "src/scijava-common/2.46.0/scijava-common-2.46.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.45.0",
+    "Installed":      "src/scijava-common/2.45.0",
+    "Source":         "src/scijava-common/2.45.0/scijava-common-2.45.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.2",
+    "Installed":      "src/scijava-common/2.44.2",
+    "Source":         "src/scijava-common/2.44.2/scijava-common-2.44.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.1",
+    "Installed":      "src/scijava-common/2.44.1",
+    "Source":         "src/scijava-common/2.44.1/scijava-common-2.44.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.44.0",
+    "Installed":      "src/scijava-common/2.44.0",
+    "Source":         "src/scijava-common/2.44.0/scijava-common-2.44.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.43.0",
+    "Installed":      "src/scijava-common/2.43.0",
+    "Source":         "src/scijava-common/2.43.0/scijava-common-2.43.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.42.2",
+    "Installed":      "src/scijava-common/2.42.2",
+    "Source":         "src/scijava-common/2.42.2/scijava-common-2.42.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.42.1",
+    "Installed":      "src/scijava-common/2.42.1",
+    "Source":         "src/scijava-common/2.42.1/scijava-common-2.42.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.42.0",
+    "Installed":      "src/scijava-common/2.42.0",
+    "Source":         "src/scijava-common/2.42.0/scijava-common-2.42.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.41.0",
+    "Installed":      "src/scijava-common/2.41.0",
+    "Source":         "src/scijava-common/2.41.0/scijava-common-2.41.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.40.0",
+    "Installed":      "src/scijava-common/2.40.0",
+    "Source":         "src/scijava-common/2.40.0/scijava-common-2.40.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.39.0",
+    "Installed":      "src/scijava-common/2.39.0",
+    "Source":         "src/scijava-common/2.39.0/scijava-common-2.39.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.38.2",
+    "Installed":      "src/scijava-common/2.38.2",
+    "Source":         "src/scijava-common/2.38.2/scijava-common-2.38.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.38.1",
+    "Installed":      "src/scijava-common/2.38.1",
+    "Source":         "src/scijava-common/2.38.1/scijava-common-2.38.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.38.0",
+    "Installed":      "src/scijava-common/2.38.0",
+    "Source":         "src/scijava-common/2.38.0/scijava-common-2.38.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.37.0",
+    "Installed":      "src/scijava-common/2.37.0",
+    "Source":         "src/scijava-common/2.37.0/scijava-common-2.37.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.36.0",
+    "Installed":      "src/scijava-common/2.36.0",
+    "Source":         "src/scijava-common/2.36.0/scijava-common-2.36.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

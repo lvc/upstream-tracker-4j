@@ -1,0 +1,191 @@
+{
+  "Name":           "kryo-serializers",
+  "Title":          "Kryo Serializers",
+  "SourceUrl":      "http://central.maven.org/maven2/de/javakaffee/kryo-serializers/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.42",
+    "Installed":      "src/kryo-serializers/0.42",
+    "Source":         "src/kryo-serializers/0.42/kryo-serializers-0.42.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.41",
+    "Installed":      "src/kryo-serializers/0.41",
+    "Source":         "src/kryo-serializers/0.41/kryo-serializers-0.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.40",
+    "Installed":      "src/kryo-serializers/0.40",
+    "Source":         "src/kryo-serializers/0.40/kryo-serializers-0.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.39",
+    "Installed":      "src/kryo-serializers/0.39",
+    "Source":         "src/kryo-serializers/0.39/kryo-serializers-0.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.38",
+    "Installed":      "src/kryo-serializers/0.38",
+    "Source":         "src/kryo-serializers/0.38/kryo-serializers-0.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.37",
+    "Installed":      "src/kryo-serializers/0.37",
+    "Source":         "src/kryo-serializers/0.37/kryo-serializers-0.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.36",
+    "Installed":      "src/kryo-serializers/0.36",
+    "Source":         "src/kryo-serializers/0.36/kryo-serializers-0.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.35",
+    "Installed":      "src/kryo-serializers/0.35",
+    "Source":         "src/kryo-serializers/0.35/kryo-serializers-0.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.34",
+    "Installed":      "src/kryo-serializers/0.34",
+    "Source":         "src/kryo-serializers/0.34/kryo-serializers-0.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.33",
+    "Installed":      "src/kryo-serializers/0.33",
+    "Source":         "src/kryo-serializers/0.33/kryo-serializers-0.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.32",
+    "Installed":      "src/kryo-serializers/0.32",
+    "Source":         "src/kryo-serializers/0.32/kryo-serializers-0.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.31",
+    "Installed":      "src/kryo-serializers/0.31",
+    "Source":         "src/kryo-serializers/0.31/kryo-serializers-0.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.30",
+    "Installed":      "src/kryo-serializers/0.30",
+    "Source":         "src/kryo-serializers/0.30/kryo-serializers-0.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.29",
+    "Installed":      "src/kryo-serializers/0.29",
+    "Source":         "src/kryo-serializers/0.29/kryo-serializers-0.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.28",
+    "Installed":      "src/kryo-serializers/0.28",
+    "Source":         "src/kryo-serializers/0.28/kryo-serializers-0.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.27",
+    "Installed":      "src/kryo-serializers/0.27",
+    "Source":         "src/kryo-serializers/0.27/kryo-serializers-0.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.26",
+    "Installed":      "src/kryo-serializers/0.26",
+    "Source":         "src/kryo-serializers/0.26/kryo-serializers-0.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.25",
+    "Installed":      "src/kryo-serializers/0.25",
+    "Source":         "src/kryo-serializers/0.25/kryo-serializers-0.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.24",
+    "Installed":      "src/kryo-serializers/0.24",
+    "Source":         "src/kryo-serializers/0.24/kryo-serializers-0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.23",
+    "Installed":      "src/kryo-serializers/0.23",
+    "Source":         "src/kryo-serializers/0.23/kryo-serializers-0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22",
+    "Installed":      "src/kryo-serializers/0.22",
+    "Source":         "src/kryo-serializers/0.22/kryo-serializers-0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21",
+    "Installed":      "src/kryo-serializers/0.21",
+    "Source":         "src/kryo-serializers/0.21/kryo-serializers-0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20",
+    "Installed":      "src/kryo-serializers/0.20",
+    "Source":         "src/kryo-serializers/0.20/kryo-serializers-0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11",
+    "Installed":      "src/kryo-serializers/0.11",
+    "Source":         "src/kryo-serializers/0.11/kryo-serializers-0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10",
+    "Installed":      "src/kryo-serializers/0.10",
+    "Source":         "src/kryo-serializers/0.10/kryo-serializers-0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/kryo-serializers/0.9",
+    "Source":         "src/kryo-serializers/0.9/kryo-serializers-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

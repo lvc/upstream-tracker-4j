@@ -7,6 +7,41 @@
 
   "Versions": [
   {
+    "Number":         "2.9.9",
+    "Installed":      "src/joda-time/2.9.9",
+    "Source":         "src/joda-time/2.9.9/joda-time-2.9.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.8",
+    "Installed":      "src/joda-time/2.9.8",
+    "Source":         "src/joda-time/2.9.8/joda-time-2.9.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.7",
+    "Installed":      "src/joda-time/2.9.7",
+    "Source":         "src/joda-time/2.9.7/joda-time-2.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.6",
+    "Installed":      "src/joda-time/2.9.6",
+    "Source":         "src/joda-time/2.9.6/joda-time-2.9.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.5",
+    "Installed":      "src/joda-time/2.9.5",
+    "Source":         "src/joda-time/2.9.5/joda-time-2.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.9.4",
     "Installed":      "src/joda-time/2.9.4",
     "Source":         "src/joda-time/2.9.4/joda-time-2.9.4.jar",

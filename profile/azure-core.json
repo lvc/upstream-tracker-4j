@@ -1,0 +1,38 @@
+{
+  "Name":           "azure-core",
+  "Title":          "Microsoft Azure SDK",
+  "SourceUrl":      "http://central.maven.org/maven2/com/microsoft/azure/azure-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+
+  "Versions": [
+  {
+    "Number":         "0.9.7",
+    "Installed":      "src/azure-core/0.9.7",
+    "Source":         "src/azure-core/0.9.7/azure-core-0.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.3",
+    "Installed":      "src/azure-core/0.8.3",
+    "Source":         "src/azure-core/0.8.3/azure-core-0.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/azure-core/0.7.0",
+    "Source":         "src/azure-core/0.7.0/azure-core-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/azure-core/0.6.0",
+    "Source":         "src/azure-core/0.6.0/azure-core-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

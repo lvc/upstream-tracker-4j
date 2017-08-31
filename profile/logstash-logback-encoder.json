@@ -1,0 +1,151 @@
+{
+  "Name":           "logstash-logback-encoder",
+  "Title":          "Logstash Logback Encoder",
+  "SourceUrl":      "http://central.maven.org/maven2/net/logstash/logback/logstash-logback-encoder/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "3.0",
+  "SkipInternalPackages": ".*\.(org\.apache\.commons|com\.fasterxml\.jackson)\..*",
+
+  "Versions": [
+  {
+    "Number":         "4.11",
+    "Installed":      "src/logstash-logback-encoder/4.11",
+    "Source":         "src/logstash-logback-encoder/4.11/logstash-logback-encoder-4.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.10",
+    "Installed":      "src/logstash-logback-encoder/4.10",
+    "Source":         "src/logstash-logback-encoder/4.10/logstash-logback-encoder-4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.9",
+    "Installed":      "src/logstash-logback-encoder/4.9",
+    "Source":         "src/logstash-logback-encoder/4.9/logstash-logback-encoder-4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.8",
+    "Installed":      "src/logstash-logback-encoder/4.8",
+    "Source":         "src/logstash-logback-encoder/4.8/logstash-logback-encoder-4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.7",
+    "Installed":      "src/logstash-logback-encoder/4.7",
+    "Source":         "src/logstash-logback-encoder/4.7/logstash-logback-encoder-4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6",
+    "Installed":      "src/logstash-logback-encoder/4.6",
+    "Source":         "src/logstash-logback-encoder/4.6/logstash-logback-encoder-4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.1",
+    "Installed":      "src/logstash-logback-encoder/4.5.1",
+    "Source":         "src/logstash-logback-encoder/4.5.1/logstash-logback-encoder-4.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5",
+    "Installed":      "src/logstash-logback-encoder/4.5",
+    "Source":         "src/logstash-logback-encoder/4.5/logstash-logback-encoder-4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4",
+    "Installed":      "src/logstash-logback-encoder/4.4",
+    "Source":         "src/logstash-logback-encoder/4.4/logstash-logback-encoder-4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3",
+    "Installed":      "src/logstash-logback-encoder/4.3",
+    "Source":         "src/logstash-logback-encoder/4.3/logstash-logback-encoder-4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2",
+    "Installed":      "src/logstash-logback-encoder/4.2",
+    "Source":         "src/logstash-logback-encoder/4.2/logstash-logback-encoder-4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1",
+    "Installed":      "src/logstash-logback-encoder/4.1",
+    "Source":         "src/logstash-logback-encoder/4.1/logstash-logback-encoder-4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0",
+    "Installed":      "src/logstash-logback-encoder/4.0",
+    "Source":         "src/logstash-logback-encoder/4.0/logstash-logback-encoder-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6",
+    "Installed":      "src/logstash-logback-encoder/3.6",
+    "Source":         "src/logstash-logback-encoder/3.6/logstash-logback-encoder-3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/logstash-logback-encoder/3.5",
+    "Source":         "src/logstash-logback-encoder/3.5/logstash-logback-encoder-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/logstash-logback-encoder/3.4",
+    "Source":         "src/logstash-logback-encoder/3.4/logstash-logback-encoder-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/logstash-logback-encoder/3.3",
+    "Source":         "src/logstash-logback-encoder/3.3/logstash-logback-encoder-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/logstash-logback-encoder/3.2",
+    "Source":         "src/logstash-logback-encoder/3.2/logstash-logback-encoder-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/logstash-logback-encoder/3.1",
+    "Source":         "src/logstash-logback-encoder/3.1/logstash-logback-encoder-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/logstash-logback-encoder/3.0",
+    "Source":         "src/logstash-logback-encoder/3.0/logstash-logback-encoder-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

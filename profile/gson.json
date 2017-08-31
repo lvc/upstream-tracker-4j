@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "2.8.1",
+    "Installed":      "src/gson/2.8.1",
+    "Source":         "src/gson/2.8.1/gson-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/gson/2.8.0",
+    "Source":         "src/gson/2.8.0/gson-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.7",
     "Installed":      "src/gson/2.7",
     "Source":         "src/gson/2.7/gson-2.7.jar",

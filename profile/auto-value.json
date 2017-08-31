@@ -1,0 +1,59 @@
+{
+  "Name":           "auto-value",
+  "Title":          "Google AutoValue",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/auto/value/auto-value/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipInternalPackages": ".*(org\.apache|autovalue\.shaded).*",
+
+  "Versions": [
+  {
+    "Number":         "1.5",
+    "Installed":      "src/auto-value/1.5",
+    "Source":         "src/auto-value/1.5/auto-value-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/auto-value/1.4.1",
+    "Source":         "src/auto-value/1.4.1/auto-value-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/auto-value/1.4",
+    "Source":         "src/auto-value/1.4/auto-value-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/auto-value/1.3",
+    "Source":         "src/auto-value/1.3/auto-value-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/auto-value/1.2",
+    "Source":         "src/auto-value/1.2/auto-value-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/auto-value/1.1",
+    "Source":         "src/auto-value/1.1/auto-value-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/auto-value/1.0",
+    "Source":         "src/auto-value/1.0/auto-value-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

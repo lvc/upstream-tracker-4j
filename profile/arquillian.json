@@ -1,0 +1,144 @@
+{
+  "Name":           "arquillian",
+  "Title":          "Arquillian",
+  "SourceUrl":      "http://central.maven.org/maven2/org/wildfly/swarm/arquillian/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+  "SkipVersions":   [ "\A1.*" ],
+
+  "Versions": [
+  {
+    "Number":         "2017.8.1",
+    "Installed":      "src/arquillian/2017.8.1",
+    "Source":         "src/arquillian/2017.8.1/arquillian-2017.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.8.0",
+    "Installed":      "src/arquillian/2017.8.0",
+    "Source":         "src/arquillian/2017.8.0/arquillian-2017.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.7.0",
+    "Installed":      "src/arquillian/2017.7.0",
+    "Source":         "src/arquillian/2017.7.0/arquillian-2017.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.6.1",
+    "Installed":      "src/arquillian/2017.6.1",
+    "Source":         "src/arquillian/2017.6.1/arquillian-2017.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.6.0",
+    "Installed":      "src/arquillian/2017.6.0",
+    "Source":         "src/arquillian/2017.6.0/arquillian-2017.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.5.0",
+    "Installed":      "src/arquillian/2017.5.0",
+    "Source":         "src/arquillian/2017.5.0/arquillian-2017.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.4.0",
+    "Installed":      "src/arquillian/2017.4.0",
+    "Source":         "src/arquillian/2017.4.0/arquillian-2017.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.3.3",
+    "Installed":      "src/arquillian/2017.3.3",
+    "Source":         "src/arquillian/2017.3.3/arquillian-2017.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.3.2",
+    "Installed":      "src/arquillian/2017.3.2",
+    "Source":         "src/arquillian/2017.3.2/arquillian-2017.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.2.0",
+    "Installed":      "src/arquillian/2017.2.0",
+    "Source":         "src/arquillian/2017.2.0/arquillian-2017.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.1.1",
+    "Installed":      "src/arquillian/2017.1.1",
+    "Source":         "src/arquillian/2017.1.1/arquillian-2017.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2017.1",
+    "Installed":      "src/arquillian/2017.1",
+    "Source":         "src/arquillian/2017.1/arquillian-2017.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2016.12.1",
+    "Installed":      "src/arquillian/2016.12.1",
+    "Source":         "src/arquillian/2016.12.1/arquillian-2016.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2016.12.0",
+    "Installed":      "src/arquillian/2016.12.0",
+    "Source":         "src/arquillian/2016.12.0/arquillian-2016.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2016.11.0",
+    "Installed":      "src/arquillian/2016.11.0",
+    "Source":         "src/arquillian/2016.11.0/arquillian-2016.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2016.10.0",
+    "Installed":      "src/arquillian/2016.10.0",
+    "Source":         "src/arquillian/2016.10.0/arquillian-2016.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2016.9",
+    "Installed":      "src/arquillian/2016.9",
+    "Source":         "src/arquillian/2016.9/arquillian-2016.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2016.8.1",
+    "Installed":      "src/arquillian/2016.8.1",
+    "Source":         "src/arquillian/2016.8.1/arquillian-2016.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2016.8",
+    "Installed":      "src/arquillian/2016.8",
+    "Source":         "src/arquillian/2016.8/arquillian-2016.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

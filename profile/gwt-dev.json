@@ -1,0 +1,33 @@
+{
+  "Name":           "gwt-dev",
+  "Title":          "Gwt Dev",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/gwt/gwt-dev/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckPackages":  "com\.google\.gwt\.dev.*",
+  "CompactReport":  "On",
+  "MinimalVersion": "2.7.0",
+
+  "Versions": [
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/gwt-dev/2.8.1",
+    "Source":         "src/gwt-dev/2.8.1/gwt-dev-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/gwt-dev/2.8.0",
+    "Source":         "src/gwt-dev/2.8.0/gwt-dev-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/gwt-dev/2.7.0",
+    "Source":         "src/gwt-dev/2.7.0/gwt-dev-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

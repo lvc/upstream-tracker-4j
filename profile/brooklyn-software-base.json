@@ -1,0 +1,30 @@
+{
+  "Name":           "brooklyn-software-base",
+  "Title":          "Brooklyn Software Base",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/brooklyn/brooklyn-software-base/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/brooklyn-software-base/0.11.0",
+    "Source":         "src/brooklyn-software-base/0.11.0/brooklyn-software-base-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/brooklyn-software-base/0.10.0",
+    "Source":         "src/brooklyn-software-base/0.10.0/brooklyn-software-base-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/brooklyn-software-base/0.9.0",
+    "Source":         "src/brooklyn-software-base/0.9.0/brooklyn-software-base-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

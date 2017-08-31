@@ -1,0 +1,156 @@
+{
+  "Name":           "handy-uri-templates",
+  "Title":          "Handy URI Templates",
+  "SourceUrl":      "http://central.maven.org/maven2/com/damnhandy/handy-uri-templates/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/handy-uri-templates/2.1.6",
+    "Source":         "src/handy-uri-templates/2.1.6/handy-uri-templates-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.5",
+    "Installed":      "src/handy-uri-templates/2.1.5",
+    "Source":         "src/handy-uri-templates/2.1.5/handy-uri-templates-2.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.4",
+    "Installed":      "src/handy-uri-templates/2.1.4",
+    "Source":         "src/handy-uri-templates/2.1.4/handy-uri-templates-2.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.3",
+    "Installed":      "src/handy-uri-templates/2.1.3",
+    "Source":         "src/handy-uri-templates/2.1.3/handy-uri-templates-2.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/handy-uri-templates/2.1.2",
+    "Source":         "src/handy-uri-templates/2.1.2/handy-uri-templates-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/handy-uri-templates/2.1.1",
+    "Source":         "src/handy-uri-templates/2.1.1/handy-uri-templates-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/handy-uri-templates/2.1.0",
+    "Source":         "src/handy-uri-templates/2.1.0/handy-uri-templates-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/handy-uri-templates/2.0.4",
+    "Source":         "src/handy-uri-templates/2.0.4/handy-uri-templates-2.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/handy-uri-templates/2.0.3",
+    "Source":         "src/handy-uri-templates/2.0.3/handy-uri-templates-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/handy-uri-templates/2.0.2",
+    "Source":         "src/handy-uri-templates/2.0.2/handy-uri-templates-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/handy-uri-templates/2.0.1",
+    "Source":         "src/handy-uri-templates/2.0.1/handy-uri-templates-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/handy-uri-templates/2.0.0",
+    "Source":         "src/handy-uri-templates/2.0.0/handy-uri-templates-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/handy-uri-templates/1.1.7",
+    "Source":         "src/handy-uri-templates/1.1.7/handy-uri-templates-1.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.6",
+    "Installed":      "src/handy-uri-templates/1.1.6",
+    "Source":         "src/handy-uri-templates/1.1.6/handy-uri-templates-1.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.5",
+    "Installed":      "src/handy-uri-templates/1.1.5",
+    "Source":         "src/handy-uri-templates/1.1.5/handy-uri-templates-1.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/handy-uri-templates/1.1.4",
+    "Source":         "src/handy-uri-templates/1.1.4/handy-uri-templates-1.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/handy-uri-templates/1.1.3",
+    "Source":         "src/handy-uri-templates/1.1.3/handy-uri-templates-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/handy-uri-templates/1.1.2",
+    "Source":         "src/handy-uri-templates/1.1.2/handy-uri-templates-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/handy-uri-templates/1.1.1",
+    "Source":         "src/handy-uri-templates/1.1.1/handy-uri-templates-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/handy-uri-templates/1.0.2",
+    "Source":         "src/handy-uri-templates/1.0.2/handy-uri-templates-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/handy-uri-templates/1.0.1",
+    "Source":         "src/handy-uri-templates/1.0.1/handy-uri-templates-1.0.1.GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,65 @@
+{
+  "Name":           "jinterface",
+  "Title":          "Jinterface",
+  "SourceUrl":      "http://central.maven.org/maven2/org/erlang/otp/jinterface/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/jinterface/1.6.1",
+    "Source":         "src/jinterface/1.6.1/jinterface-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/jinterface/1.5.6",
+    "Source":         "src/jinterface/1.5.6/jinterface-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/jinterface/1.5.5",
+    "Source":         "src/jinterface/1.5.5/jinterface-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/jinterface/1.5.4",
+    "Source":         "src/jinterface/1.5.4/jinterface-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3.2",
+    "Installed":      "src/jinterface/1.5.3.2",
+    "Source":         "src/jinterface/1.5.3.2/jinterface-1.5.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3.1",
+    "Installed":      "src/jinterface/1.5.3.1",
+    "Source":         "src/jinterface/1.5.3.1/jinterface-1.5.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/jinterface/1.5.3",
+    "Source":         "src/jinterface/1.5.3/jinterface-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/jinterface/1.5.2",
+    "Source":         "src/jinterface/1.5.2/jinterface-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

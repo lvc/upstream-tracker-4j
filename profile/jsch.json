@@ -1,0 +1,171 @@
+{
+  "Name":           "jsch",
+  "Title":          "JSch",
+  "SourceUrl":      "http://central.maven.org/maven2/com/jcraft/jsch/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ "0.1.43", "0.1.43-1", "0.1.44" ],
+
+  "Versions": [
+  {
+    "Number":         "0.1.54",
+    "Installed":      "src/jsch/0.1.54",
+    "Source":         "src/jsch/0.1.54/jsch-0.1.54.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.53",
+    "Installed":      "src/jsch/0.1.53",
+    "Source":         "src/jsch/0.1.53/jsch-0.1.53.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.52",
+    "Installed":      "src/jsch/0.1.52",
+    "Source":         "src/jsch/0.1.52/jsch-0.1.52.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.51",
+    "Installed":      "src/jsch/0.1.51",
+    "Source":         "src/jsch/0.1.51/jsch-0.1.51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.50",
+    "Installed":      "src/jsch/0.1.50",
+    "Source":         "src/jsch/0.1.50/jsch-0.1.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.49",
+    "Installed":      "src/jsch/0.1.49",
+    "Source":         "src/jsch/0.1.49/jsch-0.1.49.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.48",
+    "Installed":      "src/jsch/0.1.48",
+    "Source":         "src/jsch/0.1.48/jsch-0.1.48.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.47",
+    "Installed":      "src/jsch/0.1.47",
+    "Source":         "src/jsch/0.1.47/jsch-0.1.47.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.46",
+    "Installed":      "src/jsch/0.1.46",
+    "Source":         "src/jsch/0.1.46/jsch-0.1.46.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.45",
+    "Installed":      "src/jsch/0.1.45",
+    "Source":         "src/jsch/0.1.45/jsch-0.1.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.44-1",
+    "Installed":      "src/jsch/0.1.44-1",
+    "Source":         "src/jsch/0.1.44-1/jsch-0.1.44-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.44",
+    "Installed":      "src/jsch/0.1.44",
+    "Source":         "src/jsch/0.1.44/jsch-0.1.44.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.43-1",
+    "Installed":      "src/jsch/0.1.43-1",
+    "Source":         "src/jsch/0.1.43-1/jsch-0.1.43-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.43",
+    "Installed":      "src/jsch/0.1.43",
+    "Source":         "src/jsch/0.1.43/jsch-0.1.43.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.42",
+    "Installed":      "src/jsch/0.1.42",
+    "Source":         "src/jsch/0.1.42/jsch-0.1.42.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.41",
+    "Installed":      "src/jsch/0.1.41",
+    "Source":         "src/jsch/0.1.41/jsch-0.1.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.38",
+    "Installed":      "src/jsch/0.1.38",
+    "Source":         "src/jsch/0.1.38/jsch-0.1.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.31",
+    "Installed":      "src/jsch/0.1.31",
+    "Source":         "src/jsch/0.1.31/jsch-0.1.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.29",
+    "Installed":      "src/jsch/0.1.29",
+    "Source":         "src/jsch/0.1.29/jsch-0.1.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.27",
+    "Installed":      "src/jsch/0.1.27",
+    "Source":         "src/jsch/0.1.27/jsch-0.1.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.25",
+    "Installed":      "src/jsch/0.1.25",
+    "Source":         "src/jsch/0.1.25/jsch-0.1.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.24",
+    "Installed":      "src/jsch/0.1.24",
+    "Source":         "src/jsch/0.1.24/jsch-0.1.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1.23",
+    "Installed":      "src/jsch/0.1.23",
+    "Source":         "src/jsch/0.1.23/jsch-0.1.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

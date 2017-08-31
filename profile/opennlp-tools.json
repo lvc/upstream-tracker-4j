@@ -1,0 +1,58 @@
+{
+  "Name":           "opennlp-tools",
+  "Title":          "OpenNLP Tools",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/opennlp/opennlp-tools/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/opennlp-tools/1.8.1",
+    "Source":         "src/opennlp-tools/1.8.1/opennlp-tools-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/opennlp-tools/1.8.0",
+    "Source":         "src/opennlp-tools/1.8.0/opennlp-tools-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/opennlp-tools/1.7.2",
+    "Source":         "src/opennlp-tools/1.7.2/opennlp-tools-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/opennlp-tools/1.7.1",
+    "Source":         "src/opennlp-tools/1.7.1/opennlp-tools-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/opennlp-tools/1.7.0",
+    "Source":         "src/opennlp-tools/1.7.0/opennlp-tools-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/opennlp-tools/1.6.0",
+    "Source":         "src/opennlp-tools/1.6.0/opennlp-tools-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/opennlp-tools/1.5.3",
+    "Source":         "src/opennlp-tools/1.5.3/opennlp-tools-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

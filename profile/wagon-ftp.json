@@ -1,0 +1,107 @@
+{
+  "Name":           "wagon-ftp",
+  "Title":          "Wagon FTP",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/maven/wagon/wagon-ftp/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/wagon-ftp/3.0.0",
+    "Source":         "src/wagon-ftp/3.0.0/wagon-ftp-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12",
+    "Installed":      "src/wagon-ftp/2.12",
+    "Source":         "src/wagon-ftp/2.12/wagon-ftp-2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10",
+    "Installed":      "src/wagon-ftp/2.10",
+    "Source":         "src/wagon-ftp/2.10/wagon-ftp-2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/wagon-ftp/2.9",
+    "Source":         "src/wagon-ftp/2.9/wagon-ftp-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/wagon-ftp/2.8",
+    "Source":         "src/wagon-ftp/2.8/wagon-ftp-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/wagon-ftp/2.7",
+    "Source":         "src/wagon-ftp/2.7/wagon-ftp-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/wagon-ftp/2.6",
+    "Source":         "src/wagon-ftp/2.6/wagon-ftp-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/wagon-ftp/2.5",
+    "Source":         "src/wagon-ftp/2.5/wagon-ftp-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/wagon-ftp/2.4",
+    "Source":         "src/wagon-ftp/2.4/wagon-ftp-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/wagon-ftp/2.3",
+    "Source":         "src/wagon-ftp/2.3/wagon-ftp-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/wagon-ftp/2.2",
+    "Source":         "src/wagon-ftp/2.2/wagon-ftp-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/wagon-ftp/2.1",
+    "Source":         "src/wagon-ftp/2.1/wagon-ftp-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/wagon-ftp/2.0",
+    "Source":         "src/wagon-ftp/2.0/wagon-ftp-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/wagon-ftp/1.0",
+    "Source":         "src/wagon-ftp/1.0/wagon-ftp-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

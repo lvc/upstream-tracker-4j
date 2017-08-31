@@ -1,0 +1,297 @@
+{
+  "Name":           "jmh-core",
+  "Title":          "JMH Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/openjdk/jmh/jmh-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.4",
+
+  "Versions": [
+  {
+    "Number":         "1.19",
+    "Installed":      "src/jmh-core/1.19",
+    "Source":         "src/jmh-core/1.19/jmh-core-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.18",
+    "Installed":      "src/jmh-core/1.18",
+    "Source":         "src/jmh-core/1.18/jmh-core-1.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.5",
+    "Installed":      "src/jmh-core/1.17.5",
+    "Source":         "src/jmh-core/1.17.5/jmh-core-1.17.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.4",
+    "Installed":      "src/jmh-core/1.17.4",
+    "Source":         "src/jmh-core/1.17.4/jmh-core-1.17.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.3",
+    "Installed":      "src/jmh-core/1.17.3",
+    "Source":         "src/jmh-core/1.17.3/jmh-core-1.17.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.2",
+    "Installed":      "src/jmh-core/1.17.2",
+    "Source":         "src/jmh-core/1.17.2/jmh-core-1.17.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17.1",
+    "Installed":      "src/jmh-core/1.17.1",
+    "Source":         "src/jmh-core/1.17.1/jmh-core-1.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.17",
+    "Installed":      "src/jmh-core/1.17",
+    "Source":         "src/jmh-core/1.17/jmh-core-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/jmh-core/1.16",
+    "Source":         "src/jmh-core/1.16/jmh-core-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/jmh-core/1.15",
+    "Source":         "src/jmh-core/1.15/jmh-core-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.1",
+    "Installed":      "src/jmh-core/1.14.1",
+    "Source":         "src/jmh-core/1.14.1/jmh-core-1.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "src/jmh-core/1.14",
+    "Source":         "src/jmh-core/1.14/jmh-core-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/jmh-core/1.13",
+    "Source":         "src/jmh-core/1.13/jmh-core-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/jmh-core/1.12",
+    "Source":         "src/jmh-core/1.12/jmh-core-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.3",
+    "Installed":      "src/jmh-core/1.11.3",
+    "Source":         "src/jmh-core/1.11.3/jmh-core-1.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.2",
+    "Installed":      "src/jmh-core/1.11.2",
+    "Source":         "src/jmh-core/1.11.2/jmh-core-1.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.1",
+    "Installed":      "src/jmh-core/1.11.1",
+    "Source":         "src/jmh-core/1.11.1/jmh-core-1.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/jmh-core/1.11",
+    "Source":         "src/jmh-core/1.11/jmh-core-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.5",
+    "Installed":      "src/jmh-core/1.10.5",
+    "Source":         "src/jmh-core/1.10.5/jmh-core-1.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.4",
+    "Installed":      "src/jmh-core/1.10.4",
+    "Source":         "src/jmh-core/1.10.4/jmh-core-1.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.3",
+    "Installed":      "src/jmh-core/1.10.3",
+    "Source":         "src/jmh-core/1.10.3/jmh-core-1.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.2",
+    "Installed":      "src/jmh-core/1.10.2",
+    "Source":         "src/jmh-core/1.10.2/jmh-core-1.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.1",
+    "Installed":      "src/jmh-core/1.10.1",
+    "Source":         "src/jmh-core/1.10.1/jmh-core-1.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/jmh-core/1.10",
+    "Source":         "src/jmh-core/1.10/jmh-core-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.3",
+    "Installed":      "src/jmh-core/1.9.3",
+    "Source":         "src/jmh-core/1.9.3/jmh-core-1.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.2",
+    "Installed":      "src/jmh-core/1.9.2",
+    "Source":         "src/jmh-core/1.9.2/jmh-core-1.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/jmh-core/1.9.1",
+    "Source":         "src/jmh-core/1.9.1/jmh-core-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/jmh-core/1.9",
+    "Source":         "src/jmh-core/1.9/jmh-core-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/jmh-core/1.8",
+    "Source":         "src/jmh-core/1.8/jmh-core-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/jmh-core/1.7.1",
+    "Source":         "src/jmh-core/1.7.1/jmh-core-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/jmh-core/1.7",
+    "Source":         "src/jmh-core/1.7/jmh-core-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/jmh-core/1.6.3",
+    "Source":         "src/jmh-core/1.6.3/jmh-core-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/jmh-core/1.6.2",
+    "Source":         "src/jmh-core/1.6.2/jmh-core-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/jmh-core/1.6.1",
+    "Source":         "src/jmh-core/1.6.1/jmh-core-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/jmh-core/1.6",
+    "Source":         "src/jmh-core/1.6/jmh-core-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/jmh-core/1.5.2",
+    "Source":         "src/jmh-core/1.5.2/jmh-core-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/jmh-core/1.5.1",
+    "Source":         "src/jmh-core/1.5.1/jmh-core-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/jmh-core/1.5",
+    "Source":         "src/jmh-core/1.5/jmh-core-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "src/jmh-core/1.4.2",
+    "Source":         "src/jmh-core/1.4.2/jmh-core-1.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/jmh-core/1.4.1",
+    "Source":         "src/jmh-core/1.4.1/jmh-core-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/jmh-core/1.4",
+    "Source":         "src/jmh-core/1.4/jmh-core-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

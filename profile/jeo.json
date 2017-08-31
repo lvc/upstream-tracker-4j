@@ -1,0 +1,23 @@
+{
+  "Name":           "jeo",
+  "Title":          "jeo",
+  "SourceUrl":      "http://central.maven.org/maven2/io/jeo/jeo/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.7",
+    "Installed":      "src/jeo/0.7",
+    "Source":         "src/jeo/0.7/jeo-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6",
+    "Installed":      "src/jeo/0.6",
+    "Source":         "src/jeo/0.6/jeo-0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

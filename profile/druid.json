@@ -1,0 +1,255 @@
+{
+  "Name":           "druid",
+  "Title":          "Druid",
+  "SourceUrl":      "http://central.maven.org/maven2/com/alibaba/druid/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.0.0",
+
+  "Versions": [
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/druid/1.1.2",
+    "Source":         "src/druid/1.1.2/druid-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/druid/1.1.1",
+    "Source":         "src/druid/1.1.1/druid-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/druid/1.1.0",
+    "Source":         "src/druid/1.1.0/druid-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.31",
+    "Installed":      "src/druid/1.0.31",
+    "Source":         "src/druid/1.0.31/druid-1.0.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.30",
+    "Installed":      "src/druid/1.0.30",
+    "Source":         "src/druid/1.0.30/druid-1.0.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.29",
+    "Installed":      "src/druid/1.0.29",
+    "Source":         "src/druid/1.0.29/druid-1.0.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.28",
+    "Installed":      "src/druid/1.0.28",
+    "Source":         "src/druid/1.0.28/druid-1.0.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.27",
+    "Installed":      "src/druid/1.0.27",
+    "Source":         "src/druid/1.0.27/druid-1.0.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.26",
+    "Installed":      "src/druid/1.0.26",
+    "Source":         "src/druid/1.0.26/druid-1.0.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.25",
+    "Installed":      "src/druid/1.0.25",
+    "Source":         "src/druid/1.0.25/druid-1.0.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.24",
+    "Installed":      "src/druid/1.0.24",
+    "Source":         "src/druid/1.0.24/druid-1.0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.23",
+    "Installed":      "src/druid/1.0.23",
+    "Source":         "src/druid/1.0.23/druid-1.0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.22",
+    "Installed":      "src/druid/1.0.22",
+    "Source":         "src/druid/1.0.22/druid-1.0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.21",
+    "Installed":      "src/druid/1.0.21",
+    "Source":         "src/druid/1.0.21/druid-1.0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.20",
+    "Installed":      "src/druid/1.0.20",
+    "Source":         "src/druid/1.0.20/druid-1.0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.19",
+    "Installed":      "src/druid/1.0.19",
+    "Source":         "src/druid/1.0.19/druid-1.0.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.18",
+    "Installed":      "src/druid/1.0.18",
+    "Source":         "src/druid/1.0.18/druid-1.0.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.17",
+    "Installed":      "src/druid/1.0.17",
+    "Source":         "src/druid/1.0.17/druid-1.0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.16",
+    "Installed":      "src/druid/1.0.16",
+    "Source":         "src/druid/1.0.16/druid-1.0.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.15",
+    "Installed":      "src/druid/1.0.15",
+    "Source":         "src/druid/1.0.15/druid-1.0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.14",
+    "Installed":      "src/druid/1.0.14",
+    "Source":         "src/druid/1.0.14/druid-1.0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.13",
+    "Installed":      "src/druid/1.0.13",
+    "Source":         "src/druid/1.0.13/druid-1.0.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.12",
+    "Installed":      "src/druid/1.0.12",
+    "Source":         "src/druid/1.0.12/druid-1.0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.11",
+    "Installed":      "src/druid/1.0.11",
+    "Source":         "src/druid/1.0.11/druid-1.0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.10",
+    "Installed":      "src/druid/1.0.10",
+    "Source":         "src/druid/1.0.10/druid-1.0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.9",
+    "Installed":      "src/druid/1.0.9",
+    "Source":         "src/druid/1.0.9/druid-1.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.8",
+    "Installed":      "src/druid/1.0.8",
+    "Source":         "src/druid/1.0.8/druid-1.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/druid/1.0.7",
+    "Source":         "src/druid/1.0.7/druid-1.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/druid/1.0.6",
+    "Source":         "src/druid/1.0.6/druid-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/druid/1.0.5",
+    "Source":         "src/druid/1.0.5/druid-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/druid/1.0.4",
+    "Source":         "src/druid/1.0.4/druid-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/druid/1.0.3",
+    "Source":         "src/druid/1.0.3/druid-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/druid/1.0.2",
+    "Source":         "src/druid/1.0.2/druid-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/druid/1.0.1",
+    "Source":         "src/druid/1.0.1/druid-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/druid/1.0.0",
+    "Source":         "src/druid/1.0.0/druid-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

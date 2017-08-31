@@ -1,0 +1,52 @@
+{
+  "Name":           "deeplearning4j-core",
+  "Title":          "Deeplearning4j Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/deeplearning4j/deeplearning4j-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.7.0",
+
+  "Versions": [
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/deeplearning4j-core/0.9.1",
+    "Source":         "src/deeplearning4j-core/0.9.1/deeplearning4j-core-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/deeplearning4j-core/0.9.0",
+    "Source":         "src/deeplearning4j-core/0.9.0/deeplearning4j-core-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/deeplearning4j-core/0.8.0",
+    "Source":         "src/deeplearning4j-core/0.8.0/deeplearning4j-core-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/deeplearning4j-core/0.7.2",
+    "Source":         "src/deeplearning4j-core/0.7.2/deeplearning4j-core-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/deeplearning4j-core/0.7.1",
+    "Source":         "src/deeplearning4j-core/0.7.1/deeplearning4j-core-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/deeplearning4j-core/0.7.0",
+    "Source":         "src/deeplearning4j-core/0.7.0/deeplearning4j-core-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

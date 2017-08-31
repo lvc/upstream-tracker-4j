@@ -1,0 +1,38 @@
+{
+  "Name":           "owasp-encoder",
+  "Title":          "OWASP Encoder",
+  "SourceUrl":      "http://central.maven.org/maven2/org/owasp/encoder/encoder/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "encoder",
+
+  "Versions": [
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/owasp-encoder/1.2.1",
+    "Source":         "src/owasp-encoder/1.2.1/encoder-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/owasp-encoder/1.2",
+    "Source":         "src/owasp-encoder/1.2/encoder-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/owasp-encoder/1.1.1",
+    "Source":         "src/owasp-encoder/1.1.1/encoder-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/owasp-encoder/1.1",
+    "Source":         "src/owasp-encoder/1.1/encoder-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

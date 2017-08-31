@@ -1,0 +1,255 @@
+{
+  "Name":           "play-test",
+  "Title":          "Play Test",
+  "SourceUrl":      "http://central.maven.org/maven2/com/typesafe/play/play-test_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "play-test_2.11",
+
+  "Versions": [
+  {
+    "Number":         "2.6.3",
+    "Installed":      "src/play-test/2.6.3",
+    "Source":         "src/play-test/2.6.3/play-test_2.11-2.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/play-test/2.6.2",
+    "Source":         "src/play-test/2.6.2/play-test_2.11-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/play-test/2.6.1",
+    "Source":         "src/play-test/2.6.1/play-test_2.11-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/play-test/2.6.0",
+    "Source":         "src/play-test/2.6.0/play-test_2.11-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.16",
+    "Installed":      "src/play-test/2.5.16",
+    "Source":         "src/play-test/2.5.16/play-test_2.11-2.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.15",
+    "Installed":      "src/play-test/2.5.15",
+    "Source":         "src/play-test/2.5.15/play-test_2.11-2.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.14",
+    "Installed":      "src/play-test/2.5.14",
+    "Source":         "src/play-test/2.5.14/play-test_2.11-2.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.13",
+    "Installed":      "src/play-test/2.5.13",
+    "Source":         "src/play-test/2.5.13/play-test_2.11-2.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.12",
+    "Installed":      "src/play-test/2.5.12",
+    "Source":         "src/play-test/2.5.12/play-test_2.11-2.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.11",
+    "Installed":      "src/play-test/2.5.11",
+    "Source":         "src/play-test/2.5.11/play-test_2.11-2.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.10",
+    "Installed":      "src/play-test/2.5.10",
+    "Source":         "src/play-test/2.5.10/play-test_2.11-2.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.9",
+    "Installed":      "src/play-test/2.5.9",
+    "Source":         "src/play-test/2.5.9/play-test_2.11-2.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.8",
+    "Installed":      "src/play-test/2.5.8",
+    "Source":         "src/play-test/2.5.8/play-test_2.11-2.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.7",
+    "Installed":      "src/play-test/2.5.7",
+    "Source":         "src/play-test/2.5.7/play-test_2.11-2.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.6",
+    "Installed":      "src/play-test/2.5.6",
+    "Source":         "src/play-test/2.5.6/play-test_2.11-2.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.5",
+    "Installed":      "src/play-test/2.5.5",
+    "Source":         "src/play-test/2.5.5/play-test_2.11-2.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/play-test/2.5.4",
+    "Source":         "src/play-test/2.5.4/play-test_2.11-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/play-test/2.5.3",
+    "Source":         "src/play-test/2.5.3/play-test_2.11-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.2",
+    "Installed":      "src/play-test/2.5.2",
+    "Source":         "src/play-test/2.5.2/play-test_2.11-2.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/play-test/2.5.1",
+    "Source":         "src/play-test/2.5.1/play-test_2.11-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/play-test/2.5.0",
+    "Source":         "src/play-test/2.5.0/play-test_2.11-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.11",
+    "Installed":      "src/play-test/2.4.11",
+    "Source":         "src/play-test/2.4.11/play-test_2.11-2.4.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.10",
+    "Installed":      "src/play-test/2.4.10",
+    "Source":         "src/play-test/2.4.10/play-test_2.11-2.4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.9",
+    "Installed":      "src/play-test/2.4.9",
+    "Source":         "src/play-test/2.4.9/play-test_2.11-2.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.8",
+    "Installed":      "src/play-test/2.4.8",
+    "Source":         "src/play-test/2.4.8/play-test_2.11-2.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.7",
+    "Installed":      "src/play-test/2.4.7",
+    "Source":         "src/play-test/2.4.7/play-test_2.11-2.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/play-test/2.4.6",
+    "Source":         "src/play-test/2.4.6/play-test_2.11-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "src/play-test/2.4.5",
+    "Source":         "src/play-test/2.4.5/play-test_2.11-2.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.4",
+    "Installed":      "src/play-test/2.4.4",
+    "Source":         "src/play-test/2.4.4/play-test_2.11-2.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/play-test/2.4.3",
+    "Source":         "src/play-test/2.4.3/play-test_2.11-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/play-test/2.4.2",
+    "Source":         "src/play-test/2.4.2/play-test_2.11-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/play-test/2.4.1",
+    "Source":         "src/play-test/2.4.1/play-test_2.11-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/play-test/2.4.0",
+    "Source":         "src/play-test/2.4.0/play-test_2.11-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.10",
+    "Installed":      "src/play-test/2.3.10",
+    "Source":         "src/play-test/2.3.10/play-test_2.11-2.3.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.9",
+    "Installed":      "src/play-test/2.3.9",
+    "Source":         "src/play-test/2.3.9/play-test_2.11-2.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

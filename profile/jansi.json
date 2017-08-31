@@ -1,0 +1,114 @@
+{
+  "Name":           "jansi",
+  "Title":          "Jansi",
+  "SourceUrl":      "http://central.maven.org/maven2/org/fusesource/jansi/jansi/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.16",
+    "Installed":      "src/jansi/1.16",
+    "Source":         "src/jansi/1.16/jansi-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/jansi/1.15",
+    "Source":         "src/jansi/1.15/jansi-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14",
+    "Installed":      "src/jansi/1.14",
+    "Source":         "src/jansi/1.14/jansi-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13",
+    "Installed":      "src/jansi/1.13",
+    "Source":         "src/jansi/1.13/jansi-1.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12",
+    "Installed":      "src/jansi/1.12",
+    "Source":         "src/jansi/1.12/jansi-1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11",
+    "Installed":      "src/jansi/1.11",
+    "Source":         "src/jansi/1.11/jansi-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/jansi/1.10",
+    "Source":         "src/jansi/1.10/jansi-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9",
+    "Installed":      "src/jansi/1.9",
+    "Source":         "src/jansi/1.9/jansi-1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8",
+    "Installed":      "src/jansi/1.8",
+    "Source":         "src/jansi/1.8/jansi-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/jansi/1.7",
+    "Source":         "src/jansi/1.7/jansi-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6",
+    "Installed":      "src/jansi/1.6",
+    "Source":         "src/jansi/1.6/jansi-1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5",
+    "Installed":      "src/jansi/1.5",
+    "Source":         "src/jansi/1.5/jansi-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4",
+    "Installed":      "src/jansi/1.4",
+    "Source":         "src/jansi/1.4/jansi-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/jansi/1.3",
+    "Source":         "src/jansi/1.3/jansi-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/jansi/1.2.1",
+    "Source":         "src/jansi/1.2.1/jansi-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

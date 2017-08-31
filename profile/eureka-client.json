@@ -1,0 +1,298 @@
+{
+  "Name":           "eureka-client",
+  "Title":          "Eureka Client",
+  "SourceUrl":      "http://central.maven.org/maven2/com/netflix/eureka/eureka-client/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.2.0",
+
+  "Versions": [
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/eureka-client/1.8.0",
+    "Source":         "src/eureka-client/1.8.0/eureka-client-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0-rc.1",
+    "Installed":      "src/eureka-client/1.8.0-rc.1",
+    "Source":         "src/eureka-client/1.8.0-rc.1/eureka-client-1.8.0-rc.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/eureka-client/1.7.0",
+    "Source":         "src/eureka-client/1.7.0/eureka-client-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/eureka-client/1.6.2",
+    "Source":         "src/eureka-client/1.6.2/eureka-client-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/eureka-client/1.6.1",
+    "Source":         "src/eureka-client/1.6.1/eureka-client-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/eureka-client/1.6.0",
+    "Source":         "src/eureka-client/1.6.0/eureka-client-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/eureka-client/1.5.6",
+    "Source":         "src/eureka-client/1.5.6/eureka-client-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/eureka-client/1.5.5",
+    "Source":         "src/eureka-client/1.5.5/eureka-client-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/eureka-client/1.5.4",
+    "Source":         "src/eureka-client/1.5.4/eureka-client-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/eureka-client/1.5.3",
+    "Source":         "src/eureka-client/1.5.3/eureka-client-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/eureka-client/1.5.2",
+    "Source":         "src/eureka-client/1.5.2/eureka-client-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/eureka-client/1.5.1",
+    "Source":         "src/eureka-client/1.5.1/eureka-client-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/eureka-client/1.5.0",
+    "Source":         "src/eureka-client/1.5.0/eureka-client-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.12",
+    "Installed":      "src/eureka-client/1.4.12",
+    "Source":         "src/eureka-client/1.4.12/eureka-client-1.4.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.11",
+    "Installed":      "src/eureka-client/1.4.11",
+    "Source":         "src/eureka-client/1.4.11/eureka-client-1.4.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.10",
+    "Installed":      "src/eureka-client/1.4.10",
+    "Source":         "src/eureka-client/1.4.10/eureka-client-1.4.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.9",
+    "Installed":      "src/eureka-client/1.4.9",
+    "Source":         "src/eureka-client/1.4.9/eureka-client-1.4.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.8",
+    "Installed":      "src/eureka-client/1.4.8",
+    "Source":         "src/eureka-client/1.4.8/eureka-client-1.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.7",
+    "Installed":      "src/eureka-client/1.4.7",
+    "Source":         "src/eureka-client/1.4.7/eureka-client-1.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.6",
+    "Installed":      "src/eureka-client/1.4.6",
+    "Source":         "src/eureka-client/1.4.6/eureka-client-1.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.5",
+    "Installed":      "src/eureka-client/1.4.5",
+    "Source":         "src/eureka-client/1.4.5/eureka-client-1.4.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.4",
+    "Installed":      "src/eureka-client/1.4.4",
+    "Source":         "src/eureka-client/1.4.4/eureka-client-1.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "src/eureka-client/1.4.3",
+    "Source":         "src/eureka-client/1.4.3/eureka-client-1.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.2",
+    "Installed":      "src/eureka-client/1.4.2",
+    "Source":         "src/eureka-client/1.4.2/eureka-client-1.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/eureka-client/1.4.1",
+    "Source":         "src/eureka-client/1.4.1/eureka-client-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/eureka-client/1.4.0",
+    "Source":         "src/eureka-client/1.4.0/eureka-client-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.8",
+    "Installed":      "src/eureka-client/1.3.8",
+    "Source":         "src/eureka-client/1.3.8/eureka-client-1.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.7",
+    "Installed":      "src/eureka-client/1.3.7",
+    "Source":         "src/eureka-client/1.3.7/eureka-client-1.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.6",
+    "Installed":      "src/eureka-client/1.3.6",
+    "Source":         "src/eureka-client/1.3.6/eureka-client-1.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.5",
+    "Installed":      "src/eureka-client/1.3.5",
+    "Source":         "src/eureka-client/1.3.5/eureka-client-1.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.4",
+    "Installed":      "src/eureka-client/1.3.4",
+    "Source":         "src/eureka-client/1.3.4/eureka-client-1.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/eureka-client/1.3.3",
+    "Source":         "src/eureka-client/1.3.3/eureka-client-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/eureka-client/1.3.2",
+    "Source":         "src/eureka-client/1.3.2/eureka-client-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/eureka-client/1.3.1",
+    "Source":         "src/eureka-client/1.3.1/eureka-client-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/eureka-client/1.3.0",
+    "Source":         "src/eureka-client/1.3.0/eureka-client-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.5",
+    "Installed":      "src/eureka-client/1.2.5",
+    "Source":         "src/eureka-client/1.2.5/eureka-client-1.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "src/eureka-client/1.2.4",
+    "Source":         "src/eureka-client/1.2.4/eureka-client-1.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/eureka-client/1.2.3",
+    "Source":         "src/eureka-client/1.2.3/eureka-client-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/eureka-client/1.2.2",
+    "Source":         "src/eureka-client/1.2.2/eureka-client-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/eureka-client/1.2.1",
+    "Source":         "src/eureka-client/1.2.1/eureka-client-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/eureka-client/1.2.0",
+    "Source":         "src/eureka-client/1.2.0/eureka-client-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

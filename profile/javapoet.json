@@ -1,0 +1,93 @@
+{
+  "Name":           "javapoet",
+  "Title":          "JavaPoet",
+  "SourceUrl":      "http://central.maven.org/maven2/com/squareup/javapoet/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/javapoet/1.9.0",
+    "Source":         "src/javapoet/1.9.0/javapoet-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/javapoet/1.8.0",
+    "Source":         "src/javapoet/1.8.0/javapoet-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/javapoet/1.7.0",
+    "Source":         "src/javapoet/1.7.0/javapoet-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/javapoet/1.6.1",
+    "Source":         "src/javapoet/1.6.1/javapoet-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/javapoet/1.6.0",
+    "Source":         "src/javapoet/1.6.0/javapoet-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.1",
+    "Installed":      "src/javapoet/1.5.1",
+    "Source":         "src/javapoet/1.5.1/javapoet-1.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/javapoet/1.5.0",
+    "Source":         "src/javapoet/1.5.0/javapoet-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/javapoet/1.4.0",
+    "Source":         "src/javapoet/1.4.0/javapoet-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/javapoet/1.3.0",
+    "Source":         "src/javapoet/1.3.0/javapoet-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/javapoet/1.2.0",
+    "Source":         "src/javapoet/1.2.0/javapoet-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/javapoet/1.1.0",
+    "Source":         "src/javapoet/1.1.0/javapoet-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/javapoet/1.0.0",
+    "Source":         "src/javapoet/1.0.0/javapoet-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,319 @@
+{
+  "Name":           "jcl-over-slf4j",
+  "Title":          "JCL over SLF4J",
+  "SourceUrl":      "http://central.maven.org/maven2/org/slf4j/jcl-over-slf4j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.8.0-alpha2",
+    "Installed":      "src/jcl-over-slf4j/1.8.0-alpha2",
+    "Source":         "src/jcl-over-slf4j/1.8.0-alpha2/jcl-over-slf4j-1.8.0-alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0-alpha1",
+    "Installed":      "src/jcl-over-slf4j/1.8.0-alpha1",
+    "Source":         "src/jcl-over-slf4j/1.8.0-alpha1/jcl-over-slf4j-1.8.0-alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.8.0-alpha0",
+    "Installed":      "src/jcl-over-slf4j/1.8.0-alpha0",
+    "Source":         "src/jcl-over-slf4j/1.8.0-alpha0/jcl-over-slf4j-1.8.0-alpha0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.7.25",
+    "Installed":      "src/jcl-over-slf4j/1.7.25",
+    "Source":         "src/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.24",
+    "Installed":      "src/jcl-over-slf4j/1.7.24",
+    "Source":         "src/jcl-over-slf4j/1.7.24/jcl-over-slf4j-1.7.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.23",
+    "Installed":      "src/jcl-over-slf4j/1.7.23",
+    "Source":         "src/jcl-over-slf4j/1.7.23/jcl-over-slf4j-1.7.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.22",
+    "Installed":      "src/jcl-over-slf4j/1.7.22",
+    "Source":         "src/jcl-over-slf4j/1.7.22/jcl-over-slf4j-1.7.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.21",
+    "Installed":      "src/jcl-over-slf4j/1.7.21",
+    "Source":         "src/jcl-over-slf4j/1.7.21/jcl-over-slf4j-1.7.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.20",
+    "Installed":      "src/jcl-over-slf4j/1.7.20",
+    "Source":         "src/jcl-over-slf4j/1.7.20/jcl-over-slf4j-1.7.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.19",
+    "Installed":      "src/jcl-over-slf4j/1.7.19",
+    "Source":         "src/jcl-over-slf4j/1.7.19/jcl-over-slf4j-1.7.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.18",
+    "Installed":      "src/jcl-over-slf4j/1.7.18",
+    "Source":         "src/jcl-over-slf4j/1.7.18/jcl-over-slf4j-1.7.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.16",
+    "Installed":      "src/jcl-over-slf4j/1.7.16",
+    "Source":         "src/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.15",
+    "Installed":      "src/jcl-over-slf4j/1.7.15",
+    "Source":         "src/jcl-over-slf4j/1.7.15/jcl-over-slf4j-1.7.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.14",
+    "Installed":      "src/jcl-over-slf4j/1.7.14",
+    "Source":         "src/jcl-over-slf4j/1.7.14/jcl-over-slf4j-1.7.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.13",
+    "Installed":      "src/jcl-over-slf4j/1.7.13",
+    "Source":         "src/jcl-over-slf4j/1.7.13/jcl-over-slf4j-1.7.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.12",
+    "Installed":      "src/jcl-over-slf4j/1.7.12",
+    "Source":         "src/jcl-over-slf4j/1.7.12/jcl-over-slf4j-1.7.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.11",
+    "Installed":      "src/jcl-over-slf4j/1.7.11",
+    "Source":         "src/jcl-over-slf4j/1.7.11/jcl-over-slf4j-1.7.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.10",
+    "Installed":      "src/jcl-over-slf4j/1.7.10",
+    "Source":         "src/jcl-over-slf4j/1.7.10/jcl-over-slf4j-1.7.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.9",
+    "Installed":      "src/jcl-over-slf4j/1.7.9",
+    "Source":         "src/jcl-over-slf4j/1.7.9/jcl-over-slf4j-1.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.8",
+    "Installed":      "src/jcl-over-slf4j/1.7.8",
+    "Source":         "src/jcl-over-slf4j/1.7.8/jcl-over-slf4j-1.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.7",
+    "Installed":      "src/jcl-over-slf4j/1.7.7",
+    "Source":         "src/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.6",
+    "Installed":      "src/jcl-over-slf4j/1.7.6",
+    "Source":         "src/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.5",
+    "Installed":      "src/jcl-over-slf4j/1.7.5",
+    "Source":         "src/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.4",
+    "Installed":      "src/jcl-over-slf4j/1.7.4",
+    "Source":         "src/jcl-over-slf4j/1.7.4/jcl-over-slf4j-1.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/jcl-over-slf4j/1.7.3",
+    "Source":         "src/jcl-over-slf4j/1.7.3/jcl-over-slf4j-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/jcl-over-slf4j/1.7.2",
+    "Source":         "src/jcl-over-slf4j/1.7.2/jcl-over-slf4j-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/jcl-over-slf4j/1.7.1",
+    "Source":         "src/jcl-over-slf4j/1.7.1/jcl-over-slf4j-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/jcl-over-slf4j/1.7.0",
+    "Source":         "src/jcl-over-slf4j/1.7.0/jcl-over-slf4j-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.6",
+    "Installed":      "src/jcl-over-slf4j/1.6.6",
+    "Source":         "src/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5",
+    "Installed":      "src/jcl-over-slf4j/1.6.5",
+    "Source":         "src/jcl-over-slf4j/1.6.5/jcl-over-slf4j-1.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "src/jcl-over-slf4j/1.6.4",
+    "Source":         "src/jcl-over-slf4j/1.6.4/jcl-over-slf4j-1.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.3",
+    "Installed":      "src/jcl-over-slf4j/1.6.3",
+    "Source":         "src/jcl-over-slf4j/1.6.3/jcl-over-slf4j-1.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/jcl-over-slf4j/1.6.2",
+    "Source":         "src/jcl-over-slf4j/1.6.2/jcl-over-slf4j-1.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/jcl-over-slf4j/1.6.1",
+    "Source":         "src/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/jcl-over-slf4j/1.6.0",
+    "Source":         "src/jcl-over-slf4j/1.6.0/jcl-over-slf4j-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.11",
+    "Installed":      "src/jcl-over-slf4j/1.5.11",
+    "Source":         "src/jcl-over-slf4j/1.5.11/jcl-over-slf4j-1.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.10",
+    "Installed":      "src/jcl-over-slf4j/1.5.10",
+    "Source":         "src/jcl-over-slf4j/1.5.10/jcl-over-slf4j-1.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.8",
+    "Installed":      "src/jcl-over-slf4j/1.5.8",
+    "Source":         "src/jcl-over-slf4j/1.5.8/jcl-over-slf4j-1.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.7",
+    "Installed":      "src/jcl-over-slf4j/1.5.7",
+    "Source":         "src/jcl-over-slf4j/1.5.7/jcl-over-slf4j-1.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.6",
+    "Installed":      "src/jcl-over-slf4j/1.5.6",
+    "Source":         "src/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/jcl-over-slf4j/1.5.5",
+    "Source":         "src/jcl-over-slf4j/1.5.5/jcl-over-slf4j-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.4",
+    "Installed":      "src/jcl-over-slf4j/1.5.4",
+    "Source":         "src/jcl-over-slf4j/1.5.4/jcl-over-slf4j-1.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.3",
+    "Installed":      "src/jcl-over-slf4j/1.5.3",
+    "Source":         "src/jcl-over-slf4j/1.5.3/jcl-over-slf4j-1.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.2",
+    "Installed":      "src/jcl-over-slf4j/1.5.2",
+    "Source":         "src/jcl-over-slf4j/1.5.2/jcl-over-slf4j-1.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

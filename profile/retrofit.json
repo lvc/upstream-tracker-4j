@@ -1,0 +1,51 @@
+{
+  "Name":           "retrofit",
+  "Title":          "Retrofit",
+  "SourceUrl":      "http://central.maven.org/maven2/com/squareup/retrofit2/retrofit/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/retrofit/2.3.0",
+    "Source":         "src/retrofit/2.3.0/retrofit-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/retrofit/2.2.0",
+    "Source":         "src/retrofit/2.2.0/retrofit-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/retrofit/2.1.0",
+    "Source":         "src/retrofit/2.1.0/retrofit-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/retrofit/2.0.2",
+    "Source":         "src/retrofit/2.0.2/retrofit-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/retrofit/2.0.1",
+    "Source":         "src/retrofit/2.0.1/retrofit-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/retrofit/2.0.0",
+    "Source":         "src/retrofit/2.0.0/retrofit-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

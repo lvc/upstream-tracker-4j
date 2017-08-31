@@ -1,0 +1,156 @@
+{
+  "Name":           "okio",
+  "Title":          "Okio",
+  "SourceUrl":      "http://central.maven.org/maven2/com/squareup/okio/okio/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.13.0",
+    "Installed":      "src/okio/1.13.0",
+    "Source":         "src/okio/1.13.0/okio-1.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.0",
+    "Installed":      "src/okio/1.12.0",
+    "Source":         "src/okio/1.12.0/okio-1.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.0",
+    "Installed":      "src/okio/1.11.0",
+    "Source":         "src/okio/1.11.0/okio-1.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.0",
+    "Installed":      "src/okio/1.10.0",
+    "Source":         "src/okio/1.10.0/okio-1.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/okio/1.9.0",
+    "Source":         "src/okio/1.9.0/okio-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/okio/1.8.0",
+    "Source":         "src/okio/1.8.0/okio-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/okio/1.7.0",
+    "Source":         "src/okio/1.7.0/okio-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.0",
+    "Installed":      "src/okio/1.6.0",
+    "Source":         "src/okio/1.6.0/okio-1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/okio/1.5.0",
+    "Source":         "src/okio/1.5.0/okio-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/okio/1.4.0",
+    "Source":         "src/okio/1.4.0/okio-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/okio/1.3.0",
+    "Source":         "src/okio/1.3.0/okio-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/okio/1.2.0",
+    "Source":         "src/okio/1.2.0/okio-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/okio/1.1.0",
+    "Source":         "src/okio/1.1.0/okio-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/okio/1.0.1",
+    "Source":         "src/okio/1.0.1/okio-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/okio/1.0.0",
+    "Source":         "src/okio/1.0.0/okio-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/okio/0.9.0",
+    "Source":         "src/okio/0.9.0/okio-0.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/okio/0.8.0",
+    "Source":         "src/okio/0.8.0/okio-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/okio/0.7.0",
+    "Source":         "src/okio/0.7.0/okio-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/okio/0.6.1",
+    "Source":         "src/okio/0.6.1/okio-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/okio/0.6.0",
+    "Source":         "src/okio/0.6.0/okio-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/okio/0.5.0",
+    "Source":         "src/okio/0.5.0/okio-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

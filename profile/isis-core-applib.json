@@ -1,0 +1,101 @@
+{
+  "Name":           "isis-core-applib",
+  "Title":          "Isis AppLib",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/isis/core/isis-core-applib/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.8.0",
+
+  "Versions": [
+  {
+    "Number":         "1.15.0",
+    "Installed":      "src/isis-core-applib/1.15.0",
+    "Source":         "src/isis-core-applib/1.15.0/isis-core-applib-1.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.14.0",
+    "Installed":      "src/isis-core-applib/1.14.0",
+    "Source":         "src/isis-core-applib/1.14.0/isis-core-applib-1.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.2",
+    "Installed":      "src/isis-core-applib/1.13.2",
+    "Source":         "src/isis-core-applib/1.13.2/isis-core-applib-1.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.1",
+    "Installed":      "src/isis-core-applib/1.13.1",
+    "Source":         "src/isis-core-applib/1.13.1/isis-core-applib-1.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.0",
+    "Installed":      "src/isis-core-applib/1.13.0",
+    "Source":         "src/isis-core-applib/1.13.0/isis-core-applib-1.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.2",
+    "Installed":      "src/isis-core-applib/1.12.2",
+    "Source":         "src/isis-core-applib/1.12.2/isis-core-applib-1.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.1",
+    "Installed":      "src/isis-core-applib/1.12.1",
+    "Source":         "src/isis-core-applib/1.12.1/isis-core-applib-1.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.0",
+    "Installed":      "src/isis-core-applib/1.12.0",
+    "Source":         "src/isis-core-applib/1.12.0/isis-core-applib-1.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.1",
+    "Installed":      "src/isis-core-applib/1.11.1",
+    "Source":         "src/isis-core-applib/1.11.1/isis-core-applib-1.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.0",
+    "Installed":      "src/isis-core-applib/1.11.0",
+    "Source":         "src/isis-core-applib/1.11.0/isis-core-applib-1.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.0",
+    "Installed":      "src/isis-core-applib/1.10.0",
+    "Source":         "src/isis-core-applib/1.10.0/isis-core-applib-1.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/isis-core-applib/1.9.0",
+    "Source":         "src/isis-core-applib/1.9.0/isis-core-applib-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/isis-core-applib/1.8.0",
+    "Source":         "src/isis-core-applib/1.8.0/isis-core-applib-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

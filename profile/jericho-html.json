@@ -1,0 +1,79 @@
+{
+  "Name":           "jericho-html",
+  "Title":          "Jericho HTML Parser",
+  "SourceUrl":      "http://central.maven.org/maven2/net/htmlparser/jericho/jericho-html/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.4",
+    "Installed":      "src/jericho-html/3.4",
+    "Source":         "src/jericho-html/3.4/jericho-html-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/jericho-html/3.3",
+    "Source":         "src/jericho-html/3.3/jericho-html-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/jericho-html/3.2",
+    "Source":         "src/jericho-html/3.2/jericho-html-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/jericho-html/3.1",
+    "Source":         "src/jericho-html/3.1/jericho-html-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/jericho-html/3.0",
+    "Source":         "src/jericho-html/3.0/jericho-html-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/jericho-html/2.6.1",
+    "Source":         "src/jericho-html/2.6.1/jericho-html-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/jericho-html/2.6",
+    "Source":         "src/jericho-html/2.6/jericho-html-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/jericho-html/2.5",
+    "Source":         "src/jericho-html/2.5/jericho-html-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/jericho-html/2.4",
+    "Source":         "src/jericho-html/2.4/jericho-html-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/jericho-html/2.3",
+    "Source":         "src/jericho-html/2.3/jericho-html-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

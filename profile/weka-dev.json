@@ -1,0 +1,32 @@
+{
+  "Name":           "weka-dev",
+  "Title":          "Weka Dev",
+  "SourceUrl":      "http://central.maven.org/maven2/nz/ac/waikato/cms/weka/weka-dev/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "1",
+  "MinimalVersion": "3.7.13",
+
+  "Versions": [
+  {
+    "Number":         "3.9.1",
+    "Installed":      "src/weka-dev/3.9.1",
+    "Source":         "src/weka-dev/3.9.1/weka-dev-3.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.0",
+    "Installed":      "src/weka-dev/3.9.0",
+    "Source":         "src/weka-dev/3.9.0/weka-dev-3.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.13",
+    "Installed":      "src/weka-dev/3.7.13",
+    "Source":         "src/weka-dev/3.7.13/weka-dev-3.7.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

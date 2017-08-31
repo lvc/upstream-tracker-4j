@@ -1,0 +1,87 @@
+{
+  "Name":           "nuxeo-core-storage",
+  "Title":          "Nuxeo Core Storage",
+  "SourceUrl":      "https://maven-eu.nuxeo.org/nexus/content/repositories/public-releases/org/nuxeo/ecm/core/nuxeo-core-storage/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7.1",
+
+  "Versions": [
+  {
+    "Number":         "9.2",
+    "Installed":      "src/nuxeo-core-storage/9.2",
+    "Source":         "src/nuxeo-core-storage/9.2/nuxeo-core-storage-9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1",
+    "Installed":      "src/nuxeo-core-storage/9.1",
+    "Source":         "src/nuxeo-core-storage/9.1/nuxeo-core-storage-9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.10",
+    "Installed":      "src/nuxeo-core-storage/8.10",
+    "Source":         "src/nuxeo-core-storage/8.10/nuxeo-core-storage-8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.3",
+    "Installed":      "src/nuxeo-core-storage/8.3",
+    "Source":         "src/nuxeo-core-storage/8.3/nuxeo-core-storage-8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2",
+    "Installed":      "src/nuxeo-core-storage/8.2",
+    "Source":         "src/nuxeo-core-storage/8.2/nuxeo-core-storage-8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.1",
+    "Installed":      "src/nuxeo-core-storage/8.1",
+    "Source":         "src/nuxeo-core-storage/8.1/nuxeo-core-storage-8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.10",
+    "Installed":      "src/nuxeo-core-storage/7.10",
+    "Source":         "src/nuxeo-core-storage/7.10/nuxeo-core-storage-7.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4",
+    "Installed":      "src/nuxeo-core-storage/7.4",
+    "Source":         "src/nuxeo-core-storage/7.4/nuxeo-core-storage-7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.3",
+    "Installed":      "src/nuxeo-core-storage/7.3",
+    "Source":         "src/nuxeo-core-storage/7.3/nuxeo-core-storage-7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2",
+    "Installed":      "src/nuxeo-core-storage/7.2",
+    "Source":         "src/nuxeo-core-storage/7.2/nuxeo-core-storage-7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1",
+    "Installed":      "src/nuxeo-core-storage/7.1",
+    "Source":         "src/nuxeo-core-storage/7.1/nuxeo-core-storage-7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

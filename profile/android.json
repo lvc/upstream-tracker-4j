@@ -10,6 +10,41 @@
 
   "Versions": [
   {
+    "Number":         "26_r02",
+    "Installed":      "installed/android/26_r02",
+    "Source":         "src/android/26_r02/platform-26_r02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "26_r01",
+    "Installed":      "installed/android/26_r01",
+    "Source":         "src/android/26_r01/platform-26_r01.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "25_r03",
+    "Installed":      "installed/android/25_r03",
+    "Source":         "src/android/25_r03/platform-25_r03.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "25_r02",
+    "Installed":      "installed/android/25_r02",
+    "Source":         "src/android/25_r02/platform-25_r02.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "25_r01",
+    "Installed":      "installed/android/25_r01",
+    "Source":         "src/android/25_r01/platform-25_r01.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "24_r02",
     "Installed":      "installed/android/24_r02",
     "Source":         "src/android/24_r02/platform-24_r02.zip",

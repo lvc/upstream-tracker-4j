@@ -1,0 +1,128 @@
+{
+  "Name":           "log4j-core",
+  "Title":          "Log4j Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/logging/log4j/log4j-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/log4j-core/2.9.0",
+    "Source":         "src/log4j-core/2.9.0/log4j-core-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/log4j-core/2.8.2",
+    "Source":         "src/log4j-core/2.8.2/log4j-core-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/log4j-core/2.8.1",
+    "Source":         "src/log4j-core/2.8.1/log4j-core-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/log4j-core/2.8",
+    "Source":         "src/log4j-core/2.8/log4j-core-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/log4j-core/2.7",
+    "Source":         "src/log4j-core/2.7/log4j-core-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/log4j-core/2.6.2",
+    "Source":         "src/log4j-core/2.6.2/log4j-core-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/log4j-core/2.6.1",
+    "Source":         "src/log4j-core/2.6.1/log4j-core-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/log4j-core/2.6",
+    "Source":         "src/log4j-core/2.6/log4j-core-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/log4j-core/2.5",
+    "Source":         "src/log4j-core/2.5/log4j-core-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/log4j-core/2.4.1",
+    "Source":         "src/log4j-core/2.4.1/log4j-core-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/log4j-core/2.4",
+    "Source":         "src/log4j-core/2.4/log4j-core-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/log4j-core/2.3",
+    "Source":         "src/log4j-core/2.3/log4j-core-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/log4j-core/2.2",
+    "Source":         "src/log4j-core/2.2/log4j-core-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/log4j-core/2.1",
+    "Source":         "src/log4j-core/2.1/log4j-core-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/log4j-core/2.0.2",
+    "Source":         "src/log4j-core/2.0.2/log4j-core-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/log4j-core/2.0.1",
+    "Source":         "src/log4j-core/2.0.1/log4j-core-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/log4j-core/2.0",
+    "Source":         "src/log4j-core/2.0/log4j-core-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

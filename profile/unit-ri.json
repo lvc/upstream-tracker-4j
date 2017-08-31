@@ -1,0 +1,58 @@
+{
+  "Name":           "unit-ri",
+  "Title":          "Units Of Measurement RI",
+  "SourceUrl":      "http://central.maven.org/maven2/tec/units/unit-ri/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/unit-ri/1.0.3",
+    "Source":         "src/unit-ri/1.0.3/unit-ri-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/unit-ri/1.0.2",
+    "Source":         "src/unit-ri/1.0.2/unit-ri-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/unit-ri/1.0.1",
+    "Source":         "src/unit-ri/1.0.1/unit-ri-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/unit-ri/1.0",
+    "Source":         "src/unit-ri/1.0/unit-ri-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/unit-ri/0.9",
+    "Source":         "src/unit-ri/0.9/unit-ri-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8",
+    "Installed":      "src/unit-ri/0.8",
+    "Source":         "src/unit-ri/0.8/unit-ri-0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/unit-ri/0.7.1",
+    "Source":         "src/unit-ri/0.7.1/unit-ri-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

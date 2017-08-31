@@ -1,0 +1,23 @@
+{
+  "Name":           "icecp-core",
+  "Title":          "Icecp Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/intel/icecp/icecp-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.13.0",
+    "Installed":      "src/icecp-core/0.13.0",
+    "Source":         "src/icecp-core/0.13.0/icecp-core-0.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.12",
+    "Installed":      "src/icecp-core/0.12.12",
+    "Source":         "src/icecp-core/0.12.12/icecp-core-0.12.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

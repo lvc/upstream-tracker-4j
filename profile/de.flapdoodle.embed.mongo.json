@@ -1,0 +1,296 @@
+{
+  "Name":           "de.flapdoodle.embed.mongo",
+  "Title":          "Flapdoodle Embedded MongoDB",
+  "SourceUrl":      "http://central.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.mongo/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.0.0",
+    "Installed":      "src/de.flapdoodle.embed.mongo/2.0.0",
+    "Source":         "src/de.flapdoodle.embed.mongo/2.0.0/de.flapdoodle.embed.mongo-2.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50.5",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.50.5",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.50.5/de.flapdoodle.embed.mongo-1.50.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50.3",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.50.3",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.50.3/de.flapdoodle.embed.mongo-1.50.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50.2",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.50.2",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.50.2/de.flapdoodle.embed.mongo-1.50.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50.1",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.50.1",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.50.1/de.flapdoodle.embed.mongo-1.50.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50.0",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.50.0",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.50.0/de.flapdoodle.embed.mongo-1.50.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.48.2",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.48.2",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.48.2/de.flapdoodle.embed.mongo-1.48.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.48.0",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.48.0",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.48.0/de.flapdoodle.embed.mongo-1.48.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47.3",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.47.3",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.47.3/de.flapdoodle.embed.mongo-1.47.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47.2",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.47.2",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.47.2/de.flapdoodle.embed.mongo-1.47.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47.1",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.47.1",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.47.1/de.flapdoodle.embed.mongo-1.47.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.47.0",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.47.0",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.47.0/de.flapdoodle.embed.mongo-1.47.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.46.4",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.46.4",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.46.4/de.flapdoodle.embed.mongo-1.46.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.46.1",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.46.1",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.46.1/de.flapdoodle.embed.mongo-1.46.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.46.0",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.46.0",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.46.0/de.flapdoodle.embed.mongo-1.46.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.45",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.45",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.45/de.flapdoodle.embed.mongo-1.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.44",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.44",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.44/de.flapdoodle.embed.mongo-1.44.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.43",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.43",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.43/de.flapdoodle.embed.mongo-1.43.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.42",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.42",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.42/de.flapdoodle.embed.mongo-1.42.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.41",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.41",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.41/de.flapdoodle.embed.mongo-1.41.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.40",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.40",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.40/de.flapdoodle.embed.mongo-1.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.39",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.39",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.39/de.flapdoodle.embed.mongo-1.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.38",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.38",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.38/de.flapdoodle.embed.mongo-1.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.37",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.37",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.37/de.flapdoodle.embed.mongo-1.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.36",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.36",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.36/de.flapdoodle.embed.mongo-1.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.35",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.35",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.35/de.flapdoodle.embed.mongo-1.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.34",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.34",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.34/de.flapdoodle.embed.mongo-1.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.33",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.33",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.33/de.flapdoodle.embed.mongo-1.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.31",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.31",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.31/de.flapdoodle.embed.mongo-1.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.30",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.30",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.30/de.flapdoodle.embed.mongo-1.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.29",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.29",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.29/de.flapdoodle.embed.mongo-1.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.28",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.28",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.28/de.flapdoodle.embed.mongo-1.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.27",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.27",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.27/de.flapdoodle.embed.mongo-1.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.26",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.26",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.26/de.flapdoodle.embed.mongo-1.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.25",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.25",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.25/de.flapdoodle.embed.mongo-1.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.24",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.24",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.24/de.flapdoodle.embed.mongo-1.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.23",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.23",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.23/de.flapdoodle.embed.mongo-1.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.22",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.22",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.22/de.flapdoodle.embed.mongo-1.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.21",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.21",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.21/de.flapdoodle.embed.mongo-1.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.20",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.20/de.flapdoodle.embed.mongo-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19",
+    "Installed":      "src/de.flapdoodle.embed.mongo/1.19",
+    "Source":         "src/de.flapdoodle.embed.mongo/1.19/de.flapdoodle.embed.mongo-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

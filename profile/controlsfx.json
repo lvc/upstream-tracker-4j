@@ -1,0 +1,67 @@
+{
+  "Name":           "controlsfx",
+  "Title":          "ControlsFX",
+  "SourceUrl":      "http://central.maven.org/maven2/org/controlsfx/controlsfx/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "8.20.7",
+  "SkipVersions":   [ "8.0.6_20" ],
+
+  "Versions": [
+  {
+    "Number":         "8.40.13",
+    "Installed":      "src/controlsfx/8.40.13",
+    "Source":         "src/controlsfx/8.40.13/controlsfx-8.40.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.40.12",
+    "Installed":      "src/controlsfx/8.40.12",
+    "Source":         "src/controlsfx/8.40.12/controlsfx-8.40.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.40.11",
+    "Installed":      "src/controlsfx/8.40.11",
+    "Source":         "src/controlsfx/8.40.11/controlsfx-8.40.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.40.10",
+    "Installed":      "src/controlsfx/8.40.10",
+    "Source":         "src/controlsfx/8.40.10/controlsfx-8.40.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.40.9",
+    "Installed":      "src/controlsfx/8.40.9",
+    "Source":         "src/controlsfx/8.40.9/controlsfx-8.40.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.20.9",
+    "Installed":      "src/controlsfx/8.20.9",
+    "Source":         "src/controlsfx/8.20.9/controlsfx-8.20.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.20.8",
+    "Installed":      "src/controlsfx/8.20.8",
+    "Source":         "src/controlsfx/8.20.8/controlsfx-8.20.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.20.7",
+    "Installed":      "src/controlsfx/8.20.7",
+    "Source":         "src/controlsfx/8.20.7/controlsfx-8.20.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

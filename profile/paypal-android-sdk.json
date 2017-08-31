@@ -1,0 +1,142 @@
+{
+  "Name":           "paypal-android-sdk",
+  "Title":          "Paypal Android SDK",
+  "SourceUrl":      "http://central.maven.org/maven2/com/paypal/sdk/paypal-android-sdk/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "2.15.3",
+    "Installed":      "installed/paypal-android-sdk/2.15.3",
+    "Source":         "src/paypal-android-sdk/2.15.3/paypal-android-sdk-2.15.3.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.2",
+    "Installed":      "installed/paypal-android-sdk/2.15.2",
+    "Source":         "src/paypal-android-sdk/2.15.2/paypal-android-sdk-2.15.2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.1",
+    "Installed":      "installed/paypal-android-sdk/2.15.1",
+    "Source":         "src/paypal-android-sdk/2.15.1/paypal-android-sdk-2.15.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.0",
+    "Installed":      "installed/paypal-android-sdk/2.15.0",
+    "Source":         "src/paypal-android-sdk/2.15.0/paypal-android-sdk-2.15.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.6",
+    "Installed":      "installed/paypal-android-sdk/2.14.6",
+    "Source":         "src/paypal-android-sdk/2.14.6/paypal-android-sdk-2.14.6.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.5",
+    "Installed":      "installed/paypal-android-sdk/2.14.5",
+    "Source":         "src/paypal-android-sdk/2.14.5/paypal-android-sdk-2.14.5.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.4",
+    "Installed":      "installed/paypal-android-sdk/2.14.4",
+    "Source":         "src/paypal-android-sdk/2.14.4/paypal-android-sdk-2.14.4.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.3",
+    "Installed":      "installed/paypal-android-sdk/2.14.3",
+    "Source":         "src/paypal-android-sdk/2.14.3/paypal-android-sdk-2.14.3.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.2",
+    "Installed":      "installed/paypal-android-sdk/2.14.2",
+    "Source":         "src/paypal-android-sdk/2.14.2/paypal-android-sdk-2.14.2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "installed/paypal-android-sdk/2.14.1",
+    "Source":         "src/paypal-android-sdk/2.14.1/paypal-android-sdk-2.14.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "installed/paypal-android-sdk/2.14.0",
+    "Source":         "src/paypal-android-sdk/2.14.0/paypal-android-sdk-2.14.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.3",
+    "Installed":      "installed/paypal-android-sdk/2.13.3",
+    "Source":         "src/paypal-android-sdk/2.13.3/paypal-android-sdk-2.13.3.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.2",
+    "Installed":      "installed/paypal-android-sdk/2.13.2",
+    "Source":         "src/paypal-android-sdk/2.13.2/paypal-android-sdk-2.13.2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.1",
+    "Installed":      "installed/paypal-android-sdk/2.13.1",
+    "Source":         "src/paypal-android-sdk/2.13.1/paypal-android-sdk-2.13.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.0",
+    "Installed":      "installed/paypal-android-sdk/2.13.0",
+    "Source":         "src/paypal-android-sdk/2.13.0/paypal-android-sdk-2.13.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.5",
+    "Installed":      "installed/paypal-android-sdk/2.12.5",
+    "Source":         "src/paypal-android-sdk/2.12.5/paypal-android-sdk-2.12.5.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.4",
+    "Installed":      "installed/paypal-android-sdk/2.12.4",
+    "Source":         "src/paypal-android-sdk/2.12.4/paypal-android-sdk-2.12.4.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.3",
+    "Installed":      "installed/paypal-android-sdk/2.12.3",
+    "Source":         "src/paypal-android-sdk/2.12.3/paypal-android-sdk-2.12.3.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.2",
+    "Installed":      "installed/paypal-android-sdk/2.12.2",
+    "Source":         "src/paypal-android-sdk/2.12.2/paypal-android-sdk-2.12.2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,149 @@
+{
+  "Name":           "oval",
+  "Title":          "OVal",
+  "SourceUrl":      "http://central.maven.org/maven2/net/sf/oval/oval/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.87",
+    "Installed":      "src/oval/1.87",
+    "Source":         "src/oval/1.87/oval-1.87.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.86",
+    "Installed":      "src/oval/1.86",
+    "Source":         "src/oval/1.86/oval-1.86.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.85",
+    "Installed":      "src/oval/1.85",
+    "Source":         "src/oval/1.85/oval-1.85.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.84",
+    "Installed":      "src/oval/1.84",
+    "Source":         "src/oval/1.84/oval-1.84.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.83",
+    "Installed":      "src/oval/1.83",
+    "Source":         "src/oval/1.83/oval-1.83.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.82",
+    "Installed":      "src/oval/1.82",
+    "Source":         "src/oval/1.82/oval-1.82.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.81",
+    "Installed":      "src/oval/1.81",
+    "Source":         "src/oval/1.81/oval-1.81.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.80",
+    "Installed":      "src/oval/1.80",
+    "Source":         "src/oval/1.80/oval-1.80.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.70",
+    "Installed":      "src/oval/1.70",
+    "Source":         "src/oval/1.70/oval-1.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.61",
+    "Installed":      "src/oval/1.61",
+    "Source":         "src/oval/1.61/oval-1.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.60",
+    "Installed":      "src/oval/1.60",
+    "Source":         "src/oval/1.60/oval-1.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.50",
+    "Installed":      "src/oval/1.50",
+    "Source":         "src/oval/1.50/oval-1.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.40",
+    "Installed":      "src/oval/1.40",
+    "Source":         "src/oval/1.40/oval-1.40.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.32",
+    "Installed":      "src/oval/1.32",
+    "Source":         "src/oval/1.32/oval-1.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.31",
+    "Installed":      "src/oval/1.31",
+    "Source":         "src/oval/1.31/oval-1.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.30",
+    "Installed":      "src/oval/1.30",
+    "Source":         "src/oval/1.30/oval-1.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.20",
+    "Installed":      "src/oval/1.20",
+    "Source":         "src/oval/1.20/oval-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10",
+    "Installed":      "src/oval/1.10",
+    "Source":         "src/oval/1.10/oval-1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/oval/1.0",
+    "Source":         "src/oval/1.0/oval-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/oval/0.9",
+    "Source":         "src/oval/0.9/oval-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

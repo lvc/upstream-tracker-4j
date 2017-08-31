@@ -1,0 +1,178 @@
+{
+  "Name":           "kotlin-stdlib",
+  "Title":          "Kotlin Stdlib",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.0.0",
+
+  "Versions": [
+  {
+    "Number":         "1.1.4-2",
+    "Installed":      "src/kotlin-stdlib/1.1.4-2",
+    "Source":         "src/kotlin-stdlib/1.1.4-2/kotlin-stdlib-1.1.4-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.4",
+    "Installed":      "src/kotlin-stdlib/1.1.4",
+    "Source":         "src/kotlin-stdlib/1.1.4/kotlin-stdlib-1.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3-2",
+    "Installed":      "src/kotlin-stdlib/1.1.3-2",
+    "Source":         "src/kotlin-stdlib/1.1.3-2/kotlin-stdlib-1.1.3-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/kotlin-stdlib/1.1.3",
+    "Source":         "src/kotlin-stdlib/1.1.3/kotlin-stdlib-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2-5",
+    "Installed":      "src/kotlin-stdlib/1.1.2-5",
+    "Source":         "src/kotlin-stdlib/1.1.2-5/kotlin-stdlib-1.1.2-5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2-4",
+    "Installed":      "src/kotlin-stdlib/1.1.2-4",
+    "Source":         "src/kotlin-stdlib/1.1.2-4/kotlin-stdlib-1.1.2-4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2-3",
+    "Installed":      "src/kotlin-stdlib/1.1.2-3",
+    "Source":         "src/kotlin-stdlib/1.1.2-3/kotlin-stdlib-1.1.2-3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2-2",
+    "Installed":      "src/kotlin-stdlib/1.1.2-2",
+    "Source":         "src/kotlin-stdlib/1.1.2-2/kotlin-stdlib-1.1.2-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/kotlin-stdlib/1.1.2",
+    "Source":         "src/kotlin-stdlib/1.1.2/kotlin-stdlib-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/kotlin-stdlib/1.1.1",
+    "Source":         "src/kotlin-stdlib/1.1.1/kotlin-stdlib-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/kotlin-stdlib/1.1.0",
+    "Source":         "src/kotlin-stdlib/1.1.0/kotlin-stdlib-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/kotlin-stdlib/1.0.7",
+    "Source":         "src/kotlin-stdlib/1.0.7/kotlin-stdlib-1.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.6",
+    "Installed":      "src/kotlin-stdlib/1.0.6",
+    "Source":         "src/kotlin-stdlib/1.0.6/kotlin-stdlib-1.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5-3",
+    "Installed":      "src/kotlin-stdlib/1.0.5-3",
+    "Source":         "src/kotlin-stdlib/1.0.5-3/kotlin-stdlib-1.0.5-3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5-2",
+    "Installed":      "src/kotlin-stdlib/1.0.5-2",
+    "Source":         "src/kotlin-stdlib/1.0.5-2/kotlin-stdlib-1.0.5-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.5",
+    "Installed":      "src/kotlin-stdlib/1.0.5",
+    "Source":         "src/kotlin-stdlib/1.0.5/kotlin-stdlib-1.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.4",
+    "Installed":      "src/kotlin-stdlib/1.0.4",
+    "Source":         "src/kotlin-stdlib/1.0.4/kotlin-stdlib-1.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/kotlin-stdlib/1.0.3",
+    "Source":         "src/kotlin-stdlib/1.0.3/kotlin-stdlib-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2-1",
+    "Installed":      "src/kotlin-stdlib/1.0.2-1",
+    "Source":         "src/kotlin-stdlib/1.0.2-1/kotlin-stdlib-1.0.2-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/kotlin-stdlib/1.0.2",
+    "Source":         "src/kotlin-stdlib/1.0.2/kotlin-stdlib-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1-2",
+    "Installed":      "src/kotlin-stdlib/1.0.1-2",
+    "Source":         "src/kotlin-stdlib/1.0.1-2/kotlin-stdlib-1.0.1-2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1-1",
+    "Installed":      "src/kotlin-stdlib/1.0.1-1",
+    "Source":         "src/kotlin-stdlib/1.0.1-1/kotlin-stdlib-1.0.1-1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/kotlin-stdlib/1.0.1",
+    "Source":         "src/kotlin-stdlib/1.0.1/kotlin-stdlib-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/kotlin-stdlib/1.0.0",
+    "Source":         "src/kotlin-stdlib/1.0.0/kotlin-stdlib-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

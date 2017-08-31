@@ -1,0 +1,276 @@
+{
+  "Name":           "fastjson",
+  "Title":          "Fastjson",
+  "SourceUrl":      "http://central.maven.org/maven2/com/alibaba/fastjson/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "1.2.0",
+
+  "Versions": [
+  {
+    "Number":         "1.2.37",
+    "Installed":      "src/fastjson/1.2.37",
+    "Source":         "src/fastjson/1.2.37/fastjson-1.2.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.36",
+    "Installed":      "src/fastjson/1.2.36",
+    "Source":         "src/fastjson/1.2.36/fastjson-1.2.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.35",
+    "Installed":      "src/fastjson/1.2.35",
+    "Source":         "src/fastjson/1.2.35/fastjson-1.2.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.34",
+    "Installed":      "src/fastjson/1.2.34",
+    "Source":         "src/fastjson/1.2.34/fastjson-1.2.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.33",
+    "Installed":      "src/fastjson/1.2.33",
+    "Source":         "src/fastjson/1.2.33/fastjson-1.2.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.32",
+    "Installed":      "src/fastjson/1.2.32",
+    "Source":         "src/fastjson/1.2.32/fastjson-1.2.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.31",
+    "Installed":      "src/fastjson/1.2.31",
+    "Source":         "src/fastjson/1.2.31/fastjson-1.2.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.30",
+    "Installed":      "src/fastjson/1.2.30",
+    "Source":         "src/fastjson/1.2.30/fastjson-1.2.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.29",
+    "Installed":      "src/fastjson/1.2.29",
+    "Source":         "src/fastjson/1.2.29/fastjson-1.2.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.28",
+    "Installed":      "src/fastjson/1.2.28",
+    "Source":         "src/fastjson/1.2.28/fastjson-1.2.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.27",
+    "Installed":      "src/fastjson/1.2.27",
+    "Source":         "src/fastjson/1.2.27/fastjson-1.2.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.26",
+    "Installed":      "src/fastjson/1.2.26",
+    "Source":         "src/fastjson/1.2.26/fastjson-1.2.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.25",
+    "Installed":      "src/fastjson/1.2.25",
+    "Source":         "src/fastjson/1.2.25/fastjson-1.2.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.24",
+    "Installed":      "src/fastjson/1.2.24",
+    "Source":         "src/fastjson/1.2.24/fastjson-1.2.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.23",
+    "Installed":      "src/fastjson/1.2.23",
+    "Source":         "src/fastjson/1.2.23/fastjson-1.2.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.22",
+    "Installed":      "src/fastjson/1.2.22",
+    "Source":         "src/fastjson/1.2.22/fastjson-1.2.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.21",
+    "Installed":      "src/fastjson/1.2.21",
+    "Source":         "src/fastjson/1.2.21/fastjson-1.2.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.20",
+    "Installed":      "src/fastjson/1.2.20",
+    "Source":         "src/fastjson/1.2.20/fastjson-1.2.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.19",
+    "Installed":      "src/fastjson/1.2.19",
+    "Source":         "src/fastjson/1.2.19/fastjson-1.2.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.18",
+    "Installed":      "src/fastjson/1.2.18",
+    "Source":         "src/fastjson/1.2.18/fastjson-1.2.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.17",
+    "Installed":      "src/fastjson/1.2.17",
+    "Source":         "src/fastjson/1.2.17/fastjson-1.2.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.16",
+    "Installed":      "src/fastjson/1.2.16",
+    "Source":         "src/fastjson/1.2.16/fastjson-1.2.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.15",
+    "Installed":      "src/fastjson/1.2.15",
+    "Source":         "src/fastjson/1.2.15/fastjson-1.2.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.14",
+    "Installed":      "src/fastjson/1.2.14",
+    "Source":         "src/fastjson/1.2.14/fastjson-1.2.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.13",
+    "Installed":      "src/fastjson/1.2.13",
+    "Source":         "src/fastjson/1.2.13/fastjson-1.2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.12",
+    "Installed":      "src/fastjson/1.2.12",
+    "Source":         "src/fastjson/1.2.12/fastjson-1.2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.11",
+    "Installed":      "src/fastjson/1.2.11",
+    "Source":         "src/fastjson/1.2.11/fastjson-1.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.10",
+    "Installed":      "src/fastjson/1.2.10",
+    "Source":         "src/fastjson/1.2.10/fastjson-1.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.9",
+    "Installed":      "src/fastjson/1.2.9",
+    "Source":         "src/fastjson/1.2.9/fastjson-1.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.8",
+    "Installed":      "src/fastjson/1.2.8",
+    "Source":         "src/fastjson/1.2.8/fastjson-1.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.7",
+    "Installed":      "src/fastjson/1.2.7",
+    "Source":         "src/fastjson/1.2.7/fastjson-1.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.6",
+    "Installed":      "src/fastjson/1.2.6",
+    "Source":         "src/fastjson/1.2.6/fastjson-1.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.5",
+    "Installed":      "src/fastjson/1.2.5",
+    "Source":         "src/fastjson/1.2.5/fastjson-1.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.4",
+    "Installed":      "src/fastjson/1.2.4",
+    "Source":         "src/fastjson/1.2.4/fastjson-1.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.3",
+    "Installed":      "src/fastjson/1.2.3",
+    "Source":         "src/fastjson/1.2.3/fastjson-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.2",
+    "Installed":      "src/fastjson/1.2.2",
+    "Source":         "src/fastjson/1.2.2/fastjson-1.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.1",
+    "Installed":      "src/fastjson/1.2.1",
+    "Source":         "src/fastjson/1.2.1/fastjson-1.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/fastjson/1.2.0",
+    "Source":         "src/fastjson/1.2.0/fastjson-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

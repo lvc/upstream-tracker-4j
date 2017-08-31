@@ -1,0 +1,88 @@
+{
+  "Name":           "duracloud-storageprovider",
+  "Title":          "DURACLOUD Storage Provider Interfaces",
+  "SourceUrl":      "http://central.maven.org/maven2/org/duracloud/storageprovider/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+  "Package":        "storageprovider",
+
+  "Versions": [
+  {
+    "Number":         "4.3.7",
+    "Installed":      "src/duracloud-storageprovider/4.3.7",
+    "Source":         "src/duracloud-storageprovider/4.3.7/storageprovider-4.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.6",
+    "Installed":      "src/duracloud-storageprovider/4.2.6",
+    "Source":         "src/duracloud-storageprovider/4.2.6/storageprovider-4.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.9",
+    "Installed":      "src/duracloud-storageprovider/4.1.9",
+    "Source":         "src/duracloud-storageprovider/4.1.9/storageprovider-4.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/duracloud-storageprovider/4.0.1",
+    "Source":         "src/duracloud-storageprovider/4.0.1/storageprovider-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.4",
+    "Installed":      "src/duracloud-storageprovider/3.7.4",
+    "Source":         "src/duracloud-storageprovider/3.7.4/storageprovider-3.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/duracloud-storageprovider/3.6.0",
+    "Source":         "src/duracloud-storageprovider/3.6.0/storageprovider-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/duracloud-storageprovider/3.5.0",
+    "Source":         "src/duracloud-storageprovider/3.5.0/storageprovider-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/duracloud-storageprovider/3.4.0",
+    "Source":         "src/duracloud-storageprovider/3.4.0/storageprovider-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/duracloud-storageprovider/3.3.0",
+    "Source":         "src/duracloud-storageprovider/3.3.0/storageprovider-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/duracloud-storageprovider/3.2.5",
+    "Source":         "src/duracloud-storageprovider/3.2.5/storageprovider-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/duracloud-storageprovider/2.1.2",
+    "Source":         "src/duracloud-storageprovider/2.1.2/storageprovider-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

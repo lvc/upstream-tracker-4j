@@ -1,0 +1,142 @@
+{
+  "Name":           "ant",
+  "Title":          "Apache Ant Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/ant/ant/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.10.1",
+    "Installed":      "src/ant/1.10.1",
+    "Source":         "src/ant/1.10.1/ant-1.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.0",
+    "Installed":      "src/ant/1.10.0",
+    "Source":         "src/ant/1.10.0/ant-1.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.9",
+    "Installed":      "src/ant/1.9.9",
+    "Source":         "src/ant/1.9.9/ant-1.9.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.8",
+    "Installed":      "src/ant/1.9.8",
+    "Source":         "src/ant/1.9.8/ant-1.9.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.7",
+    "Installed":      "src/ant/1.9.7",
+    "Source":         "src/ant/1.9.7/ant-1.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.6",
+    "Installed":      "src/ant/1.9.6",
+    "Source":         "src/ant/1.9.6/ant-1.9.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.5",
+    "Installed":      "src/ant/1.9.5",
+    "Source":         "src/ant/1.9.5/ant-1.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.4",
+    "Installed":      "src/ant/1.9.4",
+    "Source":         "src/ant/1.9.4/ant-1.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.3",
+    "Installed":      "src/ant/1.9.3",
+    "Source":         "src/ant/1.9.3/ant-1.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.2",
+    "Installed":      "src/ant/1.9.2",
+    "Source":         "src/ant/1.9.2/ant-1.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.1",
+    "Installed":      "src/ant/1.9.1",
+    "Source":         "src/ant/1.9.1/ant-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/ant/1.9.0",
+    "Source":         "src/ant/1.9.0/ant-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.4",
+    "Installed":      "src/ant/1.8.4",
+    "Source":         "src/ant/1.8.4/ant-1.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/ant/1.8.3",
+    "Source":         "src/ant/1.8.3/ant-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/ant/1.8.2",
+    "Source":         "src/ant/1.8.2/ant-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/ant/1.8.1",
+    "Source":         "src/ant/1.8.1/ant-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/ant/1.8.0",
+    "Source":         "src/ant/1.8.0/ant-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/ant/1.7.1",
+    "Source":         "src/ant/1.7.1/ant-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/ant/1.7.0",
+    "Source":         "src/ant/1.7.0/ant-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

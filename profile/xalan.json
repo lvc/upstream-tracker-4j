@@ -1,0 +1,81 @@
+{
+  "Name":           "xalan",
+  "Title":          "Xalan Java",
+  "SourceUrl":      "http://central.maven.org/maven2/xalan/xalan/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CompactReport":  "On",
+  "SkipExt":        [ "zip", "tar.gz" ],
+
+  "Versions": [
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/xalan/2.7.2",
+    "Source":         "src/xalan/2.7.2/xalan-2.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/xalan/2.7.1",
+    "Source":         "src/xalan/2.7.1/xalan-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/xalan/2.7.0",
+    "Source":         "src/xalan/2.7.0/xalan-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/xalan/2.6.0",
+    "Source":         "src/xalan/2.6.0/xalan-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "src/xalan/2.5.1",
+    "Source":         "src/xalan/2.5.1/xalan-2.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "src/xalan/2.5.0",
+    "Source":         "src/xalan/2.5.0/xalan-2.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/xalan/2.4.1",
+    "Source":         "src/xalan/2.4.1/xalan-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/xalan/2.4.0",
+    "Source":         "src/xalan/2.4.0/xalan-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/xalan/2.3.1",
+    "Source":         "src/xalan/2.3.1/xalan-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/xalan/2.1.0",
+    "Source":         "src/xalan/2.1.0/xalan-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

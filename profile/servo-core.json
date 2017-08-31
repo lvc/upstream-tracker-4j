@@ -1,0 +1,185 @@
+{
+  "Name":           "servo-core",
+  "Title":          "Servo Core",
+  "SourceUrl":      "http://central.maven.org/maven2/com/netflix/servo/servo-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.10.0",
+
+  "Versions": [
+  {
+    "Number":         "0.12.17",
+    "Installed":      "src/servo-core/0.12.17",
+    "Source":         "src/servo-core/0.12.17/servo-core-0.12.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.16",
+    "Installed":      "src/servo-core/0.12.16",
+    "Source":         "src/servo-core/0.12.16/servo-core-0.12.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.15",
+    "Installed":      "src/servo-core/0.12.15",
+    "Source":         "src/servo-core/0.12.15/servo-core-0.12.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.14",
+    "Installed":      "src/servo-core/0.12.14",
+    "Source":         "src/servo-core/0.12.14/servo-core-0.12.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.13",
+    "Installed":      "src/servo-core/0.12.13",
+    "Source":         "src/servo-core/0.12.13/servo-core-0.12.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.12",
+    "Installed":      "src/servo-core/0.12.12",
+    "Source":         "src/servo-core/0.12.12/servo-core-0.12.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.11",
+    "Installed":      "src/servo-core/0.12.11",
+    "Source":         "src/servo-core/0.12.11/servo-core-0.12.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.10",
+    "Installed":      "src/servo-core/0.12.10",
+    "Source":         "src/servo-core/0.12.10/servo-core-0.12.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.9",
+    "Installed":      "src/servo-core/0.12.9",
+    "Source":         "src/servo-core/0.12.9/servo-core-0.12.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.8",
+    "Installed":      "src/servo-core/0.12.8",
+    "Source":         "src/servo-core/0.12.8/servo-core-0.12.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.7",
+    "Installed":      "src/servo-core/0.12.7",
+    "Source":         "src/servo-core/0.12.7/servo-core-0.12.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.6",
+    "Installed":      "src/servo-core/0.12.6",
+    "Source":         "src/servo-core/0.12.6/servo-core-0.12.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.5",
+    "Installed":      "src/servo-core/0.12.5",
+    "Source":         "src/servo-core/0.12.5/servo-core-0.12.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.3",
+    "Installed":      "src/servo-core/0.12.3",
+    "Source":         "src/servo-core/0.12.3/servo-core-0.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.2",
+    "Installed":      "src/servo-core/0.12.2",
+    "Source":         "src/servo-core/0.12.2/servo-core-0.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.1",
+    "Installed":      "src/servo-core/0.12.1",
+    "Source":         "src/servo-core/0.12.1/servo-core-0.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/servo-core/0.12.0",
+    "Source":         "src/servo-core/0.12.0/servo-core-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.5",
+    "Installed":      "src/servo-core/0.11.5",
+    "Source":         "src/servo-core/0.11.5/servo-core-0.11.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.4",
+    "Installed":      "src/servo-core/0.11.4",
+    "Source":         "src/servo-core/0.11.4/servo-core-0.11.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.3",
+    "Installed":      "src/servo-core/0.11.3",
+    "Source":         "src/servo-core/0.11.3/servo-core-0.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.2",
+    "Installed":      "src/servo-core/0.11.2",
+    "Source":         "src/servo-core/0.11.2/servo-core-0.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.1",
+    "Installed":      "src/servo-core/0.11.1",
+    "Source":         "src/servo-core/0.11.1/servo-core-0.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/servo-core/0.11.0",
+    "Source":         "src/servo-core/0.11.0/servo-core-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.1",
+    "Installed":      "src/servo-core/0.10.1",
+    "Source":         "src/servo-core/0.10.1/servo-core-0.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/servo-core/0.10.0",
+    "Source":         "src/servo-core/0.10.0/servo-core-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

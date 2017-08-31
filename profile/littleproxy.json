@@ -1,0 +1,58 @@
+{
+  "Name":           "littleproxy",
+  "Title":          "LittleProxy",
+  "SourceUrl":      "http://central.maven.org/maven2/org/littleshoot/littleproxy/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/littleproxy/1.1.2",
+    "Source":         "src/littleproxy/1.1.2/littleproxy-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/littleproxy/1.1.1",
+    "Source":         "src/littleproxy/1.1.1/littleproxy-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/littleproxy/1.1.0",
+    "Source":         "src/littleproxy/1.1.0/littleproxy-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.3",
+    "Installed":      "src/littleproxy/0.5.3",
+    "Source":         "src/littleproxy/0.5.3/littleproxy-0.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/littleproxy/0.5.1",
+    "Source":         "src/littleproxy/0.5.1/littleproxy-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/littleproxy/0.5",
+    "Source":         "src/littleproxy/0.5/littleproxy-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/littleproxy/0.4",
+    "Source":         "src/littleproxy/0.4/littleproxy-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

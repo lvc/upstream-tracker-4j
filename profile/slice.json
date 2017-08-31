@@ -1,0 +1,219 @@
+{
+  "Name":           "slice",
+  "Title":          "Slice",
+  "SourceUrl":      "http://central.maven.org/maven2/io/airlift/slice/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.30",
+    "Installed":      "src/slice/0.30",
+    "Source":         "src/slice/0.30/slice-0.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.29",
+    "Installed":      "src/slice/0.29",
+    "Source":         "src/slice/0.29/slice-0.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.28",
+    "Installed":      "src/slice/0.28",
+    "Source":         "src/slice/0.28/slice-0.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.27",
+    "Installed":      "src/slice/0.27",
+    "Source":         "src/slice/0.27/slice-0.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.26",
+    "Installed":      "src/slice/0.26",
+    "Source":         "src/slice/0.26/slice-0.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.25",
+    "Installed":      "src/slice/0.25",
+    "Source":         "src/slice/0.25/slice-0.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.24",
+    "Installed":      "src/slice/0.24",
+    "Source":         "src/slice/0.24/slice-0.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.23",
+    "Installed":      "src/slice/0.23",
+    "Source":         "src/slice/0.23/slice-0.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22",
+    "Installed":      "src/slice/0.22",
+    "Source":         "src/slice/0.22/slice-0.22.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21",
+    "Installed":      "src/slice/0.21",
+    "Source":         "src/slice/0.21/slice-0.21.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20",
+    "Installed":      "src/slice/0.20",
+    "Source":         "src/slice/0.20/slice-0.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.19",
+    "Installed":      "src/slice/0.19",
+    "Source":         "src/slice/0.19/slice-0.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.18",
+    "Installed":      "src/slice/0.18",
+    "Source":         "src/slice/0.18/slice-0.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17",
+    "Installed":      "src/slice/0.17",
+    "Source":         "src/slice/0.17/slice-0.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.16",
+    "Installed":      "src/slice/0.16",
+    "Source":         "src/slice/0.16/slice-0.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15",
+    "Installed":      "src/slice/0.15",
+    "Source":         "src/slice/0.15/slice-0.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.14",
+    "Installed":      "src/slice/0.14",
+    "Source":         "src/slice/0.14/slice-0.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13",
+    "Installed":      "src/slice/0.13",
+    "Source":         "src/slice/0.13/slice-0.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12",
+    "Installed":      "src/slice/0.12",
+    "Source":         "src/slice/0.12/slice-0.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11",
+    "Installed":      "src/slice/0.11",
+    "Source":         "src/slice/0.11/slice-0.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10",
+    "Installed":      "src/slice/0.10",
+    "Source":         "src/slice/0.10/slice-0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/slice/0.9",
+    "Source":         "src/slice/0.9/slice-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8",
+    "Installed":      "src/slice/0.8",
+    "Source":         "src/slice/0.8/slice-0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/slice/0.7",
+    "Source":         "src/slice/0.7/slice-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6",
+    "Installed":      "src/slice/0.6",
+    "Source":         "src/slice/0.6/slice-0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5",
+    "Installed":      "src/slice/0.5",
+    "Source":         "src/slice/0.5/slice-0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4",
+    "Installed":      "src/slice/0.4",
+    "Source":         "src/slice/0.4/slice-0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3",
+    "Installed":      "src/slice/0.3",
+    "Source":         "src/slice/0.3/slice-0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2",
+    "Installed":      "src/slice/0.2",
+    "Source":         "src/slice/0.2/slice-0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.1",
+    "Installed":      "src/slice/0.1",
+    "Source":         "src/slice/0.1/slice-0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

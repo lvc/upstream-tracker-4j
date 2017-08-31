@@ -1,0 +1,45 @@
+{
+  "Name":           "commons-csv",
+  "Title":          "Commons CSV",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/commons/commons-csv/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipExt":        [ "zip", "tar.gz" ],
+
+  "Versions": [
+  {
+    "Number":         "1.4",
+    "Installed":      "src/commons-csv/1.4",
+    "Source":         "src/commons-csv/1.4/commons-csv-1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3",
+    "Installed":      "src/commons-csv/1.3",
+    "Source":         "src/commons-csv/1.3/commons-csv-1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2",
+    "Installed":      "src/commons-csv/1.2",
+    "Source":         "src/commons-csv/1.2/commons-csv-1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1",
+    "Installed":      "src/commons-csv/1.1",
+    "Source":         "src/commons-csv/1.1/commons-csv-1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0",
+    "Installed":      "src/commons-csv/1.0",
+    "Source":         "src/commons-csv/1.0/commons-csv-1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

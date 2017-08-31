@@ -1,0 +1,68 @@
+{
+  "Name":           "appengine-api",
+  "Title":          "Google App Engine API",
+  "SourceUrl":      "http://central.maven.org/maven2/com/google/appengine/appengine-api-1.0-sdk/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+  "Package":        "appengine-api-1.0-sdk",
+  "CompactReport":  "On",
+
+  "Versions": [
+  {
+    "Number":         "1.9.54",
+    "Installed":      "src/appengine-api/1.9.54",
+    "Source":         "src/appengine-api/1.9.54/appengine-api-1.0-sdk-1.9.54.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.9",
+    "Installed":      "src/appengine-api/1.8.9",
+    "Source":         "src/appengine-api/1.8.9/appengine-api-1.0-sdk-1.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.7.1",
+    "Installed":      "src/appengine-api/1.7.7.1",
+    "Source":         "src/appengine-api/1.7.7.1/appengine-api-1.0-sdk-1.7.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.6",
+    "Installed":      "src/appengine-api/1.6.6",
+    "Source":         "src/appengine-api/1.6.6/appengine-api-1.0-sdk-1.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.5",
+    "Installed":      "src/appengine-api/1.5.5",
+    "Source":         "src/appengine-api/1.5.5/appengine-api-1.0-sdk-1.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.3",
+    "Installed":      "src/appengine-api/1.4.3",
+    "Source":         "src/appengine-api/1.4.3/appengine-api-1.0-sdk-1.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.8",
+    "Installed":      "src/appengine-api/1.3.8",
+    "Source":         "src/appengine-api/1.3.8/appengine-api-1.0-sdk-1.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.8",
+    "Installed":      "src/appengine-api/1.2.8",
+    "Source":         "src/appengine-api/1.2.8/appengine-api-1.0-sdk-1.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}
