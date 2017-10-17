@@ -5,6 +5,8 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CompactReport":  "On",
+  "SkipClasses":    "filters/skip_classes/gwt-user.list",
+  "SkipInternalPackages": ".*(linker|rebind|server|tools|vm).*|com\.google\.gwt\.(thirdparty|core\.ext|dev\.(asm|cfg|codeserver|generator|javac|jdt|jjs\.ast|js|json|resource|shell|ui|url|util)|junit\.remote|regexp\.shared|resources\.(css|gss|converter|ext|rg)|soyc|user\.client\.rpc\.core|uibinder\.(attributeparsers|elementparsers|testing)|util|validation|lang).*|com\.google\.web\.bindery\.requestfactory\.(apt|vm)|com\.google\.gwt\.(junit|dev|dev\.jjs)|(org|javax).*",
 
   "Versions": [
   {
@@ -240,6 +242,7 @@
     "Installed":      "src/gwt-user/1.4.60",
     "Source":         "src/gwt-user/1.4.60/gwt-user-1.4.60.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Comment":        "Only public methods and classes are checked according to <a href='https://github.com/gwtproject/gwt/blob/master/tools/api-checker/config/gwt27_28userApi.conf'>gwt27_28userApi.conf</a>."
   }]
 }

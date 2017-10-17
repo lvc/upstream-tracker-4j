@@ -1,0 +1,8 @@
+com.google.gwt.junit.client.GWTTestCase
+com.google.gwt.safecss.shared.SafeStylesHostedModeUtils
+com.google.gwt.safehtml.shared.SafeHtmlHostedModeUtils
+com.google.gwt.safehtml.shared.SafeUriHostedModeUtils
+com.google.gwt.typedarrays.super.com.google.gwt.typedarrays.shared.TypedArraysFactory
+com.google.web.bindery.autobean.shared.ValueCodexHelper
+com.google.web.bindery.requestfactory.gwt.client.RequestBatcher
+com.google.gwt.typedarrays.super.com.google.gwt.typedarrays.shared.TypedArraysFactory
