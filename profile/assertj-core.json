@@ -9,6 +9,20 @@
 
   "Versions": [
   {
+    "Number":         "3.9.1",
+    "Installed":      "src/assertj-core/3.9.1",
+    "Source":         "src/assertj-core/3.9.1/assertj-core-3.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.0",
+    "Installed":      "src/assertj-core/3.9.0",
+    "Source":         "src/assertj-core/3.9.0/assertj-core-3.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.8.0",
     "Installed":      "src/assertj-core/3.8.0",
     "Source":         "src/assertj-core/3.8.0/assertj-core-3.8.0.jar",

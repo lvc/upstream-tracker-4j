@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "2.0.5",
+    "Installed":      "src/jandex/2.0.5",
+    "Source":         "src/jandex/2.0.5/jandex-2.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.4",
+    "Installed":      "src/jandex/2.0.4",
+    "Source":         "src/jandex/2.0.4/jandex-2.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0.3",
     "Installed":      "src/jandex/2.0.3",
     "Source":         "src/jandex/2.0.3/jandex-2.0.3.Final.jar",

@@ -9,6 +9,34 @@
 
   "Versions": [
   {
+    "Number":         "9.1.16.0",
+    "Installed":      "src/jruby-complete/9.1.16.0",
+    "Source":         "src/jruby-complete/9.1.16.0/jruby-complete-9.1.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.15.0",
+    "Installed":      "src/jruby-complete/9.1.15.0",
+    "Source":         "src/jruby-complete/9.1.15.0/jruby-complete-9.1.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.14.0",
+    "Installed":      "src/jruby-complete/9.1.14.0",
+    "Source":         "src/jruby-complete/9.1.14.0/jruby-complete-9.1.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.13.0",
+    "Installed":      "src/jruby-complete/9.1.13.0",
+    "Source":         "src/jruby-complete/9.1.13.0/jruby-complete-9.1.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "9.1.12.0",
     "Installed":      "src/jruby-complete/9.1.12.0",
     "Source":         "src/jruby-complete/9.1.12.0/jruby-complete-9.1.12.0.jar",

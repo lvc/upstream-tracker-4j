@@ -7,6 +7,41 @@
 
   "Versions": [
   {
+    "Number":         "2.15",
+    "Installed":      "src/dagger/2.15",
+    "Source":         "src/dagger/2.15/dagger-2.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "src/dagger/2.14.1",
+    "Source":         "src/dagger/2.14.1/dagger-2.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14",
+    "Installed":      "src/dagger/2.14",
+    "Source":         "src/dagger/2.14/dagger-2.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13",
+    "Installed":      "src/dagger/2.13",
+    "Source":         "src/dagger/2.13/dagger-2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12",
+    "Installed":      "src/dagger/2.12",
+    "Source":         "src/dagger/2.12/dagger-2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.11",
     "Installed":      "src/dagger/2.11",
     "Source":         "src/dagger/2.11/dagger-2.11.jar",

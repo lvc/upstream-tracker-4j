@@ -10,11 +10,106 @@
 
   "Versions": [
   {
+    "Number":         "1.10.0-alpha4",
+    "Installed":      "src/clojure/1.10.0-alpha4",
+    "Source":         "src/clojure/1.10.0-alpha4/clojure-1.10.0-alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.0-alpha3",
+    "Installed":      "src/clojure/1.10.0-alpha3",
+    "Source":         "src/clojure/1.10.0-alpha3/clojure-1.10.0-alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.10.0-alpha2",
+    "Installed":      "src/clojure/1.10.0-alpha2",
+    "Source":         "src/clojure/1.10.0-alpha2/clojure-1.10.0-alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.10.0-alpha1",
+    "Installed":      "src/clojure/1.10.0-alpha1",
+    "Source":         "src/clojure/1.10.0-alpha1/clojure-1.10.0-alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.9.0",
+    "Installed":      "src/clojure/1.9.0",
+    "Source":         "src/clojure/1.9.0/clojure-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.0-RC2",
+    "Installed":      "src/clojure/1.9.0-RC2",
+    "Source":         "src/clojure/1.9.0-RC2/clojure-1.9.0-RC2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.9.0-RC1",
+    "Installed":      "src/clojure/1.9.0-RC1",
+    "Source":         "src/clojure/1.9.0-RC1/clojure-1.9.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.9.0-beta4",
+    "Installed":      "src/clojure/1.9.0-beta4",
+    "Source":         "src/clojure/1.9.0-beta4/clojure-1.9.0-beta4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.9.0-beta3",
+    "Installed":      "src/clojure/1.9.0-beta3",
+    "Source":         "src/clojure/1.9.0-beta3/clojure-1.9.0-beta3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.9.0-beta2",
+    "Installed":      "src/clojure/1.9.0-beta2",
+    "Source":         "src/clojure/1.9.0-beta2/clojure-1.9.0-beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.9.0-beta1",
+    "Installed":      "src/clojure/1.9.0-beta1",
+    "Source":         "src/clojure/1.9.0-beta1/clojure-1.9.0-beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.9.0-alpha20",
+    "Installed":      "src/clojure/1.9.0-alpha20",
+    "Source":         "src/clojure/1.9.0-alpha20/clojure-1.9.0-alpha20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "1.9.0-alpha19",
     "Installed":      "src/clojure/1.9.0-alpha19",
     "Source":         "src/clojure/1.9.0-alpha19/clojure-1.9.0-alpha19.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "1.9.0-alpha17",

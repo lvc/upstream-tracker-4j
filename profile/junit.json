@@ -5,8 +5,21 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "SkipPackages":   "filters/skip_packages/junit.list",
+  "SkipVersions":   [ "5\.0.*" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d+\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/junit/junit/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/junit/SNAPSHOT",
+    "Source":         "src/junit/SNAPSHOT/junit-4.13-20180308.091126-144.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "4.12",
     "Installed":      "src/junit/4.12",

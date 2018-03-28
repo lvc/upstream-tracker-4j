@@ -15,11 +15,34 @@
 
   "Versions": [
   {
+    "Number":         "3.0.1",
+    "Installed":      "installed/hadoop/3.0.1",
+    "Source":         "src/hadoop/3.0.1/hadoop-3.0.1.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "installed/hadoop/3.0.0",
+    "Source":         "src/hadoop/3.0.0/hadoop-3.0.0.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0-beta1",
+    "Installed":      "installed/hadoop/3.0.0-beta1",
+    "Source":         "src/hadoop/3.0.0-beta1/hadoop-3.0.0-beta1.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "3.0.0-alpha4",
     "Installed":      "installed/hadoop/3.0.0-alpha4",
     "Source":         "src/hadoop/3.0.0-alpha4/hadoop-3.0.0-alpha4.tar.gz",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "3.0.0-alpha3",
@@ -46,6 +69,27 @@
     "Deleted":        1
   },
   {
+    "Number":         "2.9.0",
+    "Installed":      "installed/hadoop/2.9.0",
+    "Source":         "src/hadoop/2.9.0/hadoop-2.9.0.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.3",
+    "Installed":      "installed/hadoop/2.8.3",
+    "Source":         "src/hadoop/2.8.3/hadoop-2.8.3.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "installed/hadoop/2.8.2",
+    "Source":         "src/hadoop/2.8.2/hadoop-2.8.2.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.8.1",
     "Installed":      "installed/hadoop/2.8.1",
     "Source":         "src/hadoop/2.8.1/hadoop-2.8.1.tar.gz",
@@ -56,6 +100,13 @@
     "Number":         "2.8.0",
     "Installed":      "installed/hadoop/2.8.0",
     "Source":         "src/hadoop/2.8.0/hadoop-2.8.0.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "installed/hadoop/2.7.5",
+    "Source":         "src/hadoop/2.7.5/hadoop-2.7.5.tar.gz",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

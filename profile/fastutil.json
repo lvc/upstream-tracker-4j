@@ -10,6 +10,13 @@
 
   "Versions": [
   {
+    "Number":         "8.1.1",
+    "Installed":      "src/fastutil/8.1.1",
+    "Source":         "src/fastutil/8.1.1/fastutil-8.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "8.1.0",
     "Installed":      "src/fastutil/8.1.0",
     "Source":         "src/fastutil/8.1.0/fastutil-8.1.0.jar",

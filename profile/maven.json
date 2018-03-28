@@ -11,6 +11,20 @@
 
   "Versions": [
   {
+    "Number":         "3.5.3",
+    "Installed":      "installed/maven/3.5.3",
+    "Source":         "src/maven/3.5.3/apache-maven-3.5.3-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.2",
+    "Installed":      "installed/maven/3.5.2",
+    "Source":         "src/maven/3.5.2/apache-maven-3.5.2-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.5.0",
     "Installed":      "installed/maven/3.5.0",
     "Source":         "src/maven/3.5.0/apache-maven-3.5.0-bin.zip",

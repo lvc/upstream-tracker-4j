@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "3.0.8",
+    "Installed":      "src/janino/3.0.8",
+    "Source":         "src/janino/3.0.8/janino-3.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.7",
     "Installed":      "src/janino/3.0.7",
     "Source":         "src/janino/3.0.7/janino-3.0.7.jar",

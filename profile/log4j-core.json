@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "2.11.0",
+    "Installed":      "src/log4j-core/2.11.0",
+    "Source":         "src/log4j-core/2.11.0/log4j-core-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/log4j-core/2.10.0",
+    "Source":         "src/log4j-core/2.10.0/log4j-core-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/log4j-core/2.9.1",
+    "Source":         "src/log4j-core/2.9.1/log4j-core-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.9.0",
     "Installed":      "src/log4j-core/2.9.0",
     "Source":         "src/log4j-core/2.9.0/log4j-core-2.9.0.jar",

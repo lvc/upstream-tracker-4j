@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "4.5.1",
+    "Installed":      "src/atlassian-plugins-core/4.5.1",
+    "Source":         "src/atlassian-plugins-core/4.5.1/atlassian-plugins-core-4.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.5.0",
     "Installed":      "src/atlassian-plugins-core/4.5.0",
     "Source":         "src/atlassian-plugins-core/4.5.0/atlassian-plugins-core-4.5.0.jar",

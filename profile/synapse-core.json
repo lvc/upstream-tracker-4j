@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "3.0.1",
+    "Installed":      "src/synapse-core/3.0.1",
+    "Source":         "src/synapse-core/3.0.1/synapse-core-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.0",
     "Installed":      "src/synapse-core/3.0.0",
     "Source":         "src/synapse-core/3.0.0/synapse-core-3.0.0.jar",

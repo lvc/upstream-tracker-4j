@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.5.0",
+    "Installed":      "src/jfreechart/1.5.0",
+    "Source":         "src/jfreechart/1.5.0/jfreechart-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.0.19",
     "Installed":      "src/jfreechart/1.0.19",
     "Source":         "src/jfreechart/1.0.19/jfreechart-1.0.19.jar",

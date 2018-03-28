@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "2.3.2",
+    "Installed":      "src/hive-serde/2.3.2",
+    "Source":         "src/hive-serde/2.3.2/hive-serde-2.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "src/hive-serde/2.3.1",
+    "Source":         "src/hive-serde/2.3.1/hive-serde-2.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.3.0",
     "Installed":      "src/hive-serde/2.3.0",
     "Source":         "src/hive-serde/2.3.0/hive-serde-2.3.0.jar",

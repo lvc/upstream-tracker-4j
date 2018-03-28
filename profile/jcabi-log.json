@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "0.18",
+    "Installed":      "src/jcabi-log/0.18",
+    "Source":         "src/jcabi-log/0.18/jcabi-log-0.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.3",
+    "Installed":      "src/jcabi-log/0.17.3",
+    "Source":         "src/jcabi-log/0.17.3/jcabi-log-0.17.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.17.2",
     "Installed":      "src/jcabi-log/0.17.2",
     "Source":         "src/jcabi-log/0.17.2/jcabi-log-0.17.2.jar",

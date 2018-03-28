@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "1.1.0",
+    "Installed":      "src/java-string-similarity/1.1.0",
+    "Source":         "src/java-string-similarity/1.1.0/java-string-similarity-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/java-string-similarity/1.0.1",
+    "Source":         "src/java-string-similarity/1.0.1/java-string-similarity-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/java-string-similarity/1.0.0",
+    "Source":         "src/java-string-similarity/1.0.0/java-string-similarity-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.24",
     "Installed":      "src/java-string-similarity/0.24",
     "Source":         "src/java-string-similarity/0.24/java-string-similarity-0.24.jar",

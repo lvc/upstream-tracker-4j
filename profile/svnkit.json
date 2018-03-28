@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.9.1",
+    "Installed":      "src/svnkit/1.9.1",
+    "Source":         "src/svnkit/1.9.1/svnkit-1.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.9.0",
     "Installed":      "src/svnkit/1.9.0",
     "Source":         "src/svnkit/1.9.0/svnkit-1.9.0.jar",

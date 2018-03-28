@@ -1,0 +1,151 @@
+{
+  "Name":           "jruby-core",
+  "Title":          "JRuby Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/jruby/jruby-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphShortXTics": "On",
+  "MinimalVersion": "9.0.0.0",
+
+  "Versions": [
+  {
+    "Number":         "9.1.13.0",
+    "Installed":      "src/jruby-core/9.1.13.0",
+    "Source":         "src/jruby-core/9.1.13.0/jruby-core-9.1.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.12.0",
+    "Installed":      "src/jruby-core/9.1.12.0",
+    "Source":         "src/jruby-core/9.1.12.0/jruby-core-9.1.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.11.0",
+    "Installed":      "src/jruby-core/9.1.11.0",
+    "Source":         "src/jruby-core/9.1.11.0/jruby-core-9.1.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.10.0",
+    "Installed":      "src/jruby-core/9.1.10.0",
+    "Source":         "src/jruby-core/9.1.10.0/jruby-core-9.1.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.9.0",
+    "Installed":      "src/jruby-core/9.1.9.0",
+    "Source":         "src/jruby-core/9.1.9.0/jruby-core-9.1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.8.0",
+    "Installed":      "src/jruby-core/9.1.8.0",
+    "Source":         "src/jruby-core/9.1.8.0/jruby-core-9.1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.7.0",
+    "Installed":      "src/jruby-core/9.1.7.0",
+    "Source":         "src/jruby-core/9.1.7.0/jruby-core-9.1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.6.0",
+    "Installed":      "src/jruby-core/9.1.6.0",
+    "Source":         "src/jruby-core/9.1.6.0/jruby-core-9.1.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.5.0",
+    "Installed":      "src/jruby-core/9.1.5.0",
+    "Source":         "src/jruby-core/9.1.5.0/jruby-core-9.1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.4.0",
+    "Installed":      "src/jruby-core/9.1.4.0",
+    "Source":         "src/jruby-core/9.1.4.0/jruby-core-9.1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.3.0",
+    "Installed":      "src/jruby-core/9.1.3.0",
+    "Source":         "src/jruby-core/9.1.3.0/jruby-core-9.1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.2.0",
+    "Installed":      "src/jruby-core/9.1.2.0",
+    "Source":         "src/jruby-core/9.1.2.0/jruby-core-9.1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.1.0",
+    "Installed":      "src/jruby-core/9.1.1.0",
+    "Source":         "src/jruby-core/9.1.1.0/jruby-core-9.1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.0.0",
+    "Installed":      "src/jruby-core/9.1.0.0",
+    "Source":         "src/jruby-core/9.1.0.0/jruby-core-9.1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.5.0",
+    "Installed":      "src/jruby-core/9.0.5.0",
+    "Source":         "src/jruby-core/9.0.5.0/jruby-core-9.0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.4.0",
+    "Installed":      "src/jruby-core/9.0.4.0",
+    "Source":         "src/jruby-core/9.0.4.0/jruby-core-9.0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.3.0",
+    "Installed":      "src/jruby-core/9.0.3.0",
+    "Source":         "src/jruby-core/9.0.3.0/jruby-core-9.0.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.2.0",
+    "Installed":      "src/jruby-core/9.0.2.0",
+    "Source":         "src/jruby-core/9.0.2.0/jruby-core-9.0.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1.0",
+    "Installed":      "src/jruby-core/9.0.1.0",
+    "Source":         "src/jruby-core/9.0.1.0/jruby-core-9.0.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.0.0",
+    "Installed":      "src/jruby-core/9.0.0.0",
+    "Source":         "src/jruby-core/9.0.0.0/jruby-core-9.0.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

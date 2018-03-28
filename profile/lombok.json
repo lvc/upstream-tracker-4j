@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.16.20",
+    "Installed":      "src/lombok/1.16.20",
+    "Source":         "src/lombok/1.16.20/lombok-1.16.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.16.18",
     "Installed":      "src/lombok/1.16.18",
     "Source":         "src/lombok/1.16.18/lombok-1.16.18.jar",

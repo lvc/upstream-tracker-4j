@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "0.5.12",
+    "Installed":      "src/vk-java-sdk/0.5.12",
+    "Source":         "src/vk-java-sdk/0.5.12/sdk-0.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.11",
+    "Installed":      "src/vk-java-sdk/0.5.11",
+    "Source":         "src/vk-java-sdk/0.5.11/sdk-0.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.10",
+    "Installed":      "src/vk-java-sdk/0.5.10",
+    "Source":         "src/vk-java-sdk/0.5.10/sdk-0.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.9",
+    "Installed":      "src/vk-java-sdk/0.5.9",
+    "Source":         "src/vk-java-sdk/0.5.9/sdk-0.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.5.8",
     "Installed":      "src/vk-java-sdk/0.5.8",
     "Source":         "src/vk-java-sdk/0.5.8/sdk-0.5.8.jar",

@@ -7,6 +7,34 @@
 
   "Versions": [
   {
+    "Number":         "1.8.1",
+    "Installed":      "installed/fresco/1.8.1",
+    "Source":         "src/fresco/1.8.1/fresco-1.8.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "installed/fresco/1.8.0",
+    "Source":         "src/fresco/1.8.0/fresco-1.8.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "installed/fresco/1.7.1",
+    "Source":         "src/fresco/1.7.1/fresco-1.7.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "installed/fresco/1.7.0",
+    "Source":         "src/fresco/1.7.0/fresco-1.7.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.5.0",
     "Installed":      "installed/fresco/1.5.0",
     "Source":         "src/fresco/1.5.0/fresco-1.5.0.aar",

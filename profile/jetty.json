@@ -8,21 +8,45 @@
   "CompactReport":  "On",
   "ExternalCss":    "On",
   "ExternalJs":     "On",
+  "GraphFewXTics":  "On",
   "GraphShortXTics": "On",
   "HideEmpty":      "On",
   "MinimalVersion": "8.1.10",
   "Package":        "jetty-distribution",
   "ReportStyle":    "ShortArchive",
   "SkipArchives":   [ "jetty-schemas-.*", ".*-javadoc.jar" ],
-  "SnapshotPattern": "9.4.6\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
-  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/jetty-with-staging/org/eclipse/jetty/jetty-distribution/9.4.6-SNAPSHOT/",
-  "SnapshotVer":    "9.4.6-SNAPSHOT",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/jetty-with-staging/org/eclipse/jetty/jetty-distribution/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
   {
-    "Number":         "9.4.6-SNAPSHOT",
-    "Installed":      "installed/jetty/9.4.6-SNAPSHOT",
-    "Source":         "src/jetty/9.4.6-SNAPSHOT/jetty-distribution-9.4.6-20170607.090838-22.zip",
+    "Number":         "SNAPSHOT",
+    "Installed":      "installed/jetty/SNAPSHOT",
+    "Source":         "src/jetty/SNAPSHOT/jetty-distribution-10.0.0-20180119.073800-227.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.9.v20180320",
+    "Installed":      "installed/jetty/9.4.9.v20180320",
+    "Source":         "src/jetty/9.4.9.v20180320/jetty-distribution-9.4.9.v20180320.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.8.v20171121",
+    "Installed":      "installed/jetty/9.4.8.v20171121",
+    "Source":         "src/jetty/9.4.8.v20171121/jetty-distribution-9.4.8.v20171121.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.4.7.v20170914",
+    "Installed":      "installed/jetty/9.4.7.v20170914",
+    "Source":         "src/jetty/9.4.7.v20170914/jetty-distribution-9.4.7.v20170914.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -72,6 +96,27 @@
     "Number":         "9.4.0.v20161208",
     "Installed":      "installed/jetty/9.4.0.v20161208",
     "Source":         "src/jetty/9.4.0.v20161208/jetty-distribution-9.4.0.v20161208.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.23.v20180228",
+    "Installed":      "installed/jetty/9.3.23.v20180228",
+    "Source":         "src/jetty/9.3.23.v20180228/jetty-distribution-9.3.23.v20180228.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.22.v20171030",
+    "Installed":      "installed/jetty/9.3.22.v20171030",
+    "Source":         "src/jetty/9.3.22.v20171030/jetty-distribution-9.3.22.v20171030.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.21.v20170918",
+    "Installed":      "installed/jetty/9.3.21.v20170918",
+    "Source":         "src/jetty/9.3.21.v20170918/jetty-distribution-9.3.21.v20170918.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -219,6 +264,20 @@
     "Number":         "9.3.0.v20150612",
     "Installed":      "installed/jetty/9.3.0.v20150612",
     "Source":         "src/jetty/9.3.0.v20150612/jetty-distribution-9.3.0.v20150612.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.24.v20180105",
+    "Installed":      "installed/jetty/9.2.24.v20180105",
+    "Source":         "src/jetty/9.2.24.v20180105/jetty-distribution-9.2.24.v20180105.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.23.v20171218",
+    "Installed":      "installed/jetty/9.2.23.v20171218",
+    "Source":         "src/jetty/9.2.23.v20171218/jetty-distribution-9.2.23.v20171218.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

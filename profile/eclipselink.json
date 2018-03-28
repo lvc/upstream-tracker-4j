@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "2.7.1",
+    "Installed":      "src/eclipselink/2.7.1",
+    "Source":         "src/eclipselink/2.7.1/eclipselink-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.7.0",
     "Installed":      "src/eclipselink/2.7.0",
     "Source":         "src/eclipselink/2.7.0/eclipselink-2.7.0.jar",

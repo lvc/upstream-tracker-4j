@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "10.5.3",
+    "Installed":      "src/opencms-core/10.5.3",
+    "Source":         "src/opencms-core/10.5.3/opencms-core-10.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "10.5.2",
     "Installed":      "src/opencms-core/10.5.2",
     "Source":         "src/opencms-core/10.5.2/opencms-core-10.5.2.jar",

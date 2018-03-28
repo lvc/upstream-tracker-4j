@@ -6,8 +6,27 @@
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "MinimalVersion": "3.0.0",
   "SkipExt":        [ "zip", "tar.gz" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/mybatis/mybatis/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/mybatis/SNAPSHOT",
+    "Source":         "src/mybatis/SNAPSHOT/mybatis-3.5.0-20180325.064147-16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.6",
+    "Installed":      "src/mybatis/3.4.6",
+    "Source":         "src/mybatis/3.4.6/mybatis-3.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "3.4.5",
     "Installed":      "src/mybatis/3.4.5",

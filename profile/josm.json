@@ -4,6 +4,7 @@
   "SourceUrl":      "https://josm.openstreetmap.de/nexus/content/repositories/public/org/openstreetmap/josm/josm/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckPackages":  "org\.openstreetmap.*",
   "CompactReport":  "On",
   "SnapshotPattern": "\d\d\d\d\d\d\d\d\.\d+\-\d+",
   "SnapshotUrl":    "https://josm.openstreetmap.de/nexus/content/repositories/public/org/openstreetmap/josm/josm/SNAPSHOT/",
@@ -13,7 +14,70 @@
   {
     "Number":         "SNAPSHOT",
     "Installed":      "src/josm/SNAPSHOT",
-    "Source":         "src/josm/SNAPSHOT/josm-20170830.013604-657.jar",
+    "Source":         "src/josm/SNAPSHOT/josm-20180326.021850-828.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         13500,
+    "Installed":      "src/josm/13500",
+    "Source":         "src/josm/13500/josm-13500.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         13478,
+    "Installed":      "src/josm/13478",
+    "Source":         "src/josm/13478/josm-13478.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         13367,
+    "Installed":      "src/josm/13367",
+    "Source":         "src/josm/13367/josm-13367.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         13265,
+    "Installed":      "src/josm/13265",
+    "Source":         "src/josm/13265/josm-13265.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         13170,
+    "Installed":      "src/josm/13170",
+    "Source":         "src/josm/13170/josm-13170.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         13053,
+    "Installed":      "src/josm/13053",
+    "Source":         "src/josm/13053/josm-13053.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12921,
+    "Installed":      "src/josm/12921",
+    "Source":         "src/josm/12921/josm-12921.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12914,
+    "Installed":      "src/josm/12914",
+    "Source":         "src/josm/12914/josm-12914.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         12712,
+    "Installed":      "src/josm/12712",
+    "Source":         "src/josm/12712/josm-12712.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

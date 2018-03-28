@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "9.10",
+    "Installed":      "src/nuxeo-platform-ui-web/9.10",
+    "Source":         "src/nuxeo-platform-ui-web/9.10/nuxeo-platform-ui-web-9.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3",
+    "Installed":      "src/nuxeo-platform-ui-web/9.3",
+    "Source":         "src/nuxeo-platform-ui-web/9.3/nuxeo-platform-ui-web-9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "9.2",
     "Installed":      "src/nuxeo-platform-ui-web/9.2",
     "Source":         "src/nuxeo-platform-ui-web/9.2/nuxeo-platform-ui-web-9.2.jar",

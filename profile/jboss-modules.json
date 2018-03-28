@@ -8,6 +8,51 @@
 
   "Versions": [
   {
+    "Number":         "1.7.0",
+    "Installed":      "src/jboss-modules/1.7.0",
+    "Source":         "src/jboss-modules/1.7.0/jboss-modules-1.7.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0.Beta3",
+    "Installed":      "src/jboss-modules/1.7.0.Beta3",
+    "Source":         "src/jboss-modules/1.7.0.Beta3/jboss-modules-1.7.0.Beta3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.7.0.Beta2",
+    "Installed":      "src/jboss-modules/1.7.0.Beta2",
+    "Source":         "src/jboss-modules/1.7.0.Beta2/jboss-modules-1.7.0.Beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.7.0.Beta1",
+    "Installed":      "src/jboss-modules/1.7.0.Beta1",
+    "Source":         "src/jboss-modules/1.7.0.Beta1/jboss-modules-1.7.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.6.2",
+    "Installed":      "src/jboss-modules/1.6.2",
+    "Source":         "src/jboss-modules/1.6.2/jboss-modules-1.6.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.1",
+    "Installed":      "src/jboss-modules/1.6.1",
+    "Source":         "src/jboss-modules/1.6.1/jboss-modules-1.6.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.6.0",
     "Installed":      "src/jboss-modules/1.6.0",
     "Source":         "src/jboss-modules/1.6.0/jboss-modules-1.6.0.Final.jar",

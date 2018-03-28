@@ -4,8 +4,124 @@
   "SourceUrl":      "http://central.maven.org/maven2/com/airbnb/android/lottie/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/com/airbnb/android/lottie/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "installed/lottie/SNAPSHOT",
+    "Source":         "src/lottie/SNAPSHOT/lottie-2.3.2-20171212.034014-1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.5.1",
+    "Installed":      "installed/lottie/2.5.1",
+    "Source":         "src/lottie/2.5.1/lottie-2.5.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0",
+    "Installed":      "installed/lottie/2.5.0",
+    "Source":         "src/lottie/2.5.0/lottie-2.5.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.0-rc2",
+    "Installed":      "installed/lottie/2.5.0-rc2",
+    "Source":         "src/lottie/2.5.0-rc2/lottie-2.5.0-rc2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.5.0-rc1",
+    "Installed":      "installed/lottie/2.5.0-rc1",
+    "Source":         "src/lottie/2.5.0-rc1/lottie-2.5.0-rc1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.5.0-beta3",
+    "Installed":      "installed/lottie/2.5.0-beta3",
+    "Source":         "src/lottie/2.5.0-beta3/lottie-2.5.0-beta3.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.5.0-beta2",
+    "Installed":      "installed/lottie/2.5.0-beta2",
+    "Source":         "src/lottie/2.5.0-beta2/lottie-2.5.0-beta2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.5.0-beta1",
+    "Installed":      "installed/lottie/2.5.0-beta1",
+    "Source":         "src/lottie/2.5.0-beta1/lottie-2.5.0-beta1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.3.1",
+    "Installed":      "installed/lottie/2.3.1",
+    "Source":         "src/lottie/2.3.1/lottie-2.3.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "installed/lottie/2.3.0",
+    "Source":         "src/lottie/2.3.0/lottie-2.3.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.5",
+    "Installed":      "installed/lottie/2.2.5",
+    "Source":         "src/lottie/2.2.5/lottie-2.2.5.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "installed/lottie/2.2.4",
+    "Source":         "src/lottie/2.2.4/lottie-2.2.4.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "installed/lottie/2.2.3",
+    "Source":         "src/lottie/2.2.3/lottie-2.2.3.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "installed/lottie/2.2.2",
+    "Source":         "src/lottie/2.2.2/lottie-2.2.2.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "installed/lottie/2.2.1",
+    "Source":         "src/lottie/2.2.1/lottie-2.2.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.2.0",
     "Installed":      "installed/lottie/2.2.0",

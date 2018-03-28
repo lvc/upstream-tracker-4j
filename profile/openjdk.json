@@ -1,14 +1,49 @@
 {
   "Name":           "openjdk",
   "Title":          "OpenJDK",
-  "SourceUrl":      "https://github.com/hybris/java-boshpackage",
+  "SourceUrl":      "http://jdk.java.net/9/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
-  "CompactReport":  "1",
+  "SkipInternalTypes": "Impl|_Stub",
+  "CompactReport":  "On",
   "GraphXTics":     "3",
-  "SkipArchives":   [ "demo/", "security/", "im/", "ext/", "management-agent.jar", "resources.jar", "tools.jar", "sa-jdi.jar", "jconsole.jar", "dt.jar" ],
+  "HideEmpty":      "On",
+  "HideUncheked":   "On",
+  "JdkPath":        "/home/Soft/jdk-10",
+  "OldSourceUrl":   "https://github.com/hybris/java-boshpackage",
+  "PackageSuffix":  "_linux-x64_bin",
+  "SkipArchives":   [ "jdk\.internal.*", "jdk\.plugin.*", "demo/", "security/", "im/", "ext/", "management-agent.jar", "resources.jar", "tools.jar", "sa-jdi.jar", "jconsole.jar", "dt.jar", "jrt-fs.jar" ],
+  "SkipInternalPackages": "\A(sun|sunw|com\.sun|org\.apache|COM\.rsa|com\.oracle|oracle).*",
 
   "Versions": [
+  {
+    "Number":         10,
+    "Installed":      "installed/openjdk/10",
+    "Source":         "src/openjdk/10/openjdk-10_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.4",
+    "Installed":      "installed/openjdk/9.0.4",
+    "Source":         "src/openjdk/9.0.4/openjdk-9.0.4_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1",
+    "Installed":      "installed/openjdk/9.0.1",
+    "Source":         "src/openjdk/9.0.1/openjdk-9.0.1_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         9,
+    "Installed":      "installed/openjdk/9",
+    "Source":         "src/openjdk/9/openjdk-9_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.8.0_141",
     "Installed":      "installed/openjdk/1.8.0_141",

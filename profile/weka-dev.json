@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "3.9.2",
+    "Installed":      "src/weka-dev/3.9.2",
+    "Source":         "src/weka-dev/3.9.2/weka-dev-3.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.9.1",
     "Installed":      "src/weka-dev/3.9.1",
     "Source":         "src/weka-dev/3.9.1/weka-dev-3.9.1.jar",

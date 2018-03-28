@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "4.6.1",
+    "Installed":      "installed/timber/4.6.1",
+    "Source":         "src/timber/4.6.1/timber-4.6.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.6.0",
+    "Installed":      "installed/timber/4.6.0",
+    "Source":         "src/timber/4.6.0/timber-4.6.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.5.1",
     "Installed":      "installed/timber/4.5.1",
     "Source":         "src/timber/4.5.1/timber-4.5.1.aar",

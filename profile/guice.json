@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "4.2.0",
+    "Installed":      "src/guice/4.2.0",
+    "Source":         "src/guice/4.2.0/guice-4.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.1.0",
     "Installed":      "src/guice/4.1.0",
     "Source":         "src/guice/4.1.0/guice-4.1.0.jar",

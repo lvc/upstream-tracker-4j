@@ -8,11 +8,82 @@
 
   "Versions": [
   {
+    "Number":         "3.0.0RC2",
+    "Installed":      "src/orientdb-graphdb/3.0.0RC2",
+    "Source":         "src/orientdb-graphdb/3.0.0RC2/orientdb-graphdb-3.0.0RC2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0RC1",
+    "Installed":      "src/orientdb-graphdb/3.0.0RC1",
+    "Source":         "src/orientdb-graphdb/3.0.0RC1/orientdb-graphdb-3.0.0RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.33",
+    "Installed":      "src/orientdb-graphdb/2.2.33",
+    "Source":         "src/orientdb-graphdb/2.2.33/orientdb-graphdb-2.2.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.32",
+    "Installed":      "src/orientdb-graphdb/2.2.32",
+    "Source":         "src/orientdb-graphdb/2.2.32/orientdb-graphdb-2.2.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.31",
+    "Installed":      "src/orientdb-graphdb/2.2.31",
+    "Source":         "src/orientdb-graphdb/2.2.31/orientdb-graphdb-2.2.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.30",
+    "Installed":      "src/orientdb-graphdb/2.2.30",
+    "Source":         "src/orientdb-graphdb/2.2.30/orientdb-graphdb-2.2.30.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.29",
+    "Installed":      "src/orientdb-graphdb/2.2.29",
+    "Source":         "src/orientdb-graphdb/2.2.29/orientdb-graphdb-2.2.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.28",
+    "Installed":      "src/orientdb-graphdb/2.2.28",
+    "Source":         "src/orientdb-graphdb/2.2.28/orientdb-graphdb-2.2.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.27",
+    "Installed":      "src/orientdb-graphdb/2.2.27",
+    "Source":         "src/orientdb-graphdb/2.2.27/orientdb-graphdb-2.2.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.2.26",
     "Installed":      "src/orientdb-graphdb/2.2.26",
     "Source":         "src/orientdb-graphdb/2.2.26/orientdb-graphdb-2.2.26.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.2.25",

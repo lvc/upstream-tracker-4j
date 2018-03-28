@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.8.0",
+    "Installed":      "src/flume-ng-sdk/1.8.0",
+    "Source":         "src/flume-ng-sdk/1.8.0/flume-ng-sdk-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.0",
     "Installed":      "src/flume-ng-sdk/1.7.0",
     "Source":         "src/flume-ng-sdk/1.7.0/flume-ng-sdk-1.7.0.jar",

@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "3.1.0",
+    "Installed":      "src/awaitility/3.1.0",
+    "Source":         "src/awaitility/3.1.0/awaitility-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.0",
     "Installed":      "src/awaitility/3.0.0",
     "Source":         "src/awaitility/3.0.0/awaitility-3.0.0.jar",

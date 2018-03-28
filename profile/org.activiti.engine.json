@@ -1,0 +1,61 @@
+{
+  "Name":           "org.activiti.engine",
+  "Title":          "Activiti Engine 7",
+  "SourceUrl":      "http://central.maven.org/maven2/org/activiti/activiti-engine/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7",
+  "Package":        "activiti-engine",
+  "ReleasePattern": "\A(\d+\-\d\d\d\d\d\d\-EA)\Z",
+
+  "Versions": [
+  {
+    "Number":         "7-201802-EA",
+    "Installed":      "src/org.activiti.engine/7-201802-EA",
+    "Source":         "src/org.activiti.engine/7-201802-EA/activiti-engine-7-201802-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201801-EA",
+    "Installed":      "src/org.activiti.engine/7-201801-EA",
+    "Source":         "src/org.activiti.engine/7-201801-EA/activiti-engine-7-201801-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201712-EA",
+    "Installed":      "src/org.activiti.engine/7-201712-EA",
+    "Source":         "src/org.activiti.engine/7-201712-EA/activiti-engine-7-201712-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201711-EA",
+    "Installed":      "src/org.activiti.engine/7-201711-EA",
+    "Source":         "src/org.activiti.engine/7-201711-EA/activiti-engine-7-201711-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201710-EA",
+    "Installed":      "src/org.activiti.engine/7-201710-EA",
+    "Source":         "src/org.activiti.engine/7-201710-EA/activiti-engine-7-201710-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201709-EA",
+    "Installed":      "src/org.activiti.engine/7-201709-EA",
+    "Source":         "src/org.activiti.engine/7-201709-EA/activiti-engine-7-201709-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201708-EA",
+    "Installed":      "src/org.activiti.engine/7-201708-EA",
+    "Source":         "src/org.activiti.engine/7-201708-EA/activiti-engine-7-201708-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

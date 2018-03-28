@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.7.0",
+    "Installed":      "src/sshd-core/1.7.0",
+    "Source":         "src/sshd-core/1.7.0/sshd-core-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.6.0",
     "Installed":      "src/sshd-core/1.6.0",
     "Source":         "src/sshd-core/1.6.0/sshd-core-1.6.0.jar",

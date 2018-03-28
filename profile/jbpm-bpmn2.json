@@ -7,6 +7,41 @@
 
   "Versions": [
   {
+    "Number":         "7.6.0",
+    "Installed":      "src/jbpm-bpmn2/7.6.0",
+    "Source":         "src/jbpm-bpmn2/7.6.0/jbpm-bpmn2-7.6.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.0",
+    "Installed":      "src/jbpm-bpmn2/7.5.0",
+    "Source":         "src/jbpm-bpmn2/7.5.0/jbpm-bpmn2-7.5.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4.1",
+    "Installed":      "src/jbpm-bpmn2/7.4.1",
+    "Source":         "src/jbpm-bpmn2/7.4.1/jbpm-bpmn2-7.4.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4.0",
+    "Installed":      "src/jbpm-bpmn2/7.4.0",
+    "Source":         "src/jbpm-bpmn2/7.4.0/jbpm-bpmn2-7.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.3.0",
+    "Installed":      "src/jbpm-bpmn2/7.3.0",
+    "Source":         "src/jbpm-bpmn2/7.3.0/jbpm-bpmn2-7.3.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "7.2.0",
     "Installed":      "src/jbpm-bpmn2/7.2.0",
     "Source":         "src/jbpm-bpmn2/7.2.0/jbpm-bpmn2-7.2.0.Final.jar",

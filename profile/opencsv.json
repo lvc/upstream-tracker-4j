@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "4.1",
+    "Installed":      "src/opencsv/4.1",
+    "Source":         "src/opencsv/4.1/opencsv-4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.0",
     "Installed":      "src/opencsv/4.0",
     "Source":         "src/opencsv/4.0/opencsv-4.0.jar",

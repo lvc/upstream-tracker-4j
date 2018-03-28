@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "0.10",
+    "Installed":      "src/auto-common/0.10",
+    "Source":         "src/auto-common/0.10/auto-common-0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/auto-common/0.9",
+    "Source":         "src/auto-common/0.9/auto-common-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.8",
     "Installed":      "src/auto-common/0.8",
     "Source":         "src/auto-common/0.8/auto-common-0.8.jar",

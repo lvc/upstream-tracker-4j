@@ -4,12 +4,20 @@
   "SourceUrl":      "https://repository.mulesoft.org/nexus/content/repositories/releases/org/mule/transports/mule-transport-http/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ "4\.0\.0.*" ],
 
   "Versions": [
   {
     "Number":         "4.0.0-M5.1",
     "Installed":      "src/mule-transport-http/4.0.0-M5.1",
     "Source":         "src/mule-transport-http/4.0.0-M5.1/mule-transport-http-4.0.0-M5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.0",
+    "Installed":      "src/mule-transport-http/3.9.0",
+    "Source":         "src/mule-transport-http/3.9.0/mule-transport-http-3.9.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

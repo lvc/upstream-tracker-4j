@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "4.5.5",
+    "Installed":      "src/fluent-hc/4.5.5",
+    "Source":         "src/fluent-hc/4.5.5/fluent-hc-4.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.4",
+    "Installed":      "src/fluent-hc/4.5.4",
+    "Source":         "src/fluent-hc/4.5.4/fluent-hc-4.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.5.3",
     "Installed":      "src/fluent-hc/4.5.3",
     "Source":         "src/fluent-hc/4.5.3/fluent-hc-4.5.3.jar",

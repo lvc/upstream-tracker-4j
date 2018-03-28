@@ -1,0 +1,184 @@
+{
+  "Name":           "proton-j",
+  "Title":          "Proton J",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/qpid/proton-j/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.26.0",
+    "Installed":      "src/proton-j/0.26.0",
+    "Source":         "src/proton-j/0.26.0/proton-j-0.26.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.25.0",
+    "Installed":      "src/proton-j/0.25.0",
+    "Source":         "src/proton-j/0.25.0/proton-j-0.25.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.24.0",
+    "Installed":      "src/proton-j/0.24.0",
+    "Source":         "src/proton-j/0.24.0/proton-j-0.24.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.23.0",
+    "Installed":      "src/proton-j/0.23.0",
+    "Source":         "src/proton-j/0.23.0/proton-j-0.23.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.22.0",
+    "Installed":      "src/proton-j/0.22.0",
+    "Source":         "src/proton-j/0.22.0/proton-j-0.22.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.21.0",
+    "Installed":      "src/proton-j/0.21.0",
+    "Source":         "src/proton-j/0.21.0/proton-j-0.21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.20.0",
+    "Installed":      "src/proton-j/0.20.0",
+    "Source":         "src/proton-j/0.20.0/proton-j-0.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.19.0",
+    "Installed":      "src/proton-j/0.19.0",
+    "Source":         "src/proton-j/0.19.0/proton-j-0.19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.18.0",
+    "Installed":      "src/proton-j/0.18.0",
+    "Source":         "src/proton-j/0.18.0/proton-j-0.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.0",
+    "Installed":      "src/proton-j/0.17.0",
+    "Source":         "src/proton-j/0.17.0/proton-j-0.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.16.0",
+    "Installed":      "src/proton-j/0.16.0",
+    "Source":         "src/proton-j/0.16.0/proton-j-0.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.15.0",
+    "Installed":      "src/proton-j/0.15.0",
+    "Source":         "src/proton-j/0.15.0/proton-j-0.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.14.0",
+    "Installed":      "src/proton-j/0.14.0",
+    "Source":         "src/proton-j/0.14.0/proton-j-0.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.1",
+    "Installed":      "src/proton-j/0.13.1",
+    "Source":         "src/proton-j/0.13.1/proton-j-0.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.0",
+    "Installed":      "src/proton-j/0.13.0",
+    "Source":         "src/proton-j/0.13.0/proton-j-0.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.2",
+    "Installed":      "src/proton-j/0.12.2",
+    "Source":         "src/proton-j/0.12.2/proton-j-0.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.1",
+    "Installed":      "src/proton-j/0.12.1",
+    "Source":         "src/proton-j/0.12.1/proton-j-0.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/proton-j/0.12.0",
+    "Source":         "src/proton-j/0.12.0/proton-j-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.1",
+    "Installed":      "src/proton-j/0.11.1",
+    "Source":         "src/proton-j/0.11.1/proton-j-0.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/proton-j/0.11.0",
+    "Source":         "src/proton-j/0.11.0/proton-j-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10",
+    "Installed":      "src/proton-j/0.10",
+    "Source":         "src/proton-j/0.10/proton-j-0.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/proton-j/0.9.1",
+    "Source":         "src/proton-j/0.9.1/proton-j-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9",
+    "Installed":      "src/proton-j/0.9",
+    "Source":         "src/proton-j/0.9/proton-j-0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8",
+    "Installed":      "src/proton-j/0.8",
+    "Source":         "src/proton-j/0.8/proton-j-0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7",
+    "Installed":      "src/proton-j/0.7",
+    "Source":         "src/proton-j/0.7/proton-j-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

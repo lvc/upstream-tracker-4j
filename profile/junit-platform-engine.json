@@ -1,0 +1,66 @@
+{
+  "Name":           "junit-platform-engine",
+  "Title":          "JUnit Platform Engine",
+  "SourceUrl":      "http://central.maven.org/maven2/org/junit/platform/junit-platform-engine/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+  "SkipVersions":   [ ".*\-M\d.*" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d+\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/junit/platform/junit-platform-engine/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
+
+  "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/junit-platform-engine/SNAPSHOT",
+    "Source":         "src/junit-platform-engine/SNAPSHOT/junit-platform-engine-1.2.0-20180324.211856-51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/junit-platform-engine/1.1.0",
+    "Source":         "src/junit-platform-engine/1.1.0/junit-platform-engine-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0-RC1",
+    "Installed":      "src/junit-platform-engine/1.1.0-RC1",
+    "Source":         "src/junit-platform-engine/1.1.0-RC1/junit-platform-engine-1.1.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/junit-platform-engine/1.0.3",
+    "Source":         "src/junit-platform-engine/1.0.3/junit-platform-engine-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/junit-platform-engine/1.0.2",
+    "Source":         "src/junit-platform-engine/1.0.2/junit-platform-engine-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/junit-platform-engine/1.0.1",
+    "Source":         "src/junit-platform-engine/1.0.1/junit-platform-engine-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/junit-platform-engine/1.0.0",
+    "Source":         "src/junit-platform-engine/1.0.0/junit-platform-engine-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

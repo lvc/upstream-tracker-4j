@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.7.7",
+    "Installed":      "src/axis2-adb/1.7.7",
+    "Source":         "src/axis2-adb/1.7.7/axis2-adb-1.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.6",
     "Installed":      "src/axis2-adb/1.7.6",
     "Source":         "src/axis2-adb/1.7.6/axis2-adb-1.7.6.jar",

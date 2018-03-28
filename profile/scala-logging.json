@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "3.8.0",
+    "Installed":      "src/scala-logging/3.8.0",
+    "Source":         "src/scala-logging/3.8.0/scala-logging_2.11-3.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.7.2",
     "Installed":      "src/scala-logging/3.7.2",
     "Source":         "src/scala-logging/3.7.2/scala-logging_2.11-3.7.2.jar",

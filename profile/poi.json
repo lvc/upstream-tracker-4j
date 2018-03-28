@@ -8,11 +8,19 @@
 
   "Versions": [
   {
+    "Number":         "3.17",
+    "Installed":      "src/poi/3.17",
+    "Source":         "src/poi/3.17/poi-3.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.17-beta1",
     "Installed":      "src/poi/3.17-beta1",
     "Source":         "src/poi/3.17-beta1/poi-3.17-beta1.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "3.16",

@@ -7,11 +7,64 @@
 
   "Versions": [
   {
+    "Number":         "4.1.0-rc0",
+    "Installed":      "src/metrics-core/4.1.0-rc0",
+    "Source":         "src/metrics-core/4.1.0-rc0/metrics-core-4.1.0-rc0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/metrics-core/4.0.2",
+    "Source":         "src/metrics-core/4.0.2/metrics-core-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/metrics-core/4.0.1",
+    "Source":         "src/metrics-core/4.0.1/metrics-core-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/metrics-core/4.0.0",
+    "Source":         "src/metrics-core/4.0.0/metrics-core-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0-alpha5",
+    "Installed":      "src/metrics-core/4.0.0-alpha5",
+    "Source":         "src/metrics-core/4.0.0-alpha5/metrics-core-4.0.0-alpha5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0-alpha4",
+    "Installed":      "src/metrics-core/4.0.0-alpha4",
+    "Source":         "src/metrics-core/4.0.0-alpha4/metrics-core-4.0.0-alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0-alpha3",
+    "Installed":      "src/metrics-core/4.0.0-alpha3",
+    "Source":         "src/metrics-core/4.0.0-alpha3/metrics-core-4.0.0-alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "4.0.0-alpha2",
     "Installed":      "src/metrics-core/4.0.0-alpha2",
     "Source":         "src/metrics-core/4.0.0-alpha2/metrics-core-4.0.0-alpha2.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "4.0.0-alpha1",
@@ -20,6 +73,20 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "3.2.6",
+    "Installed":      "src/metrics-core/3.2.6",
+    "Source":         "src/metrics-core/3.2.6/metrics-core-3.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.5",
+    "Installed":      "src/metrics-core/3.2.5",
+    "Source":         "src/metrics-core/3.2.5/metrics-core-3.2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "3.2.4",

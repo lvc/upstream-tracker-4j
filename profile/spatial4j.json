@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "0.7",
+    "Installed":      "src/spatial4j/0.7",
+    "Source":         "src/spatial4j/0.7/spatial4j-0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.6",
     "Installed":      "src/spatial4j/0.6",
     "Source":         "src/spatial4j/0.6/spatial4j-0.6.jar",

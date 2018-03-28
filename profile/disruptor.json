@@ -7,6 +7,48 @@
 
   "Versions": [
   {
+    "Number":         "3.4.1",
+    "Installed":      "src/disruptor/3.4.1",
+    "Source":         "src/disruptor/3.4.1/disruptor-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/disruptor/3.4.0",
+    "Source":         "src/disruptor/3.4.0/disruptor-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.10",
+    "Installed":      "src/disruptor/3.3.10",
+    "Source":         "src/disruptor/3.3.10/disruptor-3.3.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.9",
+    "Installed":      "src/disruptor/3.3.9",
+    "Source":         "src/disruptor/3.3.9/disruptor-3.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.8",
+    "Installed":      "src/disruptor/3.3.8",
+    "Source":         "src/disruptor/3.3.8/disruptor-3.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.7",
+    "Installed":      "src/disruptor/3.3.7",
+    "Source":         "src/disruptor/3.3.7/disruptor-3.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.3.6",
     "Installed":      "src/disruptor/3.3.6",
     "Source":         "src/disruptor/3.3.6/disruptor-3.3.6.jar",

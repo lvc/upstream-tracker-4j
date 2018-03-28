@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "1.11",
+    "Installed":      "src/commons-codec/1.11",
+    "Source":         "src/commons-codec/1.11/commons-codec-1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.10",
     "Installed":      "src/commons-codec/1.10",
     "Source":         "src/commons-codec/1.10/commons-codec-1.10.jar",

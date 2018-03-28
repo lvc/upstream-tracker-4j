@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "2.0.3",
+    "Installed":      "src/de.flapdoodle.embed.mongo/2.0.3",
+    "Source":         "src/de.flapdoodle.embed.mongo/2.0.3/de.flapdoodle.embed.mongo-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/de.flapdoodle.embed.mongo/2.0.2",
+    "Source":         "src/de.flapdoodle.embed.mongo/2.0.2/de.flapdoodle.embed.mongo-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.1",
+    "Installed":      "src/de.flapdoodle.embed.mongo/2.0.1",
+    "Source":         "src/de.flapdoodle.embed.mongo/2.0.1/de.flapdoodle.embed.mongo-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0.0",
     "Installed":      "src/de.flapdoodle.embed.mongo/2.0.0",
     "Source":         "src/de.flapdoodle.embed.mongo/2.0.0/de.flapdoodle.embed.mongo-2.0.0.jar",

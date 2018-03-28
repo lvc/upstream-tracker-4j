@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.0.2",
+    "Installed":      "src/cache2k-api/1.0.2",
+    "Source":         "src/cache2k-api/1.0.2/cache2k-api-1.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.0.1",
     "Installed":      "src/cache2k-api/1.0.1",
     "Source":         "src/cache2k-api/1.0.1/cache2k-api-1.0.1.Final.jar",

@@ -9,6 +9,69 @@
 
   "Versions": [
   {
+    "Number":         "3.11.0",
+    "Installed":      "src/selenium-api/3.11.0",
+    "Source":         "src/selenium-api/3.11.0/selenium-api-3.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.10.0",
+    "Installed":      "src/selenium-api/3.10.0",
+    "Source":         "src/selenium-api/3.10.0/selenium-api-3.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.1",
+    "Installed":      "src/selenium-api/3.9.1",
+    "Source":         "src/selenium-api/3.9.1/selenium-api-3.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.0",
+    "Installed":      "src/selenium-api/3.9.0",
+    "Source":         "src/selenium-api/3.9.0/selenium-api-3.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.1",
+    "Installed":      "src/selenium-api/3.8.1",
+    "Source":         "src/selenium-api/3.8.1/selenium-api-3.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.0",
+    "Installed":      "src/selenium-api/3.8.0",
+    "Source":         "src/selenium-api/3.8.0/selenium-api-3.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.1",
+    "Installed":      "src/selenium-api/3.7.1",
+    "Source":         "src/selenium-api/3.7.1/selenium-api-3.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7.0",
+    "Installed":      "src/selenium-api/3.7.0",
+    "Source":         "src/selenium-api/3.7.0/selenium-api-3.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/selenium-api/3.6.0",
+    "Source":         "src/selenium-api/3.6.0/selenium-api-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.5.3",
     "Installed":      "src/selenium-api/3.5.3",
     "Source":         "src/selenium-api/3.5.3/selenium-api-3.5.3.jar",

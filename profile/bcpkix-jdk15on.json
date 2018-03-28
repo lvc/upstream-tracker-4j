@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.59",
+    "Installed":      "src/bcpkix-jdk15on/1.59",
+    "Source":         "src/bcpkix-jdk15on/1.59/bcpkix-jdk15on-1.59.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.58",
     "Installed":      "src/bcpkix-jdk15on/1.58",
     "Source":         "src/bcpkix-jdk15on/1.58/bcpkix-jdk15on-1.58.jar",

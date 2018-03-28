@@ -4,8 +4,65 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/jmockit/jmockit/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckPackages":  "\Amockit\Z",
 
   "Versions": [
+  {
+    "Number":         "1.39",
+    "Installed":      "src/jmockit/1.39",
+    "Source":         "src/jmockit/1.39/jmockit-1.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.38",
+    "Installed":      "src/jmockit/1.38",
+    "Source":         "src/jmockit/1.38/jmockit-1.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.37",
+    "Installed":      "src/jmockit/1.37",
+    "Source":         "src/jmockit/1.37/jmockit-1.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.36.3",
+    "Installed":      "src/jmockit/1.36.3",
+    "Source":         "src/jmockit/1.36.3/jmockit-1.36.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.36.2",
+    "Installed":      "src/jmockit/1.36.2",
+    "Source":         "src/jmockit/1.36.2/jmockit-1.36.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.36.1",
+    "Installed":      "src/jmockit/1.36.1",
+    "Source":         "src/jmockit/1.36.1/jmockit-1.36.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.36",
+    "Installed":      "src/jmockit/1.36",
+    "Source":         "src/jmockit/1.36/jmockit-1.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.35",
+    "Installed":      "src/jmockit/1.35",
+    "Source":         "src/jmockit/1.35/jmockit-1.35.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.34",
     "Installed":      "src/jmockit/1.34",

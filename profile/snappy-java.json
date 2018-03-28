@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "1.1.7.1",
+    "Installed":      "src/snappy-java/1.1.7.1",
+    "Source":         "src/snappy-java/1.1.7.1/snappy-java-1.1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/snappy-java/1.1.7",
+    "Source":         "src/snappy-java/1.1.7/snappy-java-1.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.1.4",
     "Installed":      "src/snappy-java/1.1.4",
     "Source":         "src/snappy-java/1.1.4/snappy-java-1.1.4.jar",

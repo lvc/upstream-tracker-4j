@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "3.3",
+    "Installed":      "src/jfinal/3.3",
+    "Source":         "src/jfinal/3.3/jfinal-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.2",
     "Installed":      "src/jfinal/3.2",
     "Source":         "src/jfinal/3.2/jfinal-3.2.jar",

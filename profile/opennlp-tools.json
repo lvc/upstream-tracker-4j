@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "1.8.4",
+    "Installed":      "src/opennlp-tools/1.8.4",
+    "Source":         "src/opennlp-tools/1.8.4/opennlp-tools-1.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/opennlp-tools/1.8.3",
+    "Source":         "src/opennlp-tools/1.8.3/opennlp-tools-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/opennlp-tools/1.8.2",
+    "Source":         "src/opennlp-tools/1.8.2/opennlp-tools-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.1",
     "Installed":      "src/opennlp-tools/1.8.1",
     "Source":         "src/opennlp-tools/1.8.1/opennlp-tools-1.8.1.jar",

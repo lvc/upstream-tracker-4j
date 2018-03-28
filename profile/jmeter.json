@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "4.0",
+    "Installed":      "src/jmeter/4.0",
+    "Source":         "src/jmeter/4.0/ApacheJMeter_core-4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/jmeter/3.3",
+    "Source":         "src/jmeter/3.3/ApacheJMeter_core-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.2",
     "Installed":      "src/jmeter/3.2",
     "Source":         "src/jmeter/3.2/ApacheJMeter_core-3.2.jar",

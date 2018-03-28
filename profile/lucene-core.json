@@ -6,8 +6,76 @@
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CompactReport":  "On",
   "MinimalVersion": "5.0.0",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://repository.apache.org/content/repositories/snapshots/org/apache/lucene/lucene-core/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/lucene-core/SNAPSHOT",
+    "Source":         "src/lucene-core/SNAPSHOT/lucene-core-8.0.0-20180325.194913-88.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.1",
+    "Installed":      "src/lucene-core/7.2.1",
+    "Source":         "src/lucene-core/7.2.1/lucene-core-7.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0",
+    "Installed":      "src/lucene-core/7.2.0",
+    "Source":         "src/lucene-core/7.2.0/lucene-core-7.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/lucene-core/7.1.0",
+    "Source":         "src/lucene-core/7.1.0/lucene-core-7.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.1",
+    "Installed":      "src/lucene-core/7.0.1",
+    "Source":         "src/lucene-core/7.0.1/lucene-core-7.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/lucene-core/7.0.0",
+    "Source":         "src/lucene-core/7.0.0/lucene-core-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.3",
+    "Installed":      "src/lucene-core/6.6.3",
+    "Source":         "src/lucene-core/6.6.3/lucene-core-6.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2",
+    "Installed":      "src/lucene-core/6.6.2",
+    "Source":         "src/lucene-core/6.6.2/lucene-core-6.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1",
+    "Installed":      "src/lucene-core/6.6.1",
+    "Source":         "src/lucene-core/6.6.1/lucene-core-6.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "6.6.0",
     "Installed":      "src/lucene-core/6.6.0",
@@ -89,6 +157,13 @@
     "Number":         "6.0.0",
     "Installed":      "src/lucene-core/6.0.0",
     "Source":         "src/lucene-core/6.0.0/lucene-core-6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.5",
+    "Installed":      "src/lucene-core/5.5.5",
+    "Source":         "src/lucene-core/5.5.5/lucene-core-5.5.5.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

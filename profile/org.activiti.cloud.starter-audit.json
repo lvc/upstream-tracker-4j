@@ -1,0 +1,33 @@
+{
+  "Name":           "org.activiti.cloud.starter-audit",
+  "Title":          "Activiti Cloud Starter Audit",
+  "SourceUrl":      "http://central.maven.org/maven2/org/activiti/cloud/activiti-cloud-starter-audit/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7",
+  "Package":        "activiti-cloud-starter-audit",
+  "ReleasePattern": "\A(\d+\-\d\d\d\d\d\d\-EA)\Z",
+
+  "Versions": [
+  {
+    "Number":         "7-201710-EA",
+    "Installed":      "src/org.activiti.cloud.starter-audit/7-201710-EA",
+    "Source":         "src/org.activiti.cloud.starter-audit/7-201710-EA/activiti-cloud-starter-audit-7-201710-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201709-EA",
+    "Installed":      "src/org.activiti.cloud.starter-audit/7-201709-EA",
+    "Source":         "src/org.activiti.cloud.starter-audit/7-201709-EA/activiti-cloud-starter-audit-7-201709-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7-201708-EA",
+    "Installed":      "src/org.activiti.cloud.starter-audit/7-201708-EA",
+    "Source":         "src/org.activiti.cloud.starter-audit/7-201708-EA/activiti-cloud-starter-audit-7-201708-EA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

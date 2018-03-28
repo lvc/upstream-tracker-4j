@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "0.12.20",
+    "Installed":      "src/servo-core/0.12.20",
+    "Source":         "src/servo-core/0.12.20/servo-core-0.12.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.19",
+    "Installed":      "src/servo-core/0.12.19",
+    "Source":         "src/servo-core/0.12.19/servo-core-0.12.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.12.18",
+    "Installed":      "src/servo-core/0.12.18",
+    "Source":         "src/servo-core/0.12.18/servo-core-0.12.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.12.17",
     "Installed":      "src/servo-core/0.12.17",
     "Source":         "src/servo-core/0.12.17/servo-core-0.12.17.jar",

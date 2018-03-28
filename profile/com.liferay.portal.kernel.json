@@ -9,6 +9,20 @@
 
   "Versions": [
   {
+    "Number":         "2.60.0",
+    "Installed":      "src/com.liferay.portal.kernel/2.60.0",
+    "Source":         "src/com.liferay.portal.kernel/2.60.0/com.liferay.portal.kernel-2.60.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.50.0",
+    "Installed":      "src/com.liferay.portal.kernel/2.50.0",
+    "Source":         "src/com.liferay.portal.kernel/2.50.0/com.liferay.portal.kernel-2.50.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.40.0",
     "Installed":      "src/com.liferay.portal.kernel/2.40.0",
     "Source":         "src/com.liferay.portal.kernel/2.40.0/com.liferay.portal.kernel-2.40.0.jar",

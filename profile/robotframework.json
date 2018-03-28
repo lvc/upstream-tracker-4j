@@ -1,0 +1,38 @@
+{
+  "Name":           "robotframework",
+  "Title":          "Robot Framework",
+  "SourceUrl":      "http://central.maven.org/maven2/org/robotframework/robotframework/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.9.2",
+
+  "Versions": [
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/robotframework/3.0.2",
+    "Source":         "src/robotframework/3.0.2/robotframework-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/robotframework/3.0.1",
+    "Source":         "src/robotframework/3.0.1/robotframework-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/robotframework/3.0",
+    "Source":         "src/robotframework/3.0/robotframework-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/robotframework/2.9.2",
+    "Source":         "src/robotframework/2.9.2/robotframework-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

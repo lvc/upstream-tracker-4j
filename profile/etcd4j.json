@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "2.15.0",
+    "Installed":      "src/etcd4j/2.15.0",
+    "Source":         "src/etcd4j/2.15.0/etcd4j-2.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "src/etcd4j/2.14.0",
+    "Source":         "src/etcd4j/2.14.0/etcd4j-2.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.13.0",
     "Installed":      "src/etcd4j/2.13.0",
     "Source":         "src/etcd4j/2.13.0/etcd4j-2.13.0.jar",

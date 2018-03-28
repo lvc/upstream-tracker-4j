@@ -4,12 +4,13 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/apache/mina/mina-core/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ "3.0.0-M2", "3.0.0-M1" ],
 
   "Versions": [
   {
-    "Number":         "3.0.0-M2",
-    "Installed":      "src/mina-core/3.0.0-M2",
-    "Source":         "src/mina-core/3.0.0-M2/mina-core-3.0.0-M2.jar",
+    "Number":         "2.0.17",
+    "Installed":      "src/mina-core/2.0.17",
+    "Source":         "src/mina-core/2.0.17/mina-core-2.0.17.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

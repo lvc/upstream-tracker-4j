@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.6.5.132-7",
+    "Installed":      "src/sigar/1.6.5.132-7",
+    "Source":         "src/sigar/1.6.5.132-7/sigar-1.6.5.132-7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.6.5.132-6",
     "Installed":      "src/sigar/1.6.5.132-6",
     "Source":         "src/sigar/1.6.5.132-6/sigar-1.6.5.132-6.jar",

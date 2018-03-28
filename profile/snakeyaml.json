@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "1.20",
+    "Installed":      "src/snakeyaml/1.20",
+    "Source":         "src/snakeyaml/1.20/snakeyaml-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.19",
+    "Installed":      "src/snakeyaml/1.19",
+    "Source":         "src/snakeyaml/1.19/snakeyaml-1.19.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.18",
     "Installed":      "src/snakeyaml/1.18",
     "Source":         "src/snakeyaml/1.18/snakeyaml-1.18.jar",

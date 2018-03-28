@@ -1,0 +1,164 @@
+{
+  "Name":           "io.druid.druid-api",
+  "Title":          "druid.io Druid API",
+  "SourceUrl":      "http://central.maven.org/maven2/io/druid/druid-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "druid-api",
+
+  "Versions": [
+  {
+    "Number":         "0.12.0",
+    "Installed":      "src/io.druid.druid-api/0.12.0",
+    "Source":         "src/io.druid.druid-api/0.12.0/druid-api-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0",
+    "Installed":      "src/io.druid.druid-api/0.11.0",
+    "Source":         "src/io.druid.druid-api/0.11.0/druid-api-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.1",
+    "Installed":      "src/io.druid.druid-api/0.10.1",
+    "Source":         "src/io.druid.druid-api/0.10.1/druid-api-0.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/io.druid.druid-api/0.10.0",
+    "Source":         "src/io.druid.druid-api/0.10.0/druid-api-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.2",
+    "Installed":      "src/io.druid.druid-api/0.9.2",
+    "Source":         "src/io.druid.druid-api/0.9.2/druid-api-0.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1.1",
+    "Installed":      "src/io.druid.druid-api/0.9.1.1",
+    "Source":         "src/io.druid.druid-api/0.9.1.1/druid-api-0.9.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.1",
+    "Installed":      "src/io.druid.druid-api/0.9.1",
+    "Source":         "src/io.druid.druid-api/0.9.1/druid-api-0.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.17",
+    "Installed":      "src/io.druid.druid-api/0.3.17",
+    "Source":         "src/io.druid.druid-api/0.3.17/druid-api-0.3.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.16",
+    "Installed":      "src/io.druid.druid-api/0.3.16",
+    "Source":         "src/io.druid.druid-api/0.3.16/druid-api-0.3.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.15",
+    "Installed":      "src/io.druid.druid-api/0.3.15",
+    "Source":         "src/io.druid.druid-api/0.3.15/druid-api-0.3.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.14",
+    "Installed":      "src/io.druid.druid-api/0.3.14",
+    "Source":         "src/io.druid.druid-api/0.3.14/druid-api-0.3.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.13",
+    "Installed":      "src/io.druid.druid-api/0.3.13",
+    "Source":         "src/io.druid.druid-api/0.3.13/druid-api-0.3.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.12",
+    "Installed":      "src/io.druid.druid-api/0.3.12",
+    "Source":         "src/io.druid.druid-api/0.3.12/druid-api-0.3.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.11",
+    "Installed":      "src/io.druid.druid-api/0.3.11",
+    "Source":         "src/io.druid.druid-api/0.3.11/druid-api-0.3.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.10",
+    "Installed":      "src/io.druid.druid-api/0.3.10",
+    "Source":         "src/io.druid.druid-api/0.3.10/druid-api-0.3.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.9",
+    "Installed":      "src/io.druid.druid-api/0.3.9",
+    "Source":         "src/io.druid.druid-api/0.3.9/druid-api-0.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.8",
+    "Installed":      "src/io.druid.druid-api/0.3.8",
+    "Source":         "src/io.druid.druid-api/0.3.8/druid-api-0.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.7",
+    "Installed":      "src/io.druid.druid-api/0.3.7",
+    "Source":         "src/io.druid.druid-api/0.3.7/druid-api-0.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.6",
+    "Installed":      "src/io.druid.druid-api/0.3.6",
+    "Source":         "src/io.druid.druid-api/0.3.6/druid-api-0.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.5",
+    "Installed":      "src/io.druid.druid-api/0.3.5",
+    "Source":         "src/io.druid.druid-api/0.3.5/druid-api-0.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.4",
+    "Installed":      "src/io.druid.druid-api/0.3.4",
+    "Source":         "src/io.druid.druid-api/0.3.4/druid-api-0.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.3",
+    "Installed":      "src/io.druid.druid-api/0.3.3",
+    "Source":         "src/io.druid.druid-api/0.3.3/druid-api-0.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

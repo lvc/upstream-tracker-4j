@@ -1,0 +1,28 @@
+{
+  "Name":           "apiguardian-api",
+  "Title":          "API Guardian",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apiguardian/apiguardian-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d+\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/apiguardian/apiguardian-api/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
+
+  "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/apiguardian-api/SNAPSHOT",
+    "Source":         "src/apiguardian-api/SNAPSHOT/apiguardian-api-1.1.0-20171018.194832-3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/apiguardian-api/1.0.0",
+    "Source":         "src/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

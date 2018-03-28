@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "2.4.0",
+    "Installed":      "src/ignite-core/2.4.0",
+    "Source":         "src/ignite-core/2.4.0/ignite-core-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/ignite-core/2.3.0",
+    "Source":         "src/ignite-core/2.3.0/ignite-core-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/ignite-core/2.2.0",
+    "Source":         "src/ignite-core/2.2.0/ignite-core-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.1.0",
     "Installed":      "src/ignite-core/2.1.0",
     "Source":         "src/ignite-core/2.1.0/ignite-core-2.1.0.jar",

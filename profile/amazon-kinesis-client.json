@@ -7,6 +7,76 @@
 
   "Versions": [
   {
+    "Number":         "1.9.0",
+    "Installed":      "src/amazon-kinesis-client/1.9.0",
+    "Source":         "src/amazon-kinesis-client/1.9.0/amazon-kinesis-client-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.10",
+    "Installed":      "src/amazon-kinesis-client/1.8.10",
+    "Source":         "src/amazon-kinesis-client/1.8.10/amazon-kinesis-client-1.8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.9",
+    "Installed":      "src/amazon-kinesis-client/1.8.9",
+    "Source":         "src/amazon-kinesis-client/1.8.9/amazon-kinesis-client-1.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.8",
+    "Installed":      "src/amazon-kinesis-client/1.8.8",
+    "Source":         "src/amazon-kinesis-client/1.8.8/amazon-kinesis-client-1.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.7",
+    "Installed":      "src/amazon-kinesis-client/1.8.7",
+    "Source":         "src/amazon-kinesis-client/1.8.7/amazon-kinesis-client-1.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.6",
+    "Installed":      "src/amazon-kinesis-client/1.8.6",
+    "Source":         "src/amazon-kinesis-client/1.8.6/amazon-kinesis-client-1.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.5",
+    "Installed":      "src/amazon-kinesis-client/1.8.5",
+    "Source":         "src/amazon-kinesis-client/1.8.5/amazon-kinesis-client-1.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.4",
+    "Installed":      "src/amazon-kinesis-client/1.8.4",
+    "Source":         "src/amazon-kinesis-client/1.8.4/amazon-kinesis-client-1.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/amazon-kinesis-client/1.8.3",
+    "Source":         "src/amazon-kinesis-client/1.8.3/amazon-kinesis-client-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/amazon-kinesis-client/1.8.2",
+    "Source":         "src/amazon-kinesis-client/1.8.2/amazon-kinesis-client-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.1",
     "Installed":      "src/amazon-kinesis-client/1.8.1",
     "Source":         "src/amazon-kinesis-client/1.8.1/amazon-kinesis-client-1.8.1.jar",

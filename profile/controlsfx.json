@@ -9,6 +9,20 @@
 
   "Versions": [
   {
+    "Number":         "9.0.0",
+    "Installed":      "src/controlsfx/9.0.0",
+    "Source":         "src/controlsfx/9.0.0/controlsfx-9.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.40.14",
+    "Installed":      "src/controlsfx/8.40.14",
+    "Source":         "src/controlsfx/8.40.14/controlsfx-8.40.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "8.40.13",
     "Installed":      "src/controlsfx/8.40.13",
     "Source":         "src/controlsfx/8.40.13/controlsfx-8.40.13.jar",

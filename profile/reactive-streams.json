@@ -7,6 +7,29 @@
 
   "Versions": [
   {
+    "Number":         "1.0.2",
+    "Installed":      "src/reactive-streams/1.0.2",
+    "Source":         "src/reactive-streams/1.0.2/reactive-streams-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2-RC2",
+    "Installed":      "src/reactive-streams/1.0.2-RC2",
+    "Source":         "src/reactive-streams/1.0.2-RC2/reactive-streams-1.0.2-RC2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.2-RC1",
+    "Installed":      "src/reactive-streams/1.0.2-RC1",
+    "Source":         "src/reactive-streams/1.0.2-RC1/reactive-streams-1.0.2-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "1.0.1",
     "Installed":      "src/reactive-streams/1.0.1",
     "Source":         "src/reactive-streams/1.0.1/reactive-streams-1.0.1.jar",

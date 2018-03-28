@@ -9,6 +9,27 @@
 
   "Versions": [
   {
+    "Number":         "5.12.0",
+    "Installed":      "src/dcm4che-net/5.12.0",
+    "Source":         "src/dcm4che-net/5.12.0/dcm4che-net-5.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.11.0",
+    "Installed":      "src/dcm4che-net/5.11.0",
+    "Source":         "src/dcm4che-net/5.11.0/dcm4che-net-5.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.10.6",
+    "Installed":      "src/dcm4che-net/5.10.6",
+    "Source":         "src/dcm4che-net/5.10.6/dcm4che-net-5.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.10.5",
     "Installed":      "src/dcm4che-net/5.10.5",
     "Source":         "src/dcm4che-net/5.10.5/dcm4che-net-5.10.5.jar",

@@ -5,8 +5,23 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "MinimalVersion": "3.0.0",
+  "SkipInternalPackages": "\Ajena.*",
 
   "Versions": [
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/jena-core/3.6.0",
+    "Source":         "src/jena-core/3.6.0/jena-core-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/jena-core/3.5.0",
+    "Source":         "src/jena-core/3.5.0/jena-core-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "3.4.0",
     "Installed":      "src/jena-core/3.4.0",

@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.8.4",
+    "Installed":      "src/jmock/2.8.4",
+    "Source":         "src/jmock/2.8.4/jmock-2.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.8.3",
     "Installed":      "src/jmock/2.8.3",
     "Source":         "src/jmock/2.8.3/jmock-2.8.3.jar",

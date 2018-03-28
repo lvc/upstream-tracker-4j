@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "4.5.5",
+    "Installed":      "src/httpmime/4.5.5",
+    "Source":         "src/httpmime/4.5.5/httpmime-4.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.4",
+    "Installed":      "src/httpmime/4.5.4",
+    "Source":         "src/httpmime/4.5.4/httpmime-4.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.5.3",
     "Installed":      "src/httpmime/4.5.3",
     "Source":         "src/httpmime/4.5.3/httpmime-4.5.3.jar",

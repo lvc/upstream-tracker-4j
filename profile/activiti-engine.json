@@ -2,6 +2,7 @@
   "Name":           "activiti-engine",
   "Title":          "Activiti Engine",
   "SourceUrl":      "http://central.maven.org/maven2/org/activiti/activiti-engine/",
+  "SkipUrl":        [ ".*EA.*" ],
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "MinimalVersion": "5.17.0",

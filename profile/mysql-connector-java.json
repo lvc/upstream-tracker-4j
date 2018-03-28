@@ -6,8 +6,31 @@
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CompactReport":  "On",
   "MinimalVersion": "5.1.35",
+  "ReleasePattern": "\A([\d\.]+)-dmr\Z",
+  "SkipInternalPackages": "\Acom\.mysql\.cj\.(x\.protobuf|mysqlx\.protobuf)\Z",
 
   "Versions": [
+  {
+    "Number":         "8.0.9-rc",
+    "Installed":      "src/mysql-connector-java/8.0.9-rc",
+    "Source":         "src/mysql-connector-java/8.0.9-rc/mysql-connector-java-8.0.9-rc.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.8",
+    "Installed":      "src/mysql-connector-java/8.0.8",
+    "Source":         "src/mysql-connector-java/8.0.8/mysql-connector-java-8.0.8-dmr.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.7",
+    "Installed":      "src/mysql-connector-java/8.0.7",
+    "Source":         "src/mysql-connector-java/8.0.7/mysql-connector-java-8.0.7-dmr.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "6.0.6",
     "Installed":      "src/mysql-connector-java/6.0.6",
@@ -40,6 +63,27 @@
     "Number":         "6.0.2",
     "Installed":      "src/mysql-connector-java/6.0.2",
     "Source":         "src/mysql-connector-java/6.0.2/mysql-connector-java-6.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.46",
+    "Installed":      "src/mysql-connector-java/5.1.46",
+    "Source":         "src/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.45",
+    "Installed":      "src/mysql-connector-java/5.1.45",
+    "Source":         "src/mysql-connector-java/5.1.45/mysql-connector-java-5.1.45.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.44",
+    "Installed":      "src/mysql-connector-java/5.1.44",
+    "Source":         "src/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

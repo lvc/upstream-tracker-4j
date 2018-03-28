@@ -4,7 +4,10 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/python/jython-standalone/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipInternalTypes": "_imp|Test|JIT|PyExposer|exposed_|_exposer|__closure__|__defaults__|_descriptor",
+  "CheckPackages":  "\A(org\.python\.(core(|\.(adapter|io|packagecache|util))|modules(|\.(_collections|_csv|_functools|_threading|_weakref|jffi|posix|random|sre|thread|time|zipimport))|util)|com\.(xhaus\.modjy|ziclix\.python\.sql))\Z",
   "CompactReport":  "On",
+  "SkipClasses":    "filters/skip_classes/jython-standalone.list",
 
   "Versions": [
   {

@@ -4,12 +4,59 @@
   "SourceUrl":      "http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/com/fasterxml/jackson/core/jackson-core/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/jackson-core/SNAPSHOT",
+    "Source":         "src/jackson-core/SNAPSHOT/jackson-core-3.0.0-20180318.002117-242.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.4",
+    "Installed":      "src/jackson-core/2.9.4",
+    "Source":         "src/jackson-core/2.9.4/jackson-core-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "src/jackson-core/2.9.3",
+    "Source":         "src/jackson-core/2.9.3/jackson-core-2.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/jackson-core/2.9.2",
+    "Source":         "src/jackson-core/2.9.2/jackson-core-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/jackson-core/2.9.1",
+    "Source":         "src/jackson-core/2.9.1/jackson-core-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.9.0",
     "Installed":      "src/jackson-core/2.9.0",
     "Source":         "src/jackson-core/2.9.0/jackson-core-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.11",
+    "Installed":      "src/jackson-core/2.8.11",
+    "Source":         "src/jackson-core/2.8.11/jackson-core-2.8.11.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

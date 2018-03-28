@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "2.18.0",
+    "Installed":      "src/org.apache.sling.api/2.18.0",
+    "Source":         "src/org.apache.sling.api/2.18.0/org.apache.sling.api-2.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.4",
+    "Installed":      "src/org.apache.sling.api/2.16.4",
+    "Source":         "src/org.apache.sling.api/2.16.4/org.apache.sling.api-2.16.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.16.2",
     "Installed":      "src/org.apache.sling.api/2.16.2",
     "Source":         "src/org.apache.sling.api/2.16.2/org.apache.sling.api-2.16.2.jar",

@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "4.0.6",
+    "Installed":      "src/transactions-jdbc/4.0.6",
+    "Source":         "src/transactions-jdbc/4.0.6/transactions-jdbc-4.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.5",
+    "Installed":      "src/transactions-jdbc/4.0.5",
+    "Source":         "src/transactions-jdbc/4.0.5/transactions-jdbc-4.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.0.4",
     "Installed":      "src/transactions-jdbc/4.0.4",
     "Source":         "src/transactions-jdbc/4.0.4/transactions-jdbc-4.0.4.jar",

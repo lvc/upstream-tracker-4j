@@ -9,6 +9,20 @@
 
   "Versions": [
   {
+    "Number":         "3.0.5",
+    "Installed":      "src/fabric8-kubernetes-api/3.0.5",
+    "Source":         "src/fabric8-kubernetes-api/3.0.5/kubernetes-api-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.5",
+    "Installed":      "src/fabric8-kubernetes-api/2.3.5",
+    "Source":         "src/fabric8-kubernetes-api/2.3.5/kubernetes-api-2.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.3.0",
     "Installed":      "src/fabric8-kubernetes-api/2.3.0",
     "Source":         "src/fabric8-kubernetes-api/2.3.0/kubernetes-api-2.3.0.jar",

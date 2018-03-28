@@ -8,6 +8,90 @@
 
   "Versions": [
   {
+    "Number":         "5.2.0",
+    "Installed":      "src/amqp-client/5.2.0",
+    "Source":         "src/amqp-client/5.2.0/amqp-client-5.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.2",
+    "Installed":      "src/amqp-client/5.1.2",
+    "Source":         "src/amqp-client/5.1.2/amqp-client-5.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.1",
+    "Installed":      "src/amqp-client/5.1.1",
+    "Source":         "src/amqp-client/5.1.1/amqp-client-5.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "src/amqp-client/5.1.0",
+    "Source":         "src/amqp-client/5.1.0/amqp-client-5.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/amqp-client/5.0.0",
+    "Source":         "src/amqp-client/5.0.0/amqp-client-5.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.0",
+    "Installed":      "src/amqp-client/4.5.0",
+    "Source":         "src/amqp-client/4.5.0/amqp-client-4.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.2",
+    "Installed":      "src/amqp-client/4.4.2",
+    "Source":         "src/amqp-client/4.4.2/amqp-client-4.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.1",
+    "Installed":      "src/amqp-client/4.4.1",
+    "Source":         "src/amqp-client/4.4.1/amqp-client-4.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.0",
+    "Installed":      "src/amqp-client/4.4.0",
+    "Source":         "src/amqp-client/4.4.0/amqp-client-4.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.3.0",
+    "Installed":      "src/amqp-client/4.3.0",
+    "Source":         "src/amqp-client/4.3.0/amqp-client-4.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.2",
+    "Installed":      "src/amqp-client/4.2.2",
+    "Source":         "src/amqp-client/4.2.2/amqp-client-4.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.2.1",
+    "Installed":      "src/amqp-client/4.2.1",
+    "Source":         "src/amqp-client/4.2.1/amqp-client-4.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.2.0",
     "Installed":      "src/amqp-client/4.2.0",
     "Source":         "src/amqp-client/4.2.0/amqp-client-4.2.0.jar",

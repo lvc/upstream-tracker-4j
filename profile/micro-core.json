@@ -1,19 +1,60 @@
 {
   "Name":           "micro-core",
-  "Title":          "Microserver",
+  "Title":          "Microserver Core",
   "SourceUrl":      "http://central.maven.org/maven2/com/aol/microservices/micro-core/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "LatestMicro":    "On",
   "MinimalVersion": "0.70",
+  "SkipInternalPackages": "com\.aol\.micro\.server\.rest\..*",
 
   "Versions": [
+  {
+    "Number":         "0.91.11",
+    "Installed":      "src/micro-core/0.91.11",
+    "Source":         "src/micro-core/0.91.11/micro-core-0.91.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.91.10",
+    "Installed":      "src/micro-core/0.91.10",
+    "Source":         "src/micro-core/0.91.10/micro-core-0.91.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "0.91.9",
+    "Installed":      "src/micro-core/0.91.9",
+    "Source":         "src/micro-core/0.91.9/micro-core-0.91.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "0.91.8",
+    "Installed":      "src/micro-core/0.91.8",
+    "Source":         "src/micro-core/0.91.8/micro-core-0.91.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "0.91.6",
+    "Installed":      "src/micro-core/0.91.6",
+    "Source":         "src/micro-core/0.91.6/micro-core-0.91.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
   {
     "Number":         "0.91.5",
     "Installed":      "src/micro-core/0.91.5",
     "Source":         "src/micro-core/0.91.5/micro-core-0.91.5.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "0.90.6",

@@ -10,6 +10,13 @@
 
   "Versions": [
   {
+    "Number":         "0.190",
+    "Installed":      "src/presto-main/0.190",
+    "Source":         "src/presto-main/0.190/presto-main-0.190.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.180",
     "Installed":      "src/presto-main/0.180",
     "Source":         "src/presto-main/0.180/presto-main-0.180.jar",

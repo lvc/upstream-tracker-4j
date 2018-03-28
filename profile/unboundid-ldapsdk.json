@@ -9,6 +9,41 @@
 
   "Versions": [
   {
+    "Number":         "4.0.5",
+    "Installed":      "src/unboundid-ldapsdk/4.0.5",
+    "Source":         "src/unboundid-ldapsdk/4.0.5/unboundid-ldapsdk-4.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.4",
+    "Installed":      "src/unboundid-ldapsdk/4.0.4",
+    "Source":         "src/unboundid-ldapsdk/4.0.4/unboundid-ldapsdk-4.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.3",
+    "Installed":      "src/unboundid-ldapsdk/4.0.3",
+    "Source":         "src/unboundid-ldapsdk/4.0.3/unboundid-ldapsdk-4.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/unboundid-ldapsdk/4.0.2",
+    "Source":         "src/unboundid-ldapsdk/4.0.2/unboundid-ldapsdk-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/unboundid-ldapsdk/4.0.1",
+    "Source":         "src/unboundid-ldapsdk/4.0.1/unboundid-ldapsdk-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.0.0",
     "Installed":      "src/unboundid-ldapsdk/4.0.0",
     "Source":         "src/unboundid-ldapsdk/4.0.0/unboundid-ldapsdk-4.0.0.jar",

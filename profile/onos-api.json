@@ -7,11 +7,112 @@
 
   "Versions": [
   {
+    "Number":         "1.13.0-b8",
+    "Installed":      "src/onos-api/1.13.0-b8",
+    "Source":         "src/onos-api/1.13.0-b8/onos-api-1.13.0-b8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.13.0-b6",
+    "Installed":      "src/onos-api/1.13.0-b6",
+    "Source":         "src/onos-api/1.13.0-b6/onos-api-1.13.0-b6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.13.0-b5",
+    "Installed":      "src/onos-api/1.13.0-b5",
+    "Source":         "src/onos-api/1.13.0-b5/onos-api-1.13.0-b5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.12.0",
+    "Installed":      "src/onos-api/1.12.0",
+    "Source":         "src/onos-api/1.12.0/onos-api-1.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.12.0-rc3",
+    "Installed":      "src/onos-api/1.12.0-rc3",
+    "Source":         "src/onos-api/1.12.0-rc3/onos-api-1.12.0-rc3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.12.0-rc2",
+    "Installed":      "src/onos-api/1.12.0-rc2",
+    "Source":         "src/onos-api/1.12.0-rc2/onos-api-1.12.0-rc2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.12.0-rc1",
+    "Installed":      "src/onos-api/1.12.0-rc1",
+    "Source":         "src/onos-api/1.12.0-rc1/onos-api-1.12.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.12.0-b2",
+    "Installed":      "src/onos-api/1.12.0-b2",
+    "Source":         "src/onos-api/1.12.0-b2/onos-api-1.12.0-b2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.12.0-b1",
+    "Installed":      "src/onos-api/1.12.0-b1",
+    "Source":         "src/onos-api/1.12.0-b1/onos-api-1.12.0-b1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.1",
+    "Installed":      "src/onos-api/1.11.1",
+    "Source":         "src/onos-api/1.11.1/onos-api-1.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.0",
+    "Installed":      "src/onos-api/1.11.0",
+    "Source":         "src/onos-api/1.11.0/onos-api-1.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.0-rc6",
+    "Installed":      "src/onos-api/1.11.0-rc6",
+    "Source":         "src/onos-api/1.11.0-rc6/onos-api-1.11.0-rc6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.11.0-rc5",
+    "Installed":      "src/onos-api/1.11.0-rc5",
+    "Source":         "src/onos-api/1.11.0-rc5/onos-api-1.11.0-rc5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "1.11.0-rc4",
     "Installed":      "src/onos-api/1.11.0-rc4",
     "Source":         "src/onos-api/1.11.0-rc4/onos-api-1.11.0-rc4.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "1.11.0-rc1",
@@ -52,6 +153,62 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "1.10.12",
+    "Installed":      "src/onos-api/1.10.12",
+    "Source":         "src/onos-api/1.10.12/onos-api-1.10.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.11",
+    "Installed":      "src/onos-api/1.10.11",
+    "Source":         "src/onos-api/1.10.11/onos-api-1.10.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.10",
+    "Installed":      "src/onos-api/1.10.10",
+    "Source":         "src/onos-api/1.10.10/onos-api-1.10.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.9",
+    "Installed":      "src/onos-api/1.10.9",
+    "Source":         "src/onos-api/1.10.9/onos-api-1.10.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.8",
+    "Installed":      "src/onos-api/1.10.8",
+    "Source":         "src/onos-api/1.10.8/onos-api-1.10.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.7",
+    "Installed":      "src/onos-api/1.10.7",
+    "Source":         "src/onos-api/1.10.7/onos-api-1.10.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.6",
+    "Installed":      "src/onos-api/1.10.6",
+    "Source":         "src/onos-api/1.10.6/onos-api-1.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.10.5",
+    "Installed":      "src/onos-api/1.10.5",
+    "Source":         "src/onos-api/1.10.5/onos-api-1.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "1.10.4",

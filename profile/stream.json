@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.9.6",
+    "Installed":      "src/stream/2.9.6",
+    "Source":         "src/stream/2.9.6/stream-2.9.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.9.5",
     "Installed":      "src/stream/2.9.5",
     "Source":         "src/stream/2.9.5/stream-2.9.5.jar",

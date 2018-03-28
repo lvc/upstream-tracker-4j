@@ -8,9 +8,30 @@
 
   "Versions": [
   {
+    "Number":         "2.3.0",
+    "Installed":      "src/spark-streaming/2.3.0",
+    "Source":         "src/spark-streaming/2.3.0/spark-streaming_2.11-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/spark-streaming/2.2.1",
+    "Source":         "src/spark-streaming/2.2.1/spark-streaming_2.11-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.2.0",
     "Installed":      "src/spark-streaming/2.2.0",
     "Source":         "src/spark-streaming/2.2.0/spark-streaming_2.11-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/spark-streaming/2.1.2",
+    "Source":         "src/spark-streaming/2.1.2/spark-streaming_2.11-2.1.2.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "1.1.0",
+    "Installed":      "src/scala-parser-combinators/1.1.0",
+    "Source":         "src/scala-parser-combinators/1.1.0/scala-parser-combinators_2.11-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.7",
+    "Installed":      "src/scala-parser-combinators/1.0.7",
+    "Source":         "src/scala-parser-combinators/1.0.7/scala-parser-combinators_2.11-1.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.0.6",
     "Installed":      "src/scala-parser-combinators/1.0.6",
     "Source":         "src/scala-parser-combinators/1.0.6/scala-parser-combinators_2.11-1.0.6.jar",

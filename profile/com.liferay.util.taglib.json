@@ -7,6 +7,97 @@
 
   "Versions": [
   {
+    "Number":         "2.10.9",
+    "Installed":      "src/com.liferay.util.taglib/2.10.9",
+    "Source":         "src/com.liferay.util.taglib/2.10.9/com.liferay.util.taglib-2.10.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.8",
+    "Installed":      "src/com.liferay.util.taglib/2.10.8",
+    "Source":         "src/com.liferay.util.taglib/2.10.8/com.liferay.util.taglib-2.10.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.7",
+    "Installed":      "src/com.liferay.util.taglib/2.10.7",
+    "Source":         "src/com.liferay.util.taglib/2.10.7/com.liferay.util.taglib-2.10.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.6",
+    "Installed":      "src/com.liferay.util.taglib/2.10.6",
+    "Source":         "src/com.liferay.util.taglib/2.10.6/com.liferay.util.taglib-2.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.5",
+    "Installed":      "src/com.liferay.util.taglib/2.10.5",
+    "Source":         "src/com.liferay.util.taglib/2.10.5/com.liferay.util.taglib-2.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.4",
+    "Installed":      "src/com.liferay.util.taglib/2.10.4",
+    "Source":         "src/com.liferay.util.taglib/2.10.4/com.liferay.util.taglib-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/com.liferay.util.taglib/2.10.3",
+    "Source":         "src/com.liferay.util.taglib/2.10.3/com.liferay.util.taglib-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "src/com.liferay.util.taglib/2.10.2",
+    "Source":         "src/com.liferay.util.taglib/2.10.2/com.liferay.util.taglib-2.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/com.liferay.util.taglib/2.10.1",
+    "Source":         "src/com.liferay.util.taglib/2.10.1/com.liferay.util.taglib-2.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/com.liferay.util.taglib/2.10.0",
+    "Source":         "src/com.liferay.util.taglib/2.10.0/com.liferay.util.taglib-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/com.liferay.util.taglib/2.9.2",
+    "Source":         "src/com.liferay.util.taglib/2.9.2/com.liferay.util.taglib-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/com.liferay.util.taglib/2.9.1",
+    "Source":         "src/com.liferay.util.taglib/2.9.1/com.liferay.util.taglib-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "src/com.liferay.util.taglib/2.9.0",
+    "Source":         "src/com.liferay.util.taglib/2.9.0/com.liferay.util.taglib-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.8.0",
     "Installed":      "src/com.liferay.util.taglib/2.8.0",
     "Source":         "src/com.liferay.util.taglib/2.8.0/com.liferay.util.taglib-2.8.0.jar",

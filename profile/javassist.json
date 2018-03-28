@@ -4,14 +4,23 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/javassist/javassist/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "OldSourceUrl":   "http://central.maven.org/maven2/javassist/javassist/",
 
   "Versions": [
+  {
+    "Number":         "3.22.0",
+    "Installed":      "src/javassist/3.22.0",
+    "Source":         "src/javassist/3.22.0/javassist-3.22.0-GA.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "3.22.0-CR2",
     "Installed":      "src/javassist/3.22.0-CR2",
     "Source":         "src/javassist/3.22.0-CR2/javassist-3.22.0-CR2.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "3.22.0-CR1",

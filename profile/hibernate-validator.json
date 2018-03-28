@@ -16,6 +16,13 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "5.4.2",
+    "Installed":      "src/hibernate-validator/5.4.2",
+    "Source":         "src/hibernate-validator/5.4.2/hibernate-validator-5.4.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.4.1",
     "Installed":      "src/hibernate-validator/5.4.1",
     "Source":         "src/hibernate-validator/5.4.1/hibernate-validator-5.4.1.Final.jar",
@@ -26,6 +33,13 @@
     "Number":         "5.4.0",
     "Installed":      "src/hibernate-validator/5.4.0",
     "Source":         "src/hibernate-validator/5.4.0/hibernate-validator-5.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.6",
+    "Installed":      "src/hibernate-validator/5.3.6",
+    "Source":         "src/hibernate-validator/5.3.6/hibernate-validator-5.3.6.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

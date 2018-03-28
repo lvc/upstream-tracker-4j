@@ -8,6 +8,71 @@
 
   "Versions": [
   {
+    "Number":         "5.3.0.CR1",
+    "Installed":      "src/hibernate-ehcache/5.3.0.CR1",
+    "Source":         "src/hibernate-ehcache/5.3.0.CR1/hibernate-ehcache-5.3.0.CR1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.0.Beta2",
+    "Installed":      "src/hibernate-ehcache/5.3.0.Beta2",
+    "Source":         "src/hibernate-ehcache/5.3.0.Beta2/hibernate-ehcache-5.3.0.Beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.3.0.Beta1",
+    "Installed":      "src/hibernate-ehcache/5.3.0.Beta1",
+    "Source":         "src/hibernate-ehcache/5.3.0.Beta1/hibernate-ehcache-5.3.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.2.16",
+    "Installed":      "src/hibernate-ehcache/5.2.16",
+    "Source":         "src/hibernate-ehcache/5.2.16/hibernate-ehcache-5.2.16.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.15",
+    "Installed":      "src/hibernate-ehcache/5.2.15",
+    "Source":         "src/hibernate-ehcache/5.2.15/hibernate-ehcache-5.2.15.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.14",
+    "Installed":      "src/hibernate-ehcache/5.2.14",
+    "Source":         "src/hibernate-ehcache/5.2.14/hibernate-ehcache-5.2.14.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.13",
+    "Installed":      "src/hibernate-ehcache/5.2.13",
+    "Source":         "src/hibernate-ehcache/5.2.13/hibernate-ehcache-5.2.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.12",
+    "Installed":      "src/hibernate-ehcache/5.2.12",
+    "Source":         "src/hibernate-ehcache/5.2.12/hibernate-ehcache-5.2.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.11",
+    "Installed":      "src/hibernate-ehcache/5.2.11",
+    "Source":         "src/hibernate-ehcache/5.2.11/hibernate-ehcache-5.2.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.2.10",
     "Installed":      "src/hibernate-ehcache/5.2.10",
     "Source":         "src/hibernate-ehcache/5.2.10/hibernate-ehcache-5.2.10.Final.jar",
@@ -81,6 +146,27 @@
     "Number":         "5.2.0",
     "Installed":      "src/hibernate-ehcache/5.2.0",
     "Source":         "src/hibernate-ehcache/5.2.0/hibernate-ehcache-5.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.13",
+    "Installed":      "src/hibernate-ehcache/5.1.13",
+    "Source":         "src/hibernate-ehcache/5.1.13/hibernate-ehcache-5.1.13.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.12",
+    "Installed":      "src/hibernate-ehcache/5.1.12",
+    "Source":         "src/hibernate-ehcache/5.1.12/hibernate-ehcache-5.1.12.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.11",
+    "Installed":      "src/hibernate-ehcache/5.1.11",
+    "Source":         "src/hibernate-ehcache/5.1.11/hibernate-ehcache-5.1.11.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

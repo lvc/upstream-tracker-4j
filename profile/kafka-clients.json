@@ -7,6 +7,34 @@
 
   "Versions": [
   {
+    "Number":         "1.0.1",
+    "Installed":      "src/kafka-clients/1.0.1",
+    "Source":         "src/kafka-clients/1.0.1/kafka-clients-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/kafka-clients/1.0.0",
+    "Source":         "src/kafka-clients/1.0.0/kafka-clients-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0.2",
+    "Installed":      "src/kafka-clients/0.11.0.2",
+    "Source":         "src/kafka-clients/0.11.0.2/kafka-clients-0.11.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.11.0.1",
+    "Installed":      "src/kafka-clients/0.11.0.1",
+    "Source":         "src/kafka-clients/0.11.0.1/kafka-clients-0.11.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.11.0.0",
     "Installed":      "src/kafka-clients/0.11.0.0",
     "Source":         "src/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0.jar",

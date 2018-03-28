@@ -7,6 +7,28 @@
 
   "Versions": [
   {
+    "Number":         "4.0.0.Beta2",
+    "Installed":      "src/jose-jwt/4.0.0.Beta2",
+    "Source":         "src/jose-jwt/4.0.0.Beta2/jose-jwt-4.0.0.Beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0.Beta1",
+    "Installed":      "src/jose-jwt/4.0.0.Beta1",
+    "Source":         "src/jose-jwt/4.0.0.Beta1/jose-jwt-4.0.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/jose-jwt/3.5.0",
+    "Source":         "src/jose-jwt/3.5.0/jose-jwt-3.5.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.1.4",
     "Installed":      "src/jose-jwt/3.1.4",
     "Source":         "src/jose-jwt/3.1.4/jose-jwt-3.1.4.Final.jar",

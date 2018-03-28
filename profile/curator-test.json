@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "4.0.1",
+    "Installed":      "src/curator-test/4.0.1",
+    "Source":         "src/curator-test/4.0.1/curator-test-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.0.0",
     "Installed":      "src/curator-test/4.0.0",
     "Source":         "src/curator-test/4.0.0/curator-test-4.0.0.jar",

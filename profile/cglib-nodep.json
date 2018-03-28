@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "3.2.6",
+    "Installed":      "src/cglib-nodep/3.2.6",
+    "Source":         "src/cglib-nodep/3.2.6/cglib-nodep-3.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.2.5",
     "Installed":      "src/cglib-nodep/3.2.5",
     "Source":         "src/cglib-nodep/3.2.5/cglib-nodep-3.2.5.jar",

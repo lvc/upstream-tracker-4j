@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "0.7.3",
+    "Installed":      "src/hppc/0.7.3",
+    "Source":         "src/hppc/0.7.3/hppc-0.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.7.2",
     "Installed":      "src/hppc/0.7.2",
     "Source":         "src/hppc/0.7.2/hppc-0.7.2.jar",

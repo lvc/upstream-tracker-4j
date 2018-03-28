@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "3.7",
+    "Installed":      "installed/commons-lang/3.7",
+    "Source":         "src/commons-lang/3.7/commons-lang3-3.7-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.6",
     "Installed":      "src/commons-lang/3.6",
     "Source":         "src/commons-lang/3.6/commons-lang3-3.6.jar",

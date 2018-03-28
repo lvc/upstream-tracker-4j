@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "4.0.2",
+    "Installed":      "src/kryo/4.0.2",
+    "Source":         "src/kryo/4.0.2/kryo-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.0.1",
     "Installed":      "src/kryo/4.0.1",
     "Source":         "src/kryo/4.0.1/kryo-4.0.1.jar",

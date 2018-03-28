@@ -9,11 +9,58 @@
 
   "Versions": [
   {
+    "Number":         "4.4.4",
+    "Installed":      "src/duracloud-storageprovider/4.4.4",
+    "Source":         "src/duracloud-storageprovider/4.4.4/storageprovider-4.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.3",
+    "Installed":      "src/duracloud-storageprovider/4.4.3",
+    "Source":         "src/duracloud-storageprovider/4.4.3/storageprovider-4.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.4.2",
+    "Installed":      "src/duracloud-storageprovider/4.4.2",
+    "Source":         "src/duracloud-storageprovider/4.4.2/storageprovider-4.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.4.1",
+    "Installed":      "src/duracloud-storageprovider/4.4.1",
+    "Source":         "src/duracloud-storageprovider/4.4.1/storageprovider-4.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.4.0",
+    "Installed":      "src/duracloud-storageprovider/4.4.0",
+    "Source":         "src/duracloud-storageprovider/4.4.0/storageprovider-4.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.3.9",
+    "Installed":      "src/duracloud-storageprovider/4.3.9",
+    "Source":         "src/duracloud-storageprovider/4.3.9/storageprovider-4.3.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.3.7",
     "Installed":      "src/duracloud-storageprovider/4.3.7",
     "Source":         "src/duracloud-storageprovider/4.3.7/storageprovider-4.3.7.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "4.2.6",

@@ -1,0 +1,109 @@
+{
+  "Name":           "json-java",
+  "Title":          "JSON In Java",
+  "SourceUrl":      "http://central.maven.org/maven2/org/json/json/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+  "Package":        "json",
+
+  "Versions": [
+  {
+    "Number":         20180130,
+    "Installed":      "src/json-java/20180130",
+    "Source":         "src/json-java/20180130/json-20180130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20171018,
+    "Installed":      "src/json-java/20171018",
+    "Source":         "src/json-java/20171018/json-20171018.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20170516,
+    "Installed":      "src/json-java/20170516",
+    "Source":         "src/json-java/20170516/json-20170516.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20160810,
+    "Installed":      "src/json-java/20160810",
+    "Source":         "src/json-java/20160810/json-20160810.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20160807,
+    "Installed":      "src/json-java/20160807",
+    "Source":         "src/json-java/20160807/json-20160807.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20160212,
+    "Installed":      "src/json-java/20160212",
+    "Source":         "src/json-java/20160212/json-20160212.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20151123,
+    "Installed":      "src/json-java/20151123",
+    "Source":         "src/json-java/20151123/json-20151123.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20150729,
+    "Installed":      "src/json-java/20150729",
+    "Source":         "src/json-java/20150729/json-20150729.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20141113,
+    "Installed":      "src/json-java/20141113",
+    "Source":         "src/json-java/20141113/json-20141113.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20140107,
+    "Installed":      "src/json-java/20140107",
+    "Source":         "src/json-java/20140107/json-20140107.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20131018,
+    "Installed":      "src/json-java/20131018",
+    "Source":         "src/json-java/20131018/json-20131018.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20090211,
+    "Installed":      "src/json-java/20090211",
+    "Source":         "src/json-java/20090211/json-20090211.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20080701,
+    "Installed":      "src/json-java/20080701",
+    "Source":         "src/json-java/20080701/json-20080701.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         20070829,
+    "Installed":      "src/json-java/20070829",
+    "Source":         "src/json-java/20070829/json-20070829.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

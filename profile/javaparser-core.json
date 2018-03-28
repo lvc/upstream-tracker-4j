@@ -7,6 +7,188 @@
 
   "Versions": [
   {
+    "Number":         "3.5.18",
+    "Installed":      "src/javaparser-core/3.5.18",
+    "Source":         "src/javaparser-core/3.5.18/javaparser-core-3.5.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.17",
+    "Installed":      "src/javaparser-core/3.5.17",
+    "Source":         "src/javaparser-core/3.5.17/javaparser-core-3.5.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.16",
+    "Installed":      "src/javaparser-core/3.5.16",
+    "Source":         "src/javaparser-core/3.5.16/javaparser-core-3.5.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.15",
+    "Installed":      "src/javaparser-core/3.5.15",
+    "Source":         "src/javaparser-core/3.5.15/javaparser-core-3.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.14",
+    "Installed":      "src/javaparser-core/3.5.14",
+    "Source":         "src/javaparser-core/3.5.14/javaparser-core-3.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.13",
+    "Installed":      "src/javaparser-core/3.5.13",
+    "Source":         "src/javaparser-core/3.5.13/javaparser-core-3.5.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.12",
+    "Installed":      "src/javaparser-core/3.5.12",
+    "Source":         "src/javaparser-core/3.5.12/javaparser-core-3.5.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.11",
+    "Installed":      "src/javaparser-core/3.5.11",
+    "Source":         "src/javaparser-core/3.5.11/javaparser-core-3.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.10",
+    "Installed":      "src/javaparser-core/3.5.10",
+    "Source":         "src/javaparser-core/3.5.10/javaparser-core-3.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.9",
+    "Installed":      "src/javaparser-core/3.5.9",
+    "Source":         "src/javaparser-core/3.5.9/javaparser-core-3.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.8",
+    "Installed":      "src/javaparser-core/3.5.8",
+    "Source":         "src/javaparser-core/3.5.8/javaparser-core-3.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.7",
+    "Installed":      "src/javaparser-core/3.5.7",
+    "Source":         "src/javaparser-core/3.5.7/javaparser-core-3.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.6",
+    "Installed":      "src/javaparser-core/3.5.6",
+    "Source":         "src/javaparser-core/3.5.6/javaparser-core-3.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.5",
+    "Installed":      "src/javaparser-core/3.5.5",
+    "Source":         "src/javaparser-core/3.5.5/javaparser-core-3.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.4",
+    "Installed":      "src/javaparser-core/3.5.4",
+    "Source":         "src/javaparser-core/3.5.4/javaparser-core-3.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.3",
+    "Installed":      "src/javaparser-core/3.5.3",
+    "Source":         "src/javaparser-core/3.5.3/javaparser-core-3.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.2",
+    "Installed":      "src/javaparser-core/3.5.2",
+    "Source":         "src/javaparser-core/3.5.2/javaparser-core-3.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/javaparser-core/3.5.1",
+    "Source":         "src/javaparser-core/3.5.1/javaparser-core-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/javaparser-core/3.5.0",
+    "Source":         "src/javaparser-core/3.5.0/javaparser-core-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.4",
+    "Installed":      "src/javaparser-core/3.4.4",
+    "Source":         "src/javaparser-core/3.4.4/javaparser-core-3.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.3",
+    "Installed":      "src/javaparser-core/3.4.3",
+    "Source":         "src/javaparser-core/3.4.3/javaparser-core-3.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/javaparser-core/3.4.2",
+    "Source":         "src/javaparser-core/3.4.2/javaparser-core-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/javaparser-core/3.4.1",
+    "Source":         "src/javaparser-core/3.4.1/javaparser-core-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/javaparser-core/3.4.0",
+    "Source":         "src/javaparser-core/3.4.0/javaparser-core-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.5",
+    "Installed":      "src/javaparser-core/3.3.5",
+    "Source":         "src/javaparser-core/3.3.5/javaparser-core-3.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.4",
+    "Installed":      "src/javaparser-core/3.3.4",
+    "Source":         "src/javaparser-core/3.3.4/javaparser-core-3.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.3.3",
     "Installed":      "src/javaparser-core/3.3.3",
     "Source":         "src/javaparser-core/3.3.3/javaparser-core-3.3.3.jar",

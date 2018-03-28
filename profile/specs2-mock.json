@@ -11,11 +11,56 @@
 
   "Versions": [
   {
+    "Number":         "4.0.3",
+    "Installed":      "src/specs2-mock/4.0.3",
+    "Source":         "src/specs2-mock/4.0.3/specs2-mock_2.11-4.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.2",
+    "Installed":      "src/specs2-mock/4.0.2",
+    "Source":         "src/specs2-mock/4.0.2/specs2-mock_2.11-4.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.1",
+    "Installed":      "src/specs2-mock/4.0.1",
+    "Source":         "src/specs2-mock/4.0.1/specs2-mock_2.11-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/specs2-mock/4.0.0",
+    "Source":         "src/specs2-mock/4.0.0/specs2-mock_2.11-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0-RC5",
+    "Installed":      "src/specs2-mock/4.0.0-RC5",
+    "Source":         "src/specs2-mock/4.0.0-RC5/specs2-mock_2.11-4.0.0-RC5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0-RC4",
+    "Installed":      "src/specs2-mock/4.0.0-RC4",
+    "Source":         "src/specs2-mock/4.0.0-RC4/specs2-mock_2.11-4.0.0-RC4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "4.0.0-RC3",
     "Installed":      "src/specs2-mock/4.0.0-RC3",
     "Source":         "src/specs2-mock/4.0.0-RC3/specs2-mock_2.11-4.0.0-RC3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "4.0.0-RC2",

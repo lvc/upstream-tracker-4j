@@ -7,6 +7,29 @@
 
   "Versions": [
   {
+    "Number":         "2.13.0",
+    "Installed":      "src/org.eclipse.xtend.lib/2.13.0",
+    "Source":         "src/org.eclipse.xtend.lib/2.13.0/org.eclipse.xtend.lib-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.0.RC1",
+    "Installed":      "src/org.eclipse.xtend.lib/2.13.0.RC1",
+    "Source":         "src/org.eclipse.xtend.lib/2.13.0.RC1/org.eclipse.xtend.lib-2.13.0.RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.13.0.M2",
+    "Installed":      "src/org.eclipse.xtend.lib/2.13.0.M2",
+    "Source":         "src/org.eclipse.xtend.lib/2.13.0.M2/org.eclipse.xtend.lib-2.13.0.M2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.12.0",
     "Installed":      "src/org.eclipse.xtend.lib/2.12.0",
     "Source":         "src/org.eclipse.xtend.lib/2.12.0/org.eclipse.xtend.lib-2.12.0.jar",

@@ -1,0 +1,142 @@
+{
+  "Name":           "maven-javadoc-plugin",
+  "Title":          "Maven Javadoc Plugin",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/maven/plugins/maven-javadoc-plugin/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/maven-javadoc-plugin/3.0.0",
+    "Source":         "src/maven-javadoc-plugin/3.0.0/maven-javadoc-plugin-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.4",
+    "Installed":      "src/maven-javadoc-plugin/2.10.4",
+    "Source":         "src/maven-javadoc-plugin/2.10.4/maven-javadoc-plugin-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/maven-javadoc-plugin/2.10.3",
+    "Source":         "src/maven-javadoc-plugin/2.10.3/maven-javadoc-plugin-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.2",
+    "Installed":      "src/maven-javadoc-plugin/2.10.2",
+    "Source":         "src/maven-javadoc-plugin/2.10.2/maven-javadoc-plugin-2.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.1",
+    "Installed":      "src/maven-javadoc-plugin/2.10.1",
+    "Source":         "src/maven-javadoc-plugin/2.10.1/maven-javadoc-plugin-2.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10",
+    "Installed":      "src/maven-javadoc-plugin/2.10",
+    "Source":         "src/maven-javadoc-plugin/2.10/maven-javadoc-plugin-2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/maven-javadoc-plugin/2.9.1",
+    "Source":         "src/maven-javadoc-plugin/2.9.1/maven-javadoc-plugin-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/maven-javadoc-plugin/2.9",
+    "Source":         "src/maven-javadoc-plugin/2.9/maven-javadoc-plugin-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/maven-javadoc-plugin/2.8.1",
+    "Source":         "src/maven-javadoc-plugin/2.8.1/maven-javadoc-plugin-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/maven-javadoc-plugin/2.8",
+    "Source":         "src/maven-javadoc-plugin/2.8/maven-javadoc-plugin-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/maven-javadoc-plugin/2.7",
+    "Source":         "src/maven-javadoc-plugin/2.7/maven-javadoc-plugin-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/maven-javadoc-plugin/2.6.1",
+    "Source":         "src/maven-javadoc-plugin/2.6.1/maven-javadoc-plugin-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/maven-javadoc-plugin/2.6",
+    "Source":         "src/maven-javadoc-plugin/2.6/maven-javadoc-plugin-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/maven-javadoc-plugin/2.5",
+    "Source":         "src/maven-javadoc-plugin/2.5/maven-javadoc-plugin-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "src/maven-javadoc-plugin/2.4",
+    "Source":         "src/maven-javadoc-plugin/2.4/maven-javadoc-plugin-2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3",
+    "Installed":      "src/maven-javadoc-plugin/2.3",
+    "Source":         "src/maven-javadoc-plugin/2.3/maven-javadoc-plugin-2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2",
+    "Installed":      "src/maven-javadoc-plugin/2.2",
+    "Source":         "src/maven-javadoc-plugin/2.2/maven-javadoc-plugin-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1",
+    "Installed":      "src/maven-javadoc-plugin/2.1",
+    "Source":         "src/maven-javadoc-plugin/2.1/maven-javadoc-plugin-2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0",
+    "Installed":      "src/maven-javadoc-plugin/2.0",
+    "Source":         "src/maven-javadoc-plugin/2.0/maven-javadoc-plugin-2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

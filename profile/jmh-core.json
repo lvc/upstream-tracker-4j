@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.20",
+    "Installed":      "src/jmh-core/1.20",
+    "Source":         "src/jmh-core/1.20/jmh-core-1.20.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.19",
     "Installed":      "src/jmh-core/1.19",
     "Source":         "src/jmh-core/1.19/jmh-core-1.19.jar",

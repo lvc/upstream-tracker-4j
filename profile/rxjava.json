@@ -7,6 +7,55 @@
 
   "Versions": [
   {
+    "Number":         "1.3.7",
+    "Installed":      "src/rxjava/1.3.7",
+    "Source":         "src/rxjava/1.3.7/rxjava-1.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.6",
+    "Installed":      "src/rxjava/1.3.6",
+    "Source":         "src/rxjava/1.3.6/rxjava-1.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.5",
+    "Installed":      "src/rxjava/1.3.5",
+    "Source":         "src/rxjava/1.3.5/rxjava-1.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.4",
+    "Installed":      "src/rxjava/1.3.4",
+    "Source":         "src/rxjava/1.3.4/rxjava-1.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.3",
+    "Installed":      "src/rxjava/1.3.3",
+    "Source":         "src/rxjava/1.3.3/rxjava-1.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/rxjava/1.3.2",
+    "Source":         "src/rxjava/1.3.2/rxjava-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.1",
+    "Installed":      "src/rxjava/1.3.1",
+    "Source":         "src/rxjava/1.3.1/rxjava-1.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.3.0",
     "Installed":      "src/rxjava/1.3.0",
     "Source":         "src/rxjava/1.3.0/rxjava-1.3.0.jar",

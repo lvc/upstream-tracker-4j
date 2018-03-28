@@ -9,6 +9,27 @@
 
   "Versions": [
   {
+    "Number":         "20.0.4",
+    "Installed":      "src/pegasus-data/20.0.4",
+    "Source":         "src/pegasus-data/20.0.4/data-20.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "19.0.3",
+    "Installed":      "src/pegasus-data/19.0.3",
+    "Source":         "src/pegasus-data/19.0.3/data-19.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.0.4",
+    "Installed":      "src/pegasus-data/17.0.4",
+    "Source":         "src/pegasus-data/17.0.4/data-17.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "11.0.17",
     "Installed":      "src/pegasus-data/11.0.17",
     "Source":         "src/pegasus-data/11.0.17/data-11.0.17.jar",

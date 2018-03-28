@@ -9,9 +9,31 @@
 
   "Versions": [
   {
+    "Number":         "4.0.1",
+    "Installed":      "src/byteman/4.0.1",
+    "Source":         "src/byteman/4.0.1/byteman-4.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/byteman/4.0.0",
+    "Source":         "src/byteman/4.0.0/byteman-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.0.0-BETA5",
     "Installed":      "src/byteman/4.0.0-BETA5",
     "Source":         "src/byteman/4.0.0-BETA5/byteman-4.0.0-BETA5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.11",
+    "Installed":      "src/byteman/3.0.11",
+    "Source":         "src/byteman/3.0.11/byteman-3.0.11.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

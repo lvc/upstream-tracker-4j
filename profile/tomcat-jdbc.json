@@ -8,9 +8,95 @@
 
   "Versions": [
   {
+    "Number":         "9.0.6",
+    "Installed":      "src/tomcat-jdbc/9.0.6",
+    "Source":         "src/tomcat-jdbc/9.0.6/tomcat-jdbc-9.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.5",
+    "Installed":      "src/tomcat-jdbc/9.0.5",
+    "Source":         "src/tomcat-jdbc/9.0.5/tomcat-jdbc-9.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.4",
+    "Installed":      "src/tomcat-jdbc/9.0.4",
+    "Source":         "src/tomcat-jdbc/9.0.4/tomcat-jdbc-9.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.2",
+    "Installed":      "src/tomcat-jdbc/9.0.2",
+    "Source":         "src/tomcat-jdbc/9.0.2/tomcat-jdbc-9.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1",
+    "Installed":      "src/tomcat-jdbc/9.0.1",
+    "Source":         "src/tomcat-jdbc/9.0.1/tomcat-jdbc-9.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.0.M27",
+    "Installed":      "src/tomcat-jdbc/9.0.0.M27",
+    "Source":         "src/tomcat-jdbc/9.0.0.M27/tomcat-jdbc-9.0.0.M27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "9.0.0.M26",
     "Installed":      "src/tomcat-jdbc/9.0.0.M26",
     "Source":         "src/tomcat-jdbc/9.0.0.M26/tomcat-jdbc-9.0.0.M26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "8.5.29",
+    "Installed":      "src/tomcat-jdbc/8.5.29",
+    "Source":         "src/tomcat-jdbc/8.5.29/tomcat-jdbc-8.5.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.28",
+    "Installed":      "src/tomcat-jdbc/8.5.28",
+    "Source":         "src/tomcat-jdbc/8.5.28/tomcat-jdbc-8.5.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.27",
+    "Installed":      "src/tomcat-jdbc/8.5.27",
+    "Source":         "src/tomcat-jdbc/8.5.27/tomcat-jdbc-8.5.27.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.24",
+    "Installed":      "src/tomcat-jdbc/8.5.24",
+    "Source":         "src/tomcat-jdbc/8.5.24/tomcat-jdbc-8.5.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.23",
+    "Installed":      "src/tomcat-jdbc/8.5.23",
+    "Source":         "src/tomcat-jdbc/8.5.23/tomcat-jdbc-8.5.23.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.5.21",
+    "Installed":      "src/tomcat-jdbc/8.5.21",
+    "Source":         "src/tomcat-jdbc/8.5.21/tomcat-jdbc-8.5.21.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -123,6 +209,34 @@
     "Number":         "8.5.0",
     "Installed":      "src/tomcat-jdbc/8.5.0",
     "Source":         "src/tomcat-jdbc/8.5.0/tomcat-jdbc-8.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.50",
+    "Installed":      "src/tomcat-jdbc/8.0.50",
+    "Source":         "src/tomcat-jdbc/8.0.50/tomcat-jdbc-8.0.50.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.49",
+    "Installed":      "src/tomcat-jdbc/8.0.49",
+    "Source":         "src/tomcat-jdbc/8.0.49/tomcat-jdbc-8.0.49.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.48",
+    "Installed":      "src/tomcat-jdbc/8.0.48",
+    "Source":         "src/tomcat-jdbc/8.0.48/tomcat-jdbc-8.0.48.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.47",
+    "Installed":      "src/tomcat-jdbc/8.0.47",
+    "Source":         "src/tomcat-jdbc/8.0.47/tomcat-jdbc-8.0.47.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "4.7.5",
+    "Installed":      "src/openejb-core/4.7.5",
+    "Source":         "src/openejb-core/4.7.5/openejb-core-4.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.7.4",
     "Installed":      "src/openejb-core/4.7.4",
     "Source":         "src/openejb-core/4.7.4/openejb-core-4.7.4.jar",

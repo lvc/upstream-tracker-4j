@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "0.6.3",
+    "Installed":      "src/jose4j/0.6.3",
+    "Source":         "src/jose4j/0.6.3/jose4j-0.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.2",
+    "Installed":      "src/jose4j/0.6.2",
+    "Source":         "src/jose4j/0.6.2/jose4j-0.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/jose4j/0.6.1",
+    "Source":         "src/jose4j/0.6.1/jose4j-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.6.0",
     "Installed":      "src/jose4j/0.6.0",
     "Source":         "src/jose4j/0.6.0/jose4j-0.6.0.jar",

@@ -4,6 +4,7 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/eclipse/paho/org.eclipse.paho.client.mqttv3/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "OldSourceUrl":   "http://repo.spring.io/plugins-release/org/eclipse/paho/org.eclipse.paho.client.mqttv3/",
 
   "Versions": [
   {
@@ -31,6 +32,27 @@
     "Number":         "1.0.2",
     "Installed":      "src/org.eclipse.paho.client.mqttv3/1.0.2",
     "Source":         "src/org.eclipse.paho.client.mqttv3/1.0.2/org.eclipse.paho.client.mqttv3-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/org.eclipse.paho.client.mqttv3/1.0.1",
+    "Source":         "src/org.eclipse.paho.client.mqttv3/1.0.1/org.eclipse.paho.client.mqttv3-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/org.eclipse.paho.client.mqttv3/1.0.0",
+    "Source":         "src/org.eclipse.paho.client.mqttv3/1.0.0/org.eclipse.paho.client.mqttv3-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.0",
+    "Installed":      "src/org.eclipse.paho.client.mqttv3/0.9.0",
+    "Source":         "src/org.eclipse.paho.client.mqttv3/0.9.0/org.eclipse.paho.client.mqttv3-0.9.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   }]

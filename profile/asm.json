@@ -8,11 +8,42 @@
 
   "Versions": [
   {
+    "Number":         "6.1",
+    "Installed":      "src/asm/6.1",
+    "Source":         "src/asm/6.1/asm-6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1-beta2",
+    "Installed":      "src/asm/6.1-beta2",
+    "Source":         "src/asm/6.1-beta2/asm-6.1-beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "6.1-beta",
+    "Installed":      "src/asm/6.1-beta",
+    "Source":         "src/asm/6.1-beta/asm-6.1-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "6.0",
+    "Installed":      "installed/asm/6.0",
+    "Source":         "src/asm/6.0/asm-6.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "6.0_BETA",
     "Installed":      "installed/asm/6.0_BETA",
     "Source":         "src/asm/6.0_BETA/asm-6.0_BETA-bin.zip",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "6.0_ALPHA",

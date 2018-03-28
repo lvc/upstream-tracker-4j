@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "0.9.3",
+    "Installed":      "src/asterix-common/0.9.3",
+    "Source":         "src/asterix-common/0.9.3/asterix-common-0.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.9.2",
     "Installed":      "src/asterix-common/0.9.2",
     "Source":         "src/asterix-common/0.9.2/asterix-common-0.9.2.jar",

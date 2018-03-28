@@ -7,6 +7,34 @@
 
   "Versions": [
   {
+    "Number":         "0.39",
+    "Installed":      "src/truth/0.39",
+    "Source":         "src/truth/0.39/truth-0.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.38",
+    "Installed":      "src/truth/0.38",
+    "Source":         "src/truth/0.38/truth-0.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.37",
+    "Installed":      "src/truth/0.37",
+    "Source":         "src/truth/0.37/truth-0.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.36",
+    "Installed":      "src/truth/0.36",
+    "Source":         "src/truth/0.36/truth-0.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.35",
     "Installed":      "src/truth/0.35",
     "Source":         "src/truth/0.35/truth-0.35.jar",

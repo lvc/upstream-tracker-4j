@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.2",
+    "Installed":      "src/commons-vfs2/2.2",
+    "Source":         "src/commons-vfs2/2.2/commons-vfs2-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.1",
     "Installed":      "src/commons-vfs2/2.1",
     "Source":         "src/commons-vfs2/2.1/commons-vfs2-2.1.jar",

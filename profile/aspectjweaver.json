@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "1.8.13",
+    "Installed":      "src/aspectjweaver/1.8.13",
+    "Source":         "src/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.12",
+    "Installed":      "src/aspectjweaver/1.8.12",
+    "Source":         "src/aspectjweaver/1.8.12/aspectjweaver-1.8.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.11",
+    "Installed":      "src/aspectjweaver/1.8.11",
+    "Source":         "src/aspectjweaver/1.8.11/aspectjweaver-1.8.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.10",
     "Installed":      "src/aspectjweaver/1.8.10",
     "Source":         "src/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar",

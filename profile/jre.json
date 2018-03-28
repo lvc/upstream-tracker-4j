@@ -4,16 +4,132 @@
   "SourceUrl":      "",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipInternalTypes": "Impl|_Stub",
   "Changelog":      "Off",
   "CompactReport":  "On",
   "HideEmpty":      "On",
+  "HideUncheked":   "On",
+  "JdkPath":        "/home/Soft/jdk-10",
   "LetterReleases": "On",
   "Note":           "http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html",
   "PackageSuffix":  "\-linux\-x64",
   "ReleasePattern": "\A(\d+u\d+|\d+|\d+ea\d+)\Z",
-  "SkipArchives":   [ "ext/", "im/", "security/", "management-agent.jar", "resources.jar", "demo/", "tools.jar", "htmlconverter.jar", "dt.jar", "src.jar" ],
+  "SkipArchives":   [ "jdk\.internal.*", "jdk\.plugin.*", "ext/", "im/", "security/", "management-agent.jar", "resources.jar", "demo/", "tools.jar", "htmlconverter.jar", "dt.jar", "src.jar", "jrt-fs.jar" ],
+  "SkipInternalPackages": "\A(sun|sunw|com\.sun|org\.apache|COM\.rsa|com\.oracle|oracle).*",
 
   "Versions": [
+  {
+    "Number":         10,
+    "Installed":      "installed/jre/10",
+    "Source":         "src/jre/10/jre-10_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.4",
+    "Installed":      "installed/jre/9.0.4",
+    "Source":         "src/jre/9.0.4/jre-9.0.4_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1",
+    "Installed":      "installed/jre/9.0.1",
+    "Source":         "src/jre/9.0.1/jre-9.0.1_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         9,
+    "Installed":      "installed/jre/9",
+    "Source":         "src/jre/9/jre-9_linux-x64_bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u162",
+    "Installed":      "installed/jre/8u162",
+    "Source":         "src/jre/8u162/jre-8u162-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u152",
+    "Installed":      "installed/jre/8u152",
+    "Source":         "src/jre/8u152/jre-8u152-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u144",
+    "Installed":      "installed/jre/8u144",
+    "Source":         "src/jre/8u144/jre-8u144-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u141",
+    "Installed":      "installed/jre/8u141",
+    "Source":         "src/jre/8u141/jre-8u141-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u131",
+    "Installed":      "installed/jre/8u131",
+    "Source":         "src/jre/8u131/jre-8u131-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u121",
+    "Installed":      "installed/jre/8u121",
+    "Source":         "src/jre/8u121/jre-8u121-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u112",
+    "Installed":      "installed/jre/8u112",
+    "Source":         "src/jre/8u112/jre-8u112-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u111",
+    "Installed":      "installed/jre/8u111",
+    "Source":         "src/jre/8u111/jre-8u111-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u102",
+    "Installed":      "installed/jre/8u102",
+    "Source":         "src/jre/8u102/jre-8u102-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u101",
+    "Installed":      "installed/jre/8u101",
+    "Source":         "src/jre/8u101/jre-8u101-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u92",
+    "Installed":      "installed/jre/8u92",
+    "Source":         "src/jre/8u92/jre-8u92-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8u91",
+    "Installed":      "installed/jre/8u91",
+    "Source":         "src/jre/8u91/jre-8u91-linux-x64.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "8u77",
     "Installed":      "installed/jre/8u77",

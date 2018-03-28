@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.6.2",
+    "Installed":      "src/easywsdl-wsdl/2.6.2",
+    "Source":         "src/easywsdl-wsdl/2.6.2/easywsdl-wsdl-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.6.1",
     "Installed":      "src/easywsdl-wsdl/2.6.1",
     "Source":         "src/easywsdl-wsdl/2.6.1/easywsdl-wsdl-2.6.1.jar",

@@ -8,9 +8,55 @@
 
   "Versions": [
   {
+    "Number":         "2.1.0",
+    "Installed":      "src/jboss-logmanager/2.1.0",
+    "Source":         "src/jboss-logmanager/2.1.0/jboss-logmanager-2.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0.Alpha5",
+    "Installed":      "src/jboss-logmanager/2.1.0.Alpha5",
+    "Source":         "src/jboss-logmanager/2.1.0.Alpha5/jboss-logmanager-2.1.0.Alpha5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.1.0.Alpha4",
+    "Installed":      "src/jboss-logmanager/2.1.0.Alpha4",
+    "Source":         "src/jboss-logmanager/2.1.0.Alpha4/jboss-logmanager-2.1.0.Alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.1.0.Alpha3",
+    "Installed":      "src/jboss-logmanager/2.1.0.Alpha3",
+    "Source":         "src/jboss-logmanager/2.1.0.Alpha3/jboss-logmanager-2.1.0.Alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.1.0.Alpha2",
     "Installed":      "src/jboss-logmanager/2.1.0.Alpha2",
     "Source":         "src/jboss-logmanager/2.1.0.Alpha2/jboss-logmanager-2.1.0.Alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.0.9",
+    "Installed":      "src/jboss-logmanager/2.0.9",
+    "Source":         "src/jboss-logmanager/2.0.9/jboss-logmanager-2.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/jboss-logmanager/2.0.8",
+    "Source":         "src/jboss-logmanager/2.0.8/jboss-logmanager-2.0.8.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -67,6 +113,13 @@
     "Number":         "2.0.0",
     "Installed":      "src/jboss-logmanager/2.0.0",
     "Source":         "src/jboss-logmanager/2.0.0/jboss-logmanager-2.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.9",
+    "Installed":      "src/jboss-logmanager/1.5.9",
+    "Source":         "src/jboss-logmanager/1.5.9/jboss-logmanager-1.5.9.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

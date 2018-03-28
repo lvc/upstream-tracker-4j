@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.59",
+    "Installed":      "src/bcprov-jdk15on/1.59",
+    "Source":         "src/bcprov-jdk15on/1.59/bcprov-jdk15on-1.59.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.58",
     "Installed":      "src/bcprov-jdk15on/1.58",
     "Source":         "src/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58.jar",

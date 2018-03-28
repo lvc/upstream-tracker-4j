@@ -27,6 +27,13 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "1.7.4",
+    "Installed":      "installed/accumulo/1.7.4",
+    "Source":         "src/accumulo/1.7.4/accumulo-1.7.4-bin.tar.gz",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.3",
     "Installed":      "installed/accumulo/1.7.3",
     "Source":         "src/accumulo/1.7.3/accumulo-1.7.3-bin.tar.gz",

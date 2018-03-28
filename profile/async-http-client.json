@@ -9,11 +9,137 @@
 
   "Versions": [
   {
+    "Number":         "2.4.4",
+    "Installed":      "src/async-http-client/2.4.4",
+    "Source":         "src/async-http-client/2.4.4/async-http-client-2.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.3",
+    "Installed":      "src/async-http-client/2.4.3",
+    "Source":         "src/async-http-client/2.4.3/async-http-client-2.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.2",
+    "Installed":      "src/async-http-client/2.4.2",
+    "Source":         "src/async-http-client/2.4.2/async-http-client-2.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.1",
+    "Installed":      "src/async-http-client/2.4.1",
+    "Source":         "src/async-http-client/2.4.1/async-http-client-2.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.0",
+    "Installed":      "src/async-http-client/2.4.0",
+    "Source":         "src/async-http-client/2.4.0/async-http-client-2.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0",
+    "Installed":      "src/async-http-client/2.3.0",
+    "Source":         "src/async-http-client/2.3.0/async-http-client-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/async-http-client/2.2.1",
+    "Source":         "src/async-http-client/2.2.1/async-http-client-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/async-http-client/2.2.0",
+    "Source":         "src/async-http-client/2.2.0/async-http-client-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/async-http-client/2.1.2",
+    "Source":         "src/async-http-client/2.1.2/async-http-client-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/async-http-client/2.1.1",
+    "Source":         "src/async-http-client/2.1.1/async-http-client-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0",
+    "Installed":      "src/async-http-client/2.1.0",
+    "Source":         "src/async-http-client/2.1.0/async-http-client-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.0-RC4",
+    "Installed":      "src/async-http-client/2.1.0-RC4",
+    "Source":         "src/async-http-client/2.1.0-RC4/async-http-client-2.1.0-RC4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.1.0-RC3",
+    "Installed":      "src/async-http-client/2.1.0-RC3",
+    "Source":         "src/async-http-client/2.1.0-RC3/async-http-client-2.1.0-RC3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.1.0-RC2",
+    "Installed":      "src/async-http-client/2.1.0-RC2",
+    "Source":         "src/async-http-client/2.1.0-RC2/async-http-client-2.1.0-RC2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.1.0-RC1",
+    "Installed":      "src/async-http-client/2.1.0-RC1",
+    "Source":         "src/async-http-client/2.1.0-RC1/async-http-client-2.1.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.1.0-alpha26",
+    "Installed":      "src/async-http-client/2.1.0-alpha26",
+    "Source":         "src/async-http-client/2.1.0-alpha26/async-http-client-2.1.0-alpha26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.1.0-alpha25",
+    "Installed":      "src/async-http-client/2.1.0-alpha25",
+    "Source":         "src/async-http-client/2.1.0-alpha25/async-http-client-2.1.0-alpha25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.1.0-alpha24",
     "Installed":      "src/async-http-client/2.1.0-alpha24",
     "Source":         "src/async-http-client/2.1.0-alpha24/async-http-client-2.1.0-alpha24.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.1.0-alpha23",
@@ -22,6 +148,34 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "2.0.39",
+    "Installed":      "src/async-http-client/2.0.39",
+    "Source":         "src/async-http-client/2.0.39/async-http-client-2.0.39.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.38",
+    "Installed":      "src/async-http-client/2.0.38",
+    "Source":         "src/async-http-client/2.0.38/async-http-client-2.0.38.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.37",
+    "Installed":      "src/async-http-client/2.0.37",
+    "Source":         "src/async-http-client/2.0.37/async-http-client-2.0.37.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.36",
+    "Installed":      "src/async-http-client/2.0.36",
+    "Source":         "src/async-http-client/2.0.36/async-http-client-2.0.36.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "2.0.35",

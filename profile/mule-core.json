@@ -4,12 +4,33 @@
   "SourceUrl":      "https://repository.mulesoft.org/nexus/content/repositories/releases/org/mule/mule-core/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SkipVersions":   [ "4\.0\.0.*", "4.0*" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://repository.mulesoft.org/nexus/content/groups/public/org/mule/mule-core/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/mule-core/SNAPSHOT",
+    "Source":         "src/mule-core/SNAPSHOT/mule-core-3.10.0-20180324.003323-128.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "4.0.0-M5.2",
     "Installed":      "src/mule-core/4.0.0-M5.2",
     "Source":         "src/mule-core/4.0.0-M5.2/mule-core-4.0.0-M5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.9.0",
+    "Installed":      "src/mule-core/3.9.0",
+    "Source":         "src/mule-core/3.9.0/mule-core-3.9.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

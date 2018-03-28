@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "1.16.2",
+    "Installed":      "src/isis-core-applib/1.16.2",
+    "Source":         "src/isis-core-applib/1.16.2/isis-core-applib-1.16.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.1",
+    "Installed":      "src/isis-core-applib/1.16.1",
+    "Source":         "src/isis-core-applib/1.16.1/isis-core-applib-1.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16.0",
+    "Installed":      "src/isis-core-applib/1.16.0",
+    "Source":         "src/isis-core-applib/1.16.0/isis-core-applib-1.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15.1",
+    "Installed":      "src/isis-core-applib/1.15.1",
+    "Source":         "src/isis-core-applib/1.15.1/isis-core-applib-1.15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.15.0",
     "Installed":      "src/isis-core-applib/1.15.0",
     "Source":         "src/isis-core-applib/1.15.0/isis-core-applib-1.15.0.jar",

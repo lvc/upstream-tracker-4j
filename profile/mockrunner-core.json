@@ -1,13 +1,22 @@
 {
   "Name":           "mockrunner-core",
   "Title":          "MockRunner Core",
-  "SourceUrl":      "https://oss.sonatype.org/content/groups/public/com/mockrunner/mockrunner-core/",
+  "SourceUrl":      "https://github.com/mockrunner/mockrunner/releases",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "MinimalVersion": "1.0.0",
+  "OldSourceUrl":   "https://oss.sonatype.org/content/groups/public/com/mockrunner/mockrunner-core/",
+  "SkipExt":        [ "zip", "tar.gz" ],
   "SkipVersions":   [ ".*\d\d\d\d.*" ],
 
   "Versions": [
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/mockrunner-core/1.1.3",
+    "Source":         "src/mockrunner-core/1.1.3/mockrunner-core-1.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.1.2",
     "Installed":      "src/mockrunner-core/1.1.2",

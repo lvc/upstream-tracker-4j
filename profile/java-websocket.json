@@ -7,6 +7,34 @@
 
   "Versions": [
   {
+    "Number":         "1.3.8",
+    "Installed":      "src/java-websocket/1.3.8",
+    "Source":         "src/java-websocket/1.3.8/Java-WebSocket-1.3.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.7",
+    "Installed":      "src/java-websocket/1.3.7",
+    "Source":         "src/java-websocket/1.3.7/Java-WebSocket-1.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.6",
+    "Installed":      "src/java-websocket/1.3.6",
+    "Source":         "src/java-websocket/1.3.6/Java-WebSocket-1.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.5",
+    "Installed":      "src/java-websocket/1.3.5",
+    "Source":         "src/java-websocket/1.3.5/Java-WebSocket-1.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.3.4",
     "Installed":      "src/java-websocket/1.3.4",
     "Source":         "src/java-websocket/1.3.4/Java-WebSocket-1.3.4.jar",

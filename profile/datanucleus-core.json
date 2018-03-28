@@ -8,6 +8,48 @@
 
   "Versions": [
   {
+    "Number":         "5.1.7",
+    "Installed":      "src/datanucleus-core/5.1.7",
+    "Source":         "src/datanucleus-core/5.1.7/datanucleus-core-5.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.6",
+    "Installed":      "src/datanucleus-core/5.1.6",
+    "Source":         "src/datanucleus-core/5.1.6/datanucleus-core-5.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.5",
+    "Installed":      "src/datanucleus-core/5.1.5",
+    "Source":         "src/datanucleus-core/5.1.5/datanucleus-core-5.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.4",
+    "Installed":      "src/datanucleus-core/5.1.4",
+    "Source":         "src/datanucleus-core/5.1.4/datanucleus-core-5.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.3",
+    "Installed":      "src/datanucleus-core/5.1.3",
+    "Source":         "src/datanucleus-core/5.1.3/datanucleus-core-5.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.2",
+    "Installed":      "src/datanucleus-core/5.1.2",
+    "Source":         "src/datanucleus-core/5.1.2/datanucleus-core-5.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.1.1",
     "Installed":      "src/datanucleus-core/5.1.1",
     "Source":         "src/datanucleus-core/5.1.1/datanucleus-core-5.1.1.jar",
@@ -18,6 +60,13 @@
     "Number":         "5.1.0",
     "Installed":      "src/datanucleus-core/5.1.0",
     "Source":         "src/datanucleus-core/5.1.0/datanucleus-core-5.1.0-release.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.10",
+    "Installed":      "src/datanucleus-core/5.0.10",
+    "Source":         "src/datanucleus-core/5.0.10/datanucleus-core-5.0.10.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "2.8.2",
+    "Installed":      "src/gwt-servlet/2.8.2",
+    "Source":         "src/gwt-servlet/2.8.2/gwt-servlet-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.8.1",
     "Installed":      "src/gwt-servlet/2.8.1",
     "Source":         "src/gwt-servlet/2.8.1/gwt-servlet-2.8.1.jar",

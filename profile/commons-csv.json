@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.5",
+    "Installed":      "src/commons-csv/1.5",
+    "Source":         "src/commons-csv/1.5/commons-csv-1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.4",
     "Installed":      "src/commons-csv/1.4",
     "Source":         "src/commons-csv/1.4/commons-csv-1.4.jar",

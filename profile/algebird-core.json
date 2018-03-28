@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "0.13.4",
+    "Installed":      "src/algebird-core/0.13.4",
+    "Source":         "src/algebird-core/0.13.4/algebird-core_2.11-0.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.3",
+    "Installed":      "src/algebird-core/0.13.3",
+    "Source":         "src/algebird-core/0.13.3/algebird-core_2.11-0.13.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.2",
+    "Installed":      "src/algebird-core/0.13.2",
+    "Source":         "src/algebird-core/0.13.2/algebird-core_2.11-0.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.13.1",
+    "Installed":      "src/algebird-core/0.13.1",
+    "Source":         "src/algebird-core/0.13.1/algebird-core_2.11-0.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.13.0",
     "Installed":      "src/algebird-core/0.13.0",
     "Source":         "src/algebird-core/0.13.0/algebird-core_2.11-0.13.0.jar",

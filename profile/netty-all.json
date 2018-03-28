@@ -2,17 +2,80 @@
   "Name":           "netty-all",
   "Title":          "Netty",
   "SourceUrl":      "http://central.maven.org/maven2/io/netty/netty-all/",
+  "SkipUrl":        [ ".*Alpha.*" ],
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CompactReport":  "On",
   "MinimalVersion": "4.0.33",
   "SkipVersions":   [ "5.0.0.Alpha2", "5.0.0.Alpha1" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\.Final\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/io/netty/netty-all/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/netty-all/SNAPSHOT",
+    "Source":         "src/netty-all/SNAPSHOT/netty-all-4.1.23.Final-20180325.120532-33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "5.0.0.Alpha1",
     "Installed":      "src/netty-all/5.0.0.Alpha1",
     "Source":         "src/netty-all/5.0.0.Alpha1/netty-all-5.0.0.Alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.1.22",
+    "Installed":      "src/netty-all/4.1.22",
+    "Source":         "src/netty-all/4.1.22/netty-all-4.1.22.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.21",
+    "Installed":      "src/netty-all/4.1.21",
+    "Source":         "src/netty-all/4.1.21/netty-all-4.1.21.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.20",
+    "Installed":      "src/netty-all/4.1.20",
+    "Source":         "src/netty-all/4.1.20/netty-all-4.1.20.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.19",
+    "Installed":      "src/netty-all/4.1.19",
+    "Source":         "src/netty-all/4.1.19/netty-all-4.1.19.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.18",
+    "Installed":      "src/netty-all/4.1.18",
+    "Source":         "src/netty-all/4.1.18/netty-all-4.1.18.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.17",
+    "Installed":      "src/netty-all/4.1.17",
+    "Source":         "src/netty-all/4.1.17/netty-all-4.1.17.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.16",
+    "Installed":      "src/netty-all/4.1.16",
+    "Source":         "src/netty-all/4.1.16/netty-all-4.1.16.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -125,6 +188,41 @@
     "Number":         "4.1.0",
     "Installed":      "src/netty-all/4.1.0",
     "Source":         "src/netty-all/4.1.0/netty-all-4.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.56",
+    "Installed":      "src/netty-all/4.0.56",
+    "Source":         "src/netty-all/4.0.56/netty-all-4.0.56.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.55",
+    "Installed":      "src/netty-all/4.0.55",
+    "Source":         "src/netty-all/4.0.55/netty-all-4.0.55.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.54",
+    "Installed":      "src/netty-all/4.0.54",
+    "Source":         "src/netty-all/4.0.54/netty-all-4.0.54.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.53",
+    "Installed":      "src/netty-all/4.0.53",
+    "Source":         "src/netty-all/4.0.53/netty-all-4.0.53.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.52",
+    "Installed":      "src/netty-all/4.0.52",
+    "Source":         "src/netty-all/4.0.52/netty-all-4.0.52.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

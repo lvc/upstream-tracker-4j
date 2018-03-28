@@ -9,11 +9,65 @@
 
   "Versions": [
   {
+    "Number":         "8.11.2",
+    "Installed":      "src/docker-client/8.11.2",
+    "Source":         "src/docker-client/8.11.2/docker-client-8.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.11.1",
+    "Installed":      "src/docker-client/8.11.1",
+    "Source":         "src/docker-client/8.11.1/docker-client-8.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "8.11.0",
+    "Installed":      "src/docker-client/8.11.0",
+    "Source":         "src/docker-client/8.11.0/docker-client-8.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "8.10.1",
+    "Installed":      "src/docker-client/8.10.1",
+    "Source":         "src/docker-client/8.10.1/docker-client-8.10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.10.0",
+    "Installed":      "src/docker-client/8.10.0",
+    "Source":         "src/docker-client/8.10.0/docker-client-8.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "8.9.2",
+    "Installed":      "src/docker-client/8.9.2",
+    "Source":         "src/docker-client/8.9.2/docker-client-8.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.9.1",
+    "Installed":      "src/docker-client/8.9.1",
+    "Source":         "src/docker-client/8.9.1/docker-client-8.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "8.9.0",
     "Installed":      "src/docker-client/8.9.0",
     "Source":         "src/docker-client/8.9.0/docker-client-8.9.0.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "8.8.4",

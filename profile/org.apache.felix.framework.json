@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "5.6.10",
+    "Installed":      "src/org.apache.felix.framework/5.6.10",
+    "Source":         "src/org.apache.felix.framework/5.6.10/org.apache.felix.framework-5.6.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.6.8",
     "Installed":      "src/org.apache.felix.framework/5.6.8",
     "Source":         "src/org.apache.felix.framework/5.6.8/org.apache.felix.framework-5.6.8.jar",

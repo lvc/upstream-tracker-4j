@@ -9,6 +9,27 @@
 
   "Versions": [
   {
+    "Number":         "3.0.6",
+    "Installed":      "src/dropbox-core-sdk/3.0.6",
+    "Source":         "src/dropbox-core-sdk/3.0.6/dropbox-core-sdk-3.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/dropbox-core-sdk/3.0.5",
+    "Source":         "src/dropbox-core-sdk/3.0.5/dropbox-core-sdk-3.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/dropbox-core-sdk/3.0.4",
+    "Source":         "src/dropbox-core-sdk/3.0.4/dropbox-core-sdk-3.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.3",
     "Installed":      "src/dropbox-core-sdk/3.0.3",
     "Source":         "src/dropbox-core-sdk/3.0.3/dropbox-core-sdk-3.0.3.jar",

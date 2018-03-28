@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "2.6",
+    "Installed":      "installed/commons-io/2.6",
+    "Source":         "src/commons-io/2.6/commons-io-2.6-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.5",
     "Installed":      "installed/commons-io/2.5",
     "Source":         "src/commons-io/2.5/commons-io-2.5-bin.tar.gz",

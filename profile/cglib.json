@@ -4,8 +4,16 @@
   "SourceUrl":      "http://central.maven.org/maven2/cglib/cglib/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.0.1",
 
   "Versions": [
+  {
+    "Number":         "3.2.6",
+    "Installed":      "src/cglib/3.2.6",
+    "Source":         "src/cglib/3.2.6/cglib-3.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "3.2.5",
     "Installed":      "src/cglib/3.2.5",

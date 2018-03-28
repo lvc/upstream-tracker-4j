@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "0.11.0",
+    "Installed":      "src/commonmark/0.11.0",
+    "Source":         "src/commonmark/0.11.0/commonmark-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.10.0",
+    "Installed":      "src/commonmark/0.10.0",
+    "Source":         "src/commonmark/0.10.0/commonmark-0.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.9.0",
     "Installed":      "src/commonmark/0.9.0",
     "Source":         "src/commonmark/0.9.0/commonmark-0.9.0.jar",

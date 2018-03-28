@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "0.4.3",
+    "Installed":      "src/jeromq/0.4.3",
+    "Source":         "src/jeromq/0.4.3/jeromq-0.4.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.4.2",
     "Installed":      "src/jeromq/0.4.2",
     "Source":         "src/jeromq/0.4.2/jeromq-0.4.2.jar",

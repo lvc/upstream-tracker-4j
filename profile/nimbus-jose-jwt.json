@@ -8,6 +8,48 @@
 
   "Versions": [
   {
+    "Number":         "5.7",
+    "Installed":      "src/nimbus-jose-jwt/5.7",
+    "Source":         "src/nimbus-jose-jwt/5.7/nimbus-jose-jwt-5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.6",
+    "Installed":      "src/nimbus-jose-jwt/5.6",
+    "Source":         "src/nimbus-jose-jwt/5.6/nimbus-jose-jwt-5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5",
+    "Installed":      "src/nimbus-jose-jwt/5.5",
+    "Source":         "src/nimbus-jose-jwt/5.5/nimbus-jose-jwt-5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4",
+    "Installed":      "src/nimbus-jose-jwt/5.4",
+    "Source":         "src/nimbus-jose-jwt/5.4/nimbus-jose-jwt-5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3",
+    "Installed":      "src/nimbus-jose-jwt/5.3",
+    "Source":         "src/nimbus-jose-jwt/5.3/nimbus-jose-jwt-5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2",
+    "Installed":      "src/nimbus-jose-jwt/5.2",
+    "Source":         "src/nimbus-jose-jwt/5.2/nimbus-jose-jwt-5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.1",
     "Installed":      "src/nimbus-jose-jwt/5.1",
     "Source":         "src/nimbus-jose-jwt/5.1/nimbus-jose-jwt-5.1.jar",

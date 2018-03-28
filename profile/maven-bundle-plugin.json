@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "3.5.0",
+    "Installed":      "src/maven-bundle-plugin/3.5.0",
+    "Source":         "src/maven-bundle-plugin/3.5.0/maven-bundle-plugin-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/maven-bundle-plugin/3.4.0",
+    "Source":         "src/maven-bundle-plugin/3.4.0/maven-bundle-plugin-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.3.0",
     "Installed":      "src/maven-bundle-plugin/3.3.0",
     "Source":         "src/maven-bundle-plugin/3.3.0/maven-bundle-plugin-3.3.0.jar",

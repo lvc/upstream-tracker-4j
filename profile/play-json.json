@@ -9,6 +9,48 @@
 
   "Versions": [
   {
+    "Number":         "2.6.9",
+    "Installed":      "src/play-json/2.6.9",
+    "Source":         "src/play-json/2.6.9/play-json_2.11-2.6.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.8",
+    "Installed":      "src/play-json/2.6.8",
+    "Source":         "src/play-json/2.6.8/play-json_2.11-2.6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.7",
+    "Installed":      "src/play-json/2.6.7",
+    "Source":         "src/play-json/2.6.7/play-json_2.11-2.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.6",
+    "Installed":      "src/play-json/2.6.6",
+    "Source":         "src/play-json/2.6.6/play-json_2.11-2.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "src/play-json/2.6.5",
+    "Source":         "src/play-json/2.6.5/play-json_2.11-2.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.4",
+    "Installed":      "src/play-json/2.6.4",
+    "Source":         "src/play-json/2.6.4/play-json_2.11-2.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.6.3",
     "Installed":      "src/play-json/2.6.3",
     "Source":         "src/play-json/2.6.3/play-json_2.11-2.6.3.jar",
@@ -33,6 +75,20 @@
     "Number":         "2.6.0",
     "Installed":      "src/play-json/2.6.0",
     "Source":         "src/play-json/2.6.0/play-json_2.11-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.18",
+    "Installed":      "src/play-json/2.5.18",
+    "Source":         "src/play-json/2.5.18/play-json_2.11-2.5.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.17",
+    "Installed":      "src/play-json/2.5.17",
+    "Source":         "src/play-json/2.5.17/play-json_2.11-2.5.17.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -7,6 +7,62 @@
 
   "Versions": [
   {
+    "Number":         "3.6.0",
+    "Installed":      "src/aliyun-java-sdk-core/3.6.0",
+    "Source":         "src/aliyun-java-sdk-core/3.6.0/aliyun-java-sdk-core-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/aliyun-java-sdk-core/3.5.1",
+    "Source":         "src/aliyun-java-sdk-core/3.5.1/aliyun-java-sdk-core-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/aliyun-java-sdk-core/3.5.0",
+    "Source":         "src/aliyun-java-sdk-core/3.5.0/aliyun-java-sdk-core-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/aliyun-java-sdk-core/3.4.1",
+    "Source":         "src/aliyun-java-sdk-core/3.4.1/aliyun-java-sdk-core-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/aliyun-java-sdk-core/3.4.0",
+    "Source":         "src/aliyun-java-sdk-core/3.4.0/aliyun-java-sdk-core-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/aliyun-java-sdk-core/3.3.1",
+    "Source":         "src/aliyun-java-sdk-core/3.3.1/aliyun-java-sdk-core-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/aliyun-java-sdk-core/3.3.0",
+    "Source":         "src/aliyun-java-sdk-core/3.3.0/aliyun-java-sdk-core-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.10",
+    "Installed":      "src/aliyun-java-sdk-core/3.2.10",
+    "Source":         "src/aliyun-java-sdk-core/3.2.10/aliyun-java-sdk-core-3.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.2.9",
     "Installed":      "src/aliyun-java-sdk-core/3.2.9",
     "Source":         "src/aliyun-java-sdk-core/3.2.9/aliyun-java-sdk-core-3.2.9.jar",

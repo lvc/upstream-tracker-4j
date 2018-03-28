@@ -8,6 +8,48 @@
 
   "Versions": [
   {
+    "Number":         "4.0.11",
+    "Installed":      "src/jgroups/4.0.11",
+    "Source":         "src/jgroups/4.0.11/jgroups-4.0.11.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.10",
+    "Installed":      "src/jgroups/4.0.10",
+    "Source":         "src/jgroups/4.0.10/jgroups-4.0.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.9",
+    "Installed":      "src/jgroups/4.0.9",
+    "Source":         "src/jgroups/4.0.9/jgroups-4.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.8",
+    "Installed":      "src/jgroups/4.0.8",
+    "Source":         "src/jgroups/4.0.8/jgroups-4.0.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.7",
+    "Installed":      "src/jgroups/4.0.7",
+    "Source":         "src/jgroups/4.0.7/jgroups-4.0.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.6",
+    "Installed":      "src/jgroups/4.0.6",
+    "Source":         "src/jgroups/4.0.6/jgroups-4.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.0.5",
     "Installed":      "src/jgroups/4.0.5",
     "Source":         "src/jgroups/4.0.5/jgroups-4.0.5.Final.jar",

@@ -9,6 +9,20 @@
 
   "Versions": [
   {
+    "Number":         "2.1.0",
+    "Installed":      "src/dom4j/2.1.0",
+    "Source":         "src/dom4j/2.1.0/dom4j-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.2",
+    "Installed":      "src/dom4j/2.0.2",
+    "Source":         "src/dom4j/2.0.2/dom4j-2.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0.1",
     "Installed":      "src/dom4j/2.0.1",
     "Source":         "src/dom4j/2.0.1/dom4j-2.0.1.jar",

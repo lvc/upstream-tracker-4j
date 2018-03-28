@@ -4,9 +4,22 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/nd4j/nd4j-api/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckPackages":  "\A(org\.nd4j)",
   "MinimalVersion": "0.4.0",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/nd4j/nd4j-api/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/nd4j-api/SNAPSHOT",
+    "Source":         "src/nd4j-api/SNAPSHOT/nd4j-api-0.9.2-20180326.015902-3358.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "0.9.1",
     "Installed":      "src/nd4j-api/0.9.1",

@@ -8,6 +8,41 @@
 
   "Versions": [
   {
+    "Number":         "2.57",
+    "Installed":      "src/fst/2.57",
+    "Source":         "src/fst/2.57/fst-2.57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.56",
+    "Installed":      "src/fst/2.56",
+    "Source":         "src/fst/2.56/fst-2.56.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.55",
+    "Installed":      "src/fst/2.55",
+    "Source":         "src/fst/2.55/fst-2.55.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.54",
+    "Installed":      "src/fst/2.54",
+    "Source":         "src/fst/2.54/fst-2.54.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.53",
+    "Installed":      "src/fst/2.53",
+    "Source":         "src/fst/2.53/fst-2.53.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.52",
     "Installed":      "src/fst/2.52",
     "Source":         "src/fst/2.52/fst-2.52.jar",

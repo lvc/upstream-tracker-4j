@@ -9,11 +9,19 @@
 
   "Versions": [
   {
+    "Number":         "0.2.4-alpha4",
+    "Installed":      "src/byte-streams/0.2.4-alpha4",
+    "Source":         "src/byte-streams/0.2.4-alpha4/byte-streams-0.2.4-alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.2.4-alpha3",
     "Installed":      "src/byte-streams/0.2.4-alpha3",
     "Source":         "src/byte-streams/0.2.4-alpha3/byte-streams-0.2.4-alpha3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "0.2.3",

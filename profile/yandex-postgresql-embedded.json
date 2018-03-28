@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "2.8",
+    "Installed":      "src/yandex-postgresql-embedded/2.8",
+    "Source":         "src/yandex-postgresql-embedded/2.8/postgresql-embedded-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/yandex-postgresql-embedded/2.6",
+    "Source":         "src/yandex-postgresql-embedded/2.6/postgresql-embedded-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/yandex-postgresql-embedded/2.5",
+    "Source":         "src/yandex-postgresql-embedded/2.5/postgresql-embedded-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.4",
     "Installed":      "src/yandex-postgresql-embedded/2.4",
     "Source":         "src/yandex-postgresql-embedded/2.4/postgresql-embedded-2.4.jar",

@@ -1,0 +1,256 @@
+{
+  "Name":           "airlift-configuration",
+  "Title":          "Airlift Configuration",
+  "SourceUrl":      "http://central.maven.org/maven2/io/airlift/configuration/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "0.130",
+  "Package":        "configuration",
+
+  "Versions": [
+  {
+    "Number":         "0.164",
+    "Installed":      "src/airlift-configuration/0.164",
+    "Source":         "src/airlift-configuration/0.164/configuration-0.164.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.163",
+    "Installed":      "src/airlift-configuration/0.163",
+    "Source":         "src/airlift-configuration/0.163/configuration-0.163.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.162",
+    "Installed":      "src/airlift-configuration/0.162",
+    "Source":         "src/airlift-configuration/0.162/configuration-0.162.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.161",
+    "Installed":      "src/airlift-configuration/0.161",
+    "Source":         "src/airlift-configuration/0.161/configuration-0.161.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.160",
+    "Installed":      "src/airlift-configuration/0.160",
+    "Source":         "src/airlift-configuration/0.160/configuration-0.160.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.159",
+    "Installed":      "src/airlift-configuration/0.159",
+    "Source":         "src/airlift-configuration/0.159/configuration-0.159.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.158",
+    "Installed":      "src/airlift-configuration/0.158",
+    "Source":         "src/airlift-configuration/0.158/configuration-0.158.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.157",
+    "Installed":      "src/airlift-configuration/0.157",
+    "Source":         "src/airlift-configuration/0.157/configuration-0.157.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.156",
+    "Installed":      "src/airlift-configuration/0.156",
+    "Source":         "src/airlift-configuration/0.156/configuration-0.156.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.155",
+    "Installed":      "src/airlift-configuration/0.155",
+    "Source":         "src/airlift-configuration/0.155/configuration-0.155.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.154",
+    "Installed":      "src/airlift-configuration/0.154",
+    "Source":         "src/airlift-configuration/0.154/configuration-0.154.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.153",
+    "Installed":      "src/airlift-configuration/0.153",
+    "Source":         "src/airlift-configuration/0.153/configuration-0.153.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.152",
+    "Installed":      "src/airlift-configuration/0.152",
+    "Source":         "src/airlift-configuration/0.152/configuration-0.152.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.151",
+    "Installed":      "src/airlift-configuration/0.151",
+    "Source":         "src/airlift-configuration/0.151/configuration-0.151.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.150",
+    "Installed":      "src/airlift-configuration/0.150",
+    "Source":         "src/airlift-configuration/0.150/configuration-0.150.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.149",
+    "Installed":      "src/airlift-configuration/0.149",
+    "Source":         "src/airlift-configuration/0.149/configuration-0.149.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.148",
+    "Installed":      "src/airlift-configuration/0.148",
+    "Source":         "src/airlift-configuration/0.148/configuration-0.148.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.147",
+    "Installed":      "src/airlift-configuration/0.147",
+    "Source":         "src/airlift-configuration/0.147/configuration-0.147.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.146",
+    "Installed":      "src/airlift-configuration/0.146",
+    "Source":         "src/airlift-configuration/0.146/configuration-0.146.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.145",
+    "Installed":      "src/airlift-configuration/0.145",
+    "Source":         "src/airlift-configuration/0.145/configuration-0.145.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.144",
+    "Installed":      "src/airlift-configuration/0.144",
+    "Source":         "src/airlift-configuration/0.144/configuration-0.144.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.143",
+    "Installed":      "src/airlift-configuration/0.143",
+    "Source":         "src/airlift-configuration/0.143/configuration-0.143.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.142",
+    "Installed":      "src/airlift-configuration/0.142",
+    "Source":         "src/airlift-configuration/0.142/configuration-0.142.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.141",
+    "Installed":      "src/airlift-configuration/0.141",
+    "Source":         "src/airlift-configuration/0.141/configuration-0.141.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.140",
+    "Installed":      "src/airlift-configuration/0.140",
+    "Source":         "src/airlift-configuration/0.140/configuration-0.140.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.139",
+    "Installed":      "src/airlift-configuration/0.139",
+    "Source":         "src/airlift-configuration/0.139/configuration-0.139.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.138",
+    "Installed":      "src/airlift-configuration/0.138",
+    "Source":         "src/airlift-configuration/0.138/configuration-0.138.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.137",
+    "Installed":      "src/airlift-configuration/0.137",
+    "Source":         "src/airlift-configuration/0.137/configuration-0.137.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.136",
+    "Installed":      "src/airlift-configuration/0.136",
+    "Source":         "src/airlift-configuration/0.136/configuration-0.136.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.135",
+    "Installed":      "src/airlift-configuration/0.135",
+    "Source":         "src/airlift-configuration/0.135/configuration-0.135.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.134",
+    "Installed":      "src/airlift-configuration/0.134",
+    "Source":         "src/airlift-configuration/0.134/configuration-0.134.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.133",
+    "Installed":      "src/airlift-configuration/0.133",
+    "Source":         "src/airlift-configuration/0.133/configuration-0.133.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.132",
+    "Installed":      "src/airlift-configuration/0.132",
+    "Source":         "src/airlift-configuration/0.132/configuration-0.132.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.131",
+    "Installed":      "src/airlift-configuration/0.131",
+    "Source":         "src/airlift-configuration/0.131/configuration-0.131.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.130",
+    "Installed":      "src/airlift-configuration/0.130",
+    "Source":         "src/airlift-configuration/0.130/configuration-0.130.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -8,6 +8,21 @@
 
   "Versions": [
   {
+    "Number":         "5.0.3",
+    "Installed":      "src/picketbox/5.0.3",
+    "Source":         "src/picketbox/5.0.3/picketbox-5.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.3.Beta1",
+    "Installed":      "src/picketbox/5.0.3.Beta1",
+    "Source":         "src/picketbox/5.0.3.Beta1/picketbox-5.0.3.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "5.0.2",
     "Installed":      "src/picketbox/5.0.2",
     "Source":         "src/picketbox/5.0.2/picketbox-5.0.2.Final.jar",

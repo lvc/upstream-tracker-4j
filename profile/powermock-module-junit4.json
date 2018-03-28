@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "2.0.0-beta.5",
+    "Installed":      "src/powermock-module-junit4/2.0.0-beta.5",
+    "Source":         "src/powermock-module-junit4/2.0.0-beta.5/powermock-module-junit4-2.0.0-beta.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/powermock-module-junit4/1.7.3",
+    "Source":         "src/powermock-module-junit4/1.7.3/powermock-module-junit4-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.1",
     "Installed":      "src/powermock-module-junit4/1.7.1",
     "Source":         "src/powermock-module-junit4/1.7.1/powermock-module-junit4-1.7.1.jar",

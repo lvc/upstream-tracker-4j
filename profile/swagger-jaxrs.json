@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "1.5.18",
+    "Installed":      "src/swagger-jaxrs/1.5.18",
+    "Source":         "src/swagger-jaxrs/1.5.18/swagger-jaxrs-1.5.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.17",
+    "Installed":      "src/swagger-jaxrs/1.5.17",
+    "Source":         "src/swagger-jaxrs/1.5.17/swagger-jaxrs-1.5.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.5.16",
     "Installed":      "src/swagger-jaxrs/1.5.16",
     "Source":         "src/swagger-jaxrs/1.5.16/swagger-jaxrs-1.5.16.jar",

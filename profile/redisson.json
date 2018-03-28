@@ -9,11 +9,82 @@
 
   "Versions": [
   {
+    "Number":         "3.6.3",
+    "Installed":      "src/redisson/3.6.3",
+    "Source":         "src/redisson/3.6.3/redisson-3.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.2",
+    "Installed":      "src/redisson/3.6.2",
+    "Source":         "src/redisson/3.6.2/redisson-3.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.6.1",
+    "Installed":      "src/redisson/3.6.1",
+    "Source":         "src/redisson/3.6.1/redisson-3.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.6.0",
+    "Installed":      "src/redisson/3.6.0",
+    "Source":         "src/redisson/3.6.0/redisson-3.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.7",
+    "Installed":      "src/redisson/3.5.7",
+    "Source":         "src/redisson/3.5.7/redisson-3.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.6",
+    "Installed":      "src/redisson/3.5.6",
+    "Source":         "src/redisson/3.5.6/redisson-3.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.5",
+    "Installed":      "src/redisson/3.5.5",
+    "Source":         "src/redisson/3.5.5/redisson-3.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.4",
+    "Installed":      "src/redisson/3.5.4",
+    "Source":         "src/redisson/3.5.4/redisson-3.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.3",
+    "Installed":      "src/redisson/3.5.3",
+    "Source":         "src/redisson/3.5.3/redisson-3.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "3.5.1",
     "Installed":      "src/redisson/3.5.1",
     "Source":         "src/redisson/3.5.1/redisson-3.5.1.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "3.5.0",
@@ -59,11 +130,82 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "2.11.3",
+    "Installed":      "src/redisson/2.11.3",
+    "Source":         "src/redisson/2.11.3/redisson-2.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.2",
+    "Installed":      "src/redisson/2.11.2",
+    "Source":         "src/redisson/2.11.2/redisson-2.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.11.1",
+    "Installed":      "src/redisson/2.11.1",
+    "Source":         "src/redisson/2.11.1/redisson-2.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/redisson/2.11.0",
+    "Source":         "src/redisson/2.11.0/redisson-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.10.7",
+    "Installed":      "src/redisson/2.10.7",
+    "Source":         "src/redisson/2.10.7/redisson-2.10.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.6",
+    "Installed":      "src/redisson/2.10.6",
+    "Source":         "src/redisson/2.10.6/redisson-2.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.10.5",
+    "Installed":      "src/redisson/2.10.5",
+    "Source":         "src/redisson/2.10.5/redisson-2.10.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.10.4",
+    "Installed":      "src/redisson/2.10.4",
+    "Source":         "src/redisson/2.10.4/redisson-2.10.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.10.3",
+    "Installed":      "src/redisson/2.10.3",
+    "Source":         "src/redisson/2.10.3/redisson-2.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.10.1",
     "Installed":      "src/redisson/2.10.1",
     "Source":         "src/redisson/2.10.1/redisson-2.10.1.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.10.0",

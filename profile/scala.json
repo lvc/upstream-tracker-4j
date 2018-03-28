@@ -14,9 +14,31 @@
 
   "Versions": [
   {
+    "Number":         "2.13.0-M3",
+    "Installed":      "installed/scala/2.13.0-M3",
+    "Source":         "src/scala/2.13.0-M3/scala-2.13.0-M3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.13.0-M2",
     "Installed":      "installed/scala/2.13.0-M2",
     "Source":         "src/scala/2.13.0-M2/scala-2.13.0-M2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.12.5",
+    "Installed":      "installed/scala/2.12.5",
+    "Source":         "src/scala/2.12.5/scala-2.12.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.4",
+    "Installed":      "installed/scala/2.12.4",
+    "Source":         "src/scala/2.12.4/scala-2.12.4.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -70,6 +92,13 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "2.11.12",
+    "Installed":      "installed/scala/2.11.12",
+    "Source":         "src/scala/2.11.12/scala-2.11.12.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "2.11.11",
@@ -152,6 +181,13 @@
     "Number":         "2.11.0",
     "Installed":      "installed/scala/2.11.0",
     "Source":         "src/scala/2.11.0/scala-2.11.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.7",
+    "Installed":      "installed/scala/2.10.7",
+    "Source":         "src/scala/2.10.7/scala-2.10.7.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

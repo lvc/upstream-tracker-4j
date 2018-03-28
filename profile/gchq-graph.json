@@ -8,6 +8,125 @@
 
   "Versions": [
   {
+    "Number":         "1.4.0-RC3",
+    "Installed":      "src/gchq-graph/1.4.0-RC3",
+    "Source":         "src/gchq-graph/1.4.0-RC3/graph-1.4.0-RC3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/gchq-graph/1.3.0",
+    "Source":         "src/gchq-graph/1.3.0/graph-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0-RC1",
+    "Installed":      "src/gchq-graph/1.3.0-RC1",
+    "Source":         "src/gchq-graph/1.3.0-RC1/graph-1.3.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/gchq-graph/1.2.0",
+    "Source":         "src/gchq-graph/1.2.0/graph-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0-RC1",
+    "Installed":      "src/gchq-graph/1.2.0-RC1",
+    "Source":         "src/gchq-graph/1.2.0-RC1/graph-1.2.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/gchq-graph/1.1.2",
+    "Source":         "src/gchq-graph/1.1.2/graph-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/gchq-graph/1.1.1",
+    "Source":         "src/gchq-graph/1.1.1/graph-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/gchq-graph/1.1.0",
+    "Source":         "src/gchq-graph/1.1.0/graph-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0-RC1",
+    "Installed":      "src/gchq-graph/1.1.0-RC1",
+    "Source":         "src/gchq-graph/1.1.0-RC1/graph-1.1.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/gchq-graph/1.0.2",
+    "Source":         "src/gchq-graph/1.0.2/graph-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/gchq-graph/1.0.1",
+    "Source":         "src/gchq-graph/1.0.1/graph-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/gchq-graph/1.0.0",
+    "Source":         "src/gchq-graph/1.0.0/graph-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0-RC4",
+    "Installed":      "src/gchq-graph/1.0.0-RC4",
+    "Source":         "src/gchq-graph/1.0.0-RC4/graph-1.0.0-RC4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.0-RC3",
+    "Installed":      "src/gchq-graph/1.0.0-RC3",
+    "Source":         "src/gchq-graph/1.0.0-RC3/graph-1.0.0-RC3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.0-RC2",
+    "Installed":      "src/gchq-graph/1.0.0-RC2",
+    "Source":         "src/gchq-graph/1.0.0-RC2/graph-1.0.0-RC2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.0-RC1",
+    "Installed":      "src/gchq-graph/1.0.0-RC1",
+    "Source":         "src/gchq-graph/1.0.0-RC1/graph-1.0.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "0.7.8",
     "Installed":      "src/gchq-graph/0.7.8",
     "Source":         "src/gchq-graph/0.7.8/graph-0.7.8.jar",

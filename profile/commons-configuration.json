@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "2.2",
+    "Installed":      "src/commons-configuration/2.2",
+    "Source":         "src/commons-configuration/2.2/commons-configuration2-2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.1.1",
     "Installed":      "src/commons-configuration/2.1.1",
     "Source":         "src/commons-configuration/2.1.1/commons-configuration2-2.1.1.jar",

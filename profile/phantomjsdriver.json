@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.4.4",
+    "Installed":      "src/phantomjsdriver/1.4.4",
+    "Source":         "src/phantomjsdriver/1.4.4/phantomjsdriver-1.4.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.4.3",
     "Installed":      "src/phantomjsdriver/1.4.3",
     "Source":         "src/phantomjsdriver/1.4.3/phantomjsdriver-1.4.3.jar",

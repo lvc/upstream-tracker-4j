@@ -4,16 +4,39 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/apache/mesos/mesos/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckPackages":  "\Aorg\.apache\.mesos\Z",
   "CompactReport":  "1",
   "MinimalVersion": "1.0.0",
 
   "Versions": [
   {
+    "Number":         "1.5.0",
+    "Installed":      "src/mesos/1.5.0",
+    "Source":         "src/mesos/1.5.0/mesos-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.1",
+    "Installed":      "src/mesos/1.4.1",
+    "Source":         "src/mesos/1.4.1/mesos-1.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/mesos/1.4.0",
+    "Source":         "src/mesos/1.4.0/mesos-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.4.0-rc3",
     "Installed":      "src/mesos/1.4.0-rc3",
     "Source":         "src/mesos/1.4.0-rc3/mesos-1.4.0-rc3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "1.4.0-rc1",
@@ -22,6 +45,13 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "1.3.2",
+    "Installed":      "src/mesos/1.3.2",
+    "Source":         "src/mesos/1.3.2/mesos-1.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "1.3.1",
@@ -46,6 +76,13 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "1.2.3",
+    "Installed":      "src/mesos/1.2.3",
+    "Source":         "src/mesos/1.2.3/mesos-1.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.2.2",
     "Installed":      "src/mesos/1.2.2",
     "Source":         "src/mesos/1.2.2/mesos-1.2.2.jar",
@@ -63,6 +100,13 @@
     "Number":         "1.2.0",
     "Installed":      "src/mesos/1.2.0",
     "Source":         "src/mesos/1.2.0/mesos-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.3",
+    "Installed":      "src/mesos/1.1.3",
+    "Source":         "src/mesos/1.1.3/mesos-1.1.3.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

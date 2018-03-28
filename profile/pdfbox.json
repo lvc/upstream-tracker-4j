@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "2.0.9",
+    "Installed":      "src/pdfbox/2.0.9",
+    "Source":         "src/pdfbox/2.0.9/pdfbox-2.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.8",
+    "Installed":      "src/pdfbox/2.0.8",
+    "Source":         "src/pdfbox/2.0.8/pdfbox-2.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0.7",
     "Installed":      "src/pdfbox/2.0.7",
     "Source":         "src/pdfbox/2.0.7/pdfbox-2.0.7.jar",

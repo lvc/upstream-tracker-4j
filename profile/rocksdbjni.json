@@ -10,11 +10,71 @@
 
   "Versions": [
   {
+    "Number":         "5.11.3",
+    "Installed":      "src/rocksdbjni/5.11.3",
+    "Source":         "src/rocksdbjni/5.11.3/rocksdbjni-5.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.10.3",
+    "Installed":      "src/rocksdbjni/5.10.3",
+    "Source":         "src/rocksdbjni/5.10.3/rocksdbjni-5.10.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.2",
+    "Installed":      "src/rocksdbjni/5.9.2",
+    "Source":         "src/rocksdbjni/5.9.2/rocksdbjni-5.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8.7",
+    "Installed":      "src/rocksdbjni/5.8.7",
+    "Source":         "src/rocksdbjni/5.8.7/rocksdbjni-5.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8.6",
+    "Installed":      "src/rocksdbjni/5.8.6",
+    "Source":         "src/rocksdbjni/5.8.6/rocksdbjni-5.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.8.0",
+    "Installed":      "src/rocksdbjni/5.8.0",
+    "Source":         "src/rocksdbjni/5.8.0/rocksdbjni-5.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.7.5",
+    "Installed":      "src/rocksdbjni/5.7.5",
+    "Source":         "src/rocksdbjni/5.7.5/rocksdbjni-5.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.7.3",
+    "Installed":      "src/rocksdbjni/5.7.3",
+    "Source":         "src/rocksdbjni/5.7.3/rocksdbjni-5.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "5.7.2",
     "Installed":      "src/rocksdbjni/5.7.2",
     "Source":         "src/rocksdbjni/5.7.2/rocksdbjni-5.7.2.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "5.6.1",

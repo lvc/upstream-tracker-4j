@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "2.1.0",
+    "Installed":      "src/jclouds-openstack-nova/2.1.0",
+    "Source":         "src/jclouds-openstack-nova/2.1.0/openstack-nova-2.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.3",
+    "Installed":      "src/jclouds-openstack-nova/2.0.3",
+    "Source":         "src/jclouds-openstack-nova/2.0.3/openstack-nova-2.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0.2",
     "Installed":      "src/jclouds-openstack-nova/2.0.2",
     "Source":         "src/jclouds-openstack-nova/2.0.2/openstack-nova-2.0.2.jar",

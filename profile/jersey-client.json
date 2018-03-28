@@ -8,11 +8,19 @@
 
   "Versions": [
   {
+    "Number":         "2.26",
+    "Installed":      "src/jersey-client/2.26",
+    "Source":         "src/jersey-client/2.26/jersey-client-2.26.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.26-b09",
     "Installed":      "src/jersey-client/2.26-b09",
     "Source":         "src/jersey-client/2.26-b09/jersey-client-2.26-b09.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.25.1",

@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "2.2.0-RC1",
+    "Installed":      "src/fongo/2.2.0-RC1",
+    "Source":         "src/fongo/2.2.0-RC1/fongo-2.2.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/fongo/2.1.1",
+    "Source":         "src/fongo/2.1.1/fongo-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.1.0",
     "Installed":      "src/fongo/2.1.0",
     "Source":         "src/fongo/2.1.0/fongo-2.1.0.jar",

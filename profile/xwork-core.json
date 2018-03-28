@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "2.3.34",
+    "Installed":      "src/xwork-core/2.3.34",
+    "Source":         "src/xwork-core/2.3.34/xwork-core-2.3.34.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.3.33",
     "Installed":      "src/xwork-core/2.3.33",
     "Source":         "src/xwork-core/2.3.33/xwork-core-2.3.33.jar",

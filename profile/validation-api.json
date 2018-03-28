@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.0.1",
+    "Installed":      "src/validation-api/2.0.1",
+    "Source":         "src/validation-api/2.0.1/validation-api-2.0.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0.0",
     "Installed":      "src/validation-api/2.0.0",
     "Source":         "src/validation-api/2.0.0/validation-api-2.0.0.Final.jar",

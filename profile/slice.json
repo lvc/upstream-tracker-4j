@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "0.33",
+    "Installed":      "src/slice/0.33",
+    "Source":         "src/slice/0.33/slice-0.33.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.32",
+    "Installed":      "src/slice/0.32",
+    "Source":         "src/slice/0.32/slice-0.32.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.31",
+    "Installed":      "src/slice/0.31",
+    "Source":         "src/slice/0.31/slice-0.31.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.30",
     "Installed":      "src/slice/0.30",
     "Source":         "src/slice/0.30/slice-0.30.jar",

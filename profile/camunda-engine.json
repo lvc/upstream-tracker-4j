@@ -7,11 +7,66 @@
 
   "Versions": [
   {
+    "Number":         "7.9.0-alpha2",
+    "Installed":      "src/camunda-engine/7.9.0-alpha2",
+    "Source":         "src/camunda-engine/7.9.0-alpha2/camunda-engine-7.9.0-alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.9.0-alpha1",
+    "Installed":      "src/camunda-engine/7.9.0-alpha1",
+    "Source":         "src/camunda-engine/7.9.0-alpha1/camunda-engine-7.9.0-alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "7.8.0",
+    "Installed":      "src/camunda-engine/7.8.0",
+    "Source":         "src/camunda-engine/7.8.0/camunda-engine-7.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.8.0-alpha6",
+    "Installed":      "src/camunda-engine/7.8.0-alpha6",
+    "Source":         "src/camunda-engine/7.8.0-alpha6/camunda-engine-7.8.0-alpha6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "7.8.0-alpha5",
+    "Installed":      "src/camunda-engine/7.8.0-alpha5",
+    "Source":         "src/camunda-engine/7.8.0-alpha5/camunda-engine-7.8.0-alpha5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "7.8.0-alpha4",
+    "Installed":      "src/camunda-engine/7.8.0-alpha4",
+    "Source":         "src/camunda-engine/7.8.0-alpha4/camunda-engine-7.8.0-alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "7.8.0-alpha3",
+    "Installed":      "src/camunda-engine/7.8.0-alpha3",
+    "Source":         "src/camunda-engine/7.8.0-alpha3/camunda-engine-7.8.0-alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "7.8.0-alpha2",
     "Installed":      "src/camunda-engine/7.8.0-alpha2",
     "Source":         "src/camunda-engine/7.8.0-alpha2/camunda-engine-7.8.0-alpha2.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "7.8.0-alpha1",

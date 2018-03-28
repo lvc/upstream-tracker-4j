@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "3.0.3",
+    "Installed":      "src/weld-se-core/3.0.3",
+    "Source":         "src/weld-se-core/3.0.3/weld-se-core-3.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/weld-se-core/3.0.2",
+    "Source":         "src/weld-se-core/3.0.2/weld-se-core-3.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.1",
     "Installed":      "src/weld-se-core/3.0.1",
     "Source":         "src/weld-se-core/3.0.1/weld-se-core-3.0.1.Final.jar",
@@ -18,6 +32,27 @@
     "Number":         "3.0.0",
     "Installed":      "src/weld-se-core/3.0.0",
     "Source":         "src/weld-se-core/3.0.0/weld-se-core-3.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.7",
+    "Installed":      "src/weld-se-core/2.4.7",
+    "Source":         "src/weld-se-core/2.4.7/weld-se-core-2.4.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/weld-se-core/2.4.6",
+    "Source":         "src/weld-se-core/2.4.6/weld-se-core-2.4.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.5",
+    "Installed":      "src/weld-se-core/2.4.5",
+    "Source":         "src/weld-se-core/2.4.5/weld-se-core-2.4.5.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

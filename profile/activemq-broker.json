@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "5.15.3",
+    "Installed":      "src/activemq-broker/5.15.3",
+    "Source":         "src/activemq-broker/5.15.3/activemq-broker-5.15.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.15.2",
+    "Installed":      "src/activemq-broker/5.15.2",
+    "Source":         "src/activemq-broker/5.15.2/activemq-broker-5.15.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.15.1",
+    "Installed":      "src/activemq-broker/5.15.1",
+    "Source":         "src/activemq-broker/5.15.1/activemq-broker-5.15.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.15.0",
     "Installed":      "src/activemq-broker/5.15.0",
     "Source":         "src/activemq-broker/5.15.0/activemq-broker-5.15.0.jar",

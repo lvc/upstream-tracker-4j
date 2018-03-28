@@ -1,0 +1,66 @@
+{
+  "Name":           "junit-vintage-engine",
+  "Title":          "JUnit Vintage Engine",
+  "SourceUrl":      "http://central.maven.org/maven2/org/junit/vintage/junit-vintage-engine/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+  "SkipVersions":   [ ".*\-M\d.*" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d+\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/junit/vintage/junit-vintage-engine/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
+
+  "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/junit-vintage-engine/SNAPSHOT",
+    "Source":         "src/junit-vintage-engine/SNAPSHOT/junit-vintage-engine-5.2.0-20180324.212005-51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "src/junit-vintage-engine/5.1.0",
+    "Source":         "src/junit-vintage-engine/5.1.0/junit-vintage-engine-5.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0-RC1",
+    "Installed":      "src/junit-vintage-engine/5.1.0-RC1",
+    "Source":         "src/junit-vintage-engine/5.1.0-RC1/junit-vintage-engine-5.1.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.12.3",
+    "Installed":      "src/junit-vintage-engine/4.12.3",
+    "Source":         "src/junit-vintage-engine/4.12.3/junit-vintage-engine-4.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.12.2",
+    "Installed":      "src/junit-vintage-engine/4.12.2",
+    "Source":         "src/junit-vintage-engine/4.12.2/junit-vintage-engine-4.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.12.1",
+    "Installed":      "src/junit-vintage-engine/4.12.1",
+    "Source":         "src/junit-vintage-engine/4.12.1/junit-vintage-engine-4.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.12.0",
+    "Installed":      "src/junit-vintage-engine/4.12.0",
+    "Source":         "src/junit-vintage-engine/4.12.0/junit-vintage-engine-4.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

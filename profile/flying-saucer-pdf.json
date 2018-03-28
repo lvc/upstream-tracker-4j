@@ -1,0 +1,156 @@
+{
+  "Name":           "flying-saucer-pdf",
+  "Title":          "Flying Saucer",
+  "SourceUrl":      "http://central.maven.org/maven2/org/xhtmlrenderer/flying-saucer-pdf/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "9.1.12",
+    "Installed":      "src/flying-saucer-pdf/9.1.12",
+    "Source":         "src/flying-saucer-pdf/9.1.12/flying-saucer-pdf-9.1.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.11",
+    "Installed":      "src/flying-saucer-pdf/9.1.11",
+    "Source":         "src/flying-saucer-pdf/9.1.11/flying-saucer-pdf-9.1.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.9",
+    "Installed":      "src/flying-saucer-pdf/9.1.9",
+    "Source":         "src/flying-saucer-pdf/9.1.9/flying-saucer-pdf-9.1.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.8",
+    "Installed":      "src/flying-saucer-pdf/9.1.8",
+    "Source":         "src/flying-saucer-pdf/9.1.8/flying-saucer-pdf-9.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.7",
+    "Installed":      "src/flying-saucer-pdf/9.1.7",
+    "Source":         "src/flying-saucer-pdf/9.1.7/flying-saucer-pdf-9.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.6",
+    "Installed":      "src/flying-saucer-pdf/9.1.6",
+    "Source":         "src/flying-saucer-pdf/9.1.6/flying-saucer-pdf-9.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.5",
+    "Installed":      "src/flying-saucer-pdf/9.1.5",
+    "Source":         "src/flying-saucer-pdf/9.1.5/flying-saucer-pdf-9.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.4",
+    "Installed":      "src/flying-saucer-pdf/9.1.4",
+    "Source":         "src/flying-saucer-pdf/9.1.4/flying-saucer-pdf-9.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.3",
+    "Installed":      "src/flying-saucer-pdf/9.1.3",
+    "Source":         "src/flying-saucer-pdf/9.1.3/flying-saucer-pdf-9.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.2",
+    "Installed":      "src/flying-saucer-pdf/9.1.2",
+    "Source":         "src/flying-saucer-pdf/9.1.2/flying-saucer-pdf-9.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.1",
+    "Installed":      "src/flying-saucer-pdf/9.1.1",
+    "Source":         "src/flying-saucer-pdf/9.1.1/flying-saucer-pdf-9.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.0",
+    "Installed":      "src/flying-saucer-pdf/9.1.0",
+    "Source":         "src/flying-saucer-pdf/9.1.0/flying-saucer-pdf-9.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.9",
+    "Installed":      "src/flying-saucer-pdf/9.0.9",
+    "Source":         "src/flying-saucer-pdf/9.0.9/flying-saucer-pdf-9.0.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.8",
+    "Installed":      "src/flying-saucer-pdf/9.0.8",
+    "Source":         "src/flying-saucer-pdf/9.0.8/flying-saucer-pdf-9.0.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.7",
+    "Installed":      "src/flying-saucer-pdf/9.0.7",
+    "Source":         "src/flying-saucer-pdf/9.0.7/flying-saucer-pdf-9.0.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.6",
+    "Installed":      "src/flying-saucer-pdf/9.0.6",
+    "Source":         "src/flying-saucer-pdf/9.0.6/flying-saucer-pdf-9.0.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.4",
+    "Installed":      "src/flying-saucer-pdf/9.0.4",
+    "Source":         "src/flying-saucer-pdf/9.0.4/flying-saucer-pdf-9.0.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.3",
+    "Installed":      "src/flying-saucer-pdf/9.0.3",
+    "Source":         "src/flying-saucer-pdf/9.0.3/flying-saucer-pdf-9.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.2",
+    "Installed":      "src/flying-saucer-pdf/9.0.2",
+    "Source":         "src/flying-saucer-pdf/9.0.2/flying-saucer-pdf-9.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.1",
+    "Installed":      "src/flying-saucer-pdf/9.0.1",
+    "Source":         "src/flying-saucer-pdf/9.0.1/flying-saucer-pdf-9.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.0.0",
+    "Installed":      "src/flying-saucer-pdf/9.0.0",
+    "Source":         "src/flying-saucer-pdf/9.0.0/flying-saucer-pdf-9.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

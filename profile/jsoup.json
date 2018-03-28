@@ -6,6 +6,20 @@
 
   "Versions": [
   {
+    "Number":         "1.11.2",
+    "Installed":      "src/jsoup/1.11.2",
+    "Source":         "src/jsoup/1.11.2/jsoup-1.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.11.1",
+    "Installed":      "src/jsoup/1.11.1",
+    "Source":         "src/jsoup/1.11.1/jsoup-1.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.10.3",
     "Installed":      "src/jsoup/1.10.3",
     "Source":         "src/jsoup/1.10.3/jsoup-1.10.3.jar",

@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.23.0",
+    "Installed":      "src/google-http-client/1.23.0",
+    "Source":         "src/google-http-client/1.23.0/google-http-client-1.23.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.22.0",
     "Installed":      "src/google-http-client/1.22.0",
     "Source":         "src/google-http-client/1.22.0/google-http-client-1.22.0.jar",

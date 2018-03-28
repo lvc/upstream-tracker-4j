@@ -8,6 +8,48 @@
 
   "Versions": [
   {
+    "Number":         "2.21.0",
+    "Installed":      "src/camel-ftp/2.21.0",
+    "Source":         "src/camel-ftp/2.21.0/camel-ftp-2.21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20.2",
+    "Installed":      "src/camel-ftp/2.20.2",
+    "Source":         "src/camel-ftp/2.20.2/camel-ftp-2.20.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20.1",
+    "Installed":      "src/camel-ftp/2.20.1",
+    "Source":         "src/camel-ftp/2.20.1/camel-ftp-2.20.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.20.0",
+    "Installed":      "src/camel-ftp/2.20.0",
+    "Source":         "src/camel-ftp/2.20.0/camel-ftp-2.20.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19.4",
+    "Installed":      "src/camel-ftp/2.19.4",
+    "Source":         "src/camel-ftp/2.19.4/camel-ftp-2.19.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.19.3",
+    "Installed":      "src/camel-ftp/2.19.3",
+    "Source":         "src/camel-ftp/2.19.3/camel-ftp-2.19.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.19.2",
     "Installed":      "src/camel-ftp/2.19.2",
     "Source":         "src/camel-ftp/2.19.2/camel-ftp-2.19.2.jar",
@@ -25,6 +67,13 @@
     "Number":         "2.19.0",
     "Installed":      "src/camel-ftp/2.19.0",
     "Source":         "src/camel-ftp/2.19.0/camel-ftp-2.19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.5",
+    "Installed":      "src/camel-ftp/2.18.5",
+    "Source":         "src/camel-ftp/2.18.5/camel-ftp-2.18.5.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

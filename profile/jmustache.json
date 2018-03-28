@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.14",
+    "Installed":      "src/jmustache/1.14",
+    "Source":         "src/jmustache/1.14/jmustache-1.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.13",
     "Installed":      "src/jmustache/1.13",
     "Source":         "src/jmustache/1.13/jmustache-1.13.jar",

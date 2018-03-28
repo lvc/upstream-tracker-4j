@@ -8,6 +8,87 @@
 
   "Versions": [
   {
+    "Number":         "19.0",
+    "Installed":      "src/gt-api/19.0",
+    "Source":         "src/gt-api/19.0/gt-api-19.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "19-RC1",
+    "Installed":      "src/gt-api/19-RC1",
+    "Source":         "src/gt-api/19-RC1/gt-api-19-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "19-beta",
+    "Installed":      "src/gt-api/19-beta",
+    "Source":         "src/gt-api/19-beta/gt-api-19-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "18.2",
+    "Installed":      "src/gt-api/18.2",
+    "Source":         "src/gt-api/18.2/gt-api-18.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.1",
+    "Installed":      "src/gt-api/18.1",
+    "Source":         "src/gt-api/18.1/gt-api-18.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0",
+    "Installed":      "src/gt-api/18.0",
+    "Source":         "src/gt-api/18.0/gt-api-18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18-RC1",
+    "Installed":      "src/gt-api/18-RC1",
+    "Source":         "src/gt-api/18-RC1/gt-api-18-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "18-beta",
+    "Installed":      "src/gt-api/18-beta",
+    "Source":         "src/gt-api/18-beta/gt-api-18-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "17.5",
+    "Installed":      "src/gt-api/17.5",
+    "Source":         "src/gt-api/17.5/gt-api-17.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.4",
+    "Installed":      "src/gt-api/17.4",
+    "Source":         "src/gt-api/17.4/gt-api-17.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.3",
+    "Installed":      "src/gt-api/17.3",
+    "Source":         "src/gt-api/17.3/gt-api-17.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "17.2",
     "Installed":      "src/gt-api/17.2",
     "Source":         "src/gt-api/17.2/gt-api-17.2.jar",

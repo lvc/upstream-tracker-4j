@@ -4,12 +4,66 @@
   "SourceUrl":      "http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/com/fasterxml/jackson/core/jackson-databind/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/jackson-databind/SNAPSHOT",
+    "Source":         "src/jackson-databind/SNAPSHOT/jackson-databind-3.0.0-20180323.054710-370.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.4",
+    "Installed":      "src/jackson-databind/2.9.4",
+    "Source":         "src/jackson-databind/2.9.4/jackson-databind-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "src/jackson-databind/2.9.3",
+    "Source":         "src/jackson-databind/2.9.3/jackson-databind-2.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/jackson-databind/2.9.2",
+    "Source":         "src/jackson-databind/2.9.2/jackson-databind-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/jackson-databind/2.9.1",
+    "Source":         "src/jackson-databind/2.9.1/jackson-databind-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.9.0",
     "Installed":      "src/jackson-databind/2.9.0",
     "Source":         "src/jackson-databind/2.9.0/jackson-databind-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.11.1",
+    "Installed":      "src/jackson-databind/2.8.11.1",
+    "Source":         "src/jackson-databind/2.8.11.1/jackson-databind-2.8.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.11",
+    "Installed":      "src/jackson-databind/2.8.11",
+    "Source":         "src/jackson-databind/2.8.11/jackson-databind-2.8.11.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -112,6 +166,20 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "2.7.9.3",
+    "Installed":      "src/jackson-databind/2.7.9.3",
+    "Source":         "src/jackson-databind/2.7.9.3/jackson-databind-2.7.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.9.2",
+    "Installed":      "src/jackson-databind/2.7.9.2",
+    "Source":         "src/jackson-databind/2.7.9.2/jackson-databind-2.7.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "2.7.9.1",

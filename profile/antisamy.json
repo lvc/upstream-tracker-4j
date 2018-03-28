@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.5.7",
+    "Installed":      "src/antisamy/1.5.7",
+    "Source":         "src/antisamy/1.5.7/antisamy-1.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.5.6",
     "Installed":      "src/antisamy/1.5.6",
     "Source":         "src/antisamy/1.5.6/antisamy-1.5.6.jar",

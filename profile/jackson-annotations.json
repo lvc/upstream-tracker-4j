@@ -8,9 +8,44 @@
 
   "Versions": [
   {
+    "Number":         "2.9.4",
+    "Installed":      "src/jackson-annotations/2.9.4",
+    "Source":         "src/jackson-annotations/2.9.4/jackson-annotations-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "src/jackson-annotations/2.9.3",
+    "Source":         "src/jackson-annotations/2.9.3/jackson-annotations-2.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/jackson-annotations/2.9.2",
+    "Source":         "src/jackson-annotations/2.9.2/jackson-annotations-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/jackson-annotations/2.9.1",
+    "Source":         "src/jackson-annotations/2.9.1/jackson-annotations-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.9.0",
     "Installed":      "src/jackson-annotations/2.9.0",
     "Source":         "src/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.11",
+    "Installed":      "src/jackson-annotations/2.8.11",
+    "Source":         "src/jackson-annotations/2.8.11/jackson-annotations-2.8.11.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

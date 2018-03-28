@@ -10,11 +10,27 @@
 
   "Versions": [
   {
+    "Number":         "5.0-beta1",
+    "Installed":      "installed/httpclient/5.0-beta1",
+    "Source":         "src/httpclient/5.0-beta1/httpcomponents-client-5.0-beta1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0-alpha3",
+    "Installed":      "installed/httpclient/5.0-alpha3",
+    "Source":         "src/httpclient/5.0-alpha3/httpcomponents-client-5.0-alpha3-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "5.0-alpha2",
     "Installed":      "installed/httpclient/5.0-alpha2",
     "Source":         "src/httpclient/5.0-alpha2/httpcomponents-client-5.0-alpha2-bin.zip",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "5.0-alpha1",
@@ -23,6 +39,20 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "4.5.5",
+    "Installed":      "installed/httpclient/4.5.5",
+    "Source":         "src/httpclient/4.5.5/httpcomponents-client-4.5.5-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.4",
+    "Installed":      "installed/httpclient/4.5.4",
+    "Source":         "src/httpclient/4.5.4/httpcomponents-client-4.5.4-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "4.5.3",

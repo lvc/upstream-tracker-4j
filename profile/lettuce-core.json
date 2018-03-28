@@ -1,0 +1,16 @@
+{
+  "Name":           "lettuce-core",
+  "Title":          "Lettuce Core",
+  "SourceUrl":      "http://central.maven.org/maven2/io/lettuce/lettuce-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/lettuce-core/5.0.0",
+    "Source":         "src/lettuce-core/5.0.0/lettuce-core-5.0.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

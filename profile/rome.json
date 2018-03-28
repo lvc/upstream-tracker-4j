@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "1.9.0",
+    "Installed":      "src/rome/1.9.0",
+    "Source":         "src/rome/1.9.0/rome-1.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/rome/1.8.1",
+    "Source":         "src/rome/1.8.1/rome-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "src/rome/1.8.0",
+    "Source":         "src/rome/1.8.0/rome-1.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.4",
     "Installed":      "src/rome/1.7.4",
     "Source":         "src/rome/1.7.4/rome-1.7.4.jar",

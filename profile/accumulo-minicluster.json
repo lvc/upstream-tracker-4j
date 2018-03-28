@@ -21,6 +21,13 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "1.7.4",
+    "Installed":      "src/accumulo-minicluster/1.7.4",
+    "Source":         "src/accumulo-minicluster/1.7.4/accumulo-minicluster-1.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.3",
     "Installed":      "src/accumulo-minicluster/1.7.3",
     "Source":         "src/accumulo-minicluster/1.7.3/accumulo-minicluster-1.7.3.jar",

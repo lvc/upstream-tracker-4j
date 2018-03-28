@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.10.0",
+    "Installed":      "src/javapoet/1.10.0",
+    "Source":         "src/javapoet/1.10.0/javapoet-1.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.9.0",
     "Installed":      "src/javapoet/1.9.0",
     "Source":         "src/javapoet/1.9.0/javapoet-1.9.0.jar",

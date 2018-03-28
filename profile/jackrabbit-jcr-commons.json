@@ -8,6 +8,55 @@
 
   "Versions": [
   {
+    "Number":         "2.17.1",
+    "Installed":      "src/jackrabbit-jcr-commons/2.17.1",
+    "Source":         "src/jackrabbit-jcr-commons/2.17.1/jackrabbit-jcr-commons-2.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.0",
+    "Installed":      "src/jackrabbit-jcr-commons/2.17.0",
+    "Source":         "src/jackrabbit-jcr-commons/2.17.0/jackrabbit-jcr-commons-2.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.1",
+    "Installed":      "src/jackrabbit-jcr-commons/2.16.1",
+    "Source":         "src/jackrabbit-jcr-commons/2.16.1/jackrabbit-jcr-commons-2.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.0",
+    "Installed":      "src/jackrabbit-jcr-commons/2.16.0",
+    "Source":         "src/jackrabbit-jcr-commons/2.16.0/jackrabbit-jcr-commons-2.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.8",
+    "Installed":      "src/jackrabbit-jcr-commons/2.15.8",
+    "Source":         "src/jackrabbit-jcr-commons/2.15.8/jackrabbit-jcr-commons-2.15.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.7",
+    "Installed":      "src/jackrabbit-jcr-commons/2.15.7",
+    "Source":         "src/jackrabbit-jcr-commons/2.15.7/jackrabbit-jcr-commons-2.15.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.6",
+    "Installed":      "src/jackrabbit-jcr-commons/2.15.6",
+    "Source":         "src/jackrabbit-jcr-commons/2.15.6/jackrabbit-jcr-commons-2.15.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.15.5",
     "Installed":      "src/jackrabbit-jcr-commons/2.15.5",
     "Source":         "src/jackrabbit-jcr-commons/2.15.5/jackrabbit-jcr-commons-2.15.5.jar",
@@ -46,6 +95,20 @@
     "Number":         "2.15.0",
     "Installed":      "src/jackrabbit-jcr-commons/2.15.0",
     "Source":         "src/jackrabbit-jcr-commons/2.15.0/jackrabbit-jcr-commons-2.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.4",
+    "Installed":      "src/jackrabbit-jcr-commons/2.14.4",
+    "Source":         "src/jackrabbit-jcr-commons/2.14.4/jackrabbit-jcr-commons-2.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.3",
+    "Installed":      "src/jackrabbit-jcr-commons/2.14.3",
+    "Source":         "src/jackrabbit-jcr-commons/2.14.3/jackrabbit-jcr-commons-2.14.3.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -123,6 +186,13 @@
     "Number":         "2.13.0",
     "Installed":      "src/jackrabbit-jcr-commons/2.13.0",
     "Source":         "src/jackrabbit-jcr-commons/2.13.0/jackrabbit-jcr-commons-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.8",
+    "Installed":      "src/jackrabbit-jcr-commons/2.12.8",
+    "Source":         "src/jackrabbit-jcr-commons/2.12.8/jackrabbit-jcr-commons-2.12.8.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

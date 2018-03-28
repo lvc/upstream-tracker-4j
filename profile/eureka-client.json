@@ -8,6 +8,55 @@
 
   "Versions": [
   {
+    "Number":         "1.8.7",
+    "Installed":      "src/eureka-client/1.8.7",
+    "Source":         "src/eureka-client/1.8.7/eureka-client-1.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.6",
+    "Installed":      "src/eureka-client/1.8.6",
+    "Source":         "src/eureka-client/1.8.6/eureka-client-1.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.5",
+    "Installed":      "src/eureka-client/1.8.5",
+    "Source":         "src/eureka-client/1.8.5/eureka-client-1.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.4",
+    "Installed":      "src/eureka-client/1.8.4",
+    "Source":         "src/eureka-client/1.8.4/eureka-client-1.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.3",
+    "Installed":      "src/eureka-client/1.8.3",
+    "Source":         "src/eureka-client/1.8.3/eureka-client-1.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.2",
+    "Installed":      "src/eureka-client/1.8.2",
+    "Source":         "src/eureka-client/1.8.2/eureka-client-1.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.1",
+    "Installed":      "src/eureka-client/1.8.1",
+    "Source":         "src/eureka-client/1.8.1/eureka-client-1.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.0",
     "Installed":      "src/eureka-client/1.8.0",
     "Source":         "src/eureka-client/1.8.0/eureka-client-1.8.0.jar",
@@ -21,6 +70,20 @@
     "Changelog":      "Off",
     "PkgDiff":        "Off",
     "Deleted":        1
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/eureka-client/1.7.2",
+    "Source":         "src/eureka-client/1.7.2/eureka-client-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/eureka-client/1.7.1",
+    "Source":         "src/eureka-client/1.7.1/eureka-client-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
   },
   {
     "Number":         "1.7.0",

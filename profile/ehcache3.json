@@ -1,0 +1,152 @@
+{
+  "Name":           "ehcache3",
+  "Title":          "Ehcache 3",
+  "SourceUrl":      "http://central.maven.org/maven2/org/ehcache/ehcache/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "ehcache",
+  "SkipInternalPackages": "(org\.ehcache\.(core|xml|jsr107|transactions)|org\.terracotta).*",
+
+  "Versions": [
+  {
+    "Number":         "3.5.2",
+    "Installed":      "src/ehcache3/3.5.2",
+    "Source":         "src/ehcache3/3.5.2/ehcache-3.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/ehcache3/3.5.1",
+    "Source":         "src/ehcache3/3.5.1/ehcache-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/ehcache3/3.5.0",
+    "Source":         "src/ehcache3/3.5.0/ehcache-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/ehcache3/3.4.0",
+    "Source":         "src/ehcache3/3.4.0/ehcache-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.2",
+    "Installed":      "src/ehcache3/3.3.2",
+    "Source":         "src/ehcache3/3.3.2/ehcache-3.3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.1",
+    "Installed":      "src/ehcache3/3.3.1",
+    "Source":         "src/ehcache3/3.3.1/ehcache-3.3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/ehcache3/3.3.0",
+    "Source":         "src/ehcache3/3.3.0/ehcache-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "src/ehcache3/3.2.3",
+    "Source":         "src/ehcache3/3.2.3/ehcache-3.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "src/ehcache3/3.2.2",
+    "Source":         "src/ehcache3/3.2.2/ehcache-3.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "src/ehcache3/3.2.1",
+    "Source":         "src/ehcache3/3.2.1/ehcache-3.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "src/ehcache3/3.2.0",
+    "Source":         "src/ehcache3/3.2.0/ehcache-3.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.4",
+    "Installed":      "src/ehcache3/3.1.4",
+    "Source":         "src/ehcache3/3.1.4/ehcache-3.1.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.3",
+    "Installed":      "src/ehcache3/3.1.3",
+    "Source":         "src/ehcache3/3.1.3/ehcache-3.1.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/ehcache3/3.1.2",
+    "Source":         "src/ehcache3/3.1.2/ehcache-3.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/ehcache3/3.1.1",
+    "Source":         "src/ehcache3/3.1.1/ehcache-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/ehcache3/3.1.0",
+    "Source":         "src/ehcache3/3.1.0/ehcache-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/ehcache3/3.0.3",
+    "Source":         "src/ehcache3/3.0.3/ehcache-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/ehcache3/3.0.2",
+    "Source":         "src/ehcache3/3.0.2/ehcache-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/ehcache3/3.0.1",
+    "Source":         "src/ehcache3/3.0.1/ehcache-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/ehcache3/3.0.0",
+    "Source":         "src/ehcache3/3.0.0/ehcache-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Comment":        "Checking <a href='http://www.ehcache.org/apidocs/3.4.0/index.html'>documented</a> class packages only."
+  }]
+}

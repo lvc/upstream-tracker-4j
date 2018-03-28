@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "7.0.3",
+    "Installed":      "src/javacc/7.0.3",
+    "Source":         "src/javacc/7.0.3/javacc-7.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "7.0.2",
     "Installed":      "src/javacc/7.0.2",
     "Source":         "src/javacc/7.0.2/javacc-7.0.2.jar",

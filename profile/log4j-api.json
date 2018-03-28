@@ -4,8 +4,41 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/apache/logging/log4j/log4j-api/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://repository.apache.org/content/repositories/snapshots/org/apache/logging/log4j/log4j-api/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/log4j-api/SNAPSHOT",
+    "Source":         "src/log4j-api/SNAPSHOT/log4j-api-3.0.0-20180321.114319-57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/log4j-api/2.11.0",
+    "Source":         "src/log4j-api/2.11.0/log4j-api-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/log4j-api/2.10.0",
+    "Source":         "src/log4j-api/2.10.0/log4j-api-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/log4j-api/2.9.1",
+    "Source":         "src/log4j-api/2.9.1/log4j-api-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.9.0",
     "Installed":      "src/log4j-api/2.9.0",

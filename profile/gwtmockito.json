@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "1.1.8",
+    "Installed":      "src/gwtmockito/1.1.8",
+    "Source":         "src/gwtmockito/1.1.8/gwtmockito-1.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.7",
+    "Installed":      "src/gwtmockito/1.1.7",
+    "Source":         "src/gwtmockito/1.1.7/gwtmockito-1.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.1.6",
     "Installed":      "src/gwtmockito/1.1.6",
     "Source":         "src/gwtmockito/1.1.6/gwtmockito-1.1.6.jar",

@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.16.0",
+    "Installed":      "installed/paypal-android-sdk/2.16.0",
+    "Source":         "src/paypal-android-sdk/2.16.0/paypal-android-sdk-2.16.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.15.3",
     "Installed":      "installed/paypal-android-sdk/2.15.3",
     "Source":         "src/paypal-android-sdk/2.15.3/paypal-android-sdk-2.15.3.aar",

@@ -7,6 +7,41 @@
 
   "Versions": [
   {
+    "Number":         "2.6.0",
+    "Installed":      "src/snmp4j/2.6.0",
+    "Source":         "src/snmp4j/2.6.0/snmp4j-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.11",
+    "Installed":      "src/snmp4j/2.5.11",
+    "Source":         "src/snmp4j/2.5.11/snmp4j-2.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.10",
+    "Installed":      "src/snmp4j/2.5.10",
+    "Source":         "src/snmp4j/2.5.10/snmp4j-2.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.9",
+    "Installed":      "src/snmp4j/2.5.9",
+    "Source":         "src/snmp4j/2.5.9/snmp4j-2.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.8",
+    "Installed":      "src/snmp4j/2.5.8",
+    "Source":         "src/snmp4j/2.5.8/snmp4j-2.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.5.7",
     "Installed":      "src/snmp4j/2.5.7",
     "Source":         "src/snmp4j/2.5.7/snmp4j-2.5.7.jar",

@@ -5,8 +5,42 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "SkipVersions":   [ ".*R\d+" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/mozilla/rhino/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/rhino/SNAPSHOT",
+    "Source":         "src/rhino/SNAPSHOT/rhino-1.7.8-20170922.183514-57.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.9",
+    "Installed":      "src/rhino/1.7.9",
+    "Source":         "src/rhino/1.7.9/rhino-1.7.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.8",
+    "Installed":      "src/rhino/1.7.8",
+    "Source":         "src/rhino/1.7.8/rhino-1.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.8-RC1",
+    "Installed":      "src/rhino/1.7.8-RC1",
+    "Source":         "src/rhino/1.7.8-RC1/rhino-1.7.8-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
   {
     "Number":         "1.7.7.2",
     "Installed":      "src/rhino/1.7.7.2",
@@ -32,6 +66,27 @@
     "Number":         "1.7.6",
     "Installed":      "src/rhino/1.7.6",
     "Source":         "src/rhino/1.7.6/rhino-1.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.5",
+    "Installed":      "src/rhino/1.7.5",
+    "Source":         "src/rhino/1.7.5/rhino-1.7R5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.4",
+    "Installed":      "src/rhino/1.7.4",
+    "Source":         "src/rhino/1.7.4/rhino-1.7R4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/rhino/1.7.3",
+    "Source":         "src/rhino/1.7.3/rhino-1.7R3.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   }]

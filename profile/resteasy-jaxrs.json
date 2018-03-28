@@ -7,6 +7,28 @@
 
   "Versions": [
   {
+    "Number":         "4.0.0.Beta2",
+    "Installed":      "src/resteasy-jaxrs/4.0.0.Beta2",
+    "Source":         "src/resteasy-jaxrs/4.0.0.Beta2/resteasy-jaxrs-4.0.0.Beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0.Beta1",
+    "Installed":      "src/resteasy-jaxrs/4.0.0.Beta1",
+    "Source":         "src/resteasy-jaxrs/4.0.0.Beta1/resteasy-jaxrs-4.0.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/resteasy-jaxrs/3.5.0",
+    "Source":         "src/resteasy-jaxrs/3.5.0/resteasy-jaxrs-3.5.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.1.4",
     "Installed":      "src/resteasy-jaxrs/3.1.4",
     "Source":         "src/resteasy-jaxrs/3.1.4/resteasy-jaxrs-3.1.4.Final.jar",

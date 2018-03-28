@@ -8,6 +8,21 @@
 
   "Versions": [
   {
+    "Number":         "3.6.0-M2",
+    "Installed":      "src/json4s-native/3.6.0-M2",
+    "Source":         "src/json4s-native/3.6.0-M2/json4s-native_2.11-3.6.0-M2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0-M1",
+    "Installed":      "src/json4s-native/3.6.0-M1",
+    "Source":         "src/json4s-native/3.6.0-M1/json4s-native_2.11-3.6.0-M1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "3.5.3",
     "Installed":      "src/json4s-native/3.5.3",
     "Source":         "src/json4s-native/3.5.3/json4s-native_2.11-3.5.3.jar",

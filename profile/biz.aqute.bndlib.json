@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "3.5.0",
+    "Installed":      "src/biz.aqute.bndlib/3.5.0",
+    "Source":         "src/biz.aqute.bndlib/3.5.0/biz.aQute.bndlib-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.4.0",
     "Installed":      "src/biz.aqute.bndlib/3.4.0",
     "Source":         "src/biz.aqute.bndlib/3.4.0/biz.aQute.bndlib-3.4.0.jar",

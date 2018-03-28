@@ -9,6 +9,20 @@
 
   "Versions": [
   {
+    "Number":         "2.4.0",
+    "Installed":      "src/mvel/2.4.0",
+    "Source":         "src/mvel/2.4.0/mvel2-2.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.2",
+    "Installed":      "src/mvel/2.3.2",
+    "Source":         "src/mvel/2.3.2/mvel2-2.3.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.3.1",
     "Installed":      "src/mvel/2.3.1",
     "Source":         "src/mvel/2.3.1/mvel2-2.3.1.Final.jar",

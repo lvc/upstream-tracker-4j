@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "1.17.5",
+    "Installed":      "src/governator/1.17.5",
+    "Source":         "src/governator/1.17.5/governator-1.17.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.17.4",
     "Installed":      "src/governator/1.17.4",
     "Source":         "src/governator/1.17.4/governator-1.17.4.jar",

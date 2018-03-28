@@ -7,6 +7,43 @@
 
   "Versions": [
   {
+    "Number":         "2.3.0",
+    "Installed":      "src/rdf4j-sail-memory/2.3.0",
+    "Source":         "src/rdf4j-sail-memory/2.3.0/rdf4j-sail-memory-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.0-M2",
+    "Installed":      "src/rdf4j-sail-memory/2.3.0-M2",
+    "Source":         "src/rdf4j-sail-memory/2.3.0-M2/rdf4j-sail-memory-2.3.0-M2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.3-M1",
+    "Installed":      "src/rdf4j-sail-memory/2.3-M1",
+    "Source":         "src/rdf4j-sail-memory/2.3-M1/rdf4j-sail-memory-2.3-M1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.2.4",
+    "Installed":      "src/rdf4j-sail-memory/2.2.4",
+    "Source":         "src/rdf4j-sail-memory/2.2.4/rdf4j-sail-memory-2.2.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/rdf4j-sail-memory/2.2.3",
+    "Source":         "src/rdf4j-sail-memory/2.2.3/rdf4j-sail-memory-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.2.2",
     "Installed":      "src/rdf4j-sail-memory/2.2.2",
     "Source":         "src/rdf4j-sail-memory/2.2.2/rdf4j-sail-memory-2.2.2.jar",

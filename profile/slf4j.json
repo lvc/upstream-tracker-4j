@@ -8,11 +8,35 @@
 
   "Versions": [
   {
+    "Number":         "1.8.0-beta2",
+    "Installed":      "installed/slf4j/1.8.0-beta2",
+    "Source":         "src/slf4j/1.8.0-beta2/slf4j-1.8.0-beta2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0-beta1",
+    "Installed":      "installed/slf4j/1.8.0-beta1",
+    "Source":         "src/slf4j/1.8.0-beta1/slf4j-1.8.0-beta1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.8.0-beta0",
+    "Installed":      "installed/slf4j/1.8.0-beta0",
+    "Source":         "src/slf4j/1.8.0-beta0/slf4j-1.8.0-beta0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "1.8.0-alpha2",
     "Installed":      "installed/slf4j/1.8.0-alpha2",
     "Source":         "src/slf4j/1.8.0-alpha2/slf4j-1.8.0-alpha2.zip",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "1.8.0-alpha1",

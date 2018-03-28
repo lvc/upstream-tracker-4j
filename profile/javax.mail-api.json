@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.6.1",
+    "Installed":      "src/javax.mail-api/1.6.1",
+    "Source":         "src/javax.mail-api/1.6.1/javax.mail-api-1.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.6.0",
     "Installed":      "src/javax.mail-api/1.6.0",
     "Source":         "src/javax.mail-api/1.6.0/javax.mail-api-1.6.0.jar",

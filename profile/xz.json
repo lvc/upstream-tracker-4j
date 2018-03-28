@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "1.8",
+    "Installed":      "src/xz/1.8",
+    "Source":         "src/xz/1.8/xz-1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7",
+    "Installed":      "src/xz/1.7",
+    "Source":         "src/xz/1.7/xz-1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.6",
     "Installed":      "src/xz/1.6",
     "Source":         "src/xz/1.6/xz-1.6.jar",

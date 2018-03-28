@@ -8,6 +8,237 @@
 
   "Versions": [
   {
+    "Number":         "2.18.1",
+    "Installed":      "src/fast-classpath-scanner/2.18.1",
+    "Source":         "src/fast-classpath-scanner/2.18.1/fast-classpath-scanner-2.18.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.18.0",
+    "Installed":      "src/fast-classpath-scanner/2.18.0",
+    "Source":         "src/fast-classpath-scanner/2.18.0/fast-classpath-scanner-2.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.0",
+    "Installed":      "src/fast-classpath-scanner/2.16.0",
+    "Source":         "src/fast-classpath-scanner/2.16.0/fast-classpath-scanner-2.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "src/fast-classpath-scanner/2.14.1",
+    "Source":         "src/fast-classpath-scanner/2.14.1/fast-classpath-scanner-2.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "src/fast-classpath-scanner/2.14.0",
+    "Source":         "src/fast-classpath-scanner/2.14.0/fast-classpath-scanner-2.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.6",
+    "Installed":      "src/fast-classpath-scanner/2.12.6",
+    "Source":         "src/fast-classpath-scanner/2.12.6/fast-classpath-scanner-2.12.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.5",
+    "Installed":      "src/fast-classpath-scanner/2.12.5",
+    "Source":         "src/fast-classpath-scanner/2.12.5/fast-classpath-scanner-2.12.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.4",
+    "Installed":      "src/fast-classpath-scanner/2.12.4",
+    "Source":         "src/fast-classpath-scanner/2.12.4/fast-classpath-scanner-2.12.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.3",
+    "Installed":      "src/fast-classpath-scanner/2.12.3",
+    "Source":         "src/fast-classpath-scanner/2.12.3/fast-classpath-scanner-2.12.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.2",
+    "Installed":      "src/fast-classpath-scanner/2.12.2",
+    "Source":         "src/fast-classpath-scanner/2.12.2/fast-classpath-scanner-2.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.1",
+    "Installed":      "src/fast-classpath-scanner/2.12.1",
+    "Source":         "src/fast-classpath-scanner/2.12.1/fast-classpath-scanner-2.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/fast-classpath-scanner/2.12.0",
+    "Source":         "src/fast-classpath-scanner/2.12.0/fast-classpath-scanner-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.1",
+    "Installed":      "src/fast-classpath-scanner/2.11.1",
+    "Source":         "src/fast-classpath-scanner/2.11.1/fast-classpath-scanner-2.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/fast-classpath-scanner/2.11.0",
+    "Source":         "src/fast-classpath-scanner/2.11.0/fast-classpath-scanner-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/fast-classpath-scanner/2.10.0",
+    "Source":         "src/fast-classpath-scanner/2.10.0/fast-classpath-scanner-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.5",
+    "Installed":      "src/fast-classpath-scanner/2.9.5",
+    "Source":         "src/fast-classpath-scanner/2.9.5/fast-classpath-scanner-2.9.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.4",
+    "Installed":      "src/fast-classpath-scanner/2.9.4",
+    "Source":         "src/fast-classpath-scanner/2.9.4/fast-classpath-scanner-2.9.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.3",
+    "Installed":      "src/fast-classpath-scanner/2.9.3",
+    "Source":         "src/fast-classpath-scanner/2.9.3/fast-classpath-scanner-2.9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.2",
+    "Installed":      "src/fast-classpath-scanner/2.9.2",
+    "Source":         "src/fast-classpath-scanner/2.9.2/fast-classpath-scanner-2.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/fast-classpath-scanner/2.9.1",
+    "Source":         "src/fast-classpath-scanner/2.9.1/fast-classpath-scanner-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.2",
+    "Installed":      "src/fast-classpath-scanner/2.8.2",
+    "Source":         "src/fast-classpath-scanner/2.8.2/fast-classpath-scanner-2.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.1",
+    "Installed":      "src/fast-classpath-scanner/2.8.1",
+    "Source":         "src/fast-classpath-scanner/2.8.1/fast-classpath-scanner-2.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.0",
+    "Installed":      "src/fast-classpath-scanner/2.8.0",
+    "Source":         "src/fast-classpath-scanner/2.8.0/fast-classpath-scanner-2.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/fast-classpath-scanner/2.7.5",
+    "Source":         "src/fast-classpath-scanner/2.7.5/fast-classpath-scanner-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/fast-classpath-scanner/2.7.4",
+    "Source":         "src/fast-classpath-scanner/2.7.4/fast-classpath-scanner-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "src/fast-classpath-scanner/2.7.3",
+    "Source":         "src/fast-classpath-scanner/2.7.3/fast-classpath-scanner-2.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/fast-classpath-scanner/2.7.2",
+    "Source":         "src/fast-classpath-scanner/2.7.2/fast-classpath-scanner-2.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/fast-classpath-scanner/2.7.1",
+    "Source":         "src/fast-classpath-scanner/2.7.1/fast-classpath-scanner-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/fast-classpath-scanner/2.7.0",
+    "Source":         "src/fast-classpath-scanner/2.7.0/fast-classpath-scanner-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/fast-classpath-scanner/2.6.2",
+    "Source":         "src/fast-classpath-scanner/2.6.2/fast-classpath-scanner-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/fast-classpath-scanner/2.6.1",
+    "Source":         "src/fast-classpath-scanner/2.6.1/fast-classpath-scanner-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.7",
+    "Installed":      "src/fast-classpath-scanner/2.4.7",
+    "Source":         "src/fast-classpath-scanner/2.4.7/fast-classpath-scanner-2.4.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.6",
+    "Installed":      "src/fast-classpath-scanner/2.4.6",
+    "Source":         "src/fast-classpath-scanner/2.4.6/fast-classpath-scanner-2.4.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.4.5",
     "Installed":      "src/fast-classpath-scanner/2.4.5",
     "Source":         "src/fast-classpath-scanner/2.4.5/fast-classpath-scanner-2.4.5.jar",

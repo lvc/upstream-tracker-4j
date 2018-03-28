@@ -1,0 +1,66 @@
+{
+  "Name":           "junit-platform-surefire-provider",
+  "Title":          "JUnit Platform Surefire Provider",
+  "SourceUrl":      "http://central.maven.org/maven2/org/junit/platform/junit-platform-surefire-provider/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+  "SkipVersions":   [ ".*\-M\d.*" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d+\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/junit/platform/junit-platform-surefire-provider/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
+
+  "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/junit-platform-surefire-provider/SNAPSHOT",
+    "Source":         "src/junit-platform-surefire-provider/SNAPSHOT/junit-platform-surefire-provider-1.2.0-20180324.212002-51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/junit-platform-surefire-provider/1.1.0",
+    "Source":         "src/junit-platform-surefire-provider/1.1.0/junit-platform-surefire-provider-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0-RC1",
+    "Installed":      "src/junit-platform-surefire-provider/1.1.0-RC1",
+    "Source":         "src/junit-platform-surefire-provider/1.1.0-RC1/junit-platform-surefire-provider-1.1.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.0.3",
+    "Installed":      "src/junit-platform-surefire-provider/1.0.3",
+    "Source":         "src/junit-platform-surefire-provider/1.0.3/junit-platform-surefire-provider-1.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.2",
+    "Installed":      "src/junit-platform-surefire-provider/1.0.2",
+    "Source":         "src/junit-platform-surefire-provider/1.0.2/junit-platform-surefire-provider-1.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/junit-platform-surefire-provider/1.0.1",
+    "Source":         "src/junit-platform-surefire-provider/1.0.1/junit-platform-surefire-provider-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/junit-platform-surefire-provider/1.0.0",
+    "Source":         "src/junit-platform-surefire-provider/1.0.0/junit-platform-surefire-provider-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

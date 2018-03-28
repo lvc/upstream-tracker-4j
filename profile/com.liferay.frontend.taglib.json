@@ -8,6 +8,69 @@
 
   "Versions": [
   {
+    "Number":         "2.2.14",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.14",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.14/com.liferay.frontend.taglib-2.2.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.13",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.13",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.13/com.liferay.frontend.taglib-2.2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.12",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.12",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.12/com.liferay.frontend.taglib-2.2.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.11",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.11",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.11/com.liferay.frontend.taglib-2.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.10",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.10",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.10/com.liferay.frontend.taglib-2.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.9",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.9",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.9/com.liferay.frontend.taglib-2.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.8",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.8",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.8/com.liferay.frontend.taglib-2.2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.7",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.7",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.7/com.liferay.frontend.taglib-2.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.6",
+    "Installed":      "src/com.liferay.frontend.taglib/2.2.6",
+    "Source":         "src/com.liferay.frontend.taglib/2.2.6/com.liferay.frontend.taglib-2.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.2.5",
     "Installed":      "src/com.liferay.frontend.taglib/2.2.5",
     "Source":         "src/com.liferay.frontend.taglib/2.2.5/com.liferay.frontend.taglib-2.2.5.jar",

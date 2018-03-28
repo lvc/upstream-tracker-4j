@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.0.9",
+    "Installed":      "src/spring-security-jwt/1.0.9",
+    "Source":         "src/spring-security-jwt/1.0.9/spring-security-jwt-1.0.9.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.0.8",
     "Installed":      "src/spring-security-jwt/1.0.8",
     "Source":         "src/spring-security-jwt/1.0.8/spring-security-jwt-1.0.8.RELEASE.jar",

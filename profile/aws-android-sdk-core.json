@@ -7,6 +7,132 @@
 
   "Versions": [
   {
+    "Number":         "2.6.17",
+    "Installed":      "src/aws-android-sdk-core/2.6.17",
+    "Source":         "src/aws-android-sdk-core/2.6.17/aws-android-sdk-core-2.6.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.16",
+    "Installed":      "src/aws-android-sdk-core/2.6.16",
+    "Source":         "src/aws-android-sdk-core/2.6.16/aws-android-sdk-core-2.6.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.15",
+    "Installed":      "src/aws-android-sdk-core/2.6.15",
+    "Source":         "src/aws-android-sdk-core/2.6.15/aws-android-sdk-core-2.6.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.14",
+    "Installed":      "src/aws-android-sdk-core/2.6.14",
+    "Source":         "src/aws-android-sdk-core/2.6.14/aws-android-sdk-core-2.6.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.13",
+    "Installed":      "src/aws-android-sdk-core/2.6.13",
+    "Source":         "src/aws-android-sdk-core/2.6.13/aws-android-sdk-core-2.6.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.12",
+    "Installed":      "src/aws-android-sdk-core/2.6.12",
+    "Source":         "src/aws-android-sdk-core/2.6.12/aws-android-sdk-core-2.6.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.11",
+    "Installed":      "src/aws-android-sdk-core/2.6.11",
+    "Source":         "src/aws-android-sdk-core/2.6.11/aws-android-sdk-core-2.6.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.10",
+    "Installed":      "src/aws-android-sdk-core/2.6.10",
+    "Source":         "src/aws-android-sdk-core/2.6.10/aws-android-sdk-core-2.6.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.9",
+    "Installed":      "src/aws-android-sdk-core/2.6.9",
+    "Source":         "src/aws-android-sdk-core/2.6.9/aws-android-sdk-core-2.6.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.8",
+    "Installed":      "src/aws-android-sdk-core/2.6.8",
+    "Source":         "src/aws-android-sdk-core/2.6.8/aws-android-sdk-core-2.6.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.7",
+    "Installed":      "src/aws-android-sdk-core/2.6.7",
+    "Source":         "src/aws-android-sdk-core/2.6.7/aws-android-sdk-core-2.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.6",
+    "Installed":      "src/aws-android-sdk-core/2.6.6",
+    "Source":         "src/aws-android-sdk-core/2.6.6/aws-android-sdk-core-2.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "src/aws-android-sdk-core/2.6.5",
+    "Source":         "src/aws-android-sdk-core/2.6.5/aws-android-sdk-core-2.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.4",
+    "Installed":      "src/aws-android-sdk-core/2.6.4",
+    "Source":         "src/aws-android-sdk-core/2.6.4/aws-android-sdk-core-2.6.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.3",
+    "Installed":      "src/aws-android-sdk-core/2.6.3",
+    "Source":         "src/aws-android-sdk-core/2.6.3/aws-android-sdk-core-2.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/aws-android-sdk-core/2.6.2",
+    "Source":         "src/aws-android-sdk-core/2.6.2/aws-android-sdk-core-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.1",
+    "Installed":      "src/aws-android-sdk-core/2.6.1",
+    "Source":         "src/aws-android-sdk-core/2.6.1/aws-android-sdk-core-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/aws-android-sdk-core/2.6.0",
+    "Source":         "src/aws-android-sdk-core/2.6.0/aws-android-sdk-core-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.4.7",
     "Installed":      "src/aws-android-sdk-core/2.4.7",
     "Source":         "src/aws-android-sdk-core/2.4.7/aws-android-sdk-core-2.4.7.jar",

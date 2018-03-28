@@ -9,6 +9,13 @@
 
   "Versions": [
   {
+    "Number":         "5.0",
+    "Installed":      "src/logstash-logback-encoder/5.0",
+    "Source":         "src/logstash-logback-encoder/5.0/logstash-logback-encoder-5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.11",
     "Installed":      "src/logstash-logback-encoder/4.11",
     "Source":         "src/logstash-logback-encoder/4.11/logstash-logback-encoder-4.11.jar",

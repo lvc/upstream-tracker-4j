@@ -4,9 +4,17 @@
   "SourceUrl":      "http://repo2.maven.org/maven2/com/h2database/h2/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckPackages":  "\Aorg\.h2\.(tools.*|Driver|api.*)\Z",
   "SkipVersions":   [ ".*\d\d\d\d\d\d\d\d.*" ],
 
   "Versions": [
+  {
+    "Number":         "1.4.197",
+    "Installed":      "src/h2/1.4.197",
+    "Source":         "src/h2/1.4.197/h2-1.4.197.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.4.196",
     "Installed":      "src/h2/1.4.196",
@@ -845,6 +853,7 @@
     "Installed":      "src/h2/1.0.57",
     "Source":         "src/h2/1.0.57/h2-1.0.57.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Comment":        "Checking public packages only: org.h2.tools.*, org.h2.Driver and org.h2.api.*."
   }]
 }

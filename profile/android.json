@@ -10,6 +10,13 @@
 
   "Versions": [
   {
+    "Number":         "27_r01",
+    "Installed":      "installed/android/27_r01",
+    "Source":         "src/android/27_r01/platform-27_r01.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "26_r02",
     "Installed":      "installed/android/26_r02",
     "Source":         "src/android/26_r02/platform-26_r02.zip",

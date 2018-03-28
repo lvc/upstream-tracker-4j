@@ -1,11 +1,65 @@
 {
   "Name":           "mariadb-java-client",
-  "Title":          "Mariadb Java Client",
+  "Title":          "MariaDB Connector/J",
   "SourceUrl":      "http://central.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/mariadb/jdbc/mariadb-java-client/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/mariadb-java-client/SNAPSHOT",
+    "Source":         "src/mariadb-java-client/SNAPSHOT/mariadb-java-client-2.3.0-20180308.141405-6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.3",
+    "Installed":      "src/mariadb-java-client/2.2.3",
+    "Source":         "src/mariadb-java-client/2.2.3/mariadb-java-client-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.2",
+    "Installed":      "src/mariadb-java-client/2.2.2",
+    "Source":         "src/mariadb-java-client/2.2.2/mariadb-java-client-2.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.1",
+    "Installed":      "src/mariadb-java-client/2.2.1",
+    "Source":         "src/mariadb-java-client/2.2.1/mariadb-java-client-2.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.0",
+    "Installed":      "src/mariadb-java-client/2.2.0",
+    "Source":         "src/mariadb-java-client/2.2.0/mariadb-java-client-2.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.2",
+    "Installed":      "src/mariadb-java-client/2.1.2",
+    "Source":         "src/mariadb-java-client/2.1.2/mariadb-java-client-2.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.1",
+    "Installed":      "src/mariadb-java-client/2.1.1",
+    "Source":         "src/mariadb-java-client/2.1.1/mariadb-java-client-2.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.1.0",
     "Installed":      "src/mariadb-java-client/2.1.0",
@@ -31,6 +85,48 @@
     "Number":         "2.0.1",
     "Installed":      "src/mariadb-java-client/2.0.1",
     "Source":         "src/mariadb-java-client/2.0.1/mariadb-java-client-2.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.3",
+    "Installed":      "src/mariadb-java-client/1.7.3",
+    "Source":         "src/mariadb-java-client/1.7.3/mariadb-java-client-1.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.2",
+    "Installed":      "src/mariadb-java-client/1.7.2",
+    "Source":         "src/mariadb-java-client/1.7.2/mariadb-java-client-1.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.1",
+    "Installed":      "src/mariadb-java-client/1.7.1",
+    "Source":         "src/mariadb-java-client/1.7.1/mariadb-java-client-1.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.7.0",
+    "Installed":      "src/mariadb-java-client/1.7.0",
+    "Source":         "src/mariadb-java-client/1.7.0/mariadb-java-client-1.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.5",
+    "Installed":      "src/mariadb-java-client/1.6.5",
+    "Source":         "src/mariadb-java-client/1.6.5/mariadb-java-client-1.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.6.4",
+    "Installed":      "src/mariadb-java-client/1.6.4",
+    "Source":         "src/mariadb-java-client/1.6.4/mariadb-java-client-1.6.4.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

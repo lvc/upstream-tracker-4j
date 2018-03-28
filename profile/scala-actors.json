@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "2.11.12",
+    "Installed":      "src/scala-actors/2.11.12",
+    "Source":         "src/scala-actors/2.11.12/scala-actors-2.11.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.11.11",
     "Installed":      "src/scala-actors/2.11.11",
     "Source":         "src/scala-actors/2.11.11/scala-actors-2.11.11.jar",
@@ -88,6 +95,13 @@
     "Number":         "2.11.0",
     "Installed":      "src/scala-actors/2.11.0",
     "Source":         "src/scala-actors/2.11.0/scala-actors-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.7",
+    "Installed":      "src/scala-actors/2.10.7",
+    "Source":         "src/scala-actors/2.10.7/scala-actors-2.10.7.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

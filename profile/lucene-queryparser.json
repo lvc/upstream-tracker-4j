@@ -9,6 +9,62 @@
 
   "Versions": [
   {
+    "Number":         "7.2.1",
+    "Installed":      "src/lucene-queryparser/7.2.1",
+    "Source":         "src/lucene-queryparser/7.2.1/lucene-queryparser-7.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0",
+    "Installed":      "src/lucene-queryparser/7.2.0",
+    "Source":         "src/lucene-queryparser/7.2.0/lucene-queryparser-7.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "src/lucene-queryparser/7.1.0",
+    "Source":         "src/lucene-queryparser/7.1.0/lucene-queryparser-7.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.1",
+    "Installed":      "src/lucene-queryparser/7.0.1",
+    "Source":         "src/lucene-queryparser/7.0.1/lucene-queryparser-7.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "src/lucene-queryparser/7.0.0",
+    "Source":         "src/lucene-queryparser/7.0.0/lucene-queryparser-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.3",
+    "Installed":      "src/lucene-queryparser/6.6.3",
+    "Source":         "src/lucene-queryparser/6.6.3/lucene-queryparser-6.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2",
+    "Installed":      "src/lucene-queryparser/6.6.2",
+    "Source":         "src/lucene-queryparser/6.6.2/lucene-queryparser-6.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1",
+    "Installed":      "src/lucene-queryparser/6.6.1",
+    "Source":         "src/lucene-queryparser/6.6.1/lucene-queryparser-6.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "6.6.0",
     "Installed":      "src/lucene-queryparser/6.6.0",
     "Source":         "src/lucene-queryparser/6.6.0/lucene-queryparser-6.6.0.jar",
@@ -89,6 +145,13 @@
     "Number":         "6.0.0",
     "Installed":      "src/lucene-queryparser/6.0.0",
     "Source":         "src/lucene-queryparser/6.0.0/lucene-queryparser-6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.5",
+    "Installed":      "src/lucene-queryparser/5.5.5",
+    "Source":         "src/lucene-queryparser/5.5.5/lucene-queryparser-5.5.5.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

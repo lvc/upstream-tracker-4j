@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "2.18.0",
+    "Installed":      "src/nscala-time/2.18.0",
+    "Source":         "src/nscala-time/2.18.0/nscala-time_2.11-2.18.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.16.0",
     "Installed":      "src/nscala-time/2.16.0",
     "Source":         "src/nscala-time/2.16.0/nscala-time_2.11-2.16.0.jar",

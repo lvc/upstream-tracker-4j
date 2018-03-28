@@ -15,6 +15,62 @@
 
   "Versions": [
   {
+    "Number":         "3.2.4",
+    "Installed":      "installed/cxf/3.2.4",
+    "Source":         "src/cxf/3.2.4/apache-cxf-3.2.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.3",
+    "Installed":      "installed/cxf/3.2.3",
+    "Source":         "src/cxf/3.2.3/apache-cxf-3.2.3.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.2",
+    "Installed":      "installed/cxf/3.2.2",
+    "Source":         "src/cxf/3.2.2/apache-cxf-3.2.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.1",
+    "Installed":      "installed/cxf/3.2.1",
+    "Source":         "src/cxf/3.2.1/apache-cxf-3.2.1.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.0",
+    "Installed":      "installed/cxf/3.2.0",
+    "Source":         "src/cxf/3.2.0/apache-cxf-3.2.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.15",
+    "Installed":      "installed/cxf/3.1.15",
+    "Source":         "src/cxf/3.1.15/apache-cxf-3.1.15.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.14",
+    "Installed":      "installed/cxf/3.1.14",
+    "Source":         "src/cxf/3.1.14/apache-cxf-3.1.14.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.13",
+    "Installed":      "installed/cxf/3.1.13",
+    "Source":         "src/cxf/3.1.13/apache-cxf-3.1.13.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.1.12",
     "Installed":      "installed/cxf/3.1.12",
     "Source":         "src/cxf/3.1.12/apache-cxf-3.1.12.zip",
@@ -102,6 +158,20 @@
     "Number":         "3.1.0",
     "Installed":      "installed/cxf/3.1.0",
     "Source":         "src/cxf/3.1.0/apache-cxf-3.1.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.16",
+    "Installed":      "installed/cxf/3.0.16",
+    "Source":         "src/cxf/3.0.16/apache-cxf-3.0.16.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.15",
+    "Installed":      "installed/cxf/3.0.15",
+    "Source":         "src/cxf/3.0.15/apache-cxf-3.0.15.zip",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

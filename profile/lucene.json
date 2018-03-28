@@ -13,6 +13,62 @@
 
   "Versions": [
   {
+    "Number":         "7.2.1",
+    "Installed":      "installed/lucene/7.2.1",
+    "Source":         "src/lucene/7.2.1/lucene-7.2.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.2.0",
+    "Installed":      "installed/lucene/7.2.0",
+    "Source":         "src/lucene/7.2.0/lucene-7.2.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.1.0",
+    "Installed":      "installed/lucene/7.1.0",
+    "Source":         "src/lucene/7.1.0/lucene-7.1.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.1",
+    "Installed":      "installed/lucene/7.0.1",
+    "Source":         "src/lucene/7.0.1/lucene-7.0.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.0.0",
+    "Installed":      "installed/lucene/7.0.0",
+    "Source":         "src/lucene/7.0.0/lucene-7.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.3",
+    "Installed":      "installed/lucene/6.6.3",
+    "Source":         "src/lucene/6.6.3/lucene-6.6.3.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.2",
+    "Installed":      "installed/lucene/6.6.2",
+    "Source":         "src/lucene/6.6.2/lucene-6.6.2.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.6.1",
+    "Installed":      "installed/lucene/6.6.1",
+    "Source":         "src/lucene/6.6.1/lucene-6.6.1.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "6.6.0",
     "Installed":      "installed/lucene/6.6.0",
     "Source":         "src/lucene/6.6.0/lucene-6.6.0.zip",
@@ -93,6 +149,13 @@
     "Number":         "6.0.0",
     "Installed":      "installed/lucene/6.0.0",
     "Source":         "src/lucene/6.0.0/lucene-6.0.0.zip",
+    "Changelog":      "CHANGES.txt",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.5",
+    "Installed":      "installed/lucene/5.5.5",
+    "Source":         "src/lucene/5.5.5/lucene-5.5.5.zip",
     "Changelog":      "CHANGES.txt",
     "PkgDiff":        "Off"
   },

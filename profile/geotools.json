@@ -16,6 +16,87 @@
 
   "Versions": [
   {
+    "Number":         "19.0",
+    "Installed":      "installed/geotools/19.0",
+    "Source":         "src/geotools/19.0/geotools-19.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "19-RC1",
+    "Installed":      "installed/geotools/19-RC1",
+    "Source":         "src/geotools/19-RC1/geotools-19-RC1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "19-beta",
+    "Installed":      "installed/geotools/19-beta",
+    "Source":         "src/geotools/19-beta/geotools-19-beta-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "18.2",
+    "Installed":      "installed/geotools/18.2",
+    "Source":         "src/geotools/18.2/geotools-18.2-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.1",
+    "Installed":      "installed/geotools/18.1",
+    "Source":         "src/geotools/18.1/geotools-18.1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18.0",
+    "Installed":      "installed/geotools/18.0",
+    "Source":         "src/geotools/18.0/geotools-18.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "18-RC1",
+    "Installed":      "installed/geotools/18-RC1",
+    "Source":         "src/geotools/18-RC1/geotools-18-RC1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "18-beta",
+    "Installed":      "installed/geotools/18-beta",
+    "Source":         "src/geotools/18-beta/geotools-18-beta-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "17.5",
+    "Installed":      "installed/geotools/17.5",
+    "Source":         "src/geotools/17.5/geotools-17.5-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.4",
+    "Installed":      "installed/geotools/17.4",
+    "Source":         "src/geotools/17.4/geotools-17.4-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "17.3",
+    "Installed":      "installed/geotools/17.3",
+    "Source":         "src/geotools/17.3/geotools-17.3-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "17.2",
     "Installed":      "installed/geotools/17.2",
     "Source":         "src/geotools/17.2/geotools-17.2-bin.zip",

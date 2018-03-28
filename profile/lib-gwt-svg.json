@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "0.5.15",
+    "Installed":      "src/lib-gwt-svg/0.5.15",
+    "Source":         "src/lib-gwt-svg/0.5.15/lib-gwt-svg-0.5.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.14",
+    "Installed":      "src/lib-gwt-svg/0.5.14",
+    "Source":         "src/lib-gwt-svg/0.5.14/lib-gwt-svg-0.5.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.5.13",
     "Installed":      "src/lib-gwt-svg/0.5.13",
     "Source":         "src/lib-gwt-svg/0.5.13/lib-gwt-svg-0.5.13.jar",

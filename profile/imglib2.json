@@ -4,8 +4,30 @@
   "SourceUrl":      "http://central.maven.org/maven2/net/imglib2/imglib2/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "2.0.1",
 
   "Versions": [
+  {
+    "Number":         "4.6.0",
+    "Installed":      "src/imglib2/4.6.0",
+    "Source":         "src/imglib2/4.6.0/imglib2-4.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.0",
+    "Installed":      "src/imglib2/4.5.0",
+    "Source":         "src/imglib2/4.5.0/imglib2-4.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.4.0",
+    "Installed":      "src/imglib2/4.4.0",
+    "Source":         "src/imglib2/4.4.0/imglib2-4.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "4.3.0",
     "Installed":      "src/imglib2/4.3.0",
@@ -171,13 +193,6 @@
     "Number":         "2.0.1",
     "Installed":      "src/imglib2/2.0.1",
     "Source":         "src/imglib2/2.0.1/imglib2-2.0.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.0.0",
-    "Installed":      "src/imglib2/2.0.0",
-    "Source":         "src/imglib2/2.0.0/imglib2-2.0.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   }]

@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "2.29",
+    "Installed":      "src/htmlunit/2.29",
+    "Source":         "src/htmlunit/2.29/htmlunit-2.29.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.28",
+    "Installed":      "src/htmlunit/2.28",
+    "Source":         "src/htmlunit/2.28/htmlunit-2.28.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.27",
     "Installed":      "src/htmlunit/2.27",
     "Source":         "src/htmlunit/2.27/htmlunit-2.27.jar",

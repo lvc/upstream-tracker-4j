@@ -1,0 +1,163 @@
+{
+  "Name":           "nifi-api",
+  "Title":          "Nifi Api",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/nifi/nifi-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "1.5.0",
+    "Installed":      "src/nifi-api/1.5.0",
+    "Source":         "src/nifi-api/1.5.0/nifi-api-1.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.4.0",
+    "Installed":      "src/nifi-api/1.4.0",
+    "Source":         "src/nifi-api/1.4.0/nifi-api-1.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.3.0",
+    "Installed":      "src/nifi-api/1.3.0",
+    "Source":         "src/nifi-api/1.3.0/nifi-api-1.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0",
+    "Installed":      "src/nifi-api/1.2.0",
+    "Source":         "src/nifi-api/1.2.0/nifi-api-1.2.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.2",
+    "Installed":      "src/nifi-api/1.1.2",
+    "Source":         "src/nifi-api/1.1.2/nifi-api-1.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.1",
+    "Installed":      "src/nifi-api/1.1.1",
+    "Source":         "src/nifi-api/1.1.1/nifi-api-1.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.1.0",
+    "Installed":      "src/nifi-api/1.1.0",
+    "Source":         "src/nifi-api/1.1.0/nifi-api-1.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.1",
+    "Installed":      "src/nifi-api/1.0.1",
+    "Source":         "src/nifi-api/1.0.1/nifi-api-1.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.0.0",
+    "Installed":      "src/nifi-api/1.0.0",
+    "Source":         "src/nifi-api/1.0.0/nifi-api-1.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.4",
+    "Installed":      "src/nifi-api/0.7.4",
+    "Source":         "src/nifi-api/0.7.4/nifi-api-0.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.3",
+    "Installed":      "src/nifi-api/0.7.3",
+    "Source":         "src/nifi-api/0.7.3/nifi-api-0.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.2",
+    "Installed":      "src/nifi-api/0.7.2",
+    "Source":         "src/nifi-api/0.7.2/nifi-api-0.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/nifi-api/0.7.1",
+    "Source":         "src/nifi-api/0.7.1/nifi-api-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/nifi-api/0.7.0",
+    "Source":         "src/nifi-api/0.7.0/nifi-api-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.1",
+    "Installed":      "src/nifi-api/0.6.1",
+    "Source":         "src/nifi-api/0.6.1/nifi-api-0.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.6.0",
+    "Installed":      "src/nifi-api/0.6.0",
+    "Source":         "src/nifi-api/0.6.0/nifi-api-0.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.1",
+    "Installed":      "src/nifi-api/0.5.1",
+    "Source":         "src/nifi-api/0.5.1/nifi-api-0.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.5.0",
+    "Installed":      "src/nifi-api/0.5.0",
+    "Source":         "src/nifi-api/0.5.0/nifi-api-0.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.1",
+    "Installed":      "src/nifi-api/0.4.1",
+    "Source":         "src/nifi-api/0.4.1/nifi-api-0.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.4.0",
+    "Installed":      "src/nifi-api/0.4.0",
+    "Source":         "src/nifi-api/0.4.0/nifi-api-0.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.3.0",
+    "Installed":      "src/nifi-api/0.3.0",
+    "Source":         "src/nifi-api/0.3.0/nifi-api-0.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.1",
+    "Installed":      "src/nifi-api/0.2.1",
+    "Source":         "src/nifi-api/0.2.1/nifi-api-0.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

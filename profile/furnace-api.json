@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.27.0",
+    "Installed":      "src/furnace-api/2.27.0",
+    "Source":         "src/furnace-api/2.27.0/furnace-api-2.27.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.26.2",
     "Installed":      "src/furnace-api/2.26.2",
     "Source":         "src/furnace-api/2.26.2/furnace-api-2.26.2.Final.jar",

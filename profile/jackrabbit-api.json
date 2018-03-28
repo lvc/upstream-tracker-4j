@@ -1,0 +1,201 @@
+{
+  "Name":           "jackrabbit-api",
+  "Title":          "Jackrabbit API",
+  "SourceUrl":      "http://central.maven.org/maven2/org/apache/jackrabbit/jackrabbit-api/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+  "MinimalVersion": "2.0.5",
+
+  "Versions": [
+  {
+    "Number":         "2.17.1",
+    "Installed":      "src/jackrabbit-api/2.17.1",
+    "Source":         "src/jackrabbit-api/2.17.1/jackrabbit-api-2.17.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.17.0",
+    "Installed":      "src/jackrabbit-api/2.17.0",
+    "Source":         "src/jackrabbit-api/2.17.0/jackrabbit-api-2.17.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.16.1",
+    "Installed":      "src/jackrabbit-api/2.16.1",
+    "Source":         "src/jackrabbit-api/2.16.1/jackrabbit-api-2.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.16.0",
+    "Installed":      "src/jackrabbit-api/2.16.0",
+    "Source":         "src/jackrabbit-api/2.16.0/jackrabbit-api-2.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.15.8",
+    "Installed":      "src/jackrabbit-api/2.15.8",
+    "Source":         "src/jackrabbit-api/2.15.8/jackrabbit-api-2.15.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.7",
+    "Installed":      "src/jackrabbit-api/2.15.7",
+    "Source":         "src/jackrabbit-api/2.15.7/jackrabbit-api-2.15.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.15.6",
+    "Installed":      "src/jackrabbit-api/2.15.6",
+    "Source":         "src/jackrabbit-api/2.15.6/jackrabbit-api-2.15.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.14.4",
+    "Installed":      "src/jackrabbit-api/2.14.4",
+    "Source":         "src/jackrabbit-api/2.14.4/jackrabbit-api-2.14.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.3",
+    "Installed":      "src/jackrabbit-api/2.14.3",
+    "Source":         "src/jackrabbit-api/2.14.3/jackrabbit-api-2.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.13.7",
+    "Installed":      "src/jackrabbit-api/2.13.7",
+    "Source":         "src/jackrabbit-api/2.13.7/jackrabbit-api-2.13.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.8",
+    "Installed":      "src/jackrabbit-api/2.12.8",
+    "Source":         "src/jackrabbit-api/2.12.8/jackrabbit-api-2.12.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.3",
+    "Installed":      "src/jackrabbit-api/2.11.3",
+    "Source":         "src/jackrabbit-api/2.11.3/jackrabbit-api-2.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.7",
+    "Installed":      "src/jackrabbit-api/2.10.7",
+    "Source":         "src/jackrabbit-api/2.10.7/jackrabbit-api-2.10.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.6",
+    "Installed":      "src/jackrabbit-api/2.10.6",
+    "Source":         "src/jackrabbit-api/2.10.6/jackrabbit-api-2.10.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "src/jackrabbit-api/2.9.1",
+    "Source":         "src/jackrabbit-api/2.9.1/jackrabbit-api-2.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.7",
+    "Installed":      "src/jackrabbit-api/2.8.7",
+    "Source":         "src/jackrabbit-api/2.8.7/jackrabbit-api-2.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8.6",
+    "Installed":      "src/jackrabbit-api/2.8.6",
+    "Source":         "src/jackrabbit-api/2.8.6/jackrabbit-api-2.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/jackrabbit-api/2.7.5",
+    "Source":         "src/jackrabbit-api/2.7.5/jackrabbit-api-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.10",
+    "Installed":      "src/jackrabbit-api/2.6.10",
+    "Source":         "src/jackrabbit-api/2.6.10/jackrabbit-api-2.6.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.9",
+    "Installed":      "src/jackrabbit-api/2.6.9",
+    "Source":         "src/jackrabbit-api/2.6.9/jackrabbit-api-2.6.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.5.3",
+    "Installed":      "src/jackrabbit-api/2.5.3",
+    "Source":         "src/jackrabbit-api/2.5.3/jackrabbit-api-2.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4.8",
+    "Installed":      "src/jackrabbit-api/2.4.8",
+    "Source":         "src/jackrabbit-api/2.4.8/jackrabbit-api-2.4.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.3.7",
+    "Installed":      "src/jackrabbit-api/2.3.7",
+    "Source":         "src/jackrabbit-api/2.3.7/jackrabbit-api-2.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.2.13",
+    "Installed":      "src/jackrabbit-api/2.2.13",
+    "Source":         "src/jackrabbit-api/2.2.13/jackrabbit-api-2.2.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/jackrabbit-api/2.1.6",
+    "Source":         "src/jackrabbit-api/2.1.6/jackrabbit-api-2.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.0.5",
+    "Installed":      "src/jackrabbit-api/2.0.5",
+    "Source":         "src/jackrabbit-api/2.0.5/jackrabbit-api-2.0.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

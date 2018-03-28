@@ -8,6 +8,62 @@
 
   "Versions": [
   {
+    "Number":         "2.14.3",
+    "Installed":      "src/htsjdk/2.14.3",
+    "Source":         "src/htsjdk/2.14.3/htsjdk-2.14.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.2",
+    "Installed":      "src/htsjdk/2.14.2",
+    "Source":         "src/htsjdk/2.14.2/htsjdk-2.14.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.1",
+    "Installed":      "src/htsjdk/2.14.1",
+    "Source":         "src/htsjdk/2.14.1/htsjdk-2.14.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.14.0",
+    "Installed":      "src/htsjdk/2.14.0",
+    "Source":         "src/htsjdk/2.14.0/htsjdk-2.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.2",
+    "Installed":      "src/htsjdk/2.13.2",
+    "Source":         "src/htsjdk/2.13.2/htsjdk-2.13.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.1",
+    "Installed":      "src/htsjdk/2.13.1",
+    "Source":         "src/htsjdk/2.13.1/htsjdk-2.13.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.0",
+    "Installed":      "src/htsjdk/2.13.0",
+    "Source":         "src/htsjdk/2.13.0/htsjdk-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/htsjdk/2.12.0",
+    "Source":         "src/htsjdk/2.12.0/htsjdk-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.11.0",
     "Installed":      "src/htsjdk/2.11.0",
     "Source":         "src/htsjdk/2.11.0/htsjdk-2.11.0.jar",

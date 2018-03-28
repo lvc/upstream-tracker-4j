@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "3.3.0",
+    "Installed":      "src/java-jwt/3.3.0",
+    "Source":         "src/java-jwt/3.3.0/java-jwt-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.2.0",
     "Installed":      "src/java-jwt/3.2.0",
     "Source":         "src/java-jwt/3.2.0/java-jwt-3.2.0.jar",

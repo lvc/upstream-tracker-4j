@@ -10,11 +10,67 @@
 
   "Versions": [
   {
+    "Number":         "2.6.12",
+    "Installed":      "src/play/2.6.12",
+    "Source":         "src/play/2.6.12/play_2.11-2.6.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.11",
+    "Installed":      "src/play/2.6.11",
+    "Source":         "src/play/2.6.11/play_2.11-2.6.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.6.10",
+    "Installed":      "src/play/2.6.10",
+    "Source":         "src/play/2.6.10/play_2.11-2.6.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.6.9",
+    "Installed":      "src/play/2.6.9",
+    "Source":         "src/play/2.6.9/play_2.11-2.6.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.6.7",
+    "Installed":      "src/play/2.6.7",
+    "Source":         "src/play/2.6.7/play_2.11-2.6.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.6.6",
+    "Installed":      "src/play/2.6.6",
+    "Source":         "src/play/2.6.6/play_2.11-2.6.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.6.5",
+    "Installed":      "src/play/2.6.5",
+    "Source":         "src/play/2.6.5/play_2.11-2.6.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.6.3",
     "Installed":      "src/play/2.6.3",
     "Source":         "src/play/2.6.3/play_2.11-2.6.3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.6.2",
@@ -25,11 +81,27 @@
     "Deleted":        1
   },
   {
+    "Number":         "2.5.18",
+    "Installed":      "src/play/2.5.18",
+    "Source":         "src/play/2.5.18/play_2.11-2.5.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.17",
+    "Installed":      "src/play/2.5.17",
+    "Source":         "src/play/2.5.17/play_2.11-2.5.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.5.16",
     "Installed":      "src/play/2.5.16",
     "Source":         "src/play/2.5.16/play_2.11-2.5.16.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.4.11",

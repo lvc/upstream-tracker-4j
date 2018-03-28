@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.90",
+    "Installed":      "src/oval/1.90",
+    "Source":         "src/oval/1.90/oval-1.90.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.87",
     "Installed":      "src/oval/1.87",
     "Source":         "src/oval/1.87/oval-1.87.jar",

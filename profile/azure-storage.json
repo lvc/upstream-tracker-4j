@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "7.0.0",
+    "Installed":      "src/azure-storage/7.0.0",
+    "Source":         "src/azure-storage/7.0.0/azure-storage-7.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.1.0",
+    "Installed":      "src/azure-storage/6.1.0",
+    "Source":         "src/azure-storage/6.1.0/azure-storage-6.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "6.0.0",
+    "Installed":      "src/azure-storage/6.0.0",
+    "Source":         "src/azure-storage/6.0.0/azure-storage-6.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "5.5.0",
     "Installed":      "src/azure-storage/5.5.0",
     "Source":         "src/azure-storage/5.5.0/azure-storage-5.5.0.jar",

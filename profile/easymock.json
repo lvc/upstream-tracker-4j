@@ -4,9 +4,24 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/easymock/easymock/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "CheckPackages":  "org\.easymock.*",
   "SkipPackages":   "filters/skip_packages/easymock.list",
 
   "Versions": [
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/easymock/3.5.1",
+    "Source":         "src/easymock/3.5.1/easymock-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/easymock/3.5",
+    "Source":         "src/easymock/3.5/easymock-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "3.4",
     "Installed":      "src/easymock/3.4",

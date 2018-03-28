@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "3.21.0.1",
+    "Installed":      "src/sqlite-jdbc/3.21.0.1",
+    "Source":         "src/sqlite-jdbc/3.21.0.1/sqlite-jdbc-3.21.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.21.0",
+    "Installed":      "src/sqlite-jdbc/3.21.0",
+    "Source":         "src/sqlite-jdbc/3.21.0/sqlite-jdbc-3.21.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.20.1",
+    "Installed":      "src/sqlite-jdbc/3.20.1",
+    "Source":         "src/sqlite-jdbc/3.20.1/sqlite-jdbc-3.20.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.20.0",
     "Installed":      "src/sqlite-jdbc/3.20.0",
     "Source":         "src/sqlite-jdbc/3.20.0/sqlite-jdbc-3.20.0.jar",

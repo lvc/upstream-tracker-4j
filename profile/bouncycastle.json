@@ -4,12 +4,19 @@
   "SourceUrl":      "http://polydistortion.net/bc/download/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
-  "SkipInternalTypes": "Spi(\.|\Z)",
+  "SkipInternalTypes": ".*Spi(\.|\Z)",
   "CompactReport":  "On",
   "Package":        "crypto",
   "SkipArchives":   [ "lib/", "test/", "jce-.*", "bctest-.*", "bcprov-ext-.*", ".*-debug-.*", ".*-jdk(12|13|15|15on|16|17|18)-.*" ],
 
   "Versions": [
+  {
+    "Number":         159,
+    "Installed":      "installed/bouncycastle/159",
+    "Source":         "src/bouncycastle/159/crypto-159.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         158,
     "Installed":      "installed/bouncycastle/158",

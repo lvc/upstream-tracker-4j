@@ -1,0 +1,135 @@
+{
+  "Name":           "msgpack-core",
+  "Title":          "MessagePack Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/msgpack/msgpack-core/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+
+  "Versions": [
+  {
+    "Number":         "0.8.15",
+    "Installed":      "src/msgpack-core/0.8.15",
+    "Source":         "src/msgpack-core/0.8.15/msgpack-core-0.8.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.14",
+    "Installed":      "src/msgpack-core/0.8.14",
+    "Source":         "src/msgpack-core/0.8.14/msgpack-core-0.8.14.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.13",
+    "Installed":      "src/msgpack-core/0.8.13",
+    "Source":         "src/msgpack-core/0.8.13/msgpack-core-0.8.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.12",
+    "Installed":      "src/msgpack-core/0.8.12",
+    "Source":         "src/msgpack-core/0.8.12/msgpack-core-0.8.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.11",
+    "Installed":      "src/msgpack-core/0.8.11",
+    "Source":         "src/msgpack-core/0.8.11/msgpack-core-0.8.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.10",
+    "Installed":      "src/msgpack-core/0.8.10",
+    "Source":         "src/msgpack-core/0.8.10/msgpack-core-0.8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.9",
+    "Installed":      "src/msgpack-core/0.8.9",
+    "Source":         "src/msgpack-core/0.8.9/msgpack-core-0.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.8",
+    "Installed":      "src/msgpack-core/0.8.8",
+    "Source":         "src/msgpack-core/0.8.8/msgpack-core-0.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.7",
+    "Installed":      "src/msgpack-core/0.8.7",
+    "Source":         "src/msgpack-core/0.8.7/msgpack-core-0.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.6",
+    "Installed":      "src/msgpack-core/0.8.6",
+    "Source":         "src/msgpack-core/0.8.6/msgpack-core-0.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.5",
+    "Installed":      "src/msgpack-core/0.8.5",
+    "Source":         "src/msgpack-core/0.8.5/msgpack-core-0.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.4",
+    "Installed":      "src/msgpack-core/0.8.4",
+    "Source":         "src/msgpack-core/0.8.4/msgpack-core-0.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.3",
+    "Installed":      "src/msgpack-core/0.8.3",
+    "Source":         "src/msgpack-core/0.8.3/msgpack-core-0.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.2",
+    "Installed":      "src/msgpack-core/0.8.2",
+    "Source":         "src/msgpack-core/0.8.2/msgpack-core-0.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.1",
+    "Installed":      "src/msgpack-core/0.8.1",
+    "Source":         "src/msgpack-core/0.8.1/msgpack-core-0.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.8.0",
+    "Installed":      "src/msgpack-core/0.8.0",
+    "Source":         "src/msgpack-core/0.8.0/msgpack-core-0.8.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.1",
+    "Installed":      "src/msgpack-core/0.7.1",
+    "Source":         "src/msgpack-core/0.7.1/msgpack-core-0.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.7.0",
+    "Installed":      "src/msgpack-core/0.7.0",
+    "Source":         "src/msgpack-core/0.7.0/msgpack-core-0.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

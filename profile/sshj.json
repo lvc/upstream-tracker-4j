@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "0.23.0",
+    "Installed":      "src/sshj/0.23.0",
+    "Source":         "src/sshj/0.23.0/sshj-0.23.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.22.0",
     "Installed":      "src/sshj/0.22.0",
     "Source":         "src/sshj/0.22.0/sshj-0.22.0.jar",

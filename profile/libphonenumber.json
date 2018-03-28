@@ -9,6 +9,104 @@
 
   "Versions": [
   {
+    "Number":         "8.9.2",
+    "Installed":      "src/libphonenumber/8.9.2",
+    "Source":         "src/libphonenumber/8.9.2/libphonenumber-8.9.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.9.1",
+    "Installed":      "src/libphonenumber/8.9.1",
+    "Source":         "src/libphonenumber/8.9.1/libphonenumber-8.9.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.9.0",
+    "Installed":      "src/libphonenumber/8.9.0",
+    "Source":         "src/libphonenumber/8.9.0/libphonenumber-8.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.11",
+    "Installed":      "src/libphonenumber/8.8.11",
+    "Source":         "src/libphonenumber/8.8.11/libphonenumber-8.8.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.10",
+    "Installed":      "src/libphonenumber/8.8.10",
+    "Source":         "src/libphonenumber/8.8.10/libphonenumber-8.8.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.9",
+    "Installed":      "src/libphonenumber/8.8.9",
+    "Source":         "src/libphonenumber/8.8.9/libphonenumber-8.8.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.8",
+    "Installed":      "src/libphonenumber/8.8.8",
+    "Source":         "src/libphonenumber/8.8.8/libphonenumber-8.8.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.7",
+    "Installed":      "src/libphonenumber/8.8.7",
+    "Source":         "src/libphonenumber/8.8.7/libphonenumber-8.8.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.6",
+    "Installed":      "src/libphonenumber/8.8.6",
+    "Source":         "src/libphonenumber/8.8.6/libphonenumber-8.8.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.5",
+    "Installed":      "src/libphonenumber/8.8.5",
+    "Source":         "src/libphonenumber/8.8.5/libphonenumber-8.8.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.4",
+    "Installed":      "src/libphonenumber/8.8.4",
+    "Source":         "src/libphonenumber/8.8.4/libphonenumber-8.8.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.3",
+    "Installed":      "src/libphonenumber/8.8.3",
+    "Source":         "src/libphonenumber/8.8.3/libphonenumber-8.8.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.2",
+    "Installed":      "src/libphonenumber/8.8.2",
+    "Source":         "src/libphonenumber/8.8.2/libphonenumber-8.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.8.1",
+    "Installed":      "src/libphonenumber/8.8.1",
+    "Source":         "src/libphonenumber/8.8.1/libphonenumber-8.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "8.8.0",
     "Installed":      "src/libphonenumber/8.8.0",
     "Source":         "src/libphonenumber/8.8.0/libphonenumber-8.8.0.jar",

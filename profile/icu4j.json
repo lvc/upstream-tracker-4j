@@ -7,6 +7,43 @@
 
   "Versions": [
   {
+    "Number":         "61_1",
+    "Installed":      "src/icu4j/61_1",
+    "Source":         "src/icu4j/61_1/icu4j-61_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "61rc",
+    "Installed":      "src/icu4j/61rc",
+    "Source":         "src/icu4j/61rc/icu4j-61rc.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "60_2",
+    "Installed":      "src/icu4j/60_2",
+    "Source":         "src/icu4j/60_2/icu4j-60_2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "60_1",
+    "Installed":      "src/icu4j/60_1",
+    "Source":         "src/icu4j/60_1/icu4j-60_1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "60rc",
+    "Installed":      "src/icu4j/60rc",
+    "Source":         "src/icu4j/60rc/icu4j-60rc.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "59_1",
     "Installed":      "src/icu4j/59_1",
     "Source":         "src/icu4j/59_1/icu4j-59_1.jar",

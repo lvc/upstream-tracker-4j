@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "0.11.0",
+    "Installed":      "src/libthrift/0.11.0",
+    "Source":         "src/libthrift/0.11.0/libthrift-0.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.10.0",
     "Installed":      "src/libthrift/0.10.0",
     "Source":         "src/libthrift/0.10.0/libthrift-0.10.0.jar",

@@ -8,6 +8,62 @@
 
   "Versions": [
   {
+    "Number":         "2.6.1",
+    "Installed":      "src/univocity-parsers/2.6.1",
+    "Source":         "src/univocity-parsers/2.6.1/univocity-parsers-2.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0",
+    "Installed":      "src/univocity-parsers/2.6.0",
+    "Source":         "src/univocity-parsers/2.6.0/univocity-parsers-2.6.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.9",
+    "Installed":      "src/univocity-parsers/2.5.9",
+    "Source":         "src/univocity-parsers/2.5.9/univocity-parsers-2.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.8",
+    "Installed":      "src/univocity-parsers/2.5.8",
+    "Source":         "src/univocity-parsers/2.5.8/univocity-parsers-2.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.7",
+    "Installed":      "src/univocity-parsers/2.5.7",
+    "Source":         "src/univocity-parsers/2.5.7/univocity-parsers-2.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.6",
+    "Installed":      "src/univocity-parsers/2.5.6",
+    "Source":         "src/univocity-parsers/2.5.6/univocity-parsers-2.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.5",
+    "Installed":      "src/univocity-parsers/2.5.5",
+    "Source":         "src/univocity-parsers/2.5.5/univocity-parsers-2.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.4",
+    "Installed":      "src/univocity-parsers/2.5.4",
+    "Source":         "src/univocity-parsers/2.5.4/univocity-parsers-2.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.5.3",
     "Installed":      "src/univocity-parsers/2.5.3",
     "Source":         "src/univocity-parsers/2.5.3/univocity-parsers-2.5.3.jar",

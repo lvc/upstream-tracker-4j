@@ -1,0 +1,75 @@
+{
+  "Name":           "activiti",
+  "Title":          "Activiti",
+  "SourceUrl":      "https://github.com/Activiti/Activiti/releases",
+  "SkipUrl":        [ ".*/archive/.*" ],
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "PostInstall":    "find {INSTALL_TO} -type f -regex '.*-\(sources\|javadoc\).*' | xargs rm -fr",
+  "SkipArchives":   [ ".*\-(sources|javadoc)\.jar", "activiti5.*", "activiti-cxf-.*" ],
+
+  "Versions": [
+  {
+    "Number":         "6.0.0",
+    "Installed":      "installed/activiti/6.0.0",
+    "Source":         "src/activiti/6.0.0/activiti-6.0.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.22.0",
+    "Installed":      "installed/activiti/5.22.0",
+    "Source":         "src/activiti/5.22.0/activiti-5.22.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.21.0",
+    "Installed":      "installed/activiti/5.21.0",
+    "Source":         "src/activiti/5.21.0/activiti-5.21.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.20.0",
+    "Installed":      "installed/activiti/5.20.0",
+    "Source":         "src/activiti/5.20.0/activiti-5.20.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.0.2",
+    "Installed":      "installed/activiti/5.19.0.2",
+    "Source":         "src/activiti/5.19.0.2/activiti-5.19.0.2.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.19.0",
+    "Installed":      "installed/activiti/5.19.0",
+    "Source":         "src/activiti/5.19.0/activiti-5.19.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.18.0",
+    "Installed":      "installed/activiti/5.18.0",
+    "Source":         "src/activiti/5.18.0/activiti-5.18.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.17.0",
+    "Installed":      "installed/activiti/5.17.0",
+    "Source":         "src/activiti/5.17.0/activiti-5.17.0.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.16.4",
+    "Installed":      "installed/activiti/5.16.4",
+    "Source":         "src/activiti/5.16.4/activiti-5.16.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -1,0 +1,102 @@
+{
+  "Name":           "json4s-core",
+  "Title":          "Json4s Core",
+  "SourceUrl":      "http://central.maven.org/maven2/org/json4s/json4s-core_2.11/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "Package":        "json4s-core_2.11",
+
+  "Versions": [
+  {
+    "Number":         "3.6.0-M2",
+    "Installed":      "src/json4s-core/3.6.0-M2",
+    "Source":         "src/json4s-core/3.6.0-M2/json4s-core_2.11-3.6.0-M2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.0-M1",
+    "Installed":      "src/json4s-core/3.6.0-M1",
+    "Source":         "src/json4s-core/3.6.0-M1/json4s-core_2.11-3.6.0-M1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.5.3",
+    "Installed":      "src/json4s-core/3.5.3",
+    "Source":         "src/json4s-core/3.5.3/json4s-core_2.11-3.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.2",
+    "Installed":      "src/json4s-core/3.5.2",
+    "Source":         "src/json4s-core/3.5.2/json4s-core_2.11-3.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.1",
+    "Installed":      "src/json4s-core/3.5.1",
+    "Source":         "src/json4s-core/3.5.1/json4s-core_2.11-3.5.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.0",
+    "Installed":      "src/json4s-core/3.5.0",
+    "Source":         "src/json4s-core/3.5.0/json4s-core_2.11-3.5.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.2",
+    "Installed":      "src/json4s-core/3.4.2",
+    "Source":         "src/json4s-core/3.4.2/json4s-core_2.11-3.4.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.1",
+    "Installed":      "src/json4s-core/3.4.1",
+    "Source":         "src/json4s-core/3.4.1/json4s-core_2.11-3.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4.0",
+    "Installed":      "src/json4s-core/3.4.0",
+    "Source":         "src/json4s-core/3.4.0/json4s-core_2.11-3.4.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3.0",
+    "Installed":      "src/json4s-core/3.3.0",
+    "Source":         "src/json4s-core/3.3.0/json4s-core_2.11-3.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.11",
+    "Installed":      "src/json4s-core/3.2.11",
+    "Source":         "src/json4s-core/3.2.11/json4s-core_2.11-3.2.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.10",
+    "Installed":      "src/json4s-core/3.2.10",
+    "Source":         "src/json4s-core/3.2.10/json4s-core_2.11-3.2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2.9",
+    "Installed":      "src/json4s-core/3.2.9",
+    "Source":         "src/json4s-core/3.2.9/json4s-core_2.11-3.2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

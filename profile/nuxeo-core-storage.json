@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "10.1",
+    "Installed":      "src/nuxeo-core-storage/10.1",
+    "Source":         "src/nuxeo-core-storage/10.1/nuxeo-core-storage-10.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.10",
+    "Installed":      "src/nuxeo-core-storage/9.10",
+    "Source":         "src/nuxeo-core-storage/9.10/nuxeo-core-storage-9.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3",
+    "Installed":      "src/nuxeo-core-storage/9.3",
+    "Source":         "src/nuxeo-core-storage/9.3/nuxeo-core-storage-9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "9.2",
     "Installed":      "src/nuxeo-core-storage/9.2",
     "Source":         "src/nuxeo-core-storage/9.2/nuxeo-core-storage-9.2.jar",

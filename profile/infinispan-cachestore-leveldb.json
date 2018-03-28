@@ -7,6 +7,118 @@
 
   "Versions": [
   {
+    "Number":         "9.2.0",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0/infinispan-cachestore-leveldb-9.2.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.0.CR3",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0.CR3",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0.CR3/infinispan-cachestore-leveldb-9.2.0.CR3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.2.0.CR2",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0.CR2",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0.CR2/infinispan-cachestore-leveldb-9.2.0.CR2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.2.0.CR1",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0.CR1",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0.CR1/infinispan-cachestore-leveldb-9.2.0.CR1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.2.0.Beta2",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0.Beta2",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0.Beta2/infinispan-cachestore-leveldb-9.2.0.Beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.2.0.Beta1",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0.Beta1",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0.Beta1/infinispan-cachestore-leveldb-9.2.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.2.0.Alpha2",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0.Alpha2",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0.Alpha2/infinispan-cachestore-leveldb-9.2.0.Alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.2.0.Alpha1",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.2.0.Alpha1",
+    "Source":         "src/infinispan-cachestore-leveldb/9.2.0.Alpha1/infinispan-cachestore-leveldb-9.2.0.Alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.1.7",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.1.7",
+    "Source":         "src/infinispan-cachestore-leveldb/9.1.7/infinispan-cachestore-leveldb-9.1.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.6",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.1.6",
+    "Source":         "src/infinispan-cachestore-leveldb/9.1.6/infinispan-cachestore-leveldb-9.1.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.5",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.1.5",
+    "Source":         "src/infinispan-cachestore-leveldb/9.1.5/infinispan-cachestore-leveldb-9.1.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.4",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.1.4",
+    "Source":         "src/infinispan-cachestore-leveldb/9.1.4/infinispan-cachestore-leveldb-9.1.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.3",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.1.3",
+    "Source":         "src/infinispan-cachestore-leveldb/9.1.3/infinispan-cachestore-leveldb-9.1.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.2",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.1.2",
+    "Source":         "src/infinispan-cachestore-leveldb/9.1.2/infinispan-cachestore-leveldb-9.1.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.1.1",
+    "Installed":      "src/infinispan-cachestore-leveldb/9.1.1",
+    "Source":         "src/infinispan-cachestore-leveldb/9.1.1/infinispan-cachestore-leveldb-9.1.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "9.1.0",
     "Installed":      "src/infinispan-cachestore-leveldb/9.1.0",
     "Source":         "src/infinispan-cachestore-leveldb/9.1.0/infinispan-cachestore-leveldb-9.1.0.Final.jar",
@@ -38,6 +150,13 @@
     "Number":         "9.0.0",
     "Installed":      "src/infinispan-cachestore-leveldb/9.0.0",
     "Source":         "src/infinispan-cachestore-leveldb/9.0.0/infinispan-cachestore-leveldb-9.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.2.10",
+    "Installed":      "src/infinispan-cachestore-leveldb/8.2.10",
+    "Source":         "src/infinispan-cachestore-leveldb/8.2.10/infinispan-cachestore-leveldb-8.2.10.Final.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

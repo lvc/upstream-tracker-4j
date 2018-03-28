@@ -8,11 +8,19 @@
 
   "Versions": [
   {
+    "Number":         "2.3.0",
+    "Installed":      "src/jaxb-impl/2.3.0",
+    "Source":         "src/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.3.0-b170127.1453",
     "Installed":      "src/jaxb-impl/2.3.0-b170127.1453",
     "Source":         "src/jaxb-impl/2.3.0-b170127.1453/jaxb-impl-2.3.0-b170127.1453.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.2.11",

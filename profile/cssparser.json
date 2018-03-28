@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "0.9.25",
+    "Installed":      "src/cssparser/0.9.25",
+    "Source":         "src/cssparser/0.9.25/cssparser-0.9.25.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.9.24",
+    "Installed":      "src/cssparser/0.9.24",
+    "Source":         "src/cssparser/0.9.24/cssparser-0.9.24.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.9.23",
     "Installed":      "src/cssparser/0.9.23",
     "Source":         "src/cssparser/0.9.23/cssparser-0.9.23.jar",

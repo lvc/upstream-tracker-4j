@@ -1,0 +1,13 @@
+{
+  "Name":           "org.activiti.cloud.dependencies",
+  "Title":          "Activiti Cloud Starter Audit",
+  "SourceUrl":      "http://central.maven.org/maven2/org/activiti/cloud/activiti-cloud-dependencies/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7",
+  "Package":        "activiti-cloud-dependencies",
+  "ReleasePattern": "\A(\d+\-\d\d\d\d\d\d\-EA)\Z",
+
+  "Versions": [
+  ]
+}

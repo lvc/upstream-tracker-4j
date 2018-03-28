@@ -8,6 +8,27 @@
 
   "Versions": [
   {
+    "Number":         "1.16.1",
+    "Installed":      "src/commons-compress/1.16.1",
+    "Source":         "src/commons-compress/1.16.1/commons-compress-1.16.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.16",
+    "Installed":      "src/commons-compress/1.16",
+    "Source":         "src/commons-compress/1.16/commons-compress-1.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.15",
+    "Installed":      "src/commons-compress/1.15",
+    "Source":         "src/commons-compress/1.15/commons-compress-1.15.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.14",
     "Installed":      "src/commons-compress/1.14",
     "Source":         "src/commons-compress/1.14/commons-compress-1.14.jar",

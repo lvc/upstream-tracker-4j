@@ -9,6 +9,41 @@
 
   "Versions": [
   {
+    "Number":         "7.6.0",
+    "Installed":      "src/drools-core/7.6.0",
+    "Source":         "src/drools-core/7.6.0/drools-core-7.6.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.5.0",
+    "Installed":      "src/drools-core/7.5.0",
+    "Source":         "src/drools-core/7.5.0/drools-core-7.5.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4.1",
+    "Installed":      "src/drools-core/7.4.1",
+    "Source":         "src/drools-core/7.4.1/drools-core-7.4.1.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.4.0",
+    "Installed":      "src/drools-core/7.4.0",
+    "Source":         "src/drools-core/7.4.0/drools-core-7.4.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.3.0",
+    "Installed":      "src/drools-core/7.3.0",
+    "Source":         "src/drools-core/7.3.0/drools-core-7.3.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "7.2.0",
     "Installed":      "src/drools-core/7.2.0",
     "Source":         "src/drools-core/7.2.0/drools-core-7.2.0.Final.jar",

@@ -7,6 +7,20 @@
 
   "Versions": [
   {
+    "Number":         "1.9.0",
+    "Installed":      "installed/mraa/1.9.0",
+    "Source":         "src/mraa/1.9.0/mraa-1.9.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.0",
+    "Installed":      "installed/mraa/1.8.0",
+    "Source":         "src/mraa/1.8.0/mraa-1.8.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.7.0",
     "Installed":      "installed/mraa/1.7.0",
     "Source":         "src/mraa/1.7.0/mraa-1.7.0.aar",

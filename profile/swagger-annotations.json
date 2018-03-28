@@ -7,9 +7,31 @@
 
   "Versions": [
   {
+    "Number":         "2.0.0-rc2",
+    "Installed":      "src/swagger-annotations/2.0.0-rc2",
+    "Source":         "src/swagger-annotations/2.0.0-rc2/swagger-annotations-2.0.0-rc2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0.0-rc1",
     "Installed":      "src/swagger-annotations/2.0.0-rc1",
     "Source":         "src/swagger-annotations/2.0.0-rc1/swagger-annotations-2.0.0-rc1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.5.18",
+    "Installed":      "src/swagger-annotations/1.5.18",
+    "Source":         "src/swagger-annotations/1.5.18/swagger-annotations-1.5.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.5.17",
+    "Installed":      "src/swagger-annotations/1.5.17",
+    "Source":         "src/swagger-annotations/1.5.17/swagger-annotations-1.5.17.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

@@ -6,8 +6,34 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "MinimalVersion": "5.4.0",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://maven-eu.nuxeo.org/nexus/content/repositories/public-snapshot/org/nuxeo/ecm/core/nuxeo-core-api/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/nuxeo-core-api/SNAPSHOT",
+    "Source":         "src/nuxeo-core-api/SNAPSHOT/nuxeo-core-api-10.2-20180322.051914-12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.10",
+    "Installed":      "src/nuxeo-core-api/9.10",
+    "Source":         "src/nuxeo-core-api/9.10/nuxeo-core-api-9.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3",
+    "Installed":      "src/nuxeo-core-api/9.3",
+    "Source":         "src/nuxeo-core-api/9.3/nuxeo-core-api-9.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "9.2",
     "Installed":      "src/nuxeo-core-api/9.2",

@@ -8,9 +8,39 @@
 
   "Versions": [
   {
+    "Number":         "8.0.0-M9",
+    "Installed":      "src/wicket-core/8.0.0-M9",
+    "Source":         "src/wicket-core/8.0.0-M9/wicket-core-8.0.0-M9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "8.0.0-M8",
+    "Installed":      "src/wicket-core/8.0.0-M8",
+    "Source":         "src/wicket-core/8.0.0-M8/wicket-core-8.0.0-M8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "8.0.0-M7",
     "Installed":      "src/wicket-core/8.0.0-M7",
     "Source":         "src/wicket-core/8.0.0-M7/wicket-core-8.0.0-M7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "7.10.0",
+    "Installed":      "src/wicket-core/7.10.0",
+    "Source":         "src/wicket-core/7.10.0/wicket-core-7.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "7.9.0",
+    "Installed":      "src/wicket-core/7.9.0",
+    "Source":         "src/wicket-core/7.9.0/wicket-core-7.9.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

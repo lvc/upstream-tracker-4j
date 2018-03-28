@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "0.12.0",
+    "Installed":      "src/brooklyn-core/0.12.0",
+    "Source":         "src/brooklyn-core/0.12.0/brooklyn-core-0.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.11.0",
     "Installed":      "src/brooklyn-core/0.11.0",
     "Source":         "src/brooklyn-core/0.11.0/brooklyn-core-0.11.0.jar",

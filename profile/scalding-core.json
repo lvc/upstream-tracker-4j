@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "0.17.4",
+    "Installed":      "src/scalding-core/0.17.4",
+    "Source":         "src/scalding-core/0.17.4/scalding-core_2.11-0.17.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.17.3",
+    "Installed":      "src/scalding-core/0.17.3",
+    "Source":         "src/scalding-core/0.17.3/scalding-core_2.11-0.17.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.17.2",
     "Installed":      "src/scalding-core/0.17.2",
     "Source":         "src/scalding-core/0.17.2/scalding-core_2.11-0.17.2.jar",

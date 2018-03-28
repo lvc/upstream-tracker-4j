@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "0.2.3",
+    "Installed":      "src/jcodec/0.2.3",
+    "Source":         "src/jcodec/0.2.3/jcodec-0.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.2",
+    "Installed":      "src/jcodec/0.2.2",
+    "Source":         "src/jcodec/0.2.2/jcodec-0.2.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "0.2.1",
+    "Installed":      "src/jcodec/0.2.1",
+    "Source":         "src/jcodec/0.2.1/jcodec-0.2.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.2.0",
     "Installed":      "src/jcodec/0.2.0",
     "Source":         "src/jcodec/0.2.0/jcodec-0.2.0.jar",

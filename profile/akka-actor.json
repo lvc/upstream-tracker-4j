@@ -8,6 +8,55 @@
 
   "Versions": [
   {
+    "Number":         "2.5.11",
+    "Installed":      "src/akka-actor/2.5.11",
+    "Source":         "src/akka-actor/2.5.11/akka-actor_2.11-2.5.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.10",
+    "Installed":      "src/akka-actor/2.5.10",
+    "Source":         "src/akka-actor/2.5.10/akka-actor_2.11-2.5.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.9",
+    "Installed":      "src/akka-actor/2.5.9",
+    "Source":         "src/akka-actor/2.5.9/akka-actor_2.11-2.5.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.8",
+    "Installed":      "src/akka-actor/2.5.8",
+    "Source":         "src/akka-actor/2.5.8/akka-actor_2.11-2.5.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.7",
+    "Installed":      "src/akka-actor/2.5.7",
+    "Source":         "src/akka-actor/2.5.7/akka-actor_2.11-2.5.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.6",
+    "Installed":      "src/akka-actor/2.5.6",
+    "Source":         "src/akka-actor/2.5.6/akka-actor_2.11-2.5.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5.5",
+    "Installed":      "src/akka-actor/2.5.5",
+    "Source":         "src/akka-actor/2.5.5/akka-actor_2.11-2.5.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.5.4",
     "Installed":      "src/akka-actor/2.5.4",
     "Source":         "src/akka-actor/2.5.4/akka-actor_2.11-2.5.4.jar",

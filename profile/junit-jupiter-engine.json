@@ -1,0 +1,66 @@
+{
+  "Name":           "junit-jupiter-engine",
+  "Title":          "JUnit Jupiter Engine",
+  "SourceUrl":      "http://central.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "GraphFewXTics":  "On",
+  "SkipVersions":   [ ".*\-M\d.*" ],
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d+\.\d+\-\d+",
+  "SnapshotUrl":    "https://oss.sonatype.org/content/repositories/snapshots/org/junit/jupiter/junit-jupiter-engine/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
+
+  "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/junit-jupiter-engine/SNAPSHOT",
+    "Source":         "src/junit-jupiter-engine/SNAPSHOT/junit-jupiter-engine-5.2.0-20180324.211843-51.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0",
+    "Installed":      "src/junit-jupiter-engine/5.1.0",
+    "Source":         "src/junit-jupiter-engine/5.1.0/junit-jupiter-engine-5.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.0-RC1",
+    "Installed":      "src/junit-jupiter-engine/5.1.0-RC1",
+    "Source":         "src/junit-jupiter-engine/5.1.0-RC1/junit-jupiter-engine-5.1.0-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "5.0.3",
+    "Installed":      "src/junit-jupiter-engine/5.0.3",
+    "Source":         "src/junit-jupiter-engine/5.0.3/junit-jupiter-engine-5.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.2",
+    "Installed":      "src/junit-jupiter-engine/5.0.2",
+    "Source":         "src/junit-jupiter-engine/5.0.2/junit-jupiter-engine-5.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/junit-jupiter-engine/5.0.1",
+    "Source":         "src/junit-jupiter-engine/5.0.1/junit-jupiter-engine-5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.0",
+    "Installed":      "src/junit-jupiter-engine/5.0.0",
+    "Source":         "src/junit-jupiter-engine/5.0.0/junit-jupiter-engine-5.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

@@ -9,6 +9,20 @@
 
   "Versions": [
   {
+    "Number":         "3.0.9",
+    "Installed":      "src/thymeleaf/3.0.9",
+    "Source":         "src/thymeleaf/3.0.9/thymeleaf-3.0.9.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.8",
+    "Installed":      "src/thymeleaf/3.0.8",
+    "Source":         "src/thymeleaf/3.0.8/thymeleaf-3.0.8.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.7",
     "Installed":      "src/thymeleaf/3.0.7",
     "Source":         "src/thymeleaf/3.0.7/thymeleaf-3.0.7.RELEASE.jar",
@@ -61,6 +75,13 @@
     "Number":         "3.0.0",
     "Installed":      "src/thymeleaf/3.0.0",
     "Source":         "src/thymeleaf/3.0.0/thymeleaf-3.0.0.RELEASE.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.1.6",
+    "Installed":      "src/thymeleaf/2.1.6",
+    "Source":         "src/thymeleaf/2.1.6/thymeleaf-2.1.6.RELEASE.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

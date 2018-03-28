@@ -5,8 +5,72 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "MinimalVersion": "2.0.0",
+  "SkipInternalPackages": "com\.zaxxer\.hikari\.(metrics\.(micrometer|dropwizard|prometheus)|proxy|pool|util).*",
 
   "Versions": [
+  {
+    "Number":         "2.7.8",
+    "Installed":      "src/hikaricp/2.7.8",
+    "Source":         "src/hikaricp/2.7.8/HikariCP-2.7.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.7",
+    "Installed":      "src/hikaricp/2.7.7",
+    "Source":         "src/hikaricp/2.7.7/HikariCP-2.7.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.6",
+    "Installed":      "src/hikaricp/2.7.6",
+    "Source":         "src/hikaricp/2.7.6/HikariCP-2.7.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.5",
+    "Installed":      "src/hikaricp/2.7.5",
+    "Source":         "src/hikaricp/2.7.5/HikariCP-2.7.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.4",
+    "Installed":      "src/hikaricp/2.7.4",
+    "Source":         "src/hikaricp/2.7.4/HikariCP-2.7.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.3",
+    "Installed":      "src/hikaricp/2.7.3",
+    "Source":         "src/hikaricp/2.7.3/HikariCP-2.7.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.2",
+    "Installed":      "src/hikaricp/2.7.2",
+    "Source":         "src/hikaricp/2.7.2/HikariCP-2.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.1",
+    "Installed":      "src/hikaricp/2.7.1",
+    "Source":         "src/hikaricp/2.7.1/HikariCP-2.7.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7.0",
+    "Installed":      "src/hikaricp/2.7.0",
+    "Source":         "src/hikaricp/2.7.0/HikariCP-2.7.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.6.3",
     "Installed":      "src/hikaricp/2.6.3",

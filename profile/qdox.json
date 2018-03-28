@@ -7,11 +7,19 @@
 
   "Versions": [
   {
+    "Number":         "2.0-M8",
+    "Installed":      "src/qdox/2.0-M8",
+    "Source":         "src/qdox/2.0-M8/qdox-2.0-M8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.0-M7",
     "Installed":      "src/qdox/2.0-M7",
     "Source":         "src/qdox/2.0-M7/qdox-2.0-M7.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "1.12.1",

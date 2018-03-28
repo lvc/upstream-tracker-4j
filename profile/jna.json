@@ -8,6 +8,20 @@
 
   "Versions": [
   {
+    "Number":         "4.5.1",
+    "Installed":      "installed/jna/4.5.1",
+    "Source":         "src/jna/4.5.1/jna-4.5.1.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.5.0",
+    "Installed":      "installed/jna/4.5.0",
+    "Source":         "src/jna/4.5.0/jna-4.5.0.aar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.4.0",
     "Installed":      "src/jna/4.4.0",
     "Source":         "src/jna/4.4.0/jna-4.4.0.jar",

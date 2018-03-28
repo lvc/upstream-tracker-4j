@@ -7,6 +7,27 @@
 
   "Versions": [
   {
+    "Number":         "1.8.13",
+    "Installed":      "src/aspectjrt/1.8.13",
+    "Source":         "src/aspectjrt/1.8.13/aspectjrt-1.8.13.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.12",
+    "Installed":      "src/aspectjrt/1.8.12",
+    "Source":         "src/aspectjrt/1.8.12/aspectjrt-1.8.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.8.11",
+    "Installed":      "src/aspectjrt/1.8.11",
+    "Source":         "src/aspectjrt/1.8.11/aspectjrt-1.8.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.8.10",
     "Installed":      "src/aspectjrt/1.8.10",
     "Source":         "src/aspectjrt/1.8.10/aspectjrt-1.8.10.jar",

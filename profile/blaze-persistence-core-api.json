@@ -7,11 +7,35 @@
 
   "Versions": [
   {
+    "Number":         "1.2.0-Alpha6",
+    "Installed":      "src/blaze-persistence-core-api/1.2.0-Alpha6",
+    "Source":         "src/blaze-persistence-core-api/1.2.0-Alpha6/blaze-persistence-core-api-1.2.0-Alpha6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.2.0-Alpha5",
+    "Installed":      "src/blaze-persistence-core-api/1.2.0-Alpha5",
+    "Source":         "src/blaze-persistence-core-api/1.2.0-Alpha5/blaze-persistence-core-api-1.2.0-Alpha5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "1.2.0-Alpha4",
+    "Installed":      "src/blaze-persistence-core-api/1.2.0-Alpha4",
+    "Source":         "src/blaze-persistence-core-api/1.2.0-Alpha4/blaze-persistence-core-api-1.2.0-Alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "1.2.0-Alpha3",
     "Installed":      "src/blaze-persistence-core-api/1.2.0-Alpha3",
     "Source":         "src/blaze-persistence-core-api/1.2.0-Alpha3/blaze-persistence-core-api-1.2.0-Alpha3.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "1.1.1",

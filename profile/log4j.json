@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "2.11.0",
+    "Installed":      "installed/log4j/2.11.0",
+    "Source":         "src/log4j/2.11.0/apache-log4j-2.11.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "installed/log4j/2.10.0",
+    "Source":         "src/log4j/2.10.0/apache-log4j-2.10.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.1",
+    "Installed":      "installed/log4j/2.9.1",
+    "Source":         "src/log4j/2.9.1/apache-log4j-2.9.1-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9.0",
+    "Installed":      "installed/log4j/2.9.0",
+    "Source":         "src/log4j/2.9.0/apache-log4j-2.9.0-bin.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.8.2",
     "Installed":      "installed/log4j/2.8.2",
     "Source":         "src/log4j/2.8.2/apache-log4j-2.8.2-bin.zip",

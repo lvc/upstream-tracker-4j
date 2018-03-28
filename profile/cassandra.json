@@ -10,6 +10,20 @@
 
   "Versions": [
   {
+    "Number":         "3.11.2",
+    "Installed":      "src/cassandra/3.11.2",
+    "Source":         "src/cassandra/3.11.2/cassandra-all-3.11.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.11.1",
+    "Installed":      "src/cassandra/3.11.1",
+    "Source":         "src/cassandra/3.11.1/cassandra-all-3.11.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.11.0",
     "Installed":      "src/cassandra/3.11.0",
     "Source":         "src/cassandra/3.11.0/cassandra-all-3.11.0.jar",
@@ -97,6 +111,20 @@
     "Number":         "3.1",
     "Installed":      "src/cassandra/3.1",
     "Source":         "src/cassandra/3.1/cassandra-all-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.16",
+    "Installed":      "src/cassandra/3.0.16",
+    "Source":         "src/cassandra/3.0.16/cassandra-all-3.0.16.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.15",
+    "Installed":      "src/cassandra/3.0.15",
+    "Source":         "src/cassandra/3.0.15/cassandra-all-3.0.15.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

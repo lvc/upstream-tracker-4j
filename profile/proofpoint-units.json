@@ -9,6 +9,83 @@
 
   "Versions": [
   {
+    "Number":         "1.71",
+    "Installed":      "src/proofpoint-units/1.71",
+    "Source":         "src/proofpoint-units/1.71/units-1.71.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.70",
+    "Installed":      "src/proofpoint-units/1.70",
+    "Source":         "src/proofpoint-units/1.70/units-1.70.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.69",
+    "Installed":      "src/proofpoint-units/1.69",
+    "Source":         "src/proofpoint-units/1.69/units-1.69.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.68",
+    "Installed":      "src/proofpoint-units/1.68",
+    "Source":         "src/proofpoint-units/1.68/units-1.68.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.67",
+    "Installed":      "src/proofpoint-units/1.67",
+    "Source":         "src/proofpoint-units/1.67/units-1.67.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.66",
+    "Installed":      "src/proofpoint-units/1.66",
+    "Source":         "src/proofpoint-units/1.66/units-1.66.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.65",
+    "Installed":      "src/proofpoint-units/1.65",
+    "Source":         "src/proofpoint-units/1.65/units-1.65.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.64",
+    "Installed":      "src/proofpoint-units/1.64",
+    "Source":         "src/proofpoint-units/1.64/units-1.64.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.63",
+    "Installed":      "src/proofpoint-units/1.63",
+    "Source":         "src/proofpoint-units/1.63/units-1.63.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.62",
+    "Installed":      "src/proofpoint-units/1.62",
+    "Source":         "src/proofpoint-units/1.62/units-1.62.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.61",
+    "Installed":      "src/proofpoint-units/1.61",
+    "Source":         "src/proofpoint-units/1.61/units-1.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.60",
     "Installed":      "src/proofpoint-units/1.60",
     "Source":         "src/proofpoint-units/1.60/units-1.60.jar",

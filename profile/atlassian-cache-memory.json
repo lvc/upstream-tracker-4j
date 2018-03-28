@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "3.0.0",
+    "Installed":      "src/atlassian-cache-memory/3.0.0",
+    "Source":         "src/atlassian-cache-memory/3.0.0/atlassian-cache-memory-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.8",
+    "Installed":      "src/atlassian-cache-memory/2.13.8",
+    "Source":         "src/atlassian-cache-memory/2.13.8/atlassian-cache-memory-2.13.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.7",
+    "Installed":      "src/atlassian-cache-memory/2.13.7",
+    "Source":         "src/atlassian-cache-memory/2.13.7/atlassian-cache-memory-2.13.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.4",
+    "Installed":      "src/atlassian-cache-memory/2.13.4",
+    "Source":         "src/atlassian-cache-memory/2.13.4/atlassian-cache-memory-2.13.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.13.3",
     "Installed":      "src/atlassian-cache-memory/2.13.3",
     "Source":         "src/atlassian-cache-memory/2.13.3/atlassian-cache-memory-2.13.3.jar",

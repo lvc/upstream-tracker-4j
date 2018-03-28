@@ -19,11 +19,51 @@
     "PkgDiff":        "Off"
   },
   {
+    "Number":         "9.3.7",
+    "Installed":      "src/teiid-engine/9.3.7",
+    "Source":         "src/teiid-engine/9.3.7/teiid-engine-9.3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.3.6",
+    "Installed":      "src/teiid-engine/9.3.6",
+    "Source":         "src/teiid-engine/9.3.6/teiid-engine-9.3.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.3.5",
+    "Installed":      "src/teiid-engine/9.3.5",
+    "Source":         "src/teiid-engine/9.3.5/teiid-engine-9.3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.3.4",
+    "Installed":      "src/teiid-engine/9.3.4",
+    "Source":         "src/teiid-engine/9.3.4/teiid-engine-9.3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "9.3.3",
+    "Installed":      "src/teiid-engine/9.3.3",
+    "Source":         "src/teiid-engine/9.3.3/teiid-engine-9.3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "9.3.2",
     "Installed":      "src/teiid-engine/9.3.2",
     "Source":         "src/teiid-engine/9.3.2/teiid-engine-9.3.2.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "9.3.1",
@@ -34,11 +74,27 @@
     "Deleted":        1
   },
   {
+    "Number":         "9.2.7",
+    "Installed":      "src/teiid-engine/9.2.7",
+    "Source":         "src/teiid-engine/9.2.7/teiid-engine-9.2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "9.2.6",
+    "Installed":      "src/teiid-engine/9.2.6",
+    "Source":         "src/teiid-engine/9.2.6/teiid-engine-9.2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "9.2.5",
     "Installed":      "src/teiid-engine/9.2.5",
     "Source":         "src/teiid-engine/9.2.5/teiid-engine-9.2.5.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "9.2.4",

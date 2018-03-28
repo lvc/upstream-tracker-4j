@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "3.0.2",
+    "Installed":      "src/maven-dependency-plugin/3.0.2",
+    "Source":         "src/maven-dependency-plugin/3.0.2/maven-dependency-plugin-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.1",
     "Installed":      "src/maven-dependency-plugin/3.0.1",
     "Source":         "src/maven-dependency-plugin/3.0.1/maven-dependency-plugin-3.0.1.jar",

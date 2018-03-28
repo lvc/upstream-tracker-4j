@@ -9,6 +9,87 @@
 
   "Versions": [
   {
+    "Number":         "2.13.0",
+    "Installed":      "src/gs-main/2.13.0",
+    "Source":         "src/gs-main/2.13.0/gs-main-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13-RC1",
+    "Installed":      "src/gs-main/2.13-RC1",
+    "Source":         "src/gs-main/2.13-RC1/gs-main-2.13-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.13-beta",
+    "Installed":      "src/gs-main/2.13-beta",
+    "Source":         "src/gs-main/2.13-beta/gs-main-2.13-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.12.2",
+    "Installed":      "src/gs-main/2.12.2",
+    "Source":         "src/gs-main/2.12.2/gs-main-2.12.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.1",
+    "Installed":      "src/gs-main/2.12.1",
+    "Source":         "src/gs-main/2.12.1/gs-main-2.12.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/gs-main/2.12.0",
+    "Source":         "src/gs-main/2.12.0/gs-main-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12-RC1",
+    "Installed":      "src/gs-main/2.12-RC1",
+    "Source":         "src/gs-main/2.12-RC1/gs-main-2.12-RC1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.12-beta",
+    "Installed":      "src/gs-main/2.12-beta",
+    "Source":         "src/gs-main/2.12-beta/gs-main-2.12-beta.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.11.5",
+    "Installed":      "src/gs-main/2.11.5",
+    "Source":         "src/gs-main/2.11.5/gs-main-2.11.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.4",
+    "Installed":      "src/gs-main/2.11.4",
+    "Source":         "src/gs-main/2.11.4/gs-main-2.11.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.3",
+    "Installed":      "src/gs-main/2.11.3",
+    "Source":         "src/gs-main/2.11.3/gs-main-2.11.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.11.2",
     "Installed":      "src/gs-main/2.11.2",
     "Source":         "src/gs-main/2.11.2/gs-main-2.11.2.jar",

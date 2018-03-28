@@ -1,6 +1,6 @@
 {
   "Name":           "ehcache",
-  "Title":          "Ehcache",
+  "Title":          "Ehcache 2",
   "SourceUrl":      "http://central.maven.org/maven2/net/sf/ehcache/ehcache/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",

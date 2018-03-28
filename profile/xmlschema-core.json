@@ -8,6 +8,13 @@
 
   "Versions": [
   {
+    "Number":         "2.2.3",
+    "Installed":      "src/xmlschema-core/2.2.3",
+    "Source":         "src/xmlschema-core/2.2.3/xmlschema-core-2.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.2.2",
     "Installed":      "src/xmlschema-core/2.2.2",
     "Source":         "src/xmlschema-core/2.2.2/xmlschema-core-2.2.2.jar",

@@ -5,8 +5,34 @@
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "MinimalVersion": "3.0",
+  "SnapshotDirPattern": "SNAPSHOT",
+  "SnapshotPattern": "[\d\.]+\-\d\d\d\d\d\d\d\d\.\d+\-\d+",
+  "SnapshotUrl":    "https://repository.apache.org/content/repositories/snapshots/org/apache/maven/maven-core/",
+  "SnapshotUrlDepth": "2",
+  "SnapshotVer":    "SNAPSHOT",
 
   "Versions": [
+  {
+    "Number":         "SNAPSHOT",
+    "Installed":      "src/maven-core/SNAPSHOT",
+    "Source":         "src/maven-core/SNAPSHOT/maven-core-3.5.3-20180222.203948-11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.3",
+    "Installed":      "src/maven-core/3.5.3",
+    "Source":         "src/maven-core/3.5.3/maven-core-3.5.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5.2",
+    "Installed":      "src/maven-core/3.5.2",
+    "Source":         "src/maven-core/3.5.2/maven-core-3.5.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "3.5.0",
     "Installed":      "src/maven-core/3.5.0",

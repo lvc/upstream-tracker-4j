@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "0.9.7",
+    "Installed":      "src/exificient/0.9.7",
+    "Source":         "src/exificient/0.9.7/exificient-0.9.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.9.6",
     "Installed":      "src/exificient/0.9.6",
     "Source":         "src/exificient/0.9.6/exificient-0.9.6.jar",

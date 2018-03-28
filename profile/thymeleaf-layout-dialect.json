@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.3.0",
+    "Installed":      "src/thymeleaf-layout-dialect/2.3.0",
+    "Source":         "src/thymeleaf-layout-dialect/2.3.0/thymeleaf-layout-dialect-2.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.2.2",
     "Installed":      "src/thymeleaf-layout-dialect/2.2.2",
     "Source":         "src/thymeleaf-layout-dialect/2.2.2/thymeleaf-layout-dialect-2.2.2.jar",

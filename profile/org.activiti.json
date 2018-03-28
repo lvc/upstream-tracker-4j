@@ -1,0 +1,10 @@
+{
+  "Name":           "org.activiti",
+  "Title":          "Activiti Engine 7",
+  "SourceUrl":      "http://central.maven.org/maven2/org/activiti/activiti-engine/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "MinimalVersion": "7",
+  "Package":        "activiti",
+  "ReleasePattern": "\A(\d+\-\d\d\d\d\d\d\-EA)\Z"
+}

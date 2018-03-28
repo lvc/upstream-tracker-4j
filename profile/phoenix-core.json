@@ -9,6 +9,27 @@
 
   "Versions": [
   {
+    "Number":         "4.13.1",
+    "Installed":      "src/phoenix-core/4.13.1",
+    "Source":         "src/phoenix-core/4.13.1/phoenix-core-4.13.1-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.13.0",
+    "Installed":      "src/phoenix-core/4.13.0",
+    "Source":         "src/phoenix-core/4.13.0/phoenix-core-4.13.0-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.12.0",
+    "Installed":      "src/phoenix-core/4.12.0",
+    "Source":         "src/phoenix-core/4.12.0/phoenix-core-4.12.0-HBase-0.98.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "4.11.0",
     "Installed":      "src/phoenix-core/4.11.0",
     "Source":         "src/phoenix-core/4.11.0/phoenix-core-4.11.0-HBase-0.98.jar",

@@ -9,11 +9,121 @@
 
   "Versions": [
   {
+    "Number":         "3.1.10",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.10",
+    "Source":         "src/fabric8-kubernetes-client/3.1.10/kubernetes-client-3.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1.8",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.8",
+    "Source":         "src/fabric8-kubernetes-client/3.1.8/kubernetes-client-3.1.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.1.7",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.7",
+    "Source":         "src/fabric8-kubernetes-client/3.1.7/kubernetes-client-3.1.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.1.6",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.6",
+    "Source":         "src/fabric8-kubernetes-client/3.1.6/kubernetes-client-3.1.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.1.5",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.5",
+    "Source":         "src/fabric8-kubernetes-client/3.1.5/kubernetes-client-3.1.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.1.2",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.2",
+    "Source":         "src/fabric8-kubernetes-client/3.1.2/kubernetes-client-3.1.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.1.1",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.1",
+    "Source":         "src/fabric8-kubernetes-client/3.1.1/kubernetes-client-3.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/fabric8-kubernetes-client/3.1.0",
+    "Source":         "src/fabric8-kubernetes-client/3.1.0/kubernetes-client-3.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/fabric8-kubernetes-client/3.0.3",
+    "Source":         "src/fabric8-kubernetes-client/3.0.3/kubernetes-client-3.0.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/fabric8-kubernetes-client/3.0.2",
+    "Source":         "src/fabric8-kubernetes-client/3.0.2/kubernetes-client-3.0.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.1",
+    "Installed":      "src/fabric8-kubernetes-client/3.0.1",
+    "Source":         "src/fabric8-kubernetes-client/3.0.1/kubernetes-client-3.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.0.0",
+    "Installed":      "src/fabric8-kubernetes-client/3.0.0",
+    "Source":         "src/fabric8-kubernetes-client/3.0.0/kubernetes-client-3.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "2.6.3",
+    "Installed":      "src/fabric8-kubernetes-client/2.6.3",
+    "Source":         "src/fabric8-kubernetes-client/2.6.3/kubernetes-client-2.6.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.2",
+    "Installed":      "src/fabric8-kubernetes-client/2.6.2",
+    "Source":         "src/fabric8-kubernetes-client/2.6.2/kubernetes-client-2.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.6.1",
     "Installed":      "src/fabric8-kubernetes-client/2.6.1",
     "Source":         "src/fabric8-kubernetes-client/2.6.1/kubernetes-client-2.6.1.jar",
     "Changelog":      "Off",
-    "PkgDiff":        "Off"
+    "PkgDiff":        "Off",
+    "Deleted":        1
   },
   {
     "Number":         "2.5.9",

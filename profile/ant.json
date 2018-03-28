@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.10.2",
+    "Installed":      "src/ant/1.10.2",
+    "Source":         "src/ant/1.10.2/ant-1.10.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.10.1",
     "Installed":      "src/ant/1.10.1",
     "Source":         "src/ant/1.10.1/ant-1.10.1.jar",
@@ -17,6 +24,13 @@
     "Number":         "1.10.0",
     "Installed":      "src/ant/1.10.0",
     "Source":         "src/ant/1.10.0/ant-1.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.9.10",
+    "Installed":      "src/ant/1.9.10",
+    "Source":         "src/ant/1.9.10/ant-1.9.10.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

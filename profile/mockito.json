@@ -4,10 +4,54 @@
   "SourceUrl":      "http://central.maven.org/maven2/org/mockito/mockito-core/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+  "NonImplAll":     "On",
   "Package":        "mockito-core",
   "SkipPackages":   "filters/skip_packages/mockito.list",
 
   "Versions": [
+  {
+    "Number":         "2.16.0",
+    "Installed":      "src/mockito/2.16.0",
+    "Source":         "src/mockito/2.16.0/mockito-core-2.16.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.15.0",
+    "Installed":      "src/mockito/2.15.0",
+    "Source":         "src/mockito/2.15.0/mockito-core-2.15.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.13.0",
+    "Installed":      "src/mockito/2.13.0",
+    "Source":         "src/mockito/2.13.0/mockito-core-2.13.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.12.0",
+    "Installed":      "src/mockito/2.12.0",
+    "Source":         "src/mockito/2.12.0/mockito-core-2.12.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.11.0",
+    "Installed":      "src/mockito/2.11.0",
+    "Source":         "src/mockito/2.11.0/mockito-core-2.11.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10.0",
+    "Installed":      "src/mockito/2.10.0",
+    "Source":         "src/mockito/2.10.0/mockito-core-2.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "2.9.0",
     "Installed":      "src/mockito/2.9.0",
@@ -23,170 +67,9 @@
     "PkgDiff":        "Off"
   },
   {
-    "Number":         "2.8.9",
-    "Installed":      "src/mockito/2.8.9",
-    "Source":         "src/mockito/2.8.9/mockito-core-2.8.9.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
     "Number":         "2.7.22",
     "Installed":      "src/mockito/2.7.22",
     "Source":         "src/mockito/2.7.22/mockito-core-2.7.22.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.21",
-    "Installed":      "src/mockito/2.7.21",
-    "Source":         "src/mockito/2.7.21/mockito-core-2.7.21.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.20",
-    "Installed":      "src/mockito/2.7.20",
-    "Source":         "src/mockito/2.7.20/mockito-core-2.7.20.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.19",
-    "Installed":      "src/mockito/2.7.19",
-    "Source":         "src/mockito/2.7.19/mockito-core-2.7.19.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.18",
-    "Installed":      "src/mockito/2.7.18",
-    "Source":         "src/mockito/2.7.18/mockito-core-2.7.18.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.17",
-    "Installed":      "src/mockito/2.7.17",
-    "Source":         "src/mockito/2.7.17/mockito-core-2.7.17.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.16",
-    "Installed":      "src/mockito/2.7.16",
-    "Source":         "src/mockito/2.7.16/mockito-core-2.7.16.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.15",
-    "Installed":      "src/mockito/2.7.15",
-    "Source":         "src/mockito/2.7.15/mockito-core-2.7.15.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.14",
-    "Installed":      "src/mockito/2.7.14",
-    "Source":         "src/mockito/2.7.14/mockito-core-2.7.14.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.13",
-    "Installed":      "src/mockito/2.7.13",
-    "Source":         "src/mockito/2.7.13/mockito-core-2.7.13.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.12",
-    "Installed":      "src/mockito/2.7.12",
-    "Source":         "src/mockito/2.7.12/mockito-core-2.7.12.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.11",
-    "Installed":      "src/mockito/2.7.11",
-    "Source":         "src/mockito/2.7.11/mockito-core-2.7.11.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.10",
-    "Installed":      "src/mockito/2.7.10",
-    "Source":         "src/mockito/2.7.10/mockito-core-2.7.10.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.9",
-    "Installed":      "src/mockito/2.7.9",
-    "Source":         "src/mockito/2.7.9/mockito-core-2.7.9.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.8",
-    "Installed":      "src/mockito/2.7.8",
-    "Source":         "src/mockito/2.7.8/mockito-core-2.7.8.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.7",
-    "Installed":      "src/mockito/2.7.7",
-    "Source":         "src/mockito/2.7.7/mockito-core-2.7.7.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.6",
-    "Installed":      "src/mockito/2.7.6",
-    "Source":         "src/mockito/2.7.6/mockito-core-2.7.6.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.5",
-    "Installed":      "src/mockito/2.7.5",
-    "Source":         "src/mockito/2.7.5/mockito-core-2.7.5.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.4",
-    "Installed":      "src/mockito/2.7.4",
-    "Source":         "src/mockito/2.7.4/mockito-core-2.7.4.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.3",
-    "Installed":      "src/mockito/2.7.3",
-    "Source":         "src/mockito/2.7.3/mockito-core-2.7.3.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.2",
-    "Installed":      "src/mockito/2.7.2",
-    "Source":         "src/mockito/2.7.2/mockito-core-2.7.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.1",
-    "Installed":      "src/mockito/2.7.1",
-    "Source":         "src/mockito/2.7.1/mockito-core-2.7.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.7.0",
-    "Installed":      "src/mockito/2.7.0",
-    "Source":         "src/mockito/2.7.0/mockito-core-2.7.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -198,121 +81,9 @@
     "PkgDiff":        "Off"
   },
   {
-    "Number":         "2.6.8",
-    "Installed":      "src/mockito/2.6.8",
-    "Source":         "src/mockito/2.6.8/mockito-core-2.6.8.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.7",
-    "Installed":      "src/mockito/2.6.7",
-    "Source":         "src/mockito/2.6.7/mockito-core-2.6.7.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.6",
-    "Installed":      "src/mockito/2.6.6",
-    "Source":         "src/mockito/2.6.6/mockito-core-2.6.6.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.5",
-    "Installed":      "src/mockito/2.6.5",
-    "Source":         "src/mockito/2.6.5/mockito-core-2.6.5.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.4",
-    "Installed":      "src/mockito/2.6.4",
-    "Source":         "src/mockito/2.6.4/mockito-core-2.6.4.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.3",
-    "Installed":      "src/mockito/2.6.3",
-    "Source":         "src/mockito/2.6.3/mockito-core-2.6.3.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.2",
-    "Installed":      "src/mockito/2.6.2",
-    "Source":         "src/mockito/2.6.2/mockito-core-2.6.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.1",
-    "Installed":      "src/mockito/2.6.1",
-    "Source":         "src/mockito/2.6.1/mockito-core-2.6.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.6.0",
-    "Installed":      "src/mockito/2.6.0",
-    "Source":         "src/mockito/2.6.0/mockito-core-2.6.0.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
     "Number":         "2.5.7",
     "Installed":      "src/mockito/2.5.7",
     "Source":         "src/mockito/2.5.7/mockito-core-2.5.7.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.5.6",
-    "Installed":      "src/mockito/2.5.6",
-    "Source":         "src/mockito/2.5.6/mockito-core-2.5.6.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.5.5",
-    "Installed":      "src/mockito/2.5.5",
-    "Source":         "src/mockito/2.5.5/mockito-core-2.5.5.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.5.4",
-    "Installed":      "src/mockito/2.5.4",
-    "Source":         "src/mockito/2.5.4/mockito-core-2.5.4.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.5.3",
-    "Installed":      "src/mockito/2.5.3",
-    "Source":         "src/mockito/2.5.3/mockito-core-2.5.3.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.5.2",
-    "Installed":      "src/mockito/2.5.2",
-    "Source":         "src/mockito/2.5.2/mockito-core-2.5.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.5.1",
-    "Installed":      "src/mockito/2.5.1",
-    "Source":         "src/mockito/2.5.1/mockito-core-2.5.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.5.0",
-    "Installed":      "src/mockito/2.5.0",
-    "Source":         "src/mockito/2.5.0/mockito-core-2.5.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -324,107 +95,9 @@
     "PkgDiff":        "Off"
   },
   {
-    "Number":         "2.4.4",
-    "Installed":      "src/mockito/2.4.4",
-    "Source":         "src/mockito/2.4.4/mockito-core-2.4.4.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.4.3",
-    "Installed":      "src/mockito/2.4.3",
-    "Source":         "src/mockito/2.4.3/mockito-core-2.4.3.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.4.2",
-    "Installed":      "src/mockito/2.4.2",
-    "Source":         "src/mockito/2.4.2/mockito-core-2.4.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.4.1",
-    "Installed":      "src/mockito/2.4.1",
-    "Source":         "src/mockito/2.4.1/mockito-core-2.4.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.4.0",
-    "Installed":      "src/mockito/2.4.0",
-    "Source":         "src/mockito/2.4.0/mockito-core-2.4.0.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
     "Number":         "2.3.11",
     "Installed":      "src/mockito/2.3.11",
     "Source":         "src/mockito/2.3.11/mockito-core-2.3.11.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.10",
-    "Installed":      "src/mockito/2.3.10",
-    "Source":         "src/mockito/2.3.10/mockito-core-2.3.10.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.7",
-    "Installed":      "src/mockito/2.3.7",
-    "Source":         "src/mockito/2.3.7/mockito-core-2.3.7.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.6",
-    "Installed":      "src/mockito/2.3.6",
-    "Source":         "src/mockito/2.3.6/mockito-core-2.3.6.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.5",
-    "Installed":      "src/mockito/2.3.5",
-    "Source":         "src/mockito/2.3.5/mockito-core-2.3.5.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.4",
-    "Installed":      "src/mockito/2.3.4",
-    "Source":         "src/mockito/2.3.4/mockito-core-2.3.4.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.3",
-    "Installed":      "src/mockito/2.3.3",
-    "Source":         "src/mockito/2.3.3/mockito-core-2.3.3.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.2",
-    "Installed":      "src/mockito/2.3.2",
-    "Source":         "src/mockito/2.3.2/mockito-core-2.3.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.1",
-    "Installed":      "src/mockito/2.3.1",
-    "Source":         "src/mockito/2.3.1/mockito-core-2.3.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.3.0",
-    "Installed":      "src/mockito/2.3.0",
-    "Source":         "src/mockito/2.3.0/mockito-core-2.3.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -436,217 +109,6 @@
     "PkgDiff":        "Off"
   },
   {
-    "Number":         "2.2.28",
-    "Installed":      "src/mockito/2.2.28",
-    "Source":         "src/mockito/2.2.28/mockito-core-2.2.28.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.27",
-    "Installed":      "src/mockito/2.2.27",
-    "Source":         "src/mockito/2.2.27/mockito-core-2.2.27.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.26",
-    "Installed":      "src/mockito/2.2.26",
-    "Source":         "src/mockito/2.2.26/mockito-core-2.2.26.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.25",
-    "Installed":      "src/mockito/2.2.25",
-    "Source":         "src/mockito/2.2.25/mockito-core-2.2.25.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.24",
-    "Installed":      "src/mockito/2.2.24",
-    "Source":         "src/mockito/2.2.24/mockito-core-2.2.24.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.23",
-    "Installed":      "src/mockito/2.2.23",
-    "Source":         "src/mockito/2.2.23/mockito-core-2.2.23.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.22",
-    "Installed":      "src/mockito/2.2.22",
-    "Source":         "src/mockito/2.2.22/mockito-core-2.2.22.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.21",
-    "Installed":      "src/mockito/2.2.21",
-    "Source":         "src/mockito/2.2.21/mockito-core-2.2.21.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.20",
-    "Installed":      "src/mockito/2.2.20",
-    "Source":         "src/mockito/2.2.20/mockito-core-2.2.20.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.19",
-    "Installed":      "src/mockito/2.2.19",
-    "Source":         "src/mockito/2.2.19/mockito-core-2.2.19.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.18",
-    "Installed":      "src/mockito/2.2.18",
-    "Source":         "src/mockito/2.2.18/mockito-core-2.2.18.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.17",
-    "Installed":      "src/mockito/2.2.17",
-    "Source":         "src/mockito/2.2.17/mockito-core-2.2.17.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.16",
-    "Installed":      "src/mockito/2.2.16",
-    "Source":         "src/mockito/2.2.16/mockito-core-2.2.16.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.15",
-    "Installed":      "src/mockito/2.2.15",
-    "Source":         "src/mockito/2.2.15/mockito-core-2.2.15.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.14",
-    "Installed":      "src/mockito/2.2.14",
-    "Source":         "src/mockito/2.2.14/mockito-core-2.2.14.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.13",
-    "Installed":      "src/mockito/2.2.13",
-    "Source":         "src/mockito/2.2.13/mockito-core-2.2.13.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.12",
-    "Installed":      "src/mockito/2.2.12",
-    "Source":         "src/mockito/2.2.12/mockito-core-2.2.12.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.11",
-    "Installed":      "src/mockito/2.2.11",
-    "Source":         "src/mockito/2.2.11/mockito-core-2.2.11.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.10",
-    "Installed":      "src/mockito/2.2.10",
-    "Source":         "src/mockito/2.2.10/mockito-core-2.2.10.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.9",
-    "Installed":      "src/mockito/2.2.9",
-    "Source":         "src/mockito/2.2.9/mockito-core-2.2.9.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.8",
-    "Installed":      "src/mockito/2.2.8",
-    "Source":         "src/mockito/2.2.8/mockito-core-2.2.8.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.7",
-    "Installed":      "src/mockito/2.2.7",
-    "Source":         "src/mockito/2.2.7/mockito-core-2.2.7.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.6",
-    "Installed":      "src/mockito/2.2.6",
-    "Source":         "src/mockito/2.2.6/mockito-core-2.2.6.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.5",
-    "Installed":      "src/mockito/2.2.5",
-    "Source":         "src/mockito/2.2.5/mockito-core-2.2.5.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.4",
-    "Installed":      "src/mockito/2.2.4",
-    "Source":         "src/mockito/2.2.4/mockito-core-2.2.4.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.3",
-    "Installed":      "src/mockito/2.2.3",
-    "Source":         "src/mockito/2.2.3/mockito-core-2.2.3.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.2",
-    "Installed":      "src/mockito/2.2.2",
-    "Source":         "src/mockito/2.2.2/mockito-core-2.2.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.1",
-    "Installed":      "src/mockito/2.2.1",
-    "Source":         "src/mockito/2.2.1/mockito-core-2.2.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.0",
-    "Installed":      "src/mockito/2.2.0",
-    "Source":         "src/mockito/2.2.0/mockito-core-2.2.0.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "2.2.0-beta.1",
-    "Installed":      "src/mockito/2.2.0-beta.1",
-    "Source":         "src/mockito/2.2.0-beta.1/mockito-core-2.2.0-beta.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
     "Number":         "2.1.0",
     "Installed":      "src/mockito/2.1.0",
     "Source":         "src/mockito/2.1.0/mockito-core-2.1.0.jar",
@@ -654,291 +116,9 @@
     "PkgDiff":        "Off"
   },
   {
-    "Number":         "2.1.0-RC.2",
-    "Installed":      "src/mockito/2.1.0-RC.2",
-    "Source":         "src/mockito/2.1.0-RC.2/mockito-core-2.1.0-RC.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.1.0-RC.1",
-    "Installed":      "src/mockito/2.1.0-RC.1",
-    "Source":         "src/mockito/2.1.0-RC.1/mockito-core-2.1.0-RC.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.1.0-beta.125",
-    "Installed":      "src/mockito/2.1.0-beta.125",
-    "Source":         "src/mockito/2.1.0-beta.125/mockito-core-2.1.0-beta.125.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.1.0-beta.124",
-    "Installed":      "src/mockito/2.1.0-beta.124",
-    "Source":         "src/mockito/2.1.0-beta.124/mockito-core-2.1.0-beta.124.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.1.0-beta.120",
-    "Installed":      "src/mockito/2.1.0-beta.120",
-    "Source":         "src/mockito/2.1.0-beta.120/mockito-core-2.1.0-beta.120.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.111-beta",
-    "Installed":      "src/mockito/2.0.111-beta",
-    "Source":         "src/mockito/2.0.111-beta/mockito-core-2.0.111-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.106-beta",
-    "Installed":      "src/mockito/2.0.106-beta",
-    "Source":         "src/mockito/2.0.106-beta/mockito-core-2.0.106-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.105-beta",
-    "Installed":      "src/mockito/2.0.105-beta",
-    "Source":         "src/mockito/2.0.105-beta/mockito-core-2.0.105-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.101-beta",
-    "Installed":      "src/mockito/2.0.101-beta",
-    "Source":         "src/mockito/2.0.101-beta/mockito-core-2.0.101-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.100-beta",
-    "Installed":      "src/mockito/2.0.100-beta",
-    "Source":         "src/mockito/2.0.100-beta/mockito-core-2.0.100-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.99-beta",
-    "Installed":      "src/mockito/2.0.99-beta",
-    "Source":         "src/mockito/2.0.99-beta/mockito-core-2.0.99-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.97-beta",
-    "Installed":      "src/mockito/2.0.97-beta",
-    "Source":         "src/mockito/2.0.97-beta/mockito-core-2.0.97-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.96-beta",
-    "Installed":      "src/mockito/2.0.96-beta",
-    "Source":         "src/mockito/2.0.96-beta/mockito-core-2.0.96-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.95-beta",
-    "Installed":      "src/mockito/2.0.95-beta",
-    "Source":         "src/mockito/2.0.95-beta/mockito-core-2.0.95-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.92-beta",
-    "Installed":      "src/mockito/2.0.92-beta",
-    "Source":         "src/mockito/2.0.92-beta/mockito-core-2.0.92-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.91-beta",
-    "Installed":      "src/mockito/2.0.91-beta",
-    "Source":         "src/mockito/2.0.91-beta/mockito-core-2.0.91-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.89-beta",
-    "Installed":      "src/mockito/2.0.89-beta",
-    "Source":         "src/mockito/2.0.89-beta/mockito-core-2.0.89-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.87-beta",
-    "Installed":      "src/mockito/2.0.87-beta",
-    "Source":         "src/mockito/2.0.87-beta/mockito-core-2.0.87-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.86-beta",
-    "Installed":      "src/mockito/2.0.86-beta",
-    "Source":         "src/mockito/2.0.86-beta/mockito-core-2.0.86-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.82-beta",
-    "Installed":      "src/mockito/2.0.82-beta",
-    "Source":         "src/mockito/2.0.82-beta/mockito-core-2.0.82-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.79-beta",
-    "Installed":      "src/mockito/2.0.79-beta",
-    "Source":         "src/mockito/2.0.79-beta/mockito-core-2.0.79-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.78-beta",
-    "Installed":      "src/mockito/2.0.78-beta",
-    "Source":         "src/mockito/2.0.78-beta/mockito-core-2.0.78-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.76-beta",
-    "Installed":      "src/mockito/2.0.76-beta",
-    "Source":         "src/mockito/2.0.76-beta/mockito-core-2.0.76-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.73-beta",
-    "Installed":      "src/mockito/2.0.73-beta",
-    "Source":         "src/mockito/2.0.73-beta/mockito-core-2.0.73-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.71-beta",
-    "Installed":      "src/mockito/2.0.71-beta",
-    "Source":         "src/mockito/2.0.71-beta/mockito-core-2.0.71-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.62-beta",
-    "Installed":      "src/mockito/2.0.62-beta",
-    "Source":         "src/mockito/2.0.62-beta/mockito-core-2.0.62-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.58-beta",
-    "Installed":      "src/mockito/2.0.58-beta",
-    "Source":         "src/mockito/2.0.58-beta/mockito-core-2.0.58-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.57-beta",
-    "Installed":      "src/mockito/2.0.57-beta",
-    "Source":         "src/mockito/2.0.57-beta/mockito-core-2.0.57-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.56-beta",
-    "Installed":      "src/mockito/2.0.56-beta",
-    "Source":         "src/mockito/2.0.56-beta/mockito-core-2.0.56-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
-    "Number":         "2.0.54-beta",
-    "Installed":      "src/mockito/2.0.54-beta",
-    "Source":         "src/mockito/2.0.54-beta/mockito-core-2.0.54-beta.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off",
-    "Deleted":        1
-  },
-  {
     "Number":         "1.10.19",
     "Installed":      "src/mockito/1.10.19",
     "Source":         "src/mockito/1.10.19/mockito-core-1.10.19.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.10.18",
-    "Installed":      "src/mockito/1.10.18",
-    "Source":         "src/mockito/1.10.18/mockito-core-1.10.18.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.10.17",
-    "Installed":      "src/mockito/1.10.17",
-    "Source":         "src/mockito/1.10.17/mockito-core-1.10.17.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.10.16",
-    "Installed":      "src/mockito/1.10.16",
-    "Source":         "src/mockito/1.10.16/mockito-core-1.10.16.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.10.8",
-    "Installed":      "src/mockito/1.10.8",
-    "Source":         "src/mockito/1.10.8/mockito-core-1.10.8.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.10.7",
-    "Installed":      "src/mockito/1.10.7",
-    "Source":         "src/mockito/1.10.7/mockito-core-1.10.7.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.10.5",
-    "Installed":      "src/mockito/1.10.5",
-    "Source":         "src/mockito/1.10.5/mockito-core-1.10.5.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },
@@ -950,51 +130,9 @@
     "PkgDiff":        "Off"
   },
   {
-    "Number":         "1.9.0",
-    "Installed":      "src/mockito/1.9.0",
-    "Source":         "src/mockito/1.9.0/mockito-core-1.9.0.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
     "Number":         "1.8.5",
     "Installed":      "src/mockito/1.8.5",
     "Source":         "src/mockito/1.8.5/mockito-core-1.8.5.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.8.4",
-    "Installed":      "src/mockito/1.8.4",
-    "Source":         "src/mockito/1.8.4/mockito-core-1.8.4.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.8.3",
-    "Installed":      "src/mockito/1.8.3",
-    "Source":         "src/mockito/1.8.3/mockito-core-1.8.3.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.8.2",
-    "Installed":      "src/mockito/1.8.2",
-    "Source":         "src/mockito/1.8.2/mockito-core-1.8.2.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.8.1",
-    "Installed":      "src/mockito/1.8.1",
-    "Source":         "src/mockito/1.8.1/mockito-core-1.8.1.jar",
-    "Changelog":      "Off",
-    "PkgDiff":        "Off"
-  },
-  {
-    "Number":         "1.8.0",
-    "Installed":      "src/mockito/1.8.0",
-    "Source":         "src/mockito/1.8.0/mockito-core-1.8.0.jar",
     "Changelog":      "Off",
     "PkgDiff":        "Off"
   },

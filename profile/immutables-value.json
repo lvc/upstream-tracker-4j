@@ -9,6 +9,21 @@
 
   "Versions": [
   {
+    "Number":         "2.6.0-alpha1",
+    "Installed":      "src/immutables-value/2.6.0-alpha1",
+    "Source":         "src/immutables-value/2.6.0-alpha1/value-2.6.0-alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6.0.alpha0",
+    "Installed":      "src/immutables-value/2.6.0.alpha0",
+    "Source":         "src/immutables-value/2.6.0.alpha0/value-2.6.0.alpha0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
     "Number":         "2.5.6",
     "Installed":      "src/immutables-value/2.5.6",
     "Source":         "src/immutables-value/2.5.6/value-2.5.6.jar",

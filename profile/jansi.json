@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "1.17",
+    "Installed":      "src/jansi/1.17",
+    "Source":         "src/jansi/1.17/jansi-1.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "1.16",
     "Installed":      "src/jansi/1.16",
     "Source":         "src/jansi/1.16/jansi-1.16.jar",

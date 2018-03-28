@@ -8,6 +8,34 @@
 
   "Versions": [
   {
+    "Number":         "2.7",
+    "Installed":      "installed/jmapviewer/2.7",
+    "Source":         "src/jmapviewer/2.7/JMapViewer-2.7.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "installed/jmapviewer/2.6",
+    "Source":         "src/jmapviewer/2.6/JMapViewer-2.6.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "installed/jmapviewer/2.5",
+    "Source":         "src/jmapviewer/2.5/JMapViewer-2.5.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.4",
+    "Installed":      "installed/jmapviewer/2.4",
+    "Source":         "src/jmapviewer/2.4/JMapViewer-2.4.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.3",
     "Installed":      "installed/jmapviewer/2.3",
     "Source":         "src/jmapviewer/2.3/JMapViewer-2.3.zip",

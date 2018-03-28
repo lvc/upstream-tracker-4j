@@ -7,6 +7,178 @@
 
   "Versions": [
   {
+    "Number":         "5.0.0.Alpha1",
+    "Installed":      "src/wildfly-server/5.0.0.Alpha1",
+    "Source":         "src/wildfly-server/5.0.0.Alpha1/wildfly-server-5.0.0.Alpha1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/wildfly-server/4.0.0",
+    "Source":         "src/wildfly-server/4.0.0/wildfly-server-4.0.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0.CR1",
+    "Installed":      "src/wildfly-server/4.0.0.CR1",
+    "Source":         "src/wildfly-server/4.0.0.CR1/wildfly-server-4.0.0.CR1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Beta2",
+    "Installed":      "src/wildfly-server/4.0.0.Beta2",
+    "Source":         "src/wildfly-server/4.0.0.Beta2/wildfly-server-4.0.0.Beta2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Beta1",
+    "Installed":      "src/wildfly-server/4.0.0.Beta1",
+    "Source":         "src/wildfly-server/4.0.0.Beta1/wildfly-server-4.0.0.Beta1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha10",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha10",
+    "Source":         "src/wildfly-server/4.0.0.Alpha10/wildfly-server-4.0.0.Alpha10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha9",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha9",
+    "Source":         "src/wildfly-server/4.0.0.Alpha9/wildfly-server-4.0.0.Alpha9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha8",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha8",
+    "Source":         "src/wildfly-server/4.0.0.Alpha8/wildfly-server-4.0.0.Alpha8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha6",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha6",
+    "Source":         "src/wildfly-server/4.0.0.Alpha6/wildfly-server-4.0.0.Alpha6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha5",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha5",
+    "Source":         "src/wildfly-server/4.0.0.Alpha5/wildfly-server-4.0.0.Alpha5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha4",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha4",
+    "Source":         "src/wildfly-server/4.0.0.Alpha4/wildfly-server-4.0.0.Alpha4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha3",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha3",
+    "Source":         "src/wildfly-server/4.0.0.Alpha3/wildfly-server-4.0.0.Alpha3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "4.0.0.Alpha2",
+    "Installed":      "src/wildfly-server/4.0.0.Alpha2",
+    "Source":         "src/wildfly-server/4.0.0.Alpha2/wildfly-server-4.0.0.Alpha2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off",
+    "Deleted":        1
+  },
+  {
+    "Number":         "3.1.0",
+    "Installed":      "src/wildfly-server/3.1.0",
+    "Source":         "src/wildfly-server/3.1.0/wildfly-server-3.1.0.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.10",
+    "Installed":      "src/wildfly-server/3.0.10",
+    "Source":         "src/wildfly-server/3.0.10/wildfly-server-3.0.10.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.9",
+    "Installed":      "src/wildfly-server/3.0.9",
+    "Source":         "src/wildfly-server/3.0.9/wildfly-server-3.0.9.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.8",
+    "Installed":      "src/wildfly-server/3.0.8",
+    "Source":         "src/wildfly-server/3.0.8/wildfly-server-3.0.8.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.7",
+    "Installed":      "src/wildfly-server/3.0.7",
+    "Source":         "src/wildfly-server/3.0.7/wildfly-server-3.0.7.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.6",
+    "Installed":      "src/wildfly-server/3.0.6",
+    "Source":         "src/wildfly-server/3.0.6/wildfly-server-3.0.6.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.5",
+    "Installed":      "src/wildfly-server/3.0.5",
+    "Source":         "src/wildfly-server/3.0.5/wildfly-server-3.0.5.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.4",
+    "Installed":      "src/wildfly-server/3.0.4",
+    "Source":         "src/wildfly-server/3.0.4/wildfly-server-3.0.4.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.3",
+    "Installed":      "src/wildfly-server/3.0.3",
+    "Source":         "src/wildfly-server/3.0.3/wildfly-server-3.0.3.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0.2",
+    "Installed":      "src/wildfly-server/3.0.2",
+    "Source":         "src/wildfly-server/3.0.2/wildfly-server-3.0.2.Final.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "3.0.1",
     "Installed":      "src/wildfly-server/3.0.1",
     "Source":         "src/wildfly-server/3.0.1/wildfly-server-3.0.1.Final.jar",

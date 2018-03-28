@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "2.1.10",
+    "Installed":      "src/hdrhistogram/2.1.10",
+    "Source":         "src/hdrhistogram/2.1.10/HdrHistogram-2.1.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "2.1.9",
     "Installed":      "src/hdrhistogram/2.1.9",
     "Source":         "src/hdrhistogram/2.1.9/HdrHistogram-2.1.9.jar",

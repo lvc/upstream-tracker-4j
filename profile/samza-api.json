@@ -7,6 +7,13 @@
 
   "Versions": [
   {
+    "Number":         "0.14.0",
+    "Installed":      "src/samza-api/0.14.0",
+    "Source":         "src/samza-api/0.14.0/samza-api-0.14.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
     "Number":         "0.13.1",
     "Installed":      "src/samza-api/0.13.1",
     "Source":         "src/samza-api/0.13.1/samza-api-0.13.1.jar",
