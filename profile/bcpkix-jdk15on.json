@@ -1,11 +1,53 @@
 {
   "Name":           "bcpkix-jdk15on",
   "Title":          "Bouncy Castle PKIX",
-  "SourceUrl":      "http://central.maven.org/maven2/org/bouncycastle/bcpkix-jdk15on/",
+  "SourceUrl":      "https://repo1.maven.org/maven2/org/bouncycastle/bcpkix-jdk15on/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
 
   "Versions": [
+  {
+    "Number":         "1.65",
+    "Installed":      "src/bcpkix-jdk15on/1.65",
+    "Source":         "src/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.64",
+    "Installed":      "src/bcpkix-jdk15on/1.64",
+    "Source":         "src/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.63",
+    "Installed":      "src/bcpkix-jdk15on/1.63",
+    "Source":         "src/bcpkix-jdk15on/1.63/bcpkix-jdk15on-1.63.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.62",
+    "Installed":      "src/bcpkix-jdk15on/1.62",
+    "Source":         "src/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.61",
+    "Installed":      "src/bcpkix-jdk15on/1.61",
+    "Source":         "src/bcpkix-jdk15on/1.61/bcpkix-jdk15on-1.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.60",
+    "Installed":      "src/bcpkix-jdk15on/1.60",
+    "Source":         "src/bcpkix-jdk15on/1.60/bcpkix-jdk15on-1.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.59",
     "Installed":      "src/bcpkix-jdk15on/1.59",

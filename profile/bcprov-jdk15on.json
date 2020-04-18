@@ -1,12 +1,54 @@
 {
   "Name":           "bcprov-jdk15on",
   "Title":          "Bouncy Castle Provider",
-  "SourceUrl":      "http://central.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/",
+  "SourceUrl":      "https://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "CompactReport":  "On",
 
   "Versions": [
+  {
+    "Number":         "1.65",
+    "Installed":      "src/bcprov-jdk15on/1.65",
+    "Source":         "src/bcprov-jdk15on/1.65/bcprov-jdk15on-1.65.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.64",
+    "Installed":      "src/bcprov-jdk15on/1.64",
+    "Source":         "src/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.63",
+    "Installed":      "src/bcprov-jdk15on/1.63",
+    "Source":         "src/bcprov-jdk15on/1.63/bcprov-jdk15on-1.63.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.62",
+    "Installed":      "src/bcprov-jdk15on/1.62",
+    "Source":         "src/bcprov-jdk15on/1.62/bcprov-jdk15on-1.62.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.61",
+    "Installed":      "src/bcprov-jdk15on/1.61",
+    "Source":         "src/bcprov-jdk15on/1.61/bcprov-jdk15on-1.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.60",
+    "Installed":      "src/bcprov-jdk15on/1.60",
+    "Source":         "src/bcprov-jdk15on/1.60/bcprov-jdk15on-1.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.59",
     "Installed":      "src/bcprov-jdk15on/1.59",

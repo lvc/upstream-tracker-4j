@@ -1,11 +1,53 @@
 {
   "Name":           "bcpg-jdk15on",
   "Title":          "Bouncy Castle OpenPGP API",
-  "SourceUrl":      "http://central.maven.org/maven2/org/bouncycastle/bcpg-jdk15on/",
+  "SourceUrl":      "https://repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk15on/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
 
   "Versions": [
+  {
+    "Number":         "1.65",
+    "Installed":      "src/bcpg-jdk15on/1.65",
+    "Source":         "src/bcpg-jdk15on/1.65/bcpg-jdk15on-1.65.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.64",
+    "Installed":      "src/bcpg-jdk15on/1.64",
+    "Source":         "src/bcpg-jdk15on/1.64/bcpg-jdk15on-1.64.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.63",
+    "Installed":      "src/bcpg-jdk15on/1.63",
+    "Source":         "src/bcpg-jdk15on/1.63/bcpg-jdk15on-1.63.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.62",
+    "Installed":      "src/bcpg-jdk15on/1.62",
+    "Source":         "src/bcpg-jdk15on/1.62/bcpg-jdk15on-1.62.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.61",
+    "Installed":      "src/bcpg-jdk15on/1.61",
+    "Source":         "src/bcpg-jdk15on/1.61/bcpg-jdk15on-1.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.60",
+    "Installed":      "src/bcpg-jdk15on/1.60",
+    "Source":         "src/bcpg-jdk15on/1.60/bcpg-jdk15on-1.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.59",
     "Installed":      "src/bcpg-jdk15on/1.59",

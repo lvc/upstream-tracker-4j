@@ -1,13 +1,55 @@
 {
   "Name":           "bcmail",
   "Title":          "Bouncy Castle S/MIME API",
-  "SourceUrl":      "http://central.maven.org/maven2/org/bouncycastle/bcmail-jdk14/",
+  "SourceUrl":      "https://repo1.maven.org/maven2/org/bouncycastle/bcmail-jdk14/",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "SkipInternalTypes": "Spi(\.|\Z)",
   "Package":        "bcmail-jdk14",
 
   "Versions": [
+  {
+    "Number":         "1.65",
+    "Installed":      "src/bcmail/1.65",
+    "Source":         "src/bcmail/1.65/bcmail-jdk14-1.65.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.64",
+    "Installed":      "src/bcmail/1.64",
+    "Source":         "src/bcmail/1.64/bcmail-jdk14-1.64.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.63",
+    "Installed":      "src/bcmail/1.63",
+    "Source":         "src/bcmail/1.63/bcmail-jdk14-1.63.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.62",
+    "Installed":      "src/bcmail/1.62",
+    "Source":         "src/bcmail/1.62/bcmail-jdk14-1.62.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.61",
+    "Installed":      "src/bcmail/1.61",
+    "Source":         "src/bcmail/1.61/bcmail-jdk14-1.61.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "1.60",
+    "Installed":      "src/bcmail/1.60",
+    "Source":         "src/bcmail/1.60/bcmail-jdk14-1.60.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         "1.59",
     "Installed":      "src/bcmail/1.59",

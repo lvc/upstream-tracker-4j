@@ -1,15 +1,58 @@
 {
   "Name":           "bouncycastle",
   "Title":          "Bouncy Castle",
-  "SourceUrl":      "http://polydistortion.net/bc/download/",
+  "SourceUrl":      "https://www.bouncycastle.org/latest_releases.html",
   "Maintainer":     "Andrey P.",
   "MaintainerUrl":  "http://abi-laboratory.pro/",
   "SkipInternalTypes": ".*Spi(\.|\Z)",
   "CompactReport":  "On",
+  "OldSourceUrl":   "http://polydistortion.net/bc/download/",
   "Package":        "crypto",
   "SkipArchives":   [ "lib/", "test/", "jce-.*", "bctest-.*", "bcprov-ext-.*", ".*-debug-.*", ".*-jdk(12|13|15|15on|16|17|18)-.*" ],
 
   "Versions": [
+  {
+    "Number":         165,
+    "Installed":      "installed/bouncycastle/165",
+    "Source":         "src/bouncycastle/165/crypto-165.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         164,
+    "Installed":      "installed/bouncycastle/164",
+    "Source":         "src/bouncycastle/164/crypto-164.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         163,
+    "Installed":      "installed/bouncycastle/163",
+    "Source":         "src/bouncycastle/163/crypto-163.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         162,
+    "Installed":      "installed/bouncycastle/162",
+    "Source":         "src/bouncycastle/162/crypto-162.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         161,
+    "Installed":      "installed/bouncycastle/161",
+    "Source":         "src/bouncycastle/161/crypto-161.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         160,
+    "Installed":      "installed/bouncycastle/160",
+    "Source":         "src/bouncycastle/160/crypto-160.zip",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
   {
     "Number":         159,
     "Installed":      "installed/bouncycastle/159",
