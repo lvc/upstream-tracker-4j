@@ -1,0 +1,234 @@
+{
+  "Name":           "mockserver-netty",
+  "Title":          "MockServer Proxy Netty",
+  "SourceUrl":      "https://repo1.maven.org/maven2/org/mock-server/mockserver-netty/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+
+  "Versions": [
+  {
+    "Number":         "5.10.0",
+    "Installed":      "src/mockserver-netty/5.10.0",
+    "Source":         "src/mockserver-netty/5.10.0/mockserver-netty-5.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.0",
+    "Installed":      "src/mockserver-netty/5.9.0",
+    "Source":         "src/mockserver-netty/5.9.0/mockserver-netty-5.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8.1",
+    "Installed":      "src/mockserver-netty/5.8.1",
+    "Source":         "src/mockserver-netty/5.8.1/mockserver-netty-5.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.7.2",
+    "Installed":      "src/mockserver-netty/5.7.2",
+    "Source":         "src/mockserver-netty/5.7.2/mockserver-netty-5.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.6.1",
+    "Installed":      "src/mockserver-netty/5.6.1",
+    "Source":         "src/mockserver-netty/5.6.1/mockserver-netty-5.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.4",
+    "Installed":      "src/mockserver-netty/5.5.4",
+    "Source":         "src/mockserver-netty/5.5.4/mockserver-netty-5.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.1",
+    "Installed":      "src/mockserver-netty/5.4.1",
+    "Source":         "src/mockserver-netty/5.4.1/mockserver-netty-5.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.0",
+    "Installed":      "src/mockserver-netty/5.3.0",
+    "Source":         "src/mockserver-netty/5.3.0/mockserver-netty-5.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.3",
+    "Installed":      "src/mockserver-netty/5.2.3",
+    "Source":         "src/mockserver-netty/5.2.3/mockserver-netty-5.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.1",
+    "Installed":      "src/mockserver-netty/5.1.1",
+    "Source":         "src/mockserver-netty/5.1.1/mockserver-netty-5.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/mockserver-netty/5.0.1",
+    "Source":         "src/mockserver-netty/5.0.1/mockserver-netty-5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/mockserver-netty/4.1.0",
+    "Source":         "src/mockserver-netty/4.1.0/mockserver-netty-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/mockserver-netty/4.0.0",
+    "Source":         "src/mockserver-netty/4.0.0/mockserver-netty-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.12",
+    "Installed":      "src/mockserver-netty/3.12",
+    "Source":         "src/mockserver-netty/3.12/mockserver-netty-3.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.11",
+    "Installed":      "src/mockserver-netty/3.11",
+    "Source":         "src/mockserver-netty/3.11/mockserver-netty-3.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.10.8",
+    "Installed":      "src/mockserver-netty/3.10.8",
+    "Source":         "src/mockserver-netty/3.10.8/mockserver-netty-3.10.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.17",
+    "Installed":      "src/mockserver-netty/3.9.17",
+    "Source":         "src/mockserver-netty/3.9.17/mockserver-netty-3.9.17.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.2",
+    "Installed":      "src/mockserver-netty/3.8.2",
+    "Source":         "src/mockserver-netty/3.8.2/mockserver-netty-3.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7",
+    "Installed":      "src/mockserver-netty/3.7",
+    "Source":         "src/mockserver-netty/3.7/mockserver-netty-3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.2",
+    "Installed":      "src/mockserver-netty/3.6.2",
+    "Source":         "src/mockserver-netty/3.6.2/mockserver-netty-3.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/mockserver-netty/3.5",
+    "Source":         "src/mockserver-netty/3.5/mockserver-netty-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/mockserver-netty/3.4",
+    "Source":         "src/mockserver-netty/3.4/mockserver-netty-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/mockserver-netty/3.3",
+    "Source":         "src/mockserver-netty/3.3/mockserver-netty-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.2",
+    "Installed":      "src/mockserver-netty/3.2",
+    "Source":         "src/mockserver-netty/3.2/mockserver-netty-3.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.1",
+    "Installed":      "src/mockserver-netty/3.1",
+    "Source":         "src/mockserver-netty/3.1/mockserver-netty-3.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.0",
+    "Installed":      "src/mockserver-netty/3.0",
+    "Source":         "src/mockserver-netty/3.0/mockserver-netty-3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.10",
+    "Installed":      "src/mockserver-netty/2.10",
+    "Source":         "src/mockserver-netty/2.10/mockserver-netty-2.10.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.9",
+    "Installed":      "src/mockserver-netty/2.9",
+    "Source":         "src/mockserver-netty/2.9/mockserver-netty-2.9.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.8",
+    "Installed":      "src/mockserver-netty/2.8",
+    "Source":         "src/mockserver-netty/2.8/mockserver-netty-2.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.7",
+    "Installed":      "src/mockserver-netty/2.7",
+    "Source":         "src/mockserver-netty/2.7/mockserver-netty-2.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.6",
+    "Installed":      "src/mockserver-netty/2.6",
+    "Source":         "src/mockserver-netty/2.6/mockserver-netty-2.6.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "2.5",
+    "Installed":      "src/mockserver-netty/2.5",
+    "Source":         "src/mockserver-netty/2.5/mockserver-netty-2.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}

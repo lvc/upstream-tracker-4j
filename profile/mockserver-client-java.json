@@ -1,0 +1,171 @@
+{
+  "Name":           "mockserver-client-java",
+  "Title":          "MockServer Java Client",
+  "SourceUrl":      "https://repo1.maven.org/maven2/org/mock-server/mockserver-client-java/",
+  "Maintainer":     "Andrey P.",
+  "MaintainerUrl":  "http://abi-laboratory.pro/",
+  "LatestMicro":    "On",
+
+  "Versions": [
+  {
+    "Number":         "5.10.0",
+    "Installed":      "src/mockserver-client-java/5.10.0",
+    "Source":         "src/mockserver-client-java/5.10.0/mockserver-client-java-5.10.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.9.0",
+    "Installed":      "src/mockserver-client-java/5.9.0",
+    "Source":         "src/mockserver-client-java/5.9.0/mockserver-client-java-5.9.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.8.1",
+    "Installed":      "src/mockserver-client-java/5.8.1",
+    "Source":         "src/mockserver-client-java/5.8.1/mockserver-client-java-5.8.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.7.2",
+    "Installed":      "src/mockserver-client-java/5.7.2",
+    "Source":         "src/mockserver-client-java/5.7.2/mockserver-client-java-5.7.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.6.1",
+    "Installed":      "src/mockserver-client-java/5.6.1",
+    "Source":         "src/mockserver-client-java/5.6.1/mockserver-client-java-5.6.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.5.4",
+    "Installed":      "src/mockserver-client-java/5.5.4",
+    "Source":         "src/mockserver-client-java/5.5.4/mockserver-client-java-5.5.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.4.1",
+    "Installed":      "src/mockserver-client-java/5.4.1",
+    "Source":         "src/mockserver-client-java/5.4.1/mockserver-client-java-5.4.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.3.0",
+    "Installed":      "src/mockserver-client-java/5.3.0",
+    "Source":         "src/mockserver-client-java/5.3.0/mockserver-client-java-5.3.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.2.3",
+    "Installed":      "src/mockserver-client-java/5.2.3",
+    "Source":         "src/mockserver-client-java/5.2.3/mockserver-client-java-5.2.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.1.1",
+    "Installed":      "src/mockserver-client-java/5.1.1",
+    "Source":         "src/mockserver-client-java/5.1.1/mockserver-client-java-5.1.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "5.0.1",
+    "Installed":      "src/mockserver-client-java/5.0.1",
+    "Source":         "src/mockserver-client-java/5.0.1/mockserver-client-java-5.0.1.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.1.0",
+    "Installed":      "src/mockserver-client-java/4.1.0",
+    "Source":         "src/mockserver-client-java/4.1.0/mockserver-client-java-4.1.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "4.0.0",
+    "Installed":      "src/mockserver-client-java/4.0.0",
+    "Source":         "src/mockserver-client-java/4.0.0/mockserver-client-java-4.0.0.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.12",
+    "Installed":      "src/mockserver-client-java/3.12",
+    "Source":         "src/mockserver-client-java/3.12/mockserver-client-java-3.12.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.11",
+    "Installed":      "src/mockserver-client-java/3.11",
+    "Source":         "src/mockserver-client-java/3.11/mockserver-client-java-3.11.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.10.8",
+    "Installed":      "src/mockserver-client-java/3.10.8",
+    "Source":         "src/mockserver-client-java/3.10.8/mockserver-client-java-3.10.8.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.9.18",
+    "Installed":      "src/mockserver-client-java/3.9.18",
+    "Source":         "src/mockserver-client-java/3.9.18/mockserver-client-java-3.9.18.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.8.2",
+    "Installed":      "src/mockserver-client-java/3.8.2",
+    "Source":         "src/mockserver-client-java/3.8.2/mockserver-client-java-3.8.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.7",
+    "Installed":      "src/mockserver-client-java/3.7",
+    "Source":         "src/mockserver-client-java/3.7/mockserver-client-java-3.7.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.6.2",
+    "Installed":      "src/mockserver-client-java/3.6.2",
+    "Source":         "src/mockserver-client-java/3.6.2/mockserver-client-java-3.6.2.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.5",
+    "Installed":      "src/mockserver-client-java/3.5",
+    "Source":         "src/mockserver-client-java/3.5/mockserver-client-java-3.5.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.4",
+    "Installed":      "src/mockserver-client-java/3.4",
+    "Source":         "src/mockserver-client-java/3.4/mockserver-client-java-3.4.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  },
+  {
+    "Number":         "3.3",
+    "Installed":      "src/mockserver-client-java/3.3",
+    "Source":         "src/mockserver-client-java/3.3/mockserver-client-java-3.3.jar",
+    "Changelog":      "Off",
+    "PkgDiff":        "Off"
+  }]
+}
